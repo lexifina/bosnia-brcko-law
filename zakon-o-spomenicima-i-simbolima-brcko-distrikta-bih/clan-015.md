@@ -1,0 +1,2 @@
+Član 15
+U cilju postizanja pune ravnopravnosti svih konstitutivnih naroda u Distriktu, bit će postavljeni spomenici Bošnjaka i Hrvata u užem dijelu grada Brčko između Savske džamije i katoličke crkve. Lokacije i dimenzije ovih spomenika će odgovarati spomeniku «Srpskim braniocima Brčkog». Idejno rješenje, oblik i naziv spomenika iz prethodnog stava će odrediti podnosioci zahtjeva. Nadležno odjeljenje Vlade Distrikta će odrediti mikrolokaciju i izdati potrebne saglasnosti i dozvole, u roku od 60 dana od dana podnošenja zahtjeva.

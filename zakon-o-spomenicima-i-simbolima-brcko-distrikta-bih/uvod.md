@@ -1,0 +1,1 @@
+Na osnovu člana 23 Statuta Brčko distrikta BiH («Službeni glasnik Brčko distrikta BiH» broj 1/00), Skupština Brčko distrikta BiH na 75. sjednici održanoj 15. oktobra 2003. godine, usvojila je Z A K O N O SPOMENICIMA I SIMBOLIMA
