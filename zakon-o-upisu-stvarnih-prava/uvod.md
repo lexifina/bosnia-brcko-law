@@ -1,0 +1,1 @@
+U skladu s članom 23 Statuta Brčko distrikta BiH («Službeni glasnik Brčko distrikta BiH» broj 1/00), Skupština Brčko distrikta BiH na 96. sjednici održanoj 22. jula 2004. godine, usvaja ZAKON O UPISU STVARNIH PRAVA NA NEKRETNINAMA U VLASNIŠTVU BRČKO DISTRIKTA BOSNE I HERCEGOVINE
