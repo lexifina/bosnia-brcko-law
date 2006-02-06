@@ -1,0 +1,1 @@
+Na osnovu člana 23 Statuta Brčko distrikta Bosne i Hercegovine («Službeni glasnik Brčko distrikta BiH» br. 1/00, 4/00, 7/04, 20/05 i 24/05), Skupština Brčko distrikta Bosne i Hercegovine na 22. sjednici održanoj 14. decembra 2005. godine, usvaja ZAKON O ŠTRAJKU
