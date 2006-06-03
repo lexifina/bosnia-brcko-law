@@ -1,0 +1,2 @@
+Član 20
+Radi izvršavanja programa statističkih istraživanja Statistički biro ima pravo da prikuplja podatke iz svih postojećih izvora. Statističke jedinice dužne su dostavljati Statističkom birou sve tražene podatke utvrđene programom statističkih istraživanja, odnosno zakonom. Statističe jedinice, u smislu ovog zakona, su sva fizička lica i pravna lica i institucije Distrikta koja su programom statističkih istraživanja utvrđene kao davaoci podataka.

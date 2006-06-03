@@ -1,0 +1,1 @@
+Na osnovu člana 23. Statuta Brčko Distrikta Bosne i Hercegovine, Skupština Brčko Distrikta Bosne i Hercegovine na 19oj sjednici održanoj 20.aprila 2001.godine, usvaja Z A K O N O STATISTIČKOM BIROU BRČKO DISTRIKTA BOSNE I HERCEGOVINE I OPŠTE ODREDBE

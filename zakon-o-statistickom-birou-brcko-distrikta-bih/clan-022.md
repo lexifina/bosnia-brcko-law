@@ -1,0 +1,2 @@
+Član 22
+Statističke jedinice dužne su Statističkom birou i ovlaštenim institucijama dati, u određenom roku i bez naknade, potpune i tačne podatke o pojavama koje su utvrđene kao predmet statističkih istraživanja i da im omoguće provjeravanje datih podataka. Direktor Statističkog biroa uputstvom će propisati način dostavljanja podataka od strane statističkih jedinica u roku od 30 dana od dana stupanja na snagu ovog zakona.

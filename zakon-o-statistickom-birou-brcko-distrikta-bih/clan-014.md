@@ -1,0 +1,2 @@
+Član 14
+Pored istraživanja utrđenih petogodišnjim i godišnjim programom statističkih istraživanja, Skupština može, na prijedlog Gradonačelnika, u toku godine donijeti odluku o provođenju statističkog istraživanja u cilju bržeg informisanja o stanju i kretanju neke pojave značjane za ekonomski ili društveni razvoj Distrikta, uz osiguranje uslova za njegovo provođenje. Statističko istraživanje utvrđeno programom statističkih istraživanja ima prvenstvo pred drugim statističkim istraživanjem.

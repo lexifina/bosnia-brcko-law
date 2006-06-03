@@ -1,0 +1,2 @@
+Član 2
+Poslovi statistike obuhvataju organizovanje i provođenje statističkih istraživanja od interesa za Distrikt kao i obavljanje razvojnih i stručnooperativnih poslova za provođenje statističkih istraživanja. Statistička istraživanja od interesa za Distrikt su statistička istraživanja od posebnog interesa za institucije Distrikta kao i za pravna i fizička lica u Distriktu. Statistička istraživanja obuhvataju istraživanje pojava, izradu jedinstvenih metodologija, prikupljanje, obradu i analizu podataka, iskazivanje, publiciranje i prijenosa podataka.
