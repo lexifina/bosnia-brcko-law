@@ -1,0 +1,6 @@
+Član 283
+(Privremena i prethodna mjera radi izdržavanja)
+(1) Privremena mjera radi izdržavanja može se odrediti ako predlagač osiguranja učini vjerovatnim postojanje obaveze izdržavanja, te da bez donošenja te mjere postoji opasnost za njegove lične ili druge važne interese, ili opasnost da će bez te mjere osiguranja protivnik osiguranja spriječiti ili znatno otežati ostvarenje izdržavanja.
+(2) Prethodna mjera radi izdržavanja može se odrediti ako predlagač osiguranja učini vjerovatnim da bi do nastupanja izvršnosti odluke kojom je naloženo davanje izvršavanja bili dovedeni u opasnost njegovi lični ili drugi važni interesi, ili bi bez te mjere osiguranja bilo spriječeno ili znatno otežano ostvarenje izdržavanja.
+(3) Smatra se da postoji opasnost za lične ili druge važne interese predlagača osiguranja ako se mjere osiguranja uzdržavanja određuju u korist maloljetnog djeteta ili punoljetnog djeteta iz stava 2 člana 195 ovog zakona, osim ako se potraživanje odnosi na dio izdržavanja u povećanom iznosu u skladu s povećanim mogućnostima pojedinog roditelja.
+(4) Kada se privremena mjera radi izdržavanja određuje u postupku radi utvrđivanja majčinstva ili očinstva, predlagač osiguranja treba učiniti vjerovatnim da je lice protiv kojeg se mjera određuje roditelj djeteta.
