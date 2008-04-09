@@ -1,0 +1,3 @@
+Član 15
+(Primjena drugih zakona)
+Uslovi i mandat za vršenje dužnosti, imenovanje glavnog tužioca, zamjenika glavnog tužioca i tužilaca, njihova disciplinska odgovornost, privremeno udaljavanje od vršenja dužnosti do okončanja krivičnog postupka, disciplinskog postupka ili postupka razrješenja, nespojivost tužilačke dužnosti s drugim dužnostima, imunitet u vršenju funkcije, prestanak vršenja dužnosti, utvrđivanje kriterija za ocjenjivanje rada, utvrđivanje broja tužilaca i zamjenika glavnog tužioca su propisani Zakonom o visokom sudskom i tužilačkom vijeću Bosne i Hercegovine («Službeni glasnik BiH» broj 25/04).
