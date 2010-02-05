@@ -1,0 +1,2 @@
+Član 7
+Vojne snage Jedine vojne snage čije prisustvo je dozvoljeno na teritoriji Distrikta su oružane snage Bosne i Hercegovine i međunarodne i druge oružane snage prisutne shodno sporazumu s Bosnom i Hercegovinom o razmještaju snaga ili ovlašćujućem aktu Sjevernoatlantskog pakta, Evropske unije ili Vijeća sigurnosti Ujedinjenih nacija. Nikakvim drugim vojnim snagama bilo koje vrste, uključujući, ali ne ograničavajući se na entitetske ili paravojne snage, neće biti dozvoljeno prisustvo u Distriktu.

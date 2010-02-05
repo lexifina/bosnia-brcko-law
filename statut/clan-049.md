@@ -1,0 +1,4 @@
+Član 49
+Kancelarija za upravljanje javnom imovinom
+(1) Uspostavlja se Kancelarija za upravljanje javnom imovinom koja je isključivo odgovorna za upravljanje javnom imovinom koja se nalazi na teritoriji Distrikta. Kancelarijom rukovodi direktor. Nijedan zvaničnik Kancelarije za upravljanje javnom imovinom ne može biti zvaničnik naveden u članu 46(3) ili članu 47(1) ovog statuta.
+(2) Kancelarija za upravljanje javnom imovinom sprovodi postupak raspolaganja javnom imovinom. Direktor ima izvršna ovlaštenja da upravlja javnom imovinom koja su predviđena zakonima Distrikta i može imati izvršno ovlaštenje da raspolaže javnom imovinom ukoliko je to predviđeno zakonima Distrikta. Kancelarija za upravljanje javnom imovinom podnosi izvještaje i odgovara za svoj rad gradonačelniku. Status, funkcije i ovlaštenja Kancelarije za upravljanje javnom imovinom se detaljnije regulišu zakonima Distrikta.

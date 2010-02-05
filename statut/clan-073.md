@@ -1,0 +1,6 @@
+Član 73
+Mandat
+(1) Svako imenovanje sudija u Distriktu je doživotno, osim u slučaju ostavke ili obaveznog penzionisanja s navršenih sedamdeset (70) godina života ili ukoliko su smijenjeni zbog dokazanog kršenja dužnosti.
+(2) Tužilac, direktor Kancelarije za pravnu pomoć i pravobranilac imenuju se na zakonom određen mandat i obavljat će dužnost tokom cijelog trajanja mandata, osim ukoliko daju ostavku, odu u obaveznu penziju s navršenih sedamdeset (70) godina života ili budu smijenjeni zbog dokazanog kršenja dužnosti.
+(3) Predsjednici Osnovnog i Apelacionog suda će, prije nego što budu imenovani, biti sudije u tim sudovima. Oni će biti imenovani na određen mandat, i obavljat će tu dužnost tokom cijelog trajanja mandata osim ukoliko daju ostavku ili odu u obaveznu penziju s navršenih sedamdeset (70) godina života ili budu smijenjeni zbog dokazanog kršenja dužnosti. Njihova imenovanja na funkcije predsjednika bit će različite od njihovih imenovanja na funkcije sudija tako da po isteku njihovih imenovanja na funkcije predsjednika oni i dalje ostaju sudije.
+(4) Sudije, tužioci, advokati Kancelarije za pravnu pomoć i pravobranioci ne mogu vršiti nikakvu drugu javnu funkciju niti obavljati bilo koji drugi posao.

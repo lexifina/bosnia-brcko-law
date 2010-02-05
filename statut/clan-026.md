@@ -1,0 +1,5 @@
+Član 26
+Sukob interesa
+(1) Zastupnici ne mogu vršiti nikakvu drugu javnu dužnost u Distriktu ili u bilo kojoj drugoj političkoj jedinici na teritoriji Bosne i Hercegovine i ne mogu biti direktori niti članovi upravnih odbora u preduzećima koja su djelimično ili u potpunosti u vlasništvu Distrikta ili se u bilo kojoj mjeri finansiraju iz budžeta Distrikta.
+(2) Lica izabrana za zastupnike, koja tim izborom krše pravilo navedeno u stavu 1 ovog člana, objavit će u roku od osam (8) dana od datuma potvrđivanja izbornih rezultata svoj izbor između funkcije zastupnika i službe koja je nespojiva s funkcijom zastupnika. Ukoliko to ne učine, smatrat će se nepodobnim za obavljanje funkcije zastupnika.
+(3) Zastupnici ne mogu učestvovati u diskusijama, razmatranjima ili donošenju odluka o pitanjima koja su od ekonomskog ili drugog značajnog interesa za njih ili njihove krvne srodnike u pravoj liniji bez obzira na stepen, krvne srodnike u pobočnoj liniji do trećeg stepena, supružnike ili srodnike po tazbini do drugog stepena.

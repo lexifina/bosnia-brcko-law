@@ -1,0 +1,8 @@
+Član 33
+Kvalifikovana većina
+(1) Skupština donosi odluke tropetinskom većinom glasova zastupnika koji su prisutni i glasaju u slučajevima kada se odluke tiču:
+a. Poslovnika o radu Skupštine; b. budžeta Distrikta; c. usvajanja i izmjena zakona Distrikta; d. izbora i razrješenja svih osoba koje bira Skupština u skladu sa Statutom i zakonom, izuzev članova 29 i 57 ovog statuta; e. saglasnosti koje daje Skupština na imenovanje ili razrješenje zvaničnika u skladu sa Statutom i zakonom; f. prava veta Skupštine na imenovanje i razrješenje zvaničnika u skladu sa Statutom i zakonom, izuzev članova 46(3) i 47(1) ovog statuta;
+g. odluka o razrješenju članova upravnih odbora javnih preduzeća u skladu s članom 61(1) ovog statuta; h. odluka o formiranju posebnih komisija donesenih u skladu s članom 22(2)(g) ovog statuta.
+(2) Skupština donosi odluke tropetinskom većinom glasova od ukupnog broja izabranih zastupnika u slučajevima kada se odluke tiču:
+a. razrješenja sa dužnosti predsjednika ili potpredsjednika Skupštine u skladu s članom 30 ovog statuta; b. razrješenja sa dužnosti gradonačelnika u skladu s članom 59(1) ovog statuta; c. prava veta Skupštine na imenovanje i razrješenje zamjenika gradonačelnika, glavnog koordinatora Vlade ili šefova odjeljenja od gradonačelnika u skladu s članom 47(1) ovog statuta; d. prava veta Skupštine na imenovanje savjetnika gradonačelnika u skladu s članom 46(3) ovog statuta.
+(3) Odluke vezane za usvajanje, te izmjene i dopune ovog statuta, kao i odluke donesene prema članu 77(3) ovog statuta zahtijevaju tročetvrtinsku većinu glasova od ukupnog broja izabranih zastupnika.

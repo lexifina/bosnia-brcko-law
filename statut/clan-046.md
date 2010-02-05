@@ -1,0 +1,7 @@
+Član 46
+Gradonačelnik
+(1) Gradonačelnika bira Skupština i on može biti ponovo izabran. Gradonačelnik obavlja svoje dužnosti za vrijeme mandata Skupštine koja ga je izabrala i ostaje na funkciji do izbora novog gradonačelnika.
+(2) Gradonačelnik organizuje odjeljenja Vlade Distrikta ekonomično i efikasno u mjeri u kojoj to dopuštaju prihodi Distrikta. Gradonačelnik donosi organizacioni plan u kojem odjeljenja Vlade Distrikta ustrojava tako da su njime pokrivene sve funkcije i ovlaštenja Distrikta u skladu s članom 8(1) ovog statuta, ne uključujući one funkcije i ovlaštenja koja vrše javna preduzeća, Direkcija za finansije Distrikta, Kancelarija za upravljanje javnom imovinom i Kancelarija koordinatora za Brčko distrikt pri Vijeću ministara Bosne i Hercegovine.
+(3) Gradonačelnik može imati savjetnike u sklopu Kancelarije gradonačelnika. Njih bira ili smjenjuje gradonačelnik na osnovu profesionalnih kriterija. Skupština može staviti veto na gradonačelnikov izbor njegovih savjetnika odlukom koju podrži ne manje od tri petine ukupnog broja izabranih zastupnika u roku od petnaest dana nakon što odluka gradonačelnika o njihovom imenovanju bude proslijeđena Skupštini.
+Savjetnici gradonačelnika neće u isto vrijeme biti zaposleni na bilo kom drugom radnom mjestu u javnoj upravi.
+(4) Gradonačelnik ne može imati više od šest (6) savjetnika. Savjetnici gradonačelnika nemaju izvršna ovlaštenja.

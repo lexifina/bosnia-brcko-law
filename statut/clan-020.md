@@ -1,0 +1,6 @@
+Član 20
+Zaposleni u Distriktu
+(1) Zapošljavanje u javnom sektoru Distrikta vrši se na osnovu profesionalnih sposobnosti i odražava sastav stanovništva.
+(2) Svaki javni zaposlenik Distrikta, izuzev gradonačelnika, zamjenika gradonačelnika, glavnog koordinatora Vlade, šefova odjeljenja, zastupnika, i savjetnika gradonačelnika, biraju se na osnovu otvorenog konkursa uz javni oglas za upražnjeno radno mjesto koji se objavljuje kako u Distriktu tako i na teritoriji Bosne i Hercegovine, nakon čega će nezavisna komisija za izbor donijeti obavezujuću odluku o kandidatima, zasnovanu na stručnom obrazovanju, iskustvu u struci i stručnim kvalitetima kandidata.
+(3) Nijedna javna institucija Distrikta neće zaposliti niti jedno lice ukoliko to nije u skladu za zakonom Distrikta kojim se takvo zaposlenje odobrava i reguliše.
+(4) U svrhe ovog člana, izraz “javni zaposlenik” odnosi se na sve zaposlenike čija se plaća isplaćuje iz budžeta Distrikta, i uključuje, ali se ne ograničava na, savjetnike, konsultante, i zaposlenike stručnih službi Skupštine i administrativnih službi pravosuđa, kao i na direktore, članove rukovodećih organa i zaposlene u drugim institucijama Distrikta koje su osnovane zakonom.
