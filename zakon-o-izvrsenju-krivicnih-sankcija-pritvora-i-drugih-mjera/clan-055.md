@@ -1,0 +1,4 @@
+Član 55
+(Radnje koje preduzima organ socijalne zaštite)
+(1) Nakon prijema pravosnažne presude, podataka i dokumentacije iz člana 52 ovog zakona, nadležni organ socijalne zaštite će, zavisno od vrste mjere zaštitnog nadzora, preduzeti potrebne radnje radi ostvarivanja saradnje s odgovarajućom zdravstvenom ustanovom, psihološkim savjetovalištem, odnosno zavodom za zapošljavanje, a po potrebi i s drugim ustanovama i organizacijama.
+(2) Organ socijalne zaštite dužan je u roku od 15 dana od dana prijema izvršne presude, podataka i dokumentacije iz stava 1 ovog člana, osuđeno lice, kome je određena mjera zaštitnog nadzora, upoznati s radnjama koje je preduzeo, te ga poučiti o njegovim obavezama u toku trajanja mjere zaštitnog nadzora.

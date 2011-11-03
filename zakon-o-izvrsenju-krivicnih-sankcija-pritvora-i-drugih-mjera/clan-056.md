@@ -1,0 +1,2 @@
+Član 56
+(Upućivanje počinioca u odgovarajuću ustanovu) Nadležni organ socijalne zaštite, zavisno od vrste mjere zaštitnog nadzora, uputit će osuđeno lice u odgovarajuću zdravstvenu ustanovu, psihološko savjetovalište, drugu ustanovu ili organizaciju i upoznati ga da je dužan postupati u skladu s dobijenim savjetima i uputstvima, kao i posjećivati organ socijalne zaštite Distrikta prema njegovim uputstvima.

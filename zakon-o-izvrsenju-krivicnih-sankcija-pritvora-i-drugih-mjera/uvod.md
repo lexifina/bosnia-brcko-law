@@ -1,0 +1,1 @@
+Na osnovu člana 22 Statuta Brčko distrikta Bosne i Hercegovine – prečišćeni tekst (Službeni glasnik Brčko distrikta BiH, broj 2/10), Skupština Brčko distrikta Bosne i Hercegovine, na 52. redovnoj sjednici održanoj 12. oktobra 2011. godine, usvaja ZAKON O IZVRŠENJU KRIVIČNIH SANKCIJA, PRITVORA I DRUGIH MJERA U BRČKO DISTRIKTU BOSNE I HERCEGOVINE

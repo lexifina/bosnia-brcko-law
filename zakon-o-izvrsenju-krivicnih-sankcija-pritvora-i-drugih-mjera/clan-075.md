@@ -1,0 +1,2 @@
+Član 75
+(Primjena odredbi koje se odnose na maloljetnike i na odrasla lica) Odredbe ovog zakona koje se odnose na maloljetnike primjenjuju se i na lica koja su u toku primjene odgojnih mjera postala punoljetna, kao i na mlađa punoljetna lica kojima je Sud izrekao odgojnu mjeru.

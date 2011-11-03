@@ -1,0 +1,2 @@
+Član 45
+(Stavljanje van snage rješenja o otpustu) Ako u periodu nakon donošenja rješenja o uslovnom otpustu, a prije dana otpuštanja sa izdržavanja kazne zatvora na uslovni otpust zatvorenik učini disciplinski prekršaj, Komisija može rješenje staviti van snage.

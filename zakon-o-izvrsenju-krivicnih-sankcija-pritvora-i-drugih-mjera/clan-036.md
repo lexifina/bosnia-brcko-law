@@ -1,0 +1,6 @@
+Član 36
+(Stavljanje van snage rješenja o prekidu)
+(1) Ako se za vrijeme trajanja prekida izdržavanja kazne zatvora utvrdi da su prestale okolnosti zbog kojih je prekid dozvoljen, ili je prekid dozvoljen na osnovu lažnih isprava ili drugih dokaza, odnosno da se prekid ne koristi s ciljem s kojim je dozvoljen, rješenje iz čl. 33 ili 35 ovog zakona stavit će se van snage, a zatvoreniku naložiti da se javi na daljnje izdržavanje kazne zatvora odmah, a najkasnije u roku od tri dana od dana prijema rješenja.
+(2) Rješenje iz stava 1 ovog člana dostavlja se zavodu i zatvoreniku.
+(3) Na rješenje iz stava 2 ovog člana zatvorenik ima pravo žalbe u roku od tri dana. Žalba ne odgađa izvršenje.
+(4) Ako se zatvorenik ne javi na daljnje izdržavanje kazne zatvora u roku određenom u rješenju, zavod će postupiti po odredbama iz st. od 8 do 11 člana 25 ovog zakona. 5. Premještaj tokom izdržavanja kazne

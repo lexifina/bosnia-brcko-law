@@ -1,0 +1,4 @@
+Član 31
+(Odgađanje izvršenja na zahtjev tužioca)
+(1) Kad tužilac na osnovu zakonskog ovlaštenja zatraži odgađanje izvršenja kazne zatvora, Sud neće pozivati osuđeno lice radi izvršenja kazne, a ako ga je već pozvao, ali još nije prošao rok javljanja u zavod, donijet će rješenje o odgađanju izvršenja kazne zatvora.
+(2) Odgađanje izvršenja kazne zatvora u slučaju iz stava 1 ovog člana traje dok tužilac ne obavijesti Sud da se može početi sa izvršenjem kazne zatvora, odnosno dok ne bude donesena odluka o pravnom sredstvu tužioca.

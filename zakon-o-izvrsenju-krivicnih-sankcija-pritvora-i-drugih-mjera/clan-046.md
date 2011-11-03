@@ -1,0 +1,4 @@
+Član 46
+(Žalba i ponovno podnošenje molbe)
+(1) Protiv odluke Komisije iz člana 43 ovog zakona ne može se izjaviti žalba, niti pokrenuti upravni spor.
+(2) Zatvorenik ima pravo ponovnog podnošenja molbe za uslovni otpust nakon proteka jedne godine od posljednje odluke Komisije, ili i prije toga ako tako odluči Komisija u kojem slučaju će se ujedno odlučiti o zahtjevu - molbi za prijevremeno odobrenje za podnošenje molbe za uslovni otpust i o odobrenju uslovnog otpusta.

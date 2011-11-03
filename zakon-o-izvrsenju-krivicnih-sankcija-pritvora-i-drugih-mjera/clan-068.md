@@ -1,0 +1,2 @@
+Član 68
+(Oduzimanje imovinske koristi od pravnih lica) Mjera oduzimanja imovinske koristi od preduzeća ili drugih pravnih lica, koja je izrečena u krivičnom postupku, vrši se po propisima o izvršenju zaštitne mjere oduzimanja imovinske koristi.
