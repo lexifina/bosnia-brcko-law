@@ -1,0 +1,4 @@
+Član 122
+(Postupanje u odnosu na mjere bezbjednosti)
+(1) Ako se maloljetnik bez opravdanog razloga tokom trajanja odgođenog izvršenja kazne maloljetničkog zatvora ili uslovnog otpusta iz zavoda ili ustanove ne podvrgne ambulantnom liječenju na slobodi, sud može na prijedlog tužioca ili na prijedlog ustanove ili ambulante u kojoj se maloljetnik liječio ili imao liječiti, organa starateljstva ili po službenoj dužnosti, odrediti da se mjera bezbjednosti obaveznog psihijatrijskog liječenja ili obaveznog liječenja od zavisnosti prinudno izvrši u zdravstvenoj ili nekoj drugoj specijalizovanoj ustanovi ili će obustaviti izvršenje mjere bezbjednosti ako utvrdi da je prestala potreba za liječenjem maloljetnika.
+(2) Prije donošenja odluke iz stava 1 ovog člana sud, ako je to potrebno, pribavlja i mišljenje odgovarajućeg ljekara – vještaka.

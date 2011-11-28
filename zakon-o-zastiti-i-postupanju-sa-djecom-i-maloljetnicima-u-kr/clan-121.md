@@ -1,0 +1,6 @@
+Član 121
+(Izmjena odluke i obustava izvršenja)
+(1) Kada su ispunjeni uslovi za izmjenu odluke o izrečenoj vaspitnoj mjeri propisani članom 45 ovog zakona, odluku o izmjeni donosi sudija koji je donio rješenje o vaspitnoj mjeri ako sam nađe da je to potrebno ili na prijedlog tužioca, maloljetnika, njegovih roditelja, usvojioca, odnosno staraoca, upravnika zavoda, odnosno ustanove ili organa starateljstva kome je povjeren nadzor nad maloljetnikom.
+(2) Prije donošenja odluke sudija saslušava tužioca, maloljetnika, roditelja, usvojioca, odnosno staraoca maloljetnika ili druga lica, a od zavoda ili ustanove u kojoj se izvršava zavodska mjera, odnosno od organa starateljstva ili drugih organa i ustanova, pribavlja i potrebne izvještaje o ponašanju maloljetnika i dostignutom stepenu uspješnosti u provođenju vaspitne mjere.
+(3) Po odredbama stavova 1 i 2 ovog člana donosi se i odluka o obustavljanju izvršenja vaspitne mjere i o uslovnom otpustu iz člana 43 ovog zakona.
+(4) Odluku o izmjeni odluke o vaspitnoj mjeri ili o obustavi izvršenja mjere ili uslovnom otpustu, donosi sudija na sjednici kojoj obavezno prisustvuju maloljetnik i njegovi roditelji, odnosno staralac ili usvojilac maloljetnika, tužilac, branilac i predstavnik organa starateljstva, odnosno zavoda ili ustanove gdje se vaspitna mjera izvršava.

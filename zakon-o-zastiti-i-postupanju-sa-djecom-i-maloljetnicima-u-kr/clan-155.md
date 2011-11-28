@@ -1,0 +1,5 @@
+Član 155
+(Disciplinske mjere)
+(1) Zbog povrede odredaba ovog zakona koje se odnose na pravila boravka u ustanovi vaspitno-popravnog doma, pravila kućnog reda i radne discipline, obaveza i programa postupanja i naloga ovlaštenih lica maloljetniku se mogu izreći disciplinske mjere opomene i oduzimanja dodijeljenih pogodnosti.
+(2) Pogodnosti predviđene članom 152 stavom 1 tačkom d) ovog zakona mogu se ograničiti samo ako bi posjeta porodici, srodnicima ili drugim bliskim licima ugrozila fizičko i mentalno zdravlje maloljetnika ili bi se na drugi način ometalo izvršenje vaspitne mjere, o čemu rukovodilac ustanove donosi rješenje sa razlozima za donošenje takve odluke.
+(3) Ako se svrha disciplinske mjere može postići i bez njenog izvršenja, izvršenje disciplinskih mjera oduzimanja dodijeljenih pogodnosti može se uslovno odložiti do 90 dana. Uslovno odlaganje izvršenja disciplinske mjere može se opozvati ako se maloljetniku u roku za koji je odloženo izvršenje izrekne novo oduzimanje dodijeljenih pogodnosti.

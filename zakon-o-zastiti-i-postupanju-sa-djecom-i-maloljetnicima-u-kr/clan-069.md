@@ -1,0 +1,6 @@
+Član 69
+(Izricanje krivičnih sankcija punoljetnim licima za djela koja su učinila kao maloljetnici)
+(1) Punoljetnom licu koje je krivično djelo učinilo kao maloljetnik, a u vrijeme suđenja nije navršilo 23 godine života, može se izreći odgovarajuća vaspitna mjera (posebna obaveza, mjera pojačanog nadzora nadležnog organa starateljstva i zavodska mjera upućivanja u vaspitno-popravni dom), a iz razloga predviđenih članom 50 ovog zakona i kazna maloljetničkog zatvora. Pri ocjeni da li će izreći vaspitnu mjeru ili maloljetnički zatvor, sud uzima u obzir sve okolnosti slučaja, a naročito težinu učinjenog krivičnog djela, vrijeme koje je proteklo od njegovog izvršenja, porodične prilike, ponašanje izvršioca, kako se izvršilac uključio u redovni život, kao i svrhu koju želi postići primjenom ove sankcije.
+(2) Izuzetno od odredbe stava 1 ovog člana, punoljetnom licu koje je u vrijeme suđenja navršilo 23 godine života, sud može, umjesto maloljetničkog zatvora, izreći kaznu zatvora ili uslovnu
+osudu. Kazna zatvora izrečena u ovom slučaju ima u pogledu rehabilitacije, zastarjelosti, uslovnog otpusta i pravnih posljedica osude isto pravno dejstvo kao i kazna maloljetničkog zatvora.
+(3) Punoljetnim licima iz stavova 1 i 2 ovog člana uz izrečenu sankciju može se izreći odgovarajuća mjera bezbjednosti pod uslovima predviđenim ovim zakonom. 7. Mlađa punoljetna lica

@@ -1,0 +1,6 @@
+Član 38
+(Pojačani nadzor u drugoj porodici)
+(1) Ako roditelj, usvojilac ili staralac maloljetnika nisu u mogućnosti da nad njim vrše nadzor ili ako se od njih opravdano ne može očekivati da takav nadzor vrše, maloljetnik će se smjestiti u drugu porodicu koja je voljna da ga primi i koja ima mogućnosti da nad njim vrši pojačani nadzor.
+(2) Mjera pojačanog nadzora u drugoj porodici može da traje najmanje šest mjeseci, a najduže dvije godine, s tim da sud naknadno odlučuje o njenom prestanku. Izvršenje ove mjere obustavit će se kada roditelji, usvojilac ili staralac maloljetnika steknu mogućnost da nad njim vrše pojačani nadzor ili kada prema rezultatu izvršenja mjere prestane potreba za pojačanim nadzorom.
+(3) Pri izricanju vaspitne mjere iz stava 1 ovog člana, sud određuje da organ starateljstva provjerava njeno izvršavanje i ukazuje potrebnu pomoć porodici u kojoj je maloljetnik smješten.
+(4) Kada organ starateljstva zadužen za provođenje mjere pojačanog nadzora u drugoj porodici utvrdi da porodica u kojoj je maloljetnik smješten ne postupa po posebnim uputstvima i ne sarađuje sa stručnim licem, mora o tome obavijestiti tužioca. U tom slučaju tužilac sudu podnosi prijedlog radi postupanja u skladu s članom 45 ovog zakona.

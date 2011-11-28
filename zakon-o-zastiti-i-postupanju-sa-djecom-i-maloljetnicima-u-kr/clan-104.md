@@ -1,0 +1,6 @@
+Član 104
+(Obrazloženi prijedlog)
+(1) Nakon što ispita sve okolnosti koje se odnose na izvršenje krivičnog djela, zrelost i druge okolnosti koje se tiču ličnosti maloljetnika i prilika u kojima živi, tužilac je dužan u roku od osam dana po okončanju pripremnog postupka dostaviti sudiji obrazložen prijedlog za izricanje vaspitne mjere ili kazne. U slučaju da tužilac nakon okončanja pripremnog postupka nađe da nema dokaza da je maloljetnik učinio krivično djelo donosi naredbu o obustavi pripremnog postupka.
+(2) Prijedlog tužioca sadrži: ime i prezime maloljetnika, njegove godine života, opis i zakonski naziv krivičnog djela, dokaze iz kojih proizilazi da je maloljetnik učinio krivično djelo, obrazloženje koje treba da sadrži ocjenu stepena zrelosti maloljetnika, kao i razloge koji opravdavaju primjenu predložene vaspitne mjere ili kazne maloljetničkog zatvora, a ne primjenu vaspitne preporuke u skladu s članom 90 stavovima 1, 4 i 5 ovog zakona.
+(3) Bitni sadržaj prikupljenih podataka iz člana 92 ovog zakona o ličnosti maloljetnika obrazlažu se tako da to, koliko je moguće, ne djeluje štetno na njegovo vaspitanje.
+(4) Prilikom dostavljanja prijedloga za izricanje vaspitne mjere ili kazne tužilac dostavlja i dokaze kojima potkrepljuje navode iz prijedloga.

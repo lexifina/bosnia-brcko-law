@@ -1,0 +1,6 @@
+Član 73
+(Primjena odredaba prema djeci)
+(1) Kada ovlašteno službeno lice utvrdi da lice za koje postoje osnovi sumnje da je učinilo krivično djelo nije navršilo 14 godina, neće ga ispitati nego o tome odmah obavještava tužioca i organ starateljstva. Ovlašteno službeno lice ispituje dijete i tužiocu podnosi službeni izvještaj samo u slučaju kada se radi o krivičnom djelu koje je imalo za posljedicu teško narušavanje tjelesnog integriteta drugog lica ili je učinjena znatna materijalna šteta.
+(2) Kada tužilac utvrdi da lice za koje se osnovano sumnja da je učinilo krivično djelo nije navršilo 14 godina, donosi naredbu o nepokretanju krivičnog postupka, a podatke o djelu i učiniocu dostavlja organu starateljstva radi preduzimanja mjera zaštite u okviru njegove nadležnosti.
+(3) Kada sud u toku postupka utvrdi da maloljetnik u vrijeme izvršenja krivičnog djela nije navršio 14 godina života, krivični postupak se obustavlja i rješenje dostavlja organu starateljstva radi preduzimanja mjera zaštite u okviru njegove nadležnosti.
+(4) O postupanju u skladu sa stavovima 2 i 3 ovog člana obavještava se podnosilac prijave i oštećeni, uz pravnu pouku da svoj imovinskopravni zahtjev mogu ostvarivati u parničnom postupku.

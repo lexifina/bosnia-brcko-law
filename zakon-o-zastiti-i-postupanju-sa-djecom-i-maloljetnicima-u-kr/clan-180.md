@@ -1,0 +1,4 @@
+Član 180
+(Organ starateljstva)
+(1) Nadležni organ starateljstva dužan je da tokom trajanja zavodske mjere i kazne maloljetničkog zatvora održava stalnu vezu sa maloljetnikom, njegovom porodicom i ustanovom u koju je maloljetnik smješten, kako bi se maloljetnik i njegova porodica što bolje pripremili za vraćanje maloljetnika u raniju socijalnu sredinu i njegovo uključivanje u daljnji društveni život.
+(2) Ustanova u kojoj se izvršavaju zavodske mjere i ustanova u kojoj se izvršava kazna maloljetničkog zatvora dužni su da najmanje 90 dana prije planiranog otpuštanja maloljetnika obavijeste o tome roditelje maloljetnika, usvojioca ili staraoca, odnosno bliske srodnike sa kojima je maloljetnik živio, kao i nadležni organ starateljstva, i predlože im mjere koje bi trebalo preduzeti za prihvatanje maloljetnika.

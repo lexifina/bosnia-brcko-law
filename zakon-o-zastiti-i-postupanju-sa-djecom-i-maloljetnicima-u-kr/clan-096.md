@@ -1,0 +1,8 @@
+Član 96
+(Lišenje slobode)
+(1) Ovlašteno službeno lice može maloljetno lice lišiti slobode ako postoje osnovi sumnje da je izvršilo krivično djelo i ako postoje razlozi predviđeni iz člana 132 stava 1 tački a), b) i c) Zakona o krivičnom postupku.
+(2) Prilikom lišenja slobode i tokom boravka maloljetnika u nadležnoj organizacionoj jedinici Policije Brčko distrikta BiH svi kontakti ovlaštenog službenog lica sa maloljetnikom se obavljaju na način koji u punoj mjeri poštuje ličnost maloljetnika i podržava njegovu dobrobit. Bilo koji postupci koji narušavaju fizičko i mentalno zdravlje maloljetnika su zabranjeni.
+(3) O lišenju slobode ovlašteno službeno lice odmah obavještava roditelje odnosno staraoca ili usvojioca maloljetnika, branioca i nadležni organ starateljstva. Ukoliko roditelji ili staraoci maloljetnika nisu dostupni, oni se obavještavaju u što kraćem roku.
+(4) Ispitivanje maloljetnika vrši tužilac ili uz odobrenje tužioca ovlašteno službeno lice, koji obezbjeđuju prisustvo roditelja odnosno staraoca ili usvojioca.
+(5) Kada se maloljetnik prvi put ispituje, prije početka ispitivanja tužilac ili ovlašteno službeno lice obavještava maloljetnika u pisanoj formi, a nakon toga i usmeno na maternjem jeziku na njemu razumljiv način o pravima iz člana 78 stava 2 Zakona o krivičnom postupku, a posebno o pravu da u prisustvu branioca, roditelja, odnosno staraoca ili usvojioca, ili predstavnika organa starateljstva bude ispitan od strane tužioca ili ovlaštenog službenog lica.
+(6) Ovlašteno službeno lice je dužno maloljetno lice bez odlaganja, a najkasnije u roku od 12 sati dovesti tužiocu i obavijestiti ga o razlozima i vremenu lišenja slobode. Ako maloljetnik lišen slobode ne bude doveden tužiocu u ovom roku, pušta se na slobodu.

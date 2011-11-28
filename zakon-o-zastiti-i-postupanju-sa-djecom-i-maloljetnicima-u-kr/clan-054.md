@@ -1,0 +1,5 @@
+Član 54
+(Odgođeno izricanje kazne maloljetničkog zatvora)
+(1) Sud može izreći kaznu maloljetničkog zatvora i istovremeno odrediti da je neće izvršiti kada se opravdano može očekivati da se i prijetnjom naknadnog izricanja kazne može uticati na maloljetnika da ubuduće ne vrši krivična djela. Uz kaznu maloljetničkog zatvora sud može izreći neku od vaspitnih mjera pojačanog nadzora i odrediti uz tu mjeru jednu ili više posebnih obaveza predviđenih članom 35 ovog zakona.
+(2) Sud naknadno može izreći izvršenje izrečene kazne maloljetničkog zatvora ako maloljetnik za vrijeme koje sud odredi, a koje ne može biti kraće od jedne ni duže od tri godine (vrijeme provjeravanja), učini novo krivično djelo ili ako odbija da postupi po izrečenoj vaspitnoj mjeri pojačanog nadzora ili izvršenju posebnih obaveza.
+(3) Nakon što protekne najmanje jedna godina vremena provjeravanja, sud može nakon što pribavi izvještaj organa starateljstva, izreći konačni odustanak od izricanja kazne, ako nove činjenice potvrđuju uvjerenje da maloljetnik neće učiniti nova krivična djela.

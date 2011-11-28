@@ -1,0 +1,1 @@
+Na osnovu člana 22 Statuta Brčko distrikta BiH – prečišćeni tekst (Službeni glasnik Brčko distrikta BiH, broj 2/10), Skupština Brčko distrikta BiH na 54. redovnoj sjednici održanoj 10. novembra 2011. godine, usvaja ZAKON O ZAŠTITI I POSTUPANJU SA DJECOM I MALOLJETNICIMA U KRIVIČNOM POSTUPKU BRČKO DISTRIKTA BOSNE I HERCEGOVINE I. OSNOVNE ODREDBE

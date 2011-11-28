@@ -1,0 +1,5 @@
+Član 129
+(Troškovi izvršenja krivičnih sankcija)
+(1) Troškovi izvršenja krivičnih sankcija prema maloljetniku padaju na teret budžeta Brčko distrikta.
+(2) Roditelj, usvojilac ili staralac maloljetnika, odnosno drugo lice koje je po zakonu obavezno da izdržava maloljetnika, kao i maloljetnik koji ima prihode ili imovinu, u pravilu nisu dužni ali mogu da snose dio troškova izvršenja posebnih obaveza, mjera pojačanog nadzora u drugoj porodici, upućivanja u vaspitnu ustanovu, upućivanja u vaspitno-popravni dom i kazne maloljetničkog zatvora.
+(3) O visini podmirenja dijela troškova, ishrane i zadovoljavanja drugih ličnih potreba maloljetnika odlučuje sud na prijedlog lica iz stava 2 ovog člana i ona može biti u visini iznosa minimalne plate na nivou Brčko distrikta koju utvrđuje nadležan Zavod za statistiku za mjesec koji prethodi mjesecu odlučivanja ili u visini koju predloži podnosilac prijedloga. U ovom slučaju sud najprije donosi odluku o izricanju krivične sankcije, a nakon toga nastavlja postupak za odlučivanje o podmirenju dijela troškova i o tome donosi posebno rješenje.

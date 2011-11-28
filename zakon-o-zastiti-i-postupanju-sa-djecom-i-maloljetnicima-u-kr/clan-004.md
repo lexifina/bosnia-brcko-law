@@ -1,0 +1,2 @@
+Član 4
+(Nediskriminacija) Prema maloljetnicima i mlađim punoljetnim licima u svim fazama postupka postupa se na isti način bez obzira na: rasu, boju kože, spol, jezik, vjeroispovijest, političko ili drugo uvjerenje, nacionalno, etničko ili socijalno porijeklo, imovinsko stanje, status stečen rođenjem ili drugi status maloljetnika, njegovog roditelja, usvojioca ili staraoca, kao i druge oblike različitosti.

@@ -1,0 +1,4 @@
+Član 182
+(Vrste pomoći)
+(1) Nakon izvršenja krivične sankcije nadležni organ starateljstva u kontaktu i saradnji sa nadležnim ministarstvima i drugim vladinim i nevladinim organizacijama, institucijama, preduzećima i pojedincima maloljetniku pruža pomoć oko iznalaženja smještaja i sredine u kojoj će živjeti, dovršetka započetog obrazovanja i stručnog osposobljavanja, liječenja radi zaštite njegovog fizičkog i duševnog zdravlja, pri pronalaženju zaposlenja, obezbjeđenju ishrane, odjeće i finansijskih sredstava za druge nužne potrebe radi omogućavanja njegovog ponovnog integrisanja u društvenu zajednicu.
+(2) Predmet posebne brige organa starateljstva u skladu sa stavom 1 ovog člana su maloljetnici bez ikakvog staranja i porodičnog okruženja, oni koji su bez odgovarajućeg roditeljskog staranja, kao i druge osjetljive grupe djece.

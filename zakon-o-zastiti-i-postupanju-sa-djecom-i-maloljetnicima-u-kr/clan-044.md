@@ -1,0 +1,5 @@
+Član 44
+(Upućivanje u posebnu ustanovu za liječenje i osposobljavanje)
+(1) Maloljetniku ometenom u psihičkom ili fizičkom razvoju sud može umjesto vaspitne mjere upućivanja u vaspitnu ustanovu ili vaspitne mjere upućivanja u vaspitno-popravni dom, izreći mjeru upućivanja u posebnu ustanovu za liječenje i osposobljavanje.
+(2) Maloljetnik kome je izrečena mjera bezbjednosti obaveznog psihijatrijskog liječenja može se uputiti u posebnu ustanovu za liječenje i osposobljavanje maloljetnika samo ako se u toj ustanovi može obezbijediti čuvanje i liječenje i ostvariti svrha mjere bezbjednosti obaveznog psihijatrijskog liječenja.
+(3) Maloljetnik ostaje u posebnoj ustanovi za liječenje i osposobljavanje dok je to potrebno radi njegovog liječenja ili osposobljavanja, ali ne duže od tri godine, s tim da će sud svaka tri mjeseca ispitati da li postoje osnovi za obustavu izvršenja ove mjere ili njenu zamjenu drugom mjerom. Ako maloljetnik u toku izvršenja ove mjere postane punoljetan, ispituje se potreba njegovog daljnjeg zadržavanja u toj ustanovi, a kada navrši 23 godine života, izvršenje mjere se nastavlja u ustanovi u kojoj se izvršava mjera bezbjednosti.

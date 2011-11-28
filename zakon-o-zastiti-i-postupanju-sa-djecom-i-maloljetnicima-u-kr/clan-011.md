@@ -1,0 +1,2 @@
+Član 11
+(Shodna primjena odredaba drugih zakona) Odredbe Krivičnog zakona Brčko distrukta Bosne i Hercegovine (Službeni glasnik Brčko distrikta Bosne i Hercegovine, br. 10/03 i 6/05), (u daljnjem tekstu: Krivični zakon), Zakona o krivičnom postupku Brčko distrikta Bosne i Hercegovine (Službeni glasnik Brčko distrikta Bosne i Hercegovine, br. 10/03, 48/04, 6/05, 14/07, 21/07, 2/08 i 17/09), zakona kojim se uređuje izvršenje krivičnih sankcija i drugi opći propisi primjenjuju se ako ovim zakonom nije drukčije propisano.

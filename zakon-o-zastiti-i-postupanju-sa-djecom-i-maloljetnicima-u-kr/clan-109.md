@@ -1,0 +1,9 @@
+Član 109
+(Odlučivanje o prijedlogu tužioca na sjednici)
+(1) Na sjednicu se poziva tužilac, maloljetnik, branilac, roditelji, usvojilac, odnosno staralac maloljetnika, a o sjednici se obavještava i može joj prisustvovati predstavnik organa starateljstva.
+(2) Sjednici obavezno prisustvuju tužilac, maloljetnik i njegov branilac. Ukoliko tužilac ili branilac neopravdano izostanu sa sjednice, sudija postupa shodno odredbama čl. 245 i 248 Zakona o krivičnom postupku.
+(3) Nedolazak roditelja, odnosno staraoca ili usvojioca maloljetnika i predstavnika organa starateljstva, ne sprečava sud da održi sjednicu.
+(4) Kada roditelj, odnosno staralac nije u mogućnosti da prisustvuju sjednici ili nije sposoban ili je nepoznat ili kada maloljetniku nije postavljen posebni staralac, sudija u interesu maloljetnika poziva predstavnika organa starateljstva i tada je njegovo prisustvo obavezno sve do pravosnažnog okončanja postupka.
+(5) Na sjednici tužilac čita prijedlog i ukratko izlaže dokaze koji se odnose na krivično djelo i podatke o ličnosti maloljetnika do kojih je došao tokom pripremnog postupka, kao i razloge koji opravdavaju stavljanje prijedloga za izricanje krivične sankcije. Kada izlaže podatke koji se tiču ličnosti maloljetnika, tužilac postupa obazrivo, kako iznošenje ovih podataka ne bi štetilo daljem razvoju maloljetnika.
+(6) Na sjednici maloljetnik i njegov branilac izlažu odgovor na prijedlog tužioca, a ako sjednici prisustvuju roditelj, odnosno staralac ili usvojilac maloljetnika i predstavnik organa starateljstva oni mogu davati pojašnjenja i stavljati prijedloge.
+(7) U ovoj fazi postupka važi shodna primjena odredaba Zakona o krivičnom postupku o izmjeni optužbe na glavnom pretresu, s tim što je sudija bez prijedloga tužioca ovlašten da odluku donese na osnovu prezentovanih dokaza i činjeničnog stanja koje je utvrđeno na sjednici.

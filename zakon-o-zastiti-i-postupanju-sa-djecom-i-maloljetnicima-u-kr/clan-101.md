@@ -1,0 +1,2 @@
+Član 101
+(Trajanje pritvora nakon okončanja pripremnog postupka) Nakon dostavljanja prijedloga za izricanje krivične sankcije, pritvor se na obrazložen prijedlog tužioca može produžiti po odluci vijeća iz člana 17 stava 3 ovog zakona za još 90 dana, uz kontrolu pritvora svakih 30 dana i uz prethodno izjašnjenje tužioca o preduzetim radnjama za period koji prethodi kontroli. Protiv tog rješenja dopuštena je žalba vijeću drugostepenog suda iz člana 17 stava 2 ovog zakona koji o žalbi odlučuje u roku od 24 sata od prijema žalbe. Žalba ne zadržava izvršenje rješenja.

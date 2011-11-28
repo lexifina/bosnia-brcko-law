@@ -1,0 +1,10 @@
+Član 90
+(Primjene vaspitne preporuke)
+(1) Prije donošenja naredbe za pokretanje pripremnog postupka prema maloljetniku za krivična djela iz člana 89 stava 1 ovog zakona, tužilac je dužan razmotriti mogućnost i opravdanost primjene vaspitne preporuke, u skladu s odredbama ovog zakona. Tužilac o takvoj mogućnosti rješavanja konkretnog slučaja, prirodi, sadržaju, trajanju, posljedicama primjene vaspitne preporuke, kao i posljedicama odbijanja saradnje, izvršenja i ispunjenja vaspitne preporuke, obavještava maloljetnika i njegove roditelje odnosno staraoca ili usvojioca.
+(2) Kada tužilac za krivična djela iz člana 89 stava 1 ovog zakona ne primijeni vaspitnu preporuku, obavezno obrazlaže razloge za donošenje takve odluke.
+(3) Tužilac donosi naredbu kojom se izriče vaspitna preporuka kada maloljetnik pristane da ispuni svoju obavezu preuzetu vaspitnom preporukom. Dok traje primjena vaspitne preporuke organ starateljstva tužiocu dostavlja izvještaj o njenoj primjeni.
+(4) Ako su ispunjeni uslovi za primjenu vaspitne preporuke i nakon što uz saradnju i nadzor organa starateljstva maloljetnik ispuni obavezu preuzetu vaspitnom preporukom, tužilac donosi naredbu o nepokretanju pripremnog postupka prema maloljetniku i o tome po potrebi obavještava oštećenog i upućuje ga da svoj imovinskopravni zahtjev može ostvariti u parničnom postupku i obavještava podnosioca prijave.
+(5) Ako maloljetnik djelimično ispuni obavezu preuzetu vaspitnom preporukom, odnosno kada nije ostvarena potpuna kompenzacija primjenom vaspitne preporuke, tužilac odlučuje u skladu sa stavom 4 ovog člana kada nađe da pokretanje pripremnog postupka ne bi bilo cjelishodno.
+(6) Ako se na osnovu izvještaja organa starateljstva utvrdi da maloljetnik bez opravdanog razloga odbija da ispuni obavezu preuzetu vaspitnom preporukom ili je neuredno izvršava, tužilac donosi naredbu o pokretanju pripremnog postupka.
+(7) Prilikom razmatranja mogućnosti primjene vaspitne preporuke, priznanje maloljetnika da je učinio krivično djelo ne može biti korišteno protiv njega u bilo kojem drugom naknadnom postupku.
+3. Pripremni postupak
