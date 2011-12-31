@@ -1,0 +1,2 @@
+Na osnovu člana 22 Statuta Brčko distrikta BiH - prečišćeni tekst (Službeni glasnik Brčko distrikta BiH broj 2/10) i Prijedloga Komisije za ekonomski razvoj i poljoprivredu Skupštine Brčko distrikta BiH, broj: 01. 6-05-1265/11 od 13. 12. 2011. godine, Skupština Brčko distrikta BiH na 57. redovnoj sjednici održanoj 28. decembra 2011. godine, usvaja
+ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOBIT
