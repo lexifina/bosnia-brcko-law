@@ -1,0 +1,6 @@
+Član 203
+(1) Kad se postupak pokreće povodom zahtjeva stranke, odnosno po službenoj dužnosti, ako je to u interesu stranke, a prije donošenja rješenja nije potrebno provoditi poseban ispitni postupak, niti postoje drugi razlozi zbog kojih se ne može donijeti rješenje bez odgode (rješavanje prethodnog stanja i dr.), nadležni organ je dužan donijeti rješenje i dostaviti ga stranci što prije, a najkasnije u roku od 15 dana računajući od dana predaje urednog zahtjeva, odnosno od dana pokretanja postupka po službenoj dužnosti, ako posebnim propisom nije određen kraći rok.
+(2) U ostalim slučajevima kad se postupak pokreće povodom zahtjeva stranke, odnosno po službenoj dužnosti, ako je to u interesu stranke, nadležni organ je dužan donijeti rješenje i dostaviti ga stranci najkasnije u roku od 30 dana, ako posebnim propisom nije određen kraći rok.
+(3) Ako nadležni organ protiv čijeg je rješenja dopuštena žalba ne donese rješenje i ne dostavi ga stranci u roku iz stavova 1 i 2 ovog člana, stranka ima pravo izjaviti žalbu Apelacionoj komisiji, kao da je njen zahtjev odbijen (šutnja uprave).
+(4) Kad se u postupku radi o slučajevima iz člana 126 ovog zakona, nadležni organ je dužan rješenje po zahtjevu stranke donijeti najkasnije u roku od 7 dana od dana prijema zahtjeva.
+5. Ispravljanje grešaka u rješenju

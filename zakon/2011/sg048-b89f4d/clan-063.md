@@ -1,0 +1,8 @@
+Član 63
+(1) Prije zaključenja zapisnik će se pročitati saslušanim licima i ostalim licima koje učestvuju u radnji postupka. Ova lica imaju pravo da i sami pregledaju zapisnik i da stavljaju svoje primjedbe, a službeno lice je obavezno to omogućiti. Na kraju zapisnika navest će se da je zapisnik pročitan i da nisu stavljene nikakve primjedbe, ili ako jesu, ukratko će se upisati sadržaj datih primjedaba. Te primjedbe će potpisati lice koje ih je dalo. Zatim će se pristupiti potpisivanju zapisnika na način što će se prvo potpisati lica koja su saslušana, odnosno davala izjave u postupku, a na kraju zapisnik će ovjeriti svojim potpisom službeno lice koje je rukovodilo radnjom, kao i zapisničar, ako ga je bilo.
+(2) Stranka, svjedoci, vještaci i druga lica koja su saslušana u postupku u zapisniku će se potpisati ispod onog dijela zapisnika gdje je upisana njihova izjava.
+(3) Ako su vršena suočenja, dio zapisnika o tome potpisat će lica koja su suočena.
+(4) Ako se zapisnik sastoji od više listova, oni će se označiti rednim brojevima, a svaki list će na kraju svojim potpisom ovjeriti službeno lice koje rukovodi radnjom postupka i lica čija je izjava upisana na kraju lista.
+(5) Dopune već zaključenog zapisnika ponovo će se potpisati i ovjeriti.
+(6) Ako lice koje treba da potpiše zapisnik nije pismeno, ili ne može da piše, potpisat će je jedno pismeno lice, koje će staviti i svoj potpis. Ovo ne može biti službeno lice koje rukovodi radnjom postupka, niti zapisničar.
+(7) Ako neko lice neće da potpiše zapisnik, ili se udalji prije zaključenja zapisnika, to će se upisati u zapisnik i navesti razlog zbog kog je potpis uskraćen.

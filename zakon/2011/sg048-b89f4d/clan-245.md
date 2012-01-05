@@ -1,0 +1,7 @@
+Član 245
+(1) Ako je pravosnažnim rješenjem stranka stekla neko pravo, a organ koji je donio to rješenje smatra da je u tom rješenju nepravilno primijenjen materijalni zakon, može rješenje ukinuti ili izmijeniti radi njegovog usklađivanja sa zakonom samo ako stranka koja je na osnovu tog rješenja stekla pravo na to, pristane i ako se time ne vrijeđa pravo trećeg lica. Pristanak stranke je obavezan i za izmjenu na štetu stranke pravosnažnog rješenja kojim je stranci određena obaveza.
+(2) Pod uslovima iz stava 1 ovog člana, a na zahtjev stranke, može se ukinuti ili izmijeniti i pravosnažno rješenje koje je nepovoljno po stranku. Ako organ utvrdi da nema potrebe da se rješenje ukine ili izmijeni, dužan je da o tome obavijesti stranku.
+(3) Izmjena rješenja na osnovu ovog člana djeluje samo ubuduće.
+(4) Rješenje na osnovu stavova 1 i 2 ovog člana donosi prvostepeni organ koji je donio rješenje, a Apelaciona komisija samo kad je svojim rješenjem odlučila o stvari. Ako je taj organ ukinut ili je prestao biti nadležan u stvari o kakvoj je riječ, rješenje donosi organ koji je za tu stvar nadležan u vrijeme donošenja rješenja.
+(5) Žalba protiv novog rješenja donesenog na osnovu ovog člana dopuštena je samo ako je to rješenje donio prvostepeni organ. Ako je rješenje donijela Apelaciona komisija, odnosno ako je rješenje prvostepenog organa konačno, protiv tog rješenja može se pokrenuti upravni spor.
+4. Vanredno ukidanje rješenja

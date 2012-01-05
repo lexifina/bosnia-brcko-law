@@ -1,0 +1,3 @@
+Član 235
+Stranka je dužna u prijedlogu za obnovu postupka učiniti vjerovatnim okolnosti na kojim temelji prijedlog, kao i okolnost da je prijedlog stavljen u zakonskom roku.
+2. Rješavanje u obnovi postupka

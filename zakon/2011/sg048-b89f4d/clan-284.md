@@ -1,0 +1,3 @@
+Član 284
+(1) Odgovornim licem u Odjeljenju u smislu odredbe člana 281 stava 2, člana 282 stava 2 i člana 283 stava 2 ovog zakona, smatra se šef odjeljenja, kao i službenik u tim odjeljenjima koji je ovlašten da preduzima radnje u administrativnom postupku, i/ili drugi službenik koji je zadužen da neposredno izvrši određeni posao, a nije izvršio taj posao ili je izvršio radnju protivno datoj obavezi.
+(2) Odgovornom licu u instituciji koja ima javne ovlasti u smislu odredaba člana 281 stava 2, člana 282 stava 2 i člana 283 stava 2 ovog zakona, smatra se rukovodilac institucije i drugo lice. XXI. PRELAZNE I ZAVRŠNE ODREDBE

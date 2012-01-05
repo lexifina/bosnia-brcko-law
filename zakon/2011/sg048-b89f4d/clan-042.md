@@ -1,0 +1,5 @@
+Član 42
+(1) Dvije ili više stranaka mogu, ako posebnim propisom nije drugačije određeno, u istom predmetu istupati zajednički. One su u takvom slučaju dužne naznačiti ko će od njih istupati kao njihov zajedničko predstavnik, ili postaviti zajedničkog opunomoćenika.
+(2) Organ koji vodi postupak, može ako to ne zabranjuje poseban propis, odrediti strankama koje u postupku učestvuju s istovjetnim zahtjevima da u određenom roku naznače ko će ih između njih predstavljati, ili da postave zajedničkog opunomoćenika o čemu se donosi zaključak. Ako stranke po takvom zaključku ne postupe, može to odrediti sam organ koji vodi postupak, u kom slučaju zajednički predstavnik, odnosno opunomoćenik zadržava to svojstvo sve dok stranke ne postave drugog. Protiv takvog zaključka stranke imaju pravo posebne žalbe, ali žalba ne odgađa izvršenje zaključka.
+(3) I u slučaju određivanja zajedničkog predstavnika, odnosno opunomoćenika, svaka stranka zadržava pravo da istupa kao stranka u postupku, da daje izjave, da samostalno izjavljuje žalbe i koristi druga pravna sredstva.
+5. Zastupnik

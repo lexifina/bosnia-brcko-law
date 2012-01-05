@@ -1,0 +1,4 @@
+Član 68
+(1) Dostavljanje se vrši samo radnim danom, i to danju.
+(2) Organ čije se pismeno ima dostaviti može, izuzetno, iz naročito važnih razloga odrediti da se dostavljanje izvrši i u nedjelju ili drugi neradni dan ili na dan državnog praznika.
+(3) Dostavljanje poštom može se vršiti i u dane navedene u stavu 2 ovog člana.

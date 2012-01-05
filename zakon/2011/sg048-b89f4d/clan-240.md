@@ -1,0 +1,3 @@
+Član 240
+(1) Protiv zaključka donesenog o prijedlogu za obnovu postupka, kao i protiv rješenja donesenog u obnovljenom postupku, može se izjaviti žalba samo kad je taj zaključak, odnosno rješenje donio prvostepeni organ.
+(2) Ako je zaključak ili rješenje u obnovi postupka donijela Apelaciona komisija, protiv tog zaključka, odnosno rješenja može se neposredno pokrenuti upravni spor kod Osnovnog suda.

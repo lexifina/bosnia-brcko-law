@@ -1,0 +1,3 @@
+Član 144
+(1) Činjenice na osnovu kojih se donosi rješenje utvrđuju se dokazima.
+(2) Kao dokazno sredstvo upotrijebit će se sve što je podesno za utvrđivanje stanja stvari što odgovara pojedinom slučaju, kao što su: isprave, odnosno mikrofilmska kopija isprave ili reprodukcija te kopije, svjedoci, izjava stranke, nalazi vještaka i njihove izjave, uviđaj.

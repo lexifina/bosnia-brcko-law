@@ -1,0 +1,5 @@
+Član 268
+(1) Kad je na osnovu rješenja provedeno izvršenje, a to rješenje se kasnije poništi ili izmijeni, izvršenik ima pravo da traži da mu se vrati ono što mu je oduzeto, odnosno da se vrati u stanje koje proizilazi iz novog rješenja.
+(2) O traženju izvršenika iz stava 1 ovog člana rješava organ koji je donio zaključak o dozvoli izvršenja.
+3. Izvršenje radi osiguranja i privremeni zaključak
+a) Izvršenje radi osiguranja

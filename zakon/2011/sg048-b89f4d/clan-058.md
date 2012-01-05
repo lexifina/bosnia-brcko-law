@@ -1,0 +1,3 @@
+Član 58
+(1) Pri pozivanju organ će voditi računa da se lice čije je prisustvo potrebno pozove da dođe u vrijeme koje će najmanje ometati pozvanog u obavljanju njegovog redovnog posla.
+(2) Niko ne može biti pozvan da dođe u toku noći. Pozivanje za dolazak noću može se izvršiti samo izuzetno, ako je to predviđeno posebnim propisima i ako se radi o izvršenju hitnih i neodgodivih mjera, koje u pozivu moraju biti navedene, kao i propis na osnovu kojeg se vrši to pozivanje.

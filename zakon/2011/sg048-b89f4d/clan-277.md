@@ -1,0 +1,3 @@
+Član 277
+(1) Gradonačelnik je obavezan jedanput godišnje podnijeti pismeni izvještaj Skupštini o rješavanju upravnih stvari u upravnom postupku svih službi Distrikta.
+(2) Izvještaj iz stava 1 ovog člana sadrži naročito sljedeće podatke: broj podnesenih zahtjeva od stranaka, broj pokrenutih upravnih postupaka po službenoj dužnosti, način i rokove rješavanja upravnih stvari u prvostepenom i drugostepenom upravnom postupku, broj poništenih odnosno ukinutih upravnih akata, broj odbačenih zahtjeva, odnosno obustavljenih upravnih postupaka, broj i vrste primijenjenih prisilnih mjera, odnosno izrečenih novčanih kazni, i broj neriješenih upravnih predmeta.

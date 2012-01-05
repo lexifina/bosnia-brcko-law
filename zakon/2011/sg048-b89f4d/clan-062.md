@@ -1,0 +1,3 @@
+Član 62
+(1) Zapisnik mora biti vođen uredno i u njemu se ne smije ništa brisati. Mjesta koja su precrtana do zaključenja zapisnika moraju ostati čitljiva i njih svojim potpisom ovjerava službeno lice koje rukovodi radnjom postupka.
+(2) U već potpisanom zapisniku ne smije se ništa dodavati ni mijenjati. Dopuna u već zaključenom zapisniku unosi se u dodatak zapisnika.

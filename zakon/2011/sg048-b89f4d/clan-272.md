@@ -1,0 +1,4 @@
+Član 272
+(1) Ako postoji ili je bar učinjena vjerojatnom obaveza stranke, a postoji opasnost da će obavezana stranka raspolaganjem imovine, dogovorom s trećim licima ili na drugi način, osujetiti ili znatno otežati izvršenje te obaveze, organ nadležan za donošenje rješenja o obavezi stranke može, prije donošenja rješenja o toj obvezi, donijeti privremeni zaključak radi osiguranja izvršenja obaveze. Pri donošenju privremenog zaključka nadležni organ dužan je voditi računa o odredbi člana 237 ovog zakona i priložiti rješenje uz zaključak.
+(2) Donošenje privremenog zaključka može se uslovljavati davanjem osiguranja predviđenog u članu 189 stavu 2 ovog zakona.
+(3) Glede privremenog zaključka donesenog na osnovu stava 1 ovog člana, primjenjivat će se odredbe člana 269 stava 3 i člana 270 ovog zakona.

@@ -1,0 +1,3 @@
+Član 261
+(1) Organ nadležan za administrativno izvršenje obavezan je po službenoj dužnosti obustaviti započeto izvršenje i provedene radnje poništiti, ako se utvrdi da je obaveza izvršena, da izvršenje nije bilo uopće dopušteno, da je bilo provedeno prema licu koje nije u obavezi, ili ako tražilac izvršenja odustane od svog zahtjeva, odnosno ako je izvršno rješenje poništeno ili ukinuto.
+(2) Administrativno izvršenje će se odgoditi ako se utvrdi da je u pogledu izvršenja obaveze dozvoljen poček, ili je umjesto privremenog rješenja koje se izvršava doneseno rješenje o glavnoj stvari koje se razlikuje od privremenog rješenja. Odgađanje izvršenja odobrava organ koji je donio zaključak o dozvoli izvršenja.

@@ -1,0 +1,4 @@
+Član 273
+(1) Ako je pravosnažnim rješenjem utvrđeno da pravno ne postoji obaveza stranke za čije je osiguranje bio donesen privremeni zaključak, ili je na drugi način utvrđeno da je zahtjev za donošenje privremenog zaključka bio neopravdan, predlagač u čiju je korist privremeni zaključak donesen naknadit će protivnoj stranci štetu koja joj je uzrokovana donesenim zaključkom.
+(2) O naknadi štete iz stava 1 ovog člana rješava organ koji je donio privremeni zaključak.
+(3) Ako je u slučaju iz stava 1 ovog člana očito da je privremeni zaključak bio isposlovan iz obijesti, predlagač će se kazniti novčanom kaznom do 100 KM. Protiv zaključka o kazni dopuštena je posebna žalba, koja odgađa izvršenje zaključka. PETI DIO PROVOĐENJE ZAKONA I PRELAZNE I ZAVRŠNE ODREDBE XVIII. MJERE ZA PROVOĐENJE ZAKONA

@@ -1,0 +1,3 @@
+Član 184
+(1) Ako postoji opravdana bojazan da se neki dokaz neće moći kasnije izvesti ili da će njegovo izvođenje biti otežano, može se, radi osiguranja dokaza u svakom stadiju postupka, pa i prije nego što je postupak pokrenut, taj dokaz izvesti.
+(2) Osiguranje dokaza vrši se po službenoj dužnosti ili po prijedlogu stranke, odnosno lice koje ima pravni interes.

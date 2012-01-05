@@ -1,0 +1,4 @@
+Član 112
+(1) Ako se prava ili obaveze stranaka zasnivaju na istom ili sličnom činjeničnom stanju i na istom pravnom osnovu i ako je organ koji vodi postupak u pogledu svih predmeta stvarno nadležan, može se pokrenuti i voditi jedan postupak i onda kad je riječ o pravima i obavezama više stranaka.
+(2) Pod istim uslovima, jedna ili više stranaka mogu u jednom postupku ostvarivati i više različitih zahtjeva.
+(3) O vođenju jednog postupka u ovakvim slučajevima nadležni organ će donijeti poseban zaključak, protiv koga se može izjaviti žalba, osim ako je zaključak donijela Apelaciona komisija.

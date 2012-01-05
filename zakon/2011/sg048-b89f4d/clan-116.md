@@ -1,0 +1,6 @@
+Član 116
+(1) Stranka može odustati od svog zahtjeva u toku cijelog postupka.
+(2) Kad je postupak pokrenut povodom zahtjeva stranke, a stranka odustane od svog zahtjeva, organ koji vodi postupak donijet će zaključak kojim se postupak obustavlja. O tome će biti obaviještena protivna stranka, ako je ima.
+(3) Ako je daljnje vođenje postupka potrebno u javnom interesu ili ako to zahtijeva protivna stranka, nadležni organ će produžiti vođenje postupka.
+(4) Kada je postupak pokrenut po službenoj dužnosti, organ može obustaviti postupak. Ako je postupak u istoj stvari mogao biti pokrenut i po zahtjevu stranke, postupak će se nastaviti, ako stranka to zahtijeva.
+(5) Protiv zaključka kojim se obustavlja postupak dozvoljena je posebna žalba.

@@ -1,0 +1,5 @@
+Član 92
+(1) Protiv zaključka kojim se dozvoljava povrat u pređašnje stanje nije dopuštena žalba, osim ako je povrat dozvoljen po prijedlogu koji je nepravovremeno podnesen ili je nedopušten.
+(2) Protiv zaključka kojim je odbijen prijedlog za povrat u pređašnje stanje dopuštena je posebna žalba samo ako je zaključak donio prvostepeni organ.
+(3) Žalba nije dopuštena protiv zaključka o prijedlogu za povrat u pređašnje stanje koje je donijela Apelaciona komisija.
+(4) Protiv zaključka kojim je kao nepravovremen odbačen prijedlog za povrat u pređašnje stanje dopuštena je posebna žalba samo kad je zaključak donio prvostepeni organ.

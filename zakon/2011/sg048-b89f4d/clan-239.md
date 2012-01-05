@@ -1,0 +1,2 @@
+Član 239
+Na osnovu podataka pribavljenih u prijašnjem i u obnovljenom upravnom postupku, nadležni organ donosi rješenje o stvari koja je bila predmet obnove postupka i njime može prijašnje rješenje koje je bilo predmet obnove ostaviti na snazi ili ga zamijeniti novim rješenjem. U ovom drugom slučaju, a s obzirom na sve okolnosti pojedinog slučaja, organ može prijašnje rješenje poništiti ili ukinuti.

@@ -1,0 +1,8 @@
+Član 50
+(1) Pod podnescima se podrazumijevaju zahtjevi, obrasci koji se koriste za automatsku obradu podataka, prijedlozi, prijave, molbe, žalbe, prigovori i druga saopštenja kojima se pojedinci ili pravna lica obraćaju organima.
+(2) Podnesci se, po pravilu predaju neposredno ili šalju poštom pismeno, ili se usmeno saopštavaju na zapisnik kod organa, a mogu se, ako nije drugačije propisano, izjavljivati i faksom i telegrafski. Kratka i hitna saopštenja mogu se davati i telefonski, ako je to po prirodi stvari moguće.
+(3) Podnesci se mogu predati i elektroničkim putem. Organi i stranke, odnosno lica ovlaštena za zastupanje stranaka mogu međusobno komunicirati u elektroničkom obliku ako stranke, odnosno lica ovlaštena za zastupanje stranke na to izjavom pristanu.
+(4) Elektroničkim putem dostavljen podnesak smatra se podnesenim u trenutku kad je evidentiran na uređaju za primanje takvih poruka, nakon čega se bez odgađanja elektroničkim putem obavještava podnosilac podneska o potvrdi prijema podneska.
+(5) Ako organ koji je primio podnesak iz tehničkih razloga ne može pročitati podnesak u elektroničkom obliku o tome se bez odgađanja elektroničkim putem ili na drugi prikladan način obavještava podnosilac, koji je dužan ponovno poslati podnesak u ispravnom elektroničkom obliku koji je u upotrebi u tom organu ili ga dostaviti na drugi način.
+(6) Ako podnosilac ne postupi u skladu sa stavom 5 ovog člana u ostavljenom roku, smatrat će se da podnesak nije ni podnesen.
+(7) Podnesci se predaju elektroničkim putem svakog radnog dana u toku 24 sata i smatra se da je blagovremeno predat elektroničkim putem ako je do isteka roka primljen u sistem za prijem podnesaka.

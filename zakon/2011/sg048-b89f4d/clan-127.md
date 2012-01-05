@@ -1,0 +1,5 @@
+Član 127
+(1) Poseban ispitni postupak se provodi kad je to potrebno radi utvrđivanja činjenica i okolnosti koje su značajne za razjašnjenje stvari ili radi davanja strankama mogućnosti da ostvare i zaštite svoja prava i pravne interese.
+(2) Službeno lice koje vodi postupak, određuje tok ispitnog postupka, pridržavajući se odredaba ovog zakona i propisa koji se odnose na stvar o kojoj je riječ.
+(3) U ovim granicama službeno lice koje vodi postupak naročito: određuje koje se radnje u postupku imaju izvršiti i izdaje naređenja za njihovo izvršenje, određuje red kojim će se pojedine radnje vršiti i rokove u kojima će se izvršiti, ako oni nisu propisani zakonom; određuje usmene rasprave i saslušanja, kao i sve što je potrebno za njihovo održavanje; odlučuje koji se dokazi imaju izvesti i kojim dokaznim sredstvima i odlučuje o svim prijedlozima i izjavama.
+(4) Službeno lice koje vodi postupak odlučuje da li će se raspravljanje i dokazivanje vršiti odvojeno o pojedinim spornim pitanjima ili zajedno za cio predmet.

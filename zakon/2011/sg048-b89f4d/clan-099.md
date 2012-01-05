@@ -1,0 +1,5 @@
+Član 99
+(1) Svaka stranka, snosi po pravilu, sama svoje troškove prouzrokovane postupkom, kao što su: troškovi dolaženja, izgubljenog vremena, izdaci na takse, za pravno zastupanje i stručno pomaganje.
+(2) Kad u postupku učestvuju dvije ili više stranaka sa suprotnim interesima, stranka koja je izazvala postupak, a na čiju štetu je postupak okončan, dužna je da protivnoj stranci naknadi opravdane troškove koji su toj stranci nastali učestvovanjem u postupku. Ako je u takvom slučaju neka od stranaka djelimično uspjela sa svojim zahtjevom, ona je dužna da naknadi protivnoj stranci troškove srazmjerno dijelu svog zahtjeva s kojim nije uspjela. Stranka koja je obješću prouzrokovala protivnoj stranci troškove u postupku dužna je da toj stranci te troškove naknadi.
+(3) Troškovi za pravno zastupanje naknađuju se samo u slučajevima kad je takvo zastupanje bilo nužno i opravdano.
+(4) Troškove stranke ili drugog lica u postupku, prouzrokovane postupkom pokrenutim po službenoj dužnosti ili javnom interesu, a koje stranka odnosno drugo lice u postupku nije prouzrokovalo svojim ponašanjem, snosi organ.

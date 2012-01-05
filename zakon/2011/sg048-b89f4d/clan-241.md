@@ -1,0 +1,4 @@
+Član 241
+(1) Prijedlog za obnovu postupka, po pravilu, ne odgađa izvršenje rješenja po kome se obnova traži, ali organ koji je nadležan za odlučivanje o prijedlogu za obnovu postupka, ako smatra da će prijedlog za obnovu biti uvažen, može po službenoj dužnosti ili na zahtjev stranke riješiti da se odgodi izvršenje dok se ne odluči o pitanju obnove postupka.
+(2) Zaključak kojim se dopušta obnova postupka odgađa izvršenje rješenja protiv koga je obnova dozvoljena. XVI. NAROČITI SLUČAJEVI PONIŠTENJA, UKIDANJA I MIJENJANJA RJEŠENJA
+1. Mijenjanje i poništenje rješenja u vezi s upravnim sporom

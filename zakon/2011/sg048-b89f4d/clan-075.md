@@ -1,0 +1,6 @@
+Član 75
+(1) Stranka može ovlastiti određeno lice kome se imaju vršiti sva dostavljanja za nju. Kad stranka pismeno obavijesti o tom ovlaštenju organ koji vodi postupak, taj organ je obavezan sva dostavljanja vršiti ovom opunomoćeniku (opunomoćenik za primanje pismena).
+(2) Opunomoćenik za primanje pismena dužan je svaki akt bez odgađanja poslati stranci.
+(3) Ako bi neposredno dostavljanje stranci, opunomoćeniku ili zakonskom zastupniku znatno odugovlačilo postupak, službeno lice koje vodi postupak može naložiti stranci da u vezi sa određenim predmetom, a u određenom roku postavi u sjedištu organa opunomoćenika za primanje pismena. Ako stranka ne postupi po ovom nalogu, organ može postupiti shodno članu 54 ovog zakona.
+(4) Kad se stranka ili njen zakonski zastupnik nalaze u inostranstvu, a nemaju opunomoćenika u Distriktu, pozvat će se pri dostavljanju prvog pismena da u određenom roku postave opunomoćenika ili opunomoćenika za primanje pismena i upozorit će se da će im se, ako u ostavljenom roku ne postave opunomoćenika, postaviti po službenoj dužnosti opunomoćenik za primanje pismena, odnosno privremeni zastupnik.
+(5) Dostavljanjem pismena opunomoćeniku za primanje pismena smatra se da je dostavljanje izvršeno stranci kojoj je pismeno imalo biti dostavljeno.

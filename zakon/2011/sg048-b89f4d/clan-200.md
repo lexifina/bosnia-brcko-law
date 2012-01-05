@@ -1,0 +1,3 @@
+Član 200
+(1) Kad se o jednoj stvari rješava u više tačaka, a samo su neke od njih dozrele za rješavanje, i kad se pokaže svrsishodnim da se o tim tačkama riješi posebnim rješenjem, nadležni organ može donijeti rješenje samo o tim tačkama (djelimično rješenje).
+(2) Djelimično rješenje smatra se u pogledu pravnih lijekova i izvršenja kao samostalno rješenje.

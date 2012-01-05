@@ -1,0 +1,3 @@
+Član 109
+(1) Nadležni organ će pokrenuti postupak po službenoj dužnosti kad to određuje zakon ili na zakonu zasnovan propis ili kad utvrdi ili sazna da, s obzirom na postojeće činjenično stanje treba, radi zaštite javnog interesa, pokrenuti upravni postupak.
+(2) Pri pokretanju upravnog postupka po službenoj dužnosti nadležni organ uzima u obzir i eventualne predstavke građana i pravnih lica i upozorenja drugih organa.

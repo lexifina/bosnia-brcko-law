@@ -1,0 +1,2 @@
+Član 51
+Podnesak se predaje organu nadležnom za prijem podneska, a može se predati svakog radnog dana u toku radnog vremena. Za usmene podneske koji nisu vezani s rokom ili inače nisu neodložni može se odrediti da se predaju samo u određene sate u toku radnog vremena. Vrijeme za predaju ovakvih podnesaka objavljuje svaki organ u svojim prostorijama na vidnom mjestu.

@@ -1,0 +1,3 @@
+Član 259
+(1) Administrativno izvršenje koje provodi organ, koji je o stvari rješavao u prvom stepenu, provodi se na osnovu rješenja koje je postalo izvršno i zaključka o dozvoli izvršenja.
+(2) Administrativno rješenje koje provodi neki drugi organ provodi se na osnovu rješenja na kom je stavljena potvrda izvršnosti i donesen zaključak o dozvoli izvršenja.

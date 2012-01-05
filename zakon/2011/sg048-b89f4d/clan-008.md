@@ -1,0 +1,4 @@
+Član 8
+(1) Prije donošenja rješenja stranci se mora pružiti mogućnost da se izjasni o svim činjenicama i okolnostima koje su važne za donošenje rješenja.
+(2) Rješenje se može donijeti bez prethodnog izjašnjenja stranke samo u slučajevima kad je to zakonom dopušteno.
+9. Ocjena dokaza

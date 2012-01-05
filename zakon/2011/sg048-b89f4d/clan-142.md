@@ -1,0 +1,4 @@
+Član 142
+(1) Ako prisutna stranka i pored upozorenja na posljedice, ne stavi u toku same rasprave primjedbu na rad koji se na raspravi obavlja, smatrat će se da nema primjedbi. Ako ta
+stranka kasnije stavi primjedbu na rad obavljen na raspravi, organ koji rješava o stvari cijenit će tu primjedbu ako ona može imati uticaj na rješavanje stvari i ako nije data poslije rasprave da bi se odugovlačio postupak.
+(2) Ako stranka koja je pozvana javnim priopćenjem poziva nije došla na raspravu, a primjedbe na rad obavljen na raspravi stavi poslije rasprave, ove će se primjedbe uzeti u obzir pod uslovom iz stava 1 ovog člana.

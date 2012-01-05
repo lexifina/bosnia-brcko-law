@@ -1,0 +1,3 @@
+Član 111
+U stvarima u kojima je po zakonu ili po prirodi stvari za pokretanje i vođenje upravnog postupka potreban zahtjev stranke, nadležni organ može pokrenuti i voditi postupak samo ako postoji takav zahtjev.
+2. Spajanje stvari u jedan postupak

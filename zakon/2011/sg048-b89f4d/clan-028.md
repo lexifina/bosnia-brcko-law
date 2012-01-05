@@ -1,0 +1,9 @@
+Član 28
+(1) Organi, kao i institucije koje imaju javne ovlasti za rješavanje u upravnim stvarima, dužni su jedni drugima ukazivati pravnu pomoć u upravnom postupku. Ova se pomoć traži posebnom molbom.
+(2) Zamoljeni organi, odnosno institucije iz stava 1 ovog člana, dužni su postupati po molbi u granicama svog područja i djelokruga, bez odgađanja, a najkasnije u roku od 10 dana od dana prijema molbe.
+(3) Pravna pomoć za izvršenje pojedinih radnji u postupku može se tražiti od sudova samo u okviru posebnih propisa. Izuzetno, organ odnosno institucija koji ima javne ovlasti za rješavanje u upravnim stvarima mogu tražiti od sudova da im dostave spise koji su potrebni za vođenje upravnog postupka. Sudovi su dužni postupiti po takvom traženju ako se time ne ometa sam sudski postupak. Sud može odrediti rok u kom mu se spisi moraju vratiti.
+(4) Za pravnu pomoć u odnosu sa inostranim organima važe odredbe međunarodnih ugovora, a ako ovih ugovora nema, primjenjuje se načelo reciprociteta. Ako postoji sumnja o postojanju reciprociteta, objašnjenje o tom pitanju zatražit će se od organa nadležnog za vanjske poslove Bosne i Hercegovine.
+(5) Organi Distrikta ukazuju pravnu pomoć inostranim organima na način predviđen zakonima Distrikta. Organ će uskratiti pravnu pomoć ako se traži radnja koja je protivna zakonu Distrikta. Radnja koja je predmet molbe inozemnog organa može se izvršiti i na način koji zahtijeva inostrani organ, ako takav postupak nije protivan zakonu Distrikta.
+(6) Ako međunarodnim ugovorima nije predviđena mogućnost neposrednog kontakta sa inostranim organima, organi Distrikta kontaktiraju sa inostranim organima preko organa nadležnog za vanjske poslove Bosne i Hercegovine.
+(7) Sporazum sa entitetima rješava aspekte pružanja pravne pomoći sa upravnim organima entiteta.
+7. Izuzeće

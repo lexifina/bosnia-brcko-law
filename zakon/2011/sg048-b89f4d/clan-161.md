@@ -1,0 +1,8 @@
+Član 161
+(1) Svjedok može uskratiti svjedočenje:
+1) na pojedina pitanja na koja bi odgovor izložio teškoj sramoti, znatnoj imovinskoj šteti ili krivičnom gonjenju njega, njegovog srodnika po krvi u pravoj liniji, a u pobočnoj liniji do trećeg stepena zaključno, njegovog bračnog druga ili srodnika po tazbini, do drugog stepena zaključno i onda kad je brak prestao, kao i njegovog staraoca ili starinika, usvojioca ili usvojenika;
+2) na pojedina pitanja na koja ne bi mogao odgovoriti a da ne povrijedi obavezu da čuva poslovnu, profesionalnu, umjetničku ili naučnu tajnu;
+3) o onome što je stranka povjerila svjedoku kao svom opunomoćeniku;
+4) o onome o čemu se stranka ili drugo lice ispovijedala svjedoku kao vjerskom ispovjedniku.
+(2) Svjedok se može osloboditi dužnosti svjedočenja i o pojedinim drugim činjenicama kad iznese važne razloge za to. Ako je potrebno, on treba te razloge da učini vjerovatnim.
+(3) Svjedok ne može zbog opasnosti od kakve imovinske štete uskratiti svjedočenje o pravnim poslovima pri kojima je bio prisutan kao svjedok, pisar ili posrednik, o radnjama koje je u vezi sa spornim pitanjem preduzeo kao pravni prethodnik ili zastupnik jedne od stranaka, kao i o svakoj radnji o kojoj je na osnovu posebnih propisa dužan podnijeti prijavu ili dati izjavu.

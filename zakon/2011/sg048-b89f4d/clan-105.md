@@ -1,0 +1,4 @@
+Član 105
+(1) Organ koji vodi postupak može osloboditi stranku od snošenja troškova u cijelosti ili djelomično, ako utvrdi da ona ne može podnijeti troškove bez štete po nužno izdržavanje svoje porodice. Organ donosi zaključak o tome po prijedlogu stranke, na osnovu uvjerenja o njenom imovnom stanju koje izdaje nadležni organ.
+(2) Oslobađanje od snošenja troškova odnosi se na oslobađanje od taksa, izdataka organa koji vodi postupak, kao što su putni troškovi službenih lica, izdaci za svjedoke, vještake, tumače, uviđaj, oglase i slično, kao i na oslobađanje od polaganja osiguranja za troškove.
+(3) Strani državljani oslobodit će se snošenja troškova samo pod uslovom reciprociteta. U slučaju sumnje o postojanju reciprociteta, objašnjenje daje organ nadležan za vanjske poslove Bosne i Hercegovine. Za traženje objašnjenja važe odredbe člana 28 ovog zakona.

@@ -1,0 +1,6 @@
+Član 202
+(1) Ako je prema okolnostima slučaja neophodno prije okončanja postupka donijeti rješenje kojim se privremeno uređuju sporna pitanja ili odnosi, takvo se rješenje donosi na osnovi podataka koji postoje u času njegovog donošenja. U takvom rješenju mora biti izrično naznačeno da je privremeno.
+(2) Donošenje privremenog rješenja po prijedlogu stranke nadležni organ može uslovljavati davanjem osiguranja za štetu koja bi mogla usljed izvršenja tog rješenja nastati za protivnu stranku u slučaju da osnovni zahtjev predlagača ne bude uvažen.
+(3) Rješenjem o glavnoj stvari koje se donosi nakon okončanja postupka ukida se privremeno rješenje doneseno u toku postupka.
+(4) Privremeno rješenje smatra se u pogledu pravnih lijekova i izvršenja kao samostalno rješenje.
+4. Rok za izdavanje rješenja

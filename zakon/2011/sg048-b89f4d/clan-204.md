@@ -1,0 +1,4 @@
+Član 204
+(1) Organ koji je donio rješenje, odnosno službeno lice koje je potpisalo ili izdalo rješenje, može u svako vrijeme da ispravi greške u imenima ili brojevima, pisanju ili računanju, kao i druge očigledne netačnosti u rješenju ili njegovim ovjerenim prepisima. Ispravka greške proizvodi pravni učinak od dana od koga proizvodi pravni učinak rješenje koje se ispravlja.
+(2) O ispravci se donosi poseban zaključak, koji se prilaže izvorniku rješenja i čini njegov sastavni dio. Ovjeren prepis zaključka dostavlja se i strankama kojima je dostavljeno rješenje. Zaključak potpisuje službeno lice koje je potpisalo rješenje. Zaključak obavezno sadrži broj i datum rješenja koje se ispravlja.
+(3) Protiv zaključka kojim se već doneseno rješenje ispravlja ili kojim se odbija prijedlog za ispravljanje, dopuštena je posebna žalba.

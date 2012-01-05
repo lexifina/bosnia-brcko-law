@@ -1,0 +1,3 @@
+Član 197
+(1) Kad je riječ o stvari koja se tiče većeg broja određenih lica, može se za sva ta lica donijeti jedno rješenje, ali ona moraju biti imenovana u dispozitivu, a u obrazloženju rješenja moraju biti izloženi razlozi koji se na svaku od njih odnose. Ovakvo rješenje mora se dostaviti svakoj od tih lica, osim u slučaju predviđenom u članu 74 ovog zakona.
+(2) Ako je riječ o stvari koja se tiče većeg broja lica koja organu nisu poznata, može se za sve njih donijeti jedno rješenje, ali ono mora sadržavati takve podatke da se iz njih može lako utvrditi na koja se lica rješenje odnosi (npr. stanovnici ili vlasnici imanja u određenoj ulici ili stanari iz jedne zgrade i sl.).

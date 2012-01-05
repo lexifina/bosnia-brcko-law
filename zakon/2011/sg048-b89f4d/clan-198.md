@@ -1,0 +1,4 @@
+Član 198
+(1) U stvarima manjeg značaja u kojima se udovoljava zahtjevu stranke, a ne dira se u javni interes niti interes drugog lica, rješenje se može sastojati samo od dispozitiva u obliku službene zabilješke u spisu, ako su razlozi za takvo rješenje očigledni i ako nije drugačije propisano.
+(2) Takvo se rješenje po pravilu priopćava stranci usmeno, a napismeno joj se mora izdati ako ona to traži.
+(3) Takvo rješenje, po pravilu, ne sadrži obrazloženje, osim ako je ono po prirodi stvari potrebno. Ovakvo rješenje može se izdati na propisanom obrascu.

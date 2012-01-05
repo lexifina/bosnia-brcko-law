@@ -1,0 +1,4 @@
+Član 103
+(1) Svjedoci, vještaci, tumači i službeno lice imaju pravo na naknadu troškova putovanja i izdataka izazvanih boravljenjem u mjestu radi izvršenja tih radnji, s tim da tim licima pripada i naknada izgubljene zarade, ako za to vrijeme ne ostvaruju zaradu na osnovu radnog odnosa u drugom organu ili pravnom licu ili drugom licu, odnosno instituciji u kojima su zaposlena. Pored naknade, vještaci i tumači imaju pravo i na posebnu nagradu.
+(2) Svjedoci, vještaci i tumači dužni su postaviti zahtjev za naknadu odnosno nagradu pri saslušanju, tumačenju odnosno davanju vještakovog mišljenja. U protivnom, gube to pravo. Službeno lice koje vodi postupak dužno je da o ovome obavijesti (upozori) potsjeti svjedoka, vještaka ili tumača.
+(3) Iznos naknada može utvrditi posebnim zaključkom organ koji vodi postupak, određujući ko je dužan da ih plati i u kom roku. Protiv ovog zaključka dopuštena je posebna žalba. Ovaj zaključak predstavlja osnov za izvršenje.

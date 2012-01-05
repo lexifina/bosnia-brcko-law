@@ -1,0 +1,3 @@
+Član 175
+(1) Vještaku se može naložiti da izvrši vještačenje i izvan usmene rasprave. U tom slučaju može se tražiti da vještak na usmenoj raspravi obrazloži svoj pismeni nalaz i mišljenje.
+(2) Ako je postavljeno više vještaka, oni mogu svoj nalaz i mišljenje dati zajednički. Ako se ne slažu, svaki će od njih odvojeno izložiti svoj nalaz i mišljenje.

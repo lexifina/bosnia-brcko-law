@@ -1,0 +1,4 @@
+Član 133
+(1) Postupak prekinut zbog rješavanja prethodnog pitanja kod nadležnog organa nastavit će se pošto rješenje doneseno o tom pitanju postane konačno.
+(2) Postupak se može nastaviti po službenoj dužnosti i u slučaju kada se ocijeni da nema razloga da se čeka na konačno rješenje prethodnog pitanja kod nadležnog organa, osim u slučaju iz stava 1 člana 130 ovog zakona.
+5. Usmena rasprava

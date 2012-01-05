@@ -1,0 +1,2 @@
+Član 106
+Organ koji vodi postupak može u toku postupka ukinuti zaključak o oslobađanju od snošenja troškova ako utvrdi da više ne postoje razlozi zbog kojih je stranka bila oslobođena snošenja troškova.

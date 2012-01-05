@@ -1,0 +1,3 @@
+Član 253
+(1) Kad postoji mogućnost da se izvršenje provede na više načina i primjenom raznih sredstava, izvršenje će se provesti na onaj način i primjenom onog sredstva koje dovodi do cilja a koje je po izvršenika najbliže.
+(2) Nedjeljom i u dane praznika kada se ne radi, kao i noću, radnje izvršenja mogu se provoditi samo izuzetno i to ako postoji opasnost od nastanka znatne štete i ako je organ koji provodi izvršenje izdao za to pismeni nalog.

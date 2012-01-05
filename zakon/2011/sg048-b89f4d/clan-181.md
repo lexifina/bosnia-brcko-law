@@ -1,0 +1,2 @@
+Član 181
+Uviđaj stvari koja se bez teškoće može donijeti na mjesto gdje se postupak vodi izvršit će se na tom mjestu, a inače uviđaj se vrši na mjestu gdje se stvar nalazi.

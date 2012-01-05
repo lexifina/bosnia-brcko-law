@@ -1,0 +1,6 @@
+Član 59
+(1) Pozvano lice dužno je da se odazove pozivu.
+(2) Ako je pozvano lice zbog bolesti ili kog drugog opravdanog razloga spriječeno da dođe, dužno je odmah po prijemu poziva o tome izvijestiti organ koji je izdao poziv, a ako je razlog spriječenosti nastao kasnije, onda odmah poslije saznanja tog razloga.
+(3) Ako se lice kome je poziv lično dostavljen ne odazove pozivu, a izostanak ne opravda, može biti privedeno, ako je njegovo prisustvo potrebno, a pored toga i kažnjeno novčanom kaznom od 500 KM. Ove će se mjere primijeniti samo ako je u pozivu bilo naznačeno da će se te mjere primijeniti. Ako su zbog neopravdanog izostanka pozvanog lica nastali troškovi u postupku, može se odrediti da te troškove snosi lice koje je izostalo. Zaključak o privođenju, o izricanju kazne ili o plaćanju troškova donosi službeno lice koje vodi postupak u saglasnosti sa službenim licem ovlaštenim za rješavanje stvari, a kod zamoljenog organa - u saglasnosti s rukovodiocem tog organa, odnosno sa službenim licem ovlaštenim za rješavanje u sličnim stvarima. Protiv ovog zaključka dopuštena je posebna žalba.
+(4) Ako se pozivu nije odazvao službenik policije, organ će se obratiti nadležnom organu policije tog lica sa zahtjevom da se ono dovede, a može ga i kazniti po stavu 3 ovog člana, odnosno odrediti da snosi troškove.
+3. Zapisnik
