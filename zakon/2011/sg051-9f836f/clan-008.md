@@ -1,0 +1,2 @@
+Član 8
+Po prijemu zahtjeva za povrat nekretnine, Odjel je dužan rješenjem odlučiti o zahtjevu u roku od trideset (30) dana od dana prijema zahtjeva ili u roku od trideset (30) dana od dana donošenja posljednjeg rješenja u skladu s članom 31 ovoga zakona, ovisno od toga koji je od ta dva datuma kasniji. Zahtjev će biti rješavan hronološkim redoslijedom kojim je zahtjev primljen, ukoliko drugačije nije propisano zakonom.

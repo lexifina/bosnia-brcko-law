@@ -1,0 +1,2 @@
+Član 11
+U slučaju spora o zakonitosti prenesenog prava na nepokretnu imovinu, Odjel će, u skladu s odredbama Zakona o upravnom postupku kojima se regulišu prethodna pitanja, ukoliko sam ne riješi to pitanje, prekinuti postupak dok nadležni sud ne riješi to pitanje. Teret dokazivanja da je transakcija izvršena dobrovoljno i u skladu sa zakonom nosit će strana koja tvrdi da je pravo na imovinu stekla tom transakcijom.

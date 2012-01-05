@@ -1,0 +1,3 @@
+Član 28
+Sve ranije pravosnažne sudske odluke kojima se nalaže vraćanje stana koji se nalazi na području Distrikta nosiocu stanarskog prava će biti izvršene od strane nadležnog suda Distrikta. Svi sudski postupci u vezi s povratom stana koji se nalazi na području Distrikta nosiocu stanarskog prava, a koji su započeti do dana stupanja na snagu ovog zakona pred sudovima RS, Federacije ili države Bosne i Hercegovine, će biti preneseni na sudove Distrikta, bez obaveze ponovnog pokretanja postupka, na osnovu zahtjeva bilo koje strane u sudskom postupku, ili na osnovu naloga suda RS, Federacije ili države
+Bosne i Hercegovine. Ovakvi preneseni postupci će biti nastavljeni, osim ukoliko ih nosilac stanarskog prava ne opozove.

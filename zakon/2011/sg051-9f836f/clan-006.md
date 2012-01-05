@@ -1,0 +1,3 @@
+Član 6
+(1) Vlasnik, ili njegov ovlašteni predstavnik, imaju pravo da u bilo koje vrijeme podnesu zahtjev Odjelu. Odjel je ovlašten da prima zahtjeve, provodi postupak i odlučuje o zahtjevima u skladu sa ovim zakonom i Zakonom o izvršnoj vlasti Brčko distrikta Bosne i Hercegovine. Također će biti nadležno i odgovorno za osiguranje alternativnog smještaja za trenutnog korisnika ako je to neophodno, u skladu sa ovim zakonom.
+(2) Zahtjevi se mogu podnositi pismeno, uz potpis podnosioca zahtjeva ili ovlaštenog predstavnika, ili ih može podnijeti usmeno podnosilac zahtjeva na zapisnik. Pismeni zahtjevi mogu se podnositi lično, poštom ili preko drugog lica.

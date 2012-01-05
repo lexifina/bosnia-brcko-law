@@ -1,0 +1,3 @@
+Član 13
+(1) Po prijemu zahtjeva za povrat nekretnine, Odjel je dužan rješenjem odlučiti o zahtjevu u roku od 30 dana od dana prijema zahtjeva ili u roku od trideset (30) dana od dana donošenja posljednjeg rješenja u skladu s članom 31 ovoga zakona, ovisno od toga koji je od ta dva datuma kasniji. Zahtjev će biti rješavan hronološkim redoslijedom kojim je zahtjev primljen, ukoliko drugačije nije propisano ovim zakonom.
+(2) Ovlašteni organ neće odbiti zahtjev po osnovu odredbi iz Zakona o stambenim odnosima, osim ako se radi o licima koja se ne smatraju članovima porodičnog domaćinstva prema članu 6 Zakona o stambenim odnosima. Ovlašteni organ neće odbiti zahtjev ni po osnovu stranog državljanstva koje je podnosilac zahtjeva stekao nakon 30. aprila 1991. godine.

@@ -1,0 +1,6 @@
+Član 15
+(1) Nosilac stanarskog prava stana napuštenog između 30. 4. 1991. godine i 19. 12. 1998. godine ima pravo da vrati svoj stan ili potražuje drugi stan na teritoriji Brčko distrikta BiH kojim raspolaže Brčko distrikt BiH pod uslovom da je stan na koji je imao stanarsko pravo dodijeljen drugom licu po tada važećem zakonu.
+(2) Nosiocu stanarskog prava, koji je izgubio posjed svog stana primjenom člana 21 Zakona o izmjenama i dopunama Zakona o vraćanju napuštene imovine u zamjenu za stan, koji je vraćen nosiocu stanarskog prava iz 1991. godine, bit će dodijeljen drugi stan kojim raspolaže Brčko distrikt BiH.
+(3) Neraspodijeljeni stanovi bivšeg VSF (vojno stambenog fonda), a koji su vlasništvo Brčko distrikta BiH bit će prvenstveno vraćeni nosiocima stanarskih prava navedenog VSF koji su primjenom odredbi Zakona prethodnog stava ostali bez stana, a koji su imali valjano rješenje nadležne vojne ustanove.
+(4) Zahtjev za ostvarivanje prava iz ovog člana ovlašteno lice može podnijeti nadležnom organu u roku od 30 dana od dana stupanja na snagu ovog zakona. Nadležni organ je dužan riješiti po zahtjevu najkasnije do 31. 12. 2004. godine.
+(5) Stavovi 2 i 3 ovoga člana se ne odnose na stanove koji su dodjeljivani poslije osnivanja Brčko distrikta BiH.

@@ -1,0 +1,5 @@
+III. POSTUPAK VRAĆANJA STANOVA NOSIOCIMA STANARSKOG PRAVA
+Član 12
+(1) Nosilac stanarskog prava stana napuštenog između 30. aprila 1991. godine i 19. decembra 1998. godine, (u daljnjem tekstu: podnosilac zahtjeva), smatrat će se izbjeglim ili raseljenim licem i imat će pravo da se vrati u svoj stan, bez obzira da li je stan registrovan kao napušten ili ne i bez obzira da li je stan korišten u poslovne svrhe poslije 30. aprila 1991. godine, pod uslovom da je zahtjev podnesen u roku određenom relevantnim zakonima.
+(2) Zahtjev se također može podnijeti i za povrat stana koji je oštećen ili uništen, pod uslovom da je nosilac stanarskog prava izgubio posjed stana kojeg potražuje prije 19. decembra 1998. godine. Zahtjev za povrat stana koji je oštećen ili uništen može se podnijeti u roku od 6 mjeseci od dana stupanja na snagu ovoga zakona.
+(3) Pravo iz stavova 1 i 2 ovoga člana, pod istim uslovima, imaju i članovi porodičnog domaćinstva nosioca stanarskog prava koji su se prema važećem zakonu o stambenim odnosima smatrali korisnicima stana, ukoliko je nosilac stanarskog prava u međuvremenu umro ili iz određenih razloga nije podnio ili je odustao od zahtjeva.

@@ -1,0 +1,2 @@
+Član 5
+Postupak za vraćanje nepokretne imovine vlasniku, kao i postupak za vraćanje stana nosiocu stanarskog prava sprovodit će se u skladu sa odredbama Zakona o upravnom postupku Brčko distrikta Bosne i Hercegovine (u daljnjem tekstu: Zakon o upravnom postupku), osim ako ovim zakonom nije drugačije određeno, te u skladu s Poslovnikom o radu koji usvaja Odjel, a koji se objavljuje u Službenom glasniku Brčko distrikta Bosne i Hercegovine. II. POSTUPAK VRAĆANJA IMOVINE PRIVATNIM VLASNICIMA
