@@ -1,0 +1,3 @@
+Član 306
+(1) Dioničar koji je bio prisutan na sjednici skupštine, može podnijeti tužbu radi ukidanja odluke skupštine, samo ako je na zasjedanju skupštine obavijestio skupštinu o svojoj namjeri da će podnijeti tužbu i ako je njegova namjera unesena u zapisnik. Dioničar koji nije bio prisutan na sjednici skupštine, može u sudskom postupku zahtijevati ukidanje skupštinske odluke, samo ako je nezakonito bio spriječen da prisustvuje sjednici ili nije bio pozvan na odgovarajući način ili ako je skupština vodila raspravu o predmetu koji nije bio na dnevnom redu.
+(2) Uprava je dužna da objavi pokretanje postupka o ukidanju odluke na isti način na koji je objavila ukinutu odluku. Pravno dejstvo poništene i ukinute odluke

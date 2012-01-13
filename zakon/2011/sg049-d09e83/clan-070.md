@@ -1,0 +1,3 @@
+Član 70
+(1) Ukoliko su svi ili samo pojedini članovi ovlašteni da upravljaju poslovima društva, svaki od njih je ovlašten da samostalno vodi posao. Ukoliko se međutim, jedan od članova koji je ovlašten da upravlja poslovima, protivi određenom poslu društva, taj posao se neće izvršiti.
+(2) Ako je ugovorom o osnivanju društva, određeno da članovi ovlašteni da upravljaju poslovima društva, mogu upravljati samo zajednički, za izvršenje svakog pojedinog posla potrebno je odobrenje svih članova, osim u slučaju kada bi odlaganje moglo rezultirati gubitkom ili štetom za društvo. Nepoštovanje uputstava i obaveze informisanja

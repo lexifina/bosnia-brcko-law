@@ -1,0 +1,2 @@
+Član 425
+Odluka o promjeni oblika objavljuje se. Imena, adrese i matični brojevi članova uprave i članova nadzornog odbora prijavljuju se, zajedno sa odlukom o promjeni oblika, za upis u Registar. Prijava za upis u Registar sadržavat će original ili ovjerene kopije isprava o njihovom imenovanju. Uz prijavu se također prilažu izvještaji o reviziji uprave i nadzornog odbora kao i izvještaj revizora. Dejstvo upisa u Registar

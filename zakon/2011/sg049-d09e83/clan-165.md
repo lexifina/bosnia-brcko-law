@@ -1,0 +1,3 @@
+Član 165
+(1) Dioničaru koji je u docnji sa uplatom vrijednosti dionica, može se dodijeliti dodatni rok za uplatu, uz upozorenje da je dužan da društvu izvrši povrat primljenih dionica, bez prava na povrat prethodno izvršenih uplata za dionice, ako ne izvrši uplatu vrijednosti dionica u dodatnom roku. Društvo obavještava dioničara o dodatnom roku i posljedicama neplaćanja, preporučenom poštom.
+(2) Dioničar je dužan da preda društvu dionice za koje ne izvrši uplatu nakon dospjelosti, odnosno istekom dodatnog roka. Nakon predaje dionica, društvo može prodati dionice na bilo koji način u skladu sa zakonom ili statutom. Zabrana oslobođenja od plaćanja

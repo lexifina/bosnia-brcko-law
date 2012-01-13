@@ -1,0 +1,5 @@
+Član 178
+(1) Društvo može poništiti dionice i zamijeniti izgubljene ili uništene dionice. Ukoliko se poništenje i zamjena vrše na osnovu zahtjeva dioničara, trošak snosi dioničar.
+(2) Ukoliko su prava iz dionice zastarjela ili na drugi način prestala kao posljedica statusnih promjena, likvidacije ili druge promjene u pravnim odnosima, društvo može poništiti dionice koje mu nisu bile podnesne uprkos pozivu da budu vraćene na ispravku, zamjenu ili poništavanje. Ukoliko je do prestanka prava došlo zbog promjene u nominalnoj vrijednosti dionica, dionice će biti poništene, samo ukoliko je nominalna vrijednost smanjena kako bi se smanjio udio u kapitalu. Registrovane dionice ne mogu se poništavati iz razloga što se promijenilo ime ili adresa dioničara.
+(3) Poziv za vraćanje dionice radi poništenja i zamjene šalje se preporučenom poštom dioničaru i objavljuje u Službenom glasniku. Poništene dionice se opisuju u pozivu dovoljno detaljno, da bi javnost u dovoljnoj mjeri saznala za poništenje dionica.
+(4) Poništene dionice se zamjenjuju novim, koje se predaju dioničarima ili se deponuju na čuvanje, o čemu će se obavijestiti Registar. Zamjena oštećenih dionica

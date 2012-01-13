@@ -1,0 +1,4 @@
+Član 290
+(1) Povjerioci, čija su potraživanja nastala prije objavljivanja upisa u Registar odluke o smanjenju osnovnog kapitala, bit će obezbijeđeni ako prijave potraživanja u roku od šest (6) mjeseci od dana objavljivanja upisa i ako njihova potraživanja ne mogu biti izmirena. Povjerioci se smatraju obaviješteni o ovom pravu, objavljivanjem upisa u Registar odluke o smanjenju osnovnog kapitala.
+(2) Isplate dioničarima bit će izvršavane na osnovu smanjenog osnovnog kapitala, nakon proteka šest (6) mjeseci od objavljivanja upisa u Registar odluke i nakon što su isplaćeni ili obezbijeđeni povjerioci, koji su do tada prijavili svoja potraživanja.
+(3) Povjerioci mogu zahtijevati obezbjeđenje i u slučaju da dioničari nisu u potpunosti isplaćeni za smanjenje osnovnog kapitala. Poništavanje dionica

@@ -1,0 +1,2 @@
+Član 262
+Prijava za upis u Registar uslovnog povećanja osnovnog kapitala, treba da sadrži podatke određene u članu 259 stavu 2 ovog zakona i podatke zahtijevane u skladu s članom 260 ovog zakona, ako je uslovno povećanje izvršeno ulozima u stvarima i pravima i podatke o kontroli takvih uloga. Za podatke zahtijevane u skladu s članom 260 ovog zakona dovoljno je upućivanje na već deponovane isprave u Registru. Zabrana emitovanja dionica

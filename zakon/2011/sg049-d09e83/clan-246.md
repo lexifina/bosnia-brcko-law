@@ -1,0 +1,4 @@
+Član 246
+(1) Statut društva se može izmijeniti ili dopuniti samo odlukom skupštine.
+(2) Za odluku skupštine o izmjenama i dopunama statuta, potrebna je dvotrećinska (2/3) većina zastupljenih dionica s pravom glasa. Statutom društva se može odrediti i drugačija srazmjera, s tim da udio potreban za donošenje odluke, mora da čini većinu u odnosu na zastupljene dionice sa pravom glasa. Statutom se također mogu odrediti i drugi uslovi.
+(3) Ako bi se amandmanom promijenio postojeći odnos između više klasa dionica na štetu jedne klase dionica, punovažnost takve odluke će zavisiti od saglasnosti dioničara koji su pogođeni promjenom. Takvi dioničari donose posebnu odluku o saglasnosti, a za usvajanje takve odluke potrebna je dvotrećinska (2/3) većina zastupljenih dionica. Saglasnost na povećane obaveze i ograničenje prenosa dionica

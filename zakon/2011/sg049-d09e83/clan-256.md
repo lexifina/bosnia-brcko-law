@@ -1,0 +1,2 @@
+Član 256
+Obavještenje o registrovanju povećanja osnovnog kapitala, objavljuje se i sadrži, pored podataka o registrovanju, naznaku vrijednosti dionica nove emisije, podatke o povećanju osnovnog kapitala ulozima u stvarima i pravima i izvještaj revizora o vrijednosti tih uloga. Pri objavljivanju takvih podataka, dovoljno je upućivanje na isprave koje su već deponovane u Registar. Zabrana emitovanja dionica prije upisa

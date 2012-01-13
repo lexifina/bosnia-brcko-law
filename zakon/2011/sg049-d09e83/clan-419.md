@@ -1,0 +1,7 @@
+Član 419
+(1) Dioničko društvo sa manje od pedeset (50) dioničara, može promijeniti oblik u društvo sa ograničenom odgovornošću nakon donošenja odluke skupštine i ispunjavanja svih uslova za osnivanje društva sa ograničenom odgovornošću.
+(2) Odluka o promjeni oblika je punovažna, ukoliko je prihvate vlasnici najmanje dvije trećine (2/3) osnovnog kapitala. Statutom društva može se propisati i veća potrebna
+većina kao i drugi uslovi. Smatrat će se da je dioničar, koji nije bio prisutan niti zastupan, dao svoju saglasnost, ako u roku od tri (3) mjeseca od održavanja sjednice skupštine, ne izjavi pismeni prigovor na promjenu oblika.
+(3) U slučaju društava gdje je promjena oblika izvršena većinskom odlukom, objavljivanje promjene oblika kao tačke na dnevnom redu, smatrat će se valjanim, samo ukoliko sadrži izjavu kojom društvo nudi da otkupi udjele stvorene promjenom oblika, za pravičan iznos, od onih dioničara koji se protive promjeni oblika.
+(4) Odlukom se utvrđuje naziv društva i druge promjene, potrebne radi izvršenja promjene oblika.
+(5) Utvrđivanje nominalnog iznosa udjela može odstupati od nominalnog iznosa dionica. Ukoliko je nominalni iznos udjela utvrđen na način različit od utvrđivanja nominalnog iznosa dionica, na takvu odluku moraju dati saglasnost svi dioničari koji zbog ukupnog nominalnog iznosa svojih dionica ne mogu učestvovati u glasanju. Saglasnost se ovjerava u Sudu. Obavještenje o promjeni oblika

@@ -1,0 +1,5 @@
+Član 81
+(1) Svaki član društva ovlašten je da zastupa društvo i na taj način stvori obaveze društva prema trećim licima, osim ako je ugovorom o osnivanju društva drugačije određeno.
+(2) Ugovorom o osnivanju društva može se odrediti da svi ili neki od članova društva zastupaju društvo samo zajednički. Članovi ovlašteni da zastupaju društvo zajednički mogu izabrati između sebe lice koje će pismeno ovlastiti za izvršenje određenih poslova ili određene vrste poslova. Izjava volje trećeg lica učinjena jednom od članova društva ovlaštenim da zastupa društvo zajednički, smatra se da je učinjena društvu.
+(3) Ugovorom o osnivanju društva, može se odrediti da su članovi društva samo zajedno sa prokuristima, ovlašteni da zastupaju društvo. U ovom slučaju, odredbe prethodnog stava shodno se primjenjuju.
+(4) Lišenje člana prava na zastupanje, odluka o zajedničkom zastupanju, ovlaštenja prokurista u skladu s prethodnim stavom i bilo koja promjena u ovlaštenjima člana da zastupa društvo, upisuje se u Registar. Opozivanje ovlaštenja za zastupanje

@@ -1,0 +1,2 @@
+Član 244
+Ako iznos obaveza na privilegovanu dionicu nije uplaćen u roku od jedne godine ili je u toku jedne godine uplaćen samo djelimično, a ostatak nije uplaćen tokom naredne godine, vlasnici privilegovanih dionica će imati pravo glasa sve dok se zaostale obaveze ne izmire. U ovom slučaju će privilegovane dionice biti uzete u obzir u obračunu osnovnog kapitala, kao što je propisano ovim zakonom ili statutom društva. Pravo glasanja o posebnim pitanjima koja se odnose na privilegovane dionice

@@ -1,0 +1,4 @@
+Član 355
+(1) Svi prethodnici isključenog člana koji su imali interes u njegovom udjelu u društvu, solidarno odgovaraju društvu za uplatu neisplaćenog osnovnog uloga na način naveden u sljedećim stavovima.
+(2) Uplata će se prvo zahtijevati od prvog prethodnika člana. Ukoliko on ne izvrši uplatu u roku od trideset (30) dana od dana zahtjeva za uplatu, uplata se može tražiti od njegovog prethodnika na isti način i tako dalje od ostalih prethodnika, u obrnutom smjeru od njihovog vlasništva.
+(3) Uplatom iznosa koji je u zakašnjenju, prethodnik stiče udio u društvu isključenog člana i može tražiti naknadu štete od isključenog člana i od bilo kog drugog prethodnika, koji se nalazi između njega i isključenog člana, a koji nisu uplatili dugovani iznos osnovnog uloga. Prodaja udjela putem licitacije

@@ -1,0 +1,2 @@
+Član 177
+Ako je ostvarivanje prava koja proističu iz dionice uslovljeno dioničarevim vlasništvom nad dionicom u određenom trajanju, vrijeme trajanja vlasništva nad dionicom se obračunava na osnovu prispijeća dioničarevog zahtjeva za izdavanjem ili prenosom dionice, koji je podnijet društvu. U ovu svrhu, dioničaru se uračunava vrijeme trajanja vlasništva njegovog pravnog prethodnika, ukoliko je stekao dionicu bez naknade ili podjelom zajedničke imovine. Poništavanje dionica

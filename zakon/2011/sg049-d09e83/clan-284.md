@@ -1,0 +1,2 @@
+Član 284
+Uslovni kapital se povećava srazmjerno povećanju osnovnog kapitala. Ako je odluka o uslovnom kapitalu donesena da bi se obezbijedila prava vlasnika zamjenjivih obveznica, osniva se poseban fond, da bi se pokrila razlika između izdate vrijednosti obveznica i veće ukupne nominalne vrijednosti dionica, koje se obezbjeđuju tim obveznicama, ukoliko nije postignut sporazum da razliku pokriju vlasnici obveznica prije razmjene obveznica. Zabrana emitovanja dionica

@@ -1,0 +1,8 @@
+Član 128
+(1) Nakon upisa društva u Registar, potencijalna odgovornost komanditora prema povjeriocima se utvrđuje prema udjelu u kapitalu koji je upisan u Registar.
+(2) Povjerioci nemaju pravo da traže povećanje komanditarovog udjela u kapitalu koji nije upisan u Registar, osim u slučaju da ih društvo obavijesti o povećanju na neki drugi način.
+(3) Ugovor između članova društva kojim se komanditor oslobađa obaveze plaćanja svog udjela u kapitalu ili mu se dozvoljava odgađanje plaćanja, nema pravno dejstvo u odnosu na povjerioce.
+(4) Ako je komanditoru u cijelosti ili djelimično vraćen njegov udio u kapitalu, vraćeni iznos će se, u odnosu na povjerioce, smatrati neplaćenim udjelom u kapitalu. Ako komanditor preuzme svoj udio u dobiti, a njegov udio u kapitalu je i dalje manji od
+iznosa koji je uplaćen za traženi ulog, ili je preuzimanjem svog udjela u dobiti njegov udio u kapitalu smanjen ispod iznosa uplaćenog uloga, isplaćena dodatna dobit će se također smatrati neplaćenim udjelom u kapitalu.
+(5) Komanditor ni u kom slučaju nije dužan da vrati ono što je primio u dobroj vjeri kao dobit na osnovu završnog obračuna u skladu s ovim odjeljkom.
+(6) Ako su komplementari društva isključivo pravna lica, a ulog komanditora u osnovni kapital društva se u cjelini ili djelimično sastoji od udjela bilo kojeg takvog pravnog lica, vrijednost uloženog udjela tog pravnog lica smatra se neplaćenim udjelom u kapitalu. Ovo se, ipak, neće primjenjivati ako se radi o pravnom licu koje je društvo sa neograničenom odgovornošću ili komanditno društvo čiji su članovi fizička lica. Smanjenje udjela u kapitalu

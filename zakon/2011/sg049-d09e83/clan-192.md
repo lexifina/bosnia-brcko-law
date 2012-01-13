@@ -1,0 +1,2 @@
+Član 192
+Ako iz bilo kojeg razloga jedan ili više članova uprave nisu imenovani, njih će po hitnom postupku imenovati Sud na zahtjev zainteresovanih strana. Mandat člana uprave imenovanog od strane Suda ističe kada se na njegovo mjesto imenuje novi član u skladu sa statutom. Član uprave imenovan od strane Suda, ima pravo na naknadu za izvršene usluge i za sve opravdane troškove koje je imao u obavljanju svoje dužnosti.

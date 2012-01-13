@@ -1,0 +1,3 @@
+Član 208
+(1) Ako nadzorni odbor nema kvorum zbog upražnjenih mjesta i ne može da popuni upražnjena mjesta i ako skupština ne može da formira kvorum da bi popunila ta upražnjena mjesta, upražnjena mjesta će biti popunjena imenovanjem od strane Suda na prijedlog uprave, preostalih članova nadzornog odbora ili dioničara koji posjeduju najmanje jednu petinu (1/5) osnovnog kapitala.
+(2) Ako postoje opravdani razlozi, Sud će smijeniti člana nadzornog odbora na osnovu zahtjeva nadzornog odbora ili dioničara koji posjeduju dionice u iznosu od najmanje jedne petine (1/5) osnovnog kapitala. Druga ograničenja za članove nadzornog odbora

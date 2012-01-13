@@ -1,0 +1,4 @@
+Član 276
+(1) Prijava za upis odluke u Registar sadrži bilans na osnovu kojeg je povećan osnovni kapital, izvještaj i mišljenje ovlaštenog revizora i posljednji godišnji završni račun, ako prethodno nisu podneseni. Podnosioci prijave podnose Sudu izjavu da od dana sačinjavanja godišnjeg završnog računa do dana podnošenja molbe, nije došlo do smanjenja imovine, koje bi bilo u suprotnosti sa povećanjem osnovnog kapitala, ako se o povećanju mora odlučiti na dan podnošenja molbe.
+(2) Sud će upisati odluku u Registar, ako je periodični obračun, na kojem se zasniva povećanje osnovnog kapitala, pregledan od strane revizora, najkasnije osam (8) mjeseci prije podnošenja prijave i ukoliko se Sudu dostavi izjava iz prethodnog stava.
+(3) Uz upis odluke u Registar, naznačava se da je povećanje osnovnog kapitala nastupilo iz sredstava društva. Stupanje na snagu povećanja osnovnog kapitala

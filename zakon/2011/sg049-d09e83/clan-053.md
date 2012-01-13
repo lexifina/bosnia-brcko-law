@@ -1,0 +1,15 @@
+Član 53
+(1) Odgovorno lice u preduzeću (član 2 tačka 8 ovog zakona) je dužno da izvršava dužnosti sa pažnjom dobrog privrednika i na način za koji osnovano vjeruje da je u najboljem interesu preduzeća.
+(2) U izvršavanju dužnosti odgovorno lice ima pravo da se osloni na:
+1. informacije, izvještaje i izjave, uključujući i knjigovodstvene izvještaje kao i ostale finansijske podatke, pripremljene ili prezentirane od strane ostalih odgovornih lica ili zaposlenika preduzeća, za koje on osnovano vjeruje da su savjesni i kompetentni po tim pitanjima,
+2. podatke dobijene od pravnih savjetnika, revizora, ili drugih lica u pitanjima za koje vjeruje da su u profesionalnoj ili stručnoj kompetenciji tih lica.
+(3) Odgovorno lice ne postupa sa pažnjom dobrog privrednika, ukoliko se oslanja na podatke za koje zna ili bi trebalo da zna da su netačni.
+(4) Odgovorno lice nije odgovorno za aktivnosti koje preduzima ili propušta da preduzme u svom svojstvu, osim:
+1. ukoliko prekrši ili ne vrši svoje dužnosti u saglasnosti sa ovim članom i
+2. ukoliko je kršenje ili nevršenje dužnosti učinjeno namjerno ili s grubom nepažnjom.
+(5) Odgovorno lice ne smije zaključiti pravni posao u ime i za račun preduzeća, ako će izvršenjem tog posla on ili drugo lice steći korist koja je u suprotnosti sa zakonom, dobrim poslovnim običajima ili odredbama osnivačkog akta, statuta ili drugog akta preduzeća kojim se uređuju primanja zaposlenika (direktan interes).
+(6) Za zaključivanje pravnih poslova preduzeća u kojima odgovorno lice ima indirektan interes, potrebna je saglasnost nadzornog odbora preduzeća, a ukoliko nadzorni odbor nije formiran, saglasnost daje skupština preduzeća ili drugi organ vlasnika kapitala preduzeća.
+(7) Odgovorno lice ima indirektan interes u pravnom poslu preduzeća, ako je stranka u pravnom poslu član porodice odgovornog lica ili drugo pravno lice u kom član porodice odgovornog lica ima materijalni ili finansijski interes, ili je u njemu odgovorno lice.
+(8) U donošenju odluke iz stava 6 ovoga člana ne mogu učestvovati lica koja imaju direktan ili indirektan interes određen u stavovima 5 i 7 ovog člana.
+(9) Preduzeće ne može davati novac na zajam odgovornom licu, niti davati garancije za obaveze odgovornog lica.
+(10) Osim u slučajevima kada postoji opravdan razlog da se osloni na informacije navedene u stavu 2 ovog člana, odgovorno lice koje glasa za raspodjelu dividendi koja je suprotna zakonu ili se saglasi sa dividendom ili drugom raspodjelom u suprotnosti sa zakonom ili aktima preduzeća, lično je odgovoran preduzeću cjelokupnom svojom imovinom za iznos dividendi ili drugih davanja koja premašuju zakonski ili aktom preduzeća dozvoljeni iznos raspodjele. Lice koje je odgovorno za takvu nedozvoljenu dividendu ili drugu raspodjelu, ima pravo na srazmjernu nadoknadu od svakog drugog lica koje je glasalo za raspodjelu ili se saglasio sa raspodjelom, kao i od svakog vlasnika kapitala preduzeća, za iznos koji je to lice prihvatilo. Nadoknada troškova postupka odgovornom licu

@@ -1,0 +1,2 @@
+Član 73
+Ako postoje opravdani razlozi, a naročito ako član društva postupi suprotno standardima ponašanja iz člana 53 ovog zakona ili se pokaže nesposobnim za pravilno upravljanje poslovima, Sud ga može na osnovu zahtjeva svih ostalih članova i u postupku koji je hitan, lišiti prava da upravlja poslovima. Ovaj postupak neće ograničiti ili obustaviti bilo koje drugo pravo. Odricanje od prava upravljanja poslovima

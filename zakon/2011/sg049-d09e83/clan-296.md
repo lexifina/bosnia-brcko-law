@@ -1,0 +1,6 @@
+Član 296
+(1) Društvo može povući dionice prinudno ili sticanjem tih dionica. Prinudno povlačenje je dopustivo ako je dozvoljeno statutom, koji je usvojen prije prinudnog povlačenja dionica.
+(2) Prilikom prinudnog povlačenja primjenjuju se odredbe o redovnom smanjenju osnovnog kapitala. Statutom ili odlukom skupštine utvrđuju se uslovi prinudnog povlačenja i detalji oko izvršenja. Prilikom isplate kompenzacije na koju dioničari imaju pravo prilikom prinudnog povlačenja ili sticanja dionica po osnovu prinudnog povlačenja shodno se primjenjuju odredbe člana 290 stava 2 ovog zakona.
+(3) Odredbe o redovnom smanjenju osnovnog kapitala neće se primjenjivati ako su dionice za koje je ukupno plaćen nominalni ili veći iznos u momentu izdavanja, date besplatno društvu ili su povučene na račun dobiti.
+(4) O smanjenju osnovnog kapitala povlačenjem dionica iz prethodnog stava odlučuje skupština. Odluka će biti usvojena ako je za nju glasala prosta većina. Statutom se može propisati veća većina i drugi uslovi. Uprava prijavljuje smanjenje osnovnog kapitala za upis u Registar.
+(5) U slučajevima iz stava 3 ovog člana, iznos jednak ukupnom nominalnom iznosu povučenih dionica može biti tražen da se uplati na ime rezervi. Stupanje na snagu odluke o smanjenju kapitala

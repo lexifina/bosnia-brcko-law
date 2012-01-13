@@ -1,0 +1,3 @@
+Član 281
+(1) Dionice koje su u vlasništvu društva učestvuju u povećanju osnovnog kapitala.
+(2) Kad se radi o djelimično plaćenim dionicama, povećanje nominalnog iznosa dionica utiče na povećanje osnovnog kapitala. Ako postoje i djelimično plaćene dionice i potpuno plaćene dionice, na povećanje osnovnog kapitala u slučaju potpuno plaćenih dionica utiče povećanje nominalnog iznosa dionica ili izdavanje novih dionica. U odluci o povećanju osnovnog kapitala navodi se način povećanja. Ako je osnovni kapital povećan povećanjem nominalnog iznosa dionica, povećanje će biti od uticaja, tako da iznosi koji ne mogu biti pokriveni ovakvim povećanjem, neće imati uticaja na dionice. Zaštita prava dioničara i trećih lica

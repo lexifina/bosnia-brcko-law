@@ -1,0 +1,3 @@
+Član 79
+(1) Svaki član može podići novac iz blagajne društva za isplaćivanje svog udjela u dobiti za prethodnu poslovnu godinu, u iznosu koji ne prelazi jednu dvadesetinu (1/20) njegovog utvrđenog udjela kapitala na kraju te godine. On isto tako može zahtijevati da mu se isplati njegov udio u dobiti za prethodnu poslovnu godinu koji prelazi pomenuti iznos, osim kada članovi koji su ovlašteni da upravljaju poslovima društva, osnovano utvrde da bi takva raspodjela bila očigledno u nesaglasnosti sa opravdanim potrebama društva.
+(2) Član ne može na drugi način umanjiti svoji udio kapitala, bez saglasnosti svih ostalih članova. Ograničenja prenosa udjela kapitala

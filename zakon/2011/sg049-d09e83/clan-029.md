@@ -1,0 +1,5 @@
+Član 29
+(1) Član društva sa neograničenom odgovornošću, komplementar u komanditnom društvu, vlasnik udjela i član uprave i nadzornog odbora društva sa ograničenom odgovornošću, član uprave i član nadzornog odbora dioničkog društva i prokurist, ne mogu imati to svojstvo, niti biti zaposleni, odnosno zastupnici drugog preduzeća, čije su djelatnosti u konkurentnom odnosu prema djelatnosti prvog preduzeća, niti može biti preduzetnik koji obavlja takvu djelatnost.
+(2) Osnivačkim aktom ili statutom preduzeća može se utvrditi da zabrana iz prethodnog stava traje i poslije gubitka svojstva iz tog stava, ali ne duže od dvije (2) godine, i mogu se odrediti izuzetne okolnosti kada ta lica mogu učestvovati u aktivnostima konkurentnog preduzeća.
+(3) Aktima iz prethodnog stava se mogu odrediti ista ograničenja i za komanditore u komanditnom društvu, odnosno za dioničare u dioničarskom društvu.
+(4) Odredbe ovog člana ne ograničavaju, niti utiču na posebne zabrane konkurencije koje važe za zaposlene u preduzeću. Kršenje zabrane konkurencije

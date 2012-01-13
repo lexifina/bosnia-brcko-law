@@ -1,0 +1,3 @@
+Član 414
+(1) Dioničko društvo, komanditno društvo ili društvo sa ograničenom odgovornošću može prenijeti svoju cjelokupnu svojinu na Distrikt ili na društvo koje je u cijelosti u vlasništvu Distrikta, uz saglasnost Vlade i u skladu sa sporazumom odobrenim i potpisanim od obje strane.
+(2) Na društvo koje prenese svojinu u skladu sa prethodnim stavom primjenjuju se odgovarajuće odredbe ovog zakona o pripojenom društvu. Društvo prestaje da postoji upisom prenosa svojine u Registar, i tada njegova svojina prelazi na društvo sljednika. Naknada za pripojenu svojinu raspodjeljuje se srazmjerno udjelu ili procentu uloga. Pravosnažnost sporazuma

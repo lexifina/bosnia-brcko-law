@@ -1,0 +1,5 @@
+Član 51
+(1) Preduzeće koje je obavezno da izradi godišnji završni račun u skladu s članom 50 ovoga zakona podnosi, osim ako nije drugačije određeno sljedećim stavovima ovog člana, svoj godišnji završni račun za evidentiranje u Registar u roku od dva (2) mjeseca nakon završetka poslovne godine.
+(2) Konsolidovani izvještaji podnosit će se u Registar u roku od tri (3) mjeseca nakon završetka poslovne godine.
+(3) Preduzeća koja su dužna da obave reviziju svojih godišnjih završnih računa prema članu 35 ovog zakona podnosit će ih u Registar u roku od trideset (30) dana nakon prijema obavještenja o reviziji, ali ne kasnije od osam (8) mjeseci nakon završetka poslovne godine.
+(4) Izvještaj upisan u Registar sadržavat će ovjerenu odluku ili rješenje nadležnog tijela ili lica u preduzeću ovlaštenog da daje saglasnost prema članu 33 ovog zakona, uz koju će se priložiti i potvrda potpisana od strane finansijskog ili drugog odgovarajućeg direktora preduzeća, a kojom se potvrđuje da su podaci u izvještaju tačni i potpuni i da je izvještaj pripremljen u skladu sa važećim propisima. Javnost podataka

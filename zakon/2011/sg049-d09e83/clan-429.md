@@ -1,0 +1,3 @@
+Član 429
+(1) Za promjenu oblika društva sa ograničenom odgovornošću u komanditno društvo, potrebna je odluka skupštine članova i pristupanje društvu najmanje jednog komplementara. Pristupanje komplementara društvu se ovjerava.
+(2) Izvod iz računa u kome su imovina i obaveze društva utvrđeni vrijednosno na dan obračuna dostavlja se skupštini članova, koja odlučuje o promjeni oblika. Izvod iz obračuna sačinjava se tako da glasi na datum od kog komplementari dijele dobit i gubitke društva. Ukoliko taj datum prethodi danu donošenja odluke o promjeni oblika, obračun se sačinjava za najviše šestomjesečni period koji prethodi sjednici. Obračun se prilaže uz zapisnik. Obavještenje o promjeni oblika

@@ -1,0 +1,4 @@
+Član 31
+(1) Preduzeće koje ima sjedište u Distriktu ili posluje u skladu sa zakonima Distrikta, vodit će poslovne knjige, pripremati obračune i predavati godišnje završni račun u skladu sa odredbama ovog zakona i drugih zakona i propisa Distrikta. Preduzeće će postupati u skladu sa Zakonom o računovodstvu, Međunarodnim računovodstvenim standardima i Međunarodnim kodeksom računovodstvenih načela.
+(2) Računovodstveni iskazi moraju istinito i objektivno prikazivati stanje sredstava, izvore sredstava, prihoda i rashoda. Opći zahtjevi za pripremanje finansijskih izvještaja su tačnost, stalnost, dosljednost, bilježenje promjena u trenutku njihovog pojavljivanja, pouzdanost, relevantnost, vjerodostojnost, uporedivost, razumljivost, kompletnost,
+opreznost, neutralnost, akrualna osnova, kao i drugi zahtjevi u skladu sa zakonom i drugim propisom. Mala, srednja i velika preduzeća

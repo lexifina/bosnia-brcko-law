@@ -1,0 +1,3 @@
+Član 225
+(1) Skupština se saziva ako dioničari čiji ukupan iznos dionica čini jednu petinu (1/5) ili više osnovnog kapitala podnesu pismeni zahtjev i navedu svrhu i razloge za održavanje skupštine. Zahtjev se podnosi upravi. Statutom društva se mogu utvrditi drugi načini ostvarivanja prava na sazivanje skupštine. Po prijemu takvog zahtjeva, uprava saziva skupštinu na način predviđen u članu 224 ovog zakona.
+(2) Ako uprava ne sazove skupštinu u roku od trideset (30) dana od prijema takvog zahtjeva, dioničari koji su podnijeli zahtjev mogu sami sazvati skupštinu. Prethodno obavještenje o sjednici skupštine

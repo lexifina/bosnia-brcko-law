@@ -1,0 +1,7 @@
+Član 370
+(1) Udio člana i sva prava i obaveze koje iz toga proističu prestaju njegovim istupanjem ili isključenjem.
+(2) Preostali članovi će u roku od tri (3) mjeseca nakon istupanja ili isključenja člana, donijeti odluku o smanjenju osnovnog kapitala ili srazmjernom povećanju sopstvenog udjela, da se osnovni kapital dovede na nivo koji je postojao prije istupanja ili isključenja člana. Ukoliko preostali članovi ne preduzmu jednu od ove dvije mjere u datom roku, smatrat će se da su saglasni da se osnovni kapital umanji i uprava će biti obavezna da preduzme mjere u skladu s članom 387 ovog zakona.
+(3) Član koji istupa iz društva, ima pravo na povrat tržišne vrijednosti svog udjela u momentu istupanja. Društvo je dužno da mu isplati taj iznos u roku od (1) jedne godine od dana povlačenja. Član koji je u društvo unio ulog u stvarima i pravima, može dobiti tu imovinu nazad kao dio svog udjela, ali ne prije isteka roka od tri (3) mjeseca od dana istupanja.
+(4) Član koji je isključen iz društva ima pravo na povrat tržišne vrijednosti svog udjela u momentu isključenja. Društvo je dužno da mu isplati taj iznos u roku od šest (6) godina od dana isključenja. Ukoliko društvo ili članovi zahtijevaju odštetu od isključenog člana, društvo može odložiti povrat vrijednosti udjela isključenog člana, do pravosnažne odluke Suda ili do sporazuma između društva i isključenog člana.
+ODJELJAK 3: UPRAVLJANJE DRUŠTVOM
+Prava članova
