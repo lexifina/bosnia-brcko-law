@@ -1,0 +1,8 @@
+Član 132
+Razlozi za pritvor
+(1) Ako postoji osnovana sumnja da je određeno lice učinilo krivično djelo, pritvor mu se može odrediti:
+a) ako se krije ili ako postoje druge okolnosti koje ukazuju na opasnost od bjekstva,
+b) ako postoji osnovana bojazan da će uništiti, sakriti, izmijeniti ili krivotvoriti dokaze ili tragove važne za krivični postupak ili ako naročite okolnosti ukazuju da će ometati krivični postupak uticajem na svjedoke, saučesnike ili prikrivače,
+c) ako naročite okolnosti opravdavaju bojazan da će ponoviti krivično djelo ili da će dovršiti pokušano krivično djelo ili da će učiniti krivično djelo kojim prijeti, a za ta krivična djela može se izreći kazna zatvora tri godine ili teža kazna,
+d) ako se radi o krivičnom djelu za koje se može izreći kazna zatvora deset godina ili teža kazna a koje je posebno teško s obzirom na način izvršenja ili posljedice krivičnog djela, ako bi puštanje na slobodu rezultiralo stvarnom prijetnjom narušavanja javnog reda.
+(2) U slučaju iz stava 1 tačke b ovog člana, pritvor će se ukinuti čim se osiguraju dokazi zbog kojih je pritvor određen.

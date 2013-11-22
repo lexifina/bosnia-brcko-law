@@ -1,0 +1,2 @@
+Član 176
+Shodna primjena odredbi drugog zakona U slučajevima koji nisu predviđeni ovim zakonom dostavljanje se vrši po odredbama koje važe za parnični postupak pred sudom.

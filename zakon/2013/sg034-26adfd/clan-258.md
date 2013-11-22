@@ -1,0 +1,7 @@
+Član 258
+Utvrđivanje identiteta optuženog i davanje uputstava
+(1) Sudija, odnosno predsjednik vijeća uzima od optuženog lične podatke (član 78) da bi utvrdio njegov identitet.
+(2) Nakon utvrđivanja identiteta optuženog, sudija, odnosno predsjednik vijeća će upitati stranke i branioca da li imaju primjedbe na sastav vijeća i nadležnost suda.
+(3) Nakon utvrđivanja identiteta optuženog, sudija, odnosno predsjednik vijeća će uputiti svjedoke i vještake u prostoriju van sudnice za njih određenu, gdje će čekati dok budu pozvani da svjedoče. Sudija, odnosno predsjednik vijeća će upozoriti svjedoke da dok čekaju, o svojim iskazima ne razgovaraju s drugim svjedocima. Na prijedlog tužioca, optuženog ili branioca, sudija, odnosno predsjednik vijeća će odobriti onim vještacima na koje se prijedlog odnosi da prisustvuju toku pretresa u sudnici.
+(4) Ukoliko je prisutan oštećeni, ali još nije podnio imovinskopravni zahtjev, sudija, odnosno predsjednik vijeća će ga poučiti da može podnijeti taj zahtjev do zaključenja glavnog pretresa.
+(5) Sudija, odnosno predsjednik vijeća može da preduzme neophodne mjere radi sprečavanja međusobnog komuniciranja svjedoka, vještaka i stranaka.

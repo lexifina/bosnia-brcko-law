@@ -1,0 +1,4 @@
+Član 182
+Sumnja u dopuštenost izvršenja
+(1) Ako se pojavi sumnja u dopuštenost izvršenja sudske odluke ili o računanju kazne ili ako u pravosnažnoj presudi nije odlučeno o uračunavanju pritvora ili ranije izdržane kazne ili uračunavanje nije pravilno obavljeno, o tome će odlučiti posebnim rješenjem sudija, odnosno predsjednik vijeća koje je sudilo u prvom stepenu. Žalba ne zadržava izvršenje rješenja, osim ako sud ne odredi drugačije.
+(2) Ako se pojavi sumnja o tumačenju sudske odluke, o tome odlučuje sudija, odnosno vijeće koje je donijelo pravosnažnu odluku.

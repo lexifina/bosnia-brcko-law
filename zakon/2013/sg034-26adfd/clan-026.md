@@ -1,0 +1,5 @@
+Član 26
+Razdvajanje postupka
+(1) Sud može iz važnih razloga ili iz razloga cjelishodnosti do završetka glavnog pretresa odlučiti da se postupak za pojedina krivična djela ili protiv pojedinih optuženih razdvoji i posebno dovrši.
+(2) Rješenje o razdvajanju postupka donosi sudija, odnosno vijeće, po saslušanju stranaka i branioca.
+(3) Protiv rješenja kojim je određeno razdvajanje postupka ili kojim je odbijen prijedlog za razdvajanje postupka nije dopuštena žalba.

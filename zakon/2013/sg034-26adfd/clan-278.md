@@ -1,0 +1,2 @@
+Član 278
+Završetak glavnog pretresa Nakon završnih riječi, sudija, odnosno predsjednik vijeća objavljuje da je glavni pretres završen, a sud se povlači na vijećanje i glasanje radi donošenja presude.

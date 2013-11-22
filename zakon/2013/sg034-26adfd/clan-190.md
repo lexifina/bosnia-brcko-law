@@ -1,0 +1,2 @@
+Član 190
+Nagrada i nužni izdaci branioca Nagradu i nužne izdatke branioca dužno je da plati zastupano lice, bez obzira na to ko je po odluci suda dužan da snosi troškove krivičnog postupka, osim ako po odredbama ovog zakona nagrada i nužni izdaci branioca padaju na teret sredstava suda. Ako je osumnjičenom, odnosno optuženom bio postavljen branilac, a plaćanjem nagrade i nužnih izdataka bi bilo dovedeno u pitanje njegovo izdržavanje ili izdržavanje lica koja je obavezan da izdržava, nagrada i nužni izdaci branioca isplatit će se iz sredstava suda.

@@ -1,0 +1,2 @@
+Član 33
+Valjanost radnji preduzetih nakon podnošenja zahtjeva za izuzeće Kad sudija sazna da je podnesen zahtjev za njegovo izuzeće, dužan je odmah da obustavi svaki rad na predmetu i ne može potpisati ni jednu sudsku odluku iz člana 163 ovog zakona (presuda, rješenje, naredba), a ako se radi o izuzeću iz člana 29 tačke f) ovog zakona, može do donošenja rješenja o zahtjevu preduzimati samo one radnje za koje postoji opasnost od odlaganja.

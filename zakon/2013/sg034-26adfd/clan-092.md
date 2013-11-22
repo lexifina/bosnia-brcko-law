@@ -1,0 +1,3 @@
+Odjeljak 6 - Uviđaj i rekonstrukcija
+Član 92
+Preduzimanje uviđaja Uviđaj se preduzima kada je za utvrđivanje neke važne činjenice u postupku potrebno neposredno opažanje.

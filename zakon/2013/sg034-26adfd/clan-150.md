@@ -1,0 +1,2 @@
+Član 150
+Kažnjavanje lica koja vrijeđaju sud Sud će kazniti novčanom kaznom do 5.000 KM, tužioca, branioca, opunomoćenika, zakonskog zastupnika i oštećenog koji u podnesku ili u usmenoj riječi vrijeđaju sud. Protiv rješenja o kažnjavanju dopuštena je žalba. O kažnjavanju tužioca izvještava se Pravosudna komisija Brčko distrikta BiH (Visoko sudsko i tužilačko vijeće Bosne i Hercegovine), a o kažnjavanju branioca izvještava se nadležna advokatska komora.

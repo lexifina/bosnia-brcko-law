@@ -1,0 +1,2 @@
+Član 311
+Odbacivanje žalbe kao neblagovremene Žalba će se odbaciti rješenjem kao neblagovremena ako se utvrdi da je podnesena nakon proteka zakonskog roka za njeno podnošenje.

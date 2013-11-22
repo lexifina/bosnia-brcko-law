@@ -1,0 +1,2 @@
+Član 200
+Odlučivanje o poništavanju određenog pravnog posla Ako se imovinskopravni zahtjev odnosi na poništavanje određenog pravnog posla, a sud utvrdi da je zahtjev osnovan, izreći će u presudi potpuno ili djelimično poništavanje tog pravnog posla, s posljedicama koje otuda proističu, ne dirajući u prava trećih lica.

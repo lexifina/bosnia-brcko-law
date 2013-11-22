@@ -1,0 +1,5 @@
+Član 300
+Odluke o krivičnopravnoj sankciji, troškovima postupka, imovinskopravnom zahtjevu i objavljivanju presude
+(1) Presuda se može pobijati zbog odluke o kazni i uslovnoj osudi kad tom odlukom nije prekoračeno zakonsko ovlaštenje, ali sud nije pravilno odmjerio kaznu s obzirom na okolnosti koje utiču da kazna bude veća ili manja i zbog toga što je sud primijenio ili nije primijenio odredbe o ublažavanju kazne, o oslobađanju od kazne, ili o uslovnoj osudi, iako su za to postojali zakonski uslovi.
+(2) Odluka o mjeri bezbjednosti ili o oduzimanju imovinske koristi može se pobijati ako ne postoji povreda zakona iz člana 298 tačke e) ovog zakona, ali je sud nepravilno donio ovu odluku ili nije izrekao mjeru bezbjednosti, odnosno oduzimanje imovinske koristi, iako su za to postojali zakonski uslovi. Iz istih razloga može se pobijati odluka o troškovima krivičnog postupka.
+(3) Odluka o imovinskopravnom zahtjevu, kao i odluka o objavljivanju presude putem sredstava javnog informisanja može se pobijati kad je sud o ovim pitanjima donio odluku protivno zakonskim odredbama.

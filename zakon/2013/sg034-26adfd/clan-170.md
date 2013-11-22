@@ -1,0 +1,4 @@
+Član 170
+Posredno dostavljanje
+(1) Pismena za koja u ovom zakonu nije određeno da se moraju lično dostaviti dostavljaju se također lično, ali takva pismena u slučaju da se primalac ne zatekne u stanu ili na radnom mjestu mogu se predati nekome od njegovih odraslih članova domaćinstva, koji je dužan da primi pismeno. Ako se oni ne zateknu u stanu pismeno se predaje komšiji, ako on na to pristane. Ako se dostavljanje obavlja na radnom mjestu lica kome se pismeno ima dostaviti, a to lice se tamo ne zatekne, pismeno se može uručiti licu ovlaštenom za prijem pošte koje je dužno da primi pismeno ili licu koje je zaposleno na istom mjestu, ako ono pristane da primi pismeno.
+(2) Ako se utvrdi da je lice kome se pismeno dostavlja odsutno i da mu lice iz stava 1 ovog člana zbog toga ne može pismeno na vrijeme predati, pismeno će se vratiti uz naznačenje gdje se odsutni nalazi.

@@ -1,0 +1,3 @@
+GLAVA XVIII - OSTALE ODREDBE
+Član 205
+Obustava postupka u slučaju smrti osumnjičenog, odnosno optuženog Kad se u toku krivičnog postupka ustanovi da je osumnjičeni, odnosno optuženi umro, postupak će se obustaviti.

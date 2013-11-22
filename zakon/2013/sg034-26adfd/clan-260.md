@@ -1,0 +1,5 @@
+Član 260
+Čitanje optužnice i uvodna izlaganja
+(1) Glavni pretres počinje čitanjem optužnice. Optužnicu čita tužilac.
+(2) Nakon čitanja optužnice, sudija, odnosno predsjednik vijeća upitat će optuženog da li je razumio njene navode. Ako sudija, odnosno predsjednik vijeća ustanovi da optuženi nije razumio optužnicu, ukratko će je izložiti optuženom na način koji mu je razumljiv. Nakon toga tužilac će ukratko iznijeti dokaze na kojima zasniva optužnicu.
+(3) Optuženi ili njegov branilac mogu nakon toga izložiti koncept odbrane.

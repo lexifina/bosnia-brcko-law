@@ -1,0 +1,8 @@
+Član 138
+Određivanje pritvora nakon izricanja presude
+(1) Kad izrekne presudu na kaznu zatvora sud može da odredi ili produži pritvor, ako je to neophodno radi nesmetanog vođenja krivičnog postupka uzimajući u obzir sve okolnosti vezane za izvršenje krivičnog djela, odnosno ličnosti učinioca. Ako izrekne presudu na kaznu zatvora od pet godina ili težu kaznu sud će uvijek odrediti ili produžiti pritvor. U ovim slučajevima donosi se posebno rješenje, a žalba protiv rješenja ne zadržava njegovo izvršenje.
+(2) Pritvor će se ukinuti ako je optuženi oslobođen od optužbe ili je optužba odbijena osim iz razloga nenadležnosti suda ili ako je oglašen krivim, a oslobođen od kazne ili je osuđen samo na novčanu kaznu ili je uslovno osuđen ili je zbog uračunavanja pritvora kaznu već izdržao.
+(3) Poslije izricanja prvostepene presude, pritvor može trajati najduže još devet mjeseci. Ako za to vrijeme ne bude izrečena drugostepena presuda kojom se prvostepena presuda preinačava ili potvrđuje, pritvor će se ukinuti i optuženi pustiti na slobodu. Ako u roku od devet mjeseci bude izrečena drugostepena odluka kojom se prvostepena presuda ukida, pritvor može trajati najduže još jednu godinu od izricanja drugostepene odluke.
+(4) Na zahtjev optuženog, koji se poslije izricanja kazne zatvora nalazi u pritvoru, sudija, odnosno predsjednik vijeća može optuženog rješenjem uputiti u ustanovu za izdržavanje kazne i prije pravosnažnosti presude.
+(5) Pritvor se uvijek ukida istekom izrečene kazne.
+(6) Optuženi koji se nalazi u pritvoru, a presuda kojom mu je izrečena kazna zatvora je postala pravosnažna, ostat će u pritvoru do upućivanja na izdržavanje kazne a najduže do isteka trajanja izrečene kazne.

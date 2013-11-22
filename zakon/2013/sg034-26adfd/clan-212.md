@@ -1,0 +1,6 @@
+Član 212
+Davanje podataka iz kaznene evidencije
+(1) Podaci iz kaznene evidencije mogu se dati sudovima, tužilaštvima i organima unutrašnjih poslova u vezi s krivičnim postupkom koji se vodi protiv lica koje je ranije bilo osuđivano, kao i nadležnim organima za izvršenje krivičnopravnih sankcija i nadležnim organima koji učestvuju u postupku davanja amnestije, pomilovanja ili brisanja osude.
+(2) Podaci iz kaznene evidencije mogu se, na obrazloženi zahtjev, dati i državnim organima ako još traju određene mjere sigurnosti ili pravne posljedice osude.
+(3) Građanima se, na njihov zahtjev, mogu davati podaci o njihovoj osuđivanosti ili neosuđivanosti ako su im ti podaci potrebni radi ostvarivanja njihovih prava.
+(4) Niko nema pravo da traži od građana da podnose dokaze o svojoj osuđivanosti, odnosno neosuđivanosti.

@@ -1,0 +1,2 @@
+Član 80
+Ispitivanje preko tumača Ispitivanje osumnjičenog obavit će se preko tumača u slučajevima iz člana 87 ovog zakona.

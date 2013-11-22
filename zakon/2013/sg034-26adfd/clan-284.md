@@ -1,0 +1,5 @@
+Član 284
+Presuda kojom se optuženi oslobađa od optužbe Presudu kojom se optuženi oslobađa od optužbe, sud će izreći:
+a) ako djelo za koje se optuženi optužuje po zakonu nije krivično djelo;
+b) ako postoje okolnosti koje isključuju krivičnu odgovornost optuženog;
+c) ako nije dokazano da je optuženi učinio krivično djelo za koje se optužuje.

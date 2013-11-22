@@ -1,0 +1,5 @@
+Odjeljak 5 - Zapisnik o glavnom pretresu
+Član 253
+Način vođenja zapisnika
+(1) O radu na glavnom pretresu vodi se zapisnik. Ako je glavni pretres sniman u skladu s članom 155 ovog zakona, prepis preduzete radnje će se na opravdan zahtjev stranaka i branioca dostaviti strankama i braniocu najkasnije u roku od tri dana od preduzete radnje na glavnom pretresu. O opravdanosti zahtjeva odlučuje sudija, odnosno predsjednik vijeća.
+(2) Sudija, odnosno predsjednik vijeća može narediti da se određeni dio zapisnika pročita ili reprodukuje, a pročitat će ga ili reprodukovati uvijek ako to zahtijevaju stranke, branilac ili lice čija se izjava unosi u zapisnik.

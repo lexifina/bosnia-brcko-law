@@ -1,0 +1,4 @@
+Član 96
+Naredba o vještačenju
+(1) Pismenu naredbu za vještačenje izdaje tužilac ili sud. U naredbi će se navesti činjenice o kojima se vrši vještačenje.
+(2) Ako za određenu vrstu vještačenja postoji stručna ustanova ili se vještačenje može izvesti u okviru državnog organa, takva vještačenja, a posebno složenija, povjerit će se, po pravilu, takvoj ustanovi, odnosno organu. U tom slučaju, ta ustanova, odnosno organ određuje jednog ili više stručnjaka koji će izvršiti vještačenje.

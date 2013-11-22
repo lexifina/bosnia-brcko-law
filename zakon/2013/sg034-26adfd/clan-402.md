@@ -1,0 +1,4 @@
+Član 402
+Prijedlog osuđenog za brisanje osude
+(1) Ako nadležni organ ne donese rješenje o brisanju osude, osuđeni može da traži da se utvrdi da je brisanje osude nastupilo po zakonu.
+(2) Ako nadležni organ ne postupi po zahtjevu osuđenog u roku od 30 dana od dana prijema zahtjeva, osuđeni može tražiti da sud donese rješenje o brisanju osude.

@@ -1,0 +1,5 @@
+Član 317
+Pretres pred Apelacionim sudom
+(1) Odredbe koje se odnose na glavni pretres u prvostepenom postupku shodno se primjenjuju i na pretres pred Apelacionim sudom.
+(2) Ako Apelacioni sud ustanovi da je potrebno ponovo izvesti neki od već izvedenih dokaza u prvostepenom postupku, iskazi saslušanih svjedoka i vještaka i pismeni nalaz i mišljenje bit će prihvaćeni kao dokazi i mogu biti pročitani ili reprodukovani ukoliko su ti svjedoci i vještaci prilikom svjedočenja bili unakrsno ispitani od suprotne stranke ili branioca, ili nisu bili unakrsno ispitani od suprotne stranke ili branioca iako im je to bilo omogućeno, kao i u slučaju ako je to ovim zakonom drugačije određeno, te ukoliko se radi o dokazima iz člana 261 stava 2 tačke e) ovog zakona.
+(3) Ostale dokaze koji su pravilno izvedeni u prvostepenom postupku Apelacioni sud nije dužan ponovo da izvodi na pretresu, ali je obavezan određeno naznačiti koji su to dokazi i navesti da će oni biti uvršteni u dokazni materijal pri donošenju drugostepene odluke.

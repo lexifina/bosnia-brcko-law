@@ -1,0 +1,6 @@
+Član 239
+Obaveze sudije, odnosno predsjednika vijeća
+(1) Sudija, odnosno predsjednik vijeća rukovodi glavnim pretresom.
+(2) Dužnost sudije, odnosno predsjednika vijeća je da se stara za svestrano pretresanje predmeta i otklanjanje svega što odugovlači postupak, a ne doprinosi razjašnjenju stvari.
+(3) Ukoliko ovim zakonom nije drugačije propisano, o prijedlozima stranaka i branioca odlučuje sudija, odnosno predsjednik vijeća.
+(4) Odluke sudije, odnosno predsjednika vijeća se uvijek objavljuju i, s kratkim obrazloženjem razmatranih činjenica, unose u zapisnik o glavnom pretresu.

@@ -1,0 +1,6 @@
+Član 218
+Nadzor tužioca nad radom ovlaštenih službenih lica
+(1) Ako postoje osnovi sumnje da je izvršeno krivično djelo s propisanom kaznom zatvora preko pet godina, ovlašteno službeno lice je dužno odmah obavijestiti tužioca i pod njegovim nadzorom preduzeti potrebne mjere da se pronađe učinilac krivičnog djela, da se spriječi skrivanje ili bjekstvo osumnjičenog ili saučesnika, da se otkriju i sačuvaju tragovi krivičnog djela i predmeti koji mogu poslužiti kao dokazi, te da se prikupe sve informacije koje mogu biti korisne u krivičnom postupku.
+(2) Ako postoje osnovi sumnje da je izvršeno krivično djelo iz stava 1 ovog člana, ovlašteno službeno lice dužno je u slučaju opasnosti od odlaganja preduzeti neophodne radnje radi izvršenja zadataka iz stava 1 ovog člana. Prilikom preduzimanja ovih radnji, ovlašteno službeno lice dužno je postupati po ovom zakonu. O svemu što je preduzeto ovlašteno službeno lice dužno je odmah obavijestititi tužioca i dostaviti prikupljene predmete koji
+mogu poslužiti kao dokaz.
+(3) Ako postoje osnovi sumnje da je izvršeno krivično djelo za koje je zakonom propisana kazna zatvora do pet godina, ovlašteno službeno lice je dužno obavijestiti tužioca o svim raspoloživim informacijama, radnjama i mjerama koje je preduzela najkasnije sedam dana od dana saznanja o postojanju osnova sumnje da je krivično djelo počinjeno.

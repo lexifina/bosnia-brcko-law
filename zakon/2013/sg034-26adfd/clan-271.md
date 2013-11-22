@@ -1,0 +1,4 @@
+Član 271
+Otpuštanje svjedoka i vještaka
+(1) Saslušani svjedoci i vještaci ostat će ispred sudnice ukoliko ih sudija, odnosno predsjednik vijeća potpuno ne otpusti nakon ispitivanja od strane stranaka i branilaca, odnosno suda.
+(2) Na prijedlog stranke ili branioca ili po službenoj dužnosti, sudija, odnosno predsjednik vijeća može narediti da ispitani svjedoci i vještaci napuste sudnicu i da budu naknadno pozvani i ponovo ispitani u prisustvu ili odsustvu ostalih svjedoka i vještaka.

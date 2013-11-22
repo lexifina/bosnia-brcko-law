@@ -1,0 +1,6 @@
+Član 223
+Sudsko obezbjeđenje dokaza
+(1) Kada je u interesu pravde da se svjedok sasluša kako bi se njegov iskaz koristio na glavnom pretresu zato što postoji mogućnost da neće biti dostupan sudu za vrijeme suđenja, sudija za prethodni postupak može, na prijedlog stranaka ili branioca, narediti da se izjava tog svjedoka uzme na posebnom saslušanju. Saslušanje će se sprovesti u skladu s članom 262 ovog zakona.
+(2) Prije upotrebe izjave svjedoka iz stava 1 ovog člana, stranka, odnosno branilac koji traži da se izjava uzme u obzir kao dokaz na glavnom pretresu mora dokazati da je, i pored svih uloženih napora da se obezbijedi prisustvo svjedoka na glavnom pretresu, svjedok ostao nedostupan. Ova izjava se ne može koristiti ako je svjedok prisutan na glavnom pretresu.
+(3) Ukoliko stranke ili branilac smatraju da će doći do nestanka određenog dokaza, odnosno do nemogućnosti izvođenja takvog dokaza na glavnom pretresu, predložit će sudiji za prethodni postupak preduzimanje neophodne radnje u cilju obezbjeđenja dokaza. Ako sudija za prethodni postupak prihvati prijedlog o preduzimanju radnje dokazivanja, obavijestit će o tome stranke i branioca.
+(4) Ako sudija za prethodni postupak odbije prijedlog iz stavova 1 i 3 ovog člana, donijet će rješenje protiv kojeg se može izjaviti žalba Apelacionom sudu.

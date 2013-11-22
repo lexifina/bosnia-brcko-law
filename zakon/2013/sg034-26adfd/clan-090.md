@@ -1,0 +1,2 @@
+Član 90
+Snimanje saslušanja svjedoka audio ili audio-vizuelnim sredstvima Saslušanje svjedoka se može snimati audio ili audio-vizuelnim sredstvima u svim fazama postupka. Saslušanje se mora snimiti u slučajevima kada se radi o maloljetnim licima koja nisu navršila šesnaest godina života i koja su oštećena krivičnim djelom, kao i ako postoje osnove za bojazan da se svjedok neće moći saslušati na glavnom pretresu.

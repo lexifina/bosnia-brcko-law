@@ -1,0 +1,2 @@
+Član 221
+Uviđaj i vještačenje Ovlašteno službeno lice, nakon obavještavanja tužioca, dužno je izvršiti uviđaj i odrediti potrebna vještačenja, osim pregleda, obdukcije i ekshumacije leša. Ako je tužilac prisutan na licu mjesta u toku vršenja uviđaja od strane ovlaštenih službenih lica, može tražiti da ovlašteno službeno lice izvrši određene radnje koje on smatra neophodnim. Sve radnje preduzete tokom uviđaja moraju se dokumentovati i detaljno obrazložiti kako u zapisniku, tako i u posebnom službenom izvještaju.

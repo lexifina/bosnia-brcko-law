@@ -1,0 +1,4 @@
+Član 194
+Podnošenje prijedloga za ostvarivanje imovinskopravnog zahtjeva
+(1) Prijedlog za ostvarivanje imovinskopravnog zahtjeva u krivičnom postupku može da podnese lice koje je ovlašteno da takav zahtjev ostvaruje u parničnom postupku.
+(2) Ako je usljed krivičnog djela oštećena imovina Brčko distrikta Bosne i Hercegovine, organ ovlašten zakonom da se stara o zaštiti te imovine može u krivičnom postupku učestvovati u skladu s ovlaštenjima koja ima na osnovu tog zakona.

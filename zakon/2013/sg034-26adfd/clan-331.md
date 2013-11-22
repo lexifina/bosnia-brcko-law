@@ -1,0 +1,5 @@
+Član 331
+Odlučivanje o zahtjevu
+(1) Sud će rješenjem zahtjev odbaciti ako na osnovu samog zahtjeva i spisa ranijeg postupka utvrdi da je zahtjev podnijelo neovlašteno lice ili da nema zakonskih uslova za ponavljanje postupka ili da su činjenice i dokazi na kojima se zahtjev zasniva već bili izneseni u ranijem zahtjevu za ponavljanje postupka koji je odbijen pravosnažnim rješenjem suda ili da činjenice i dokazi očigledno nisu podobni da se na osnovu njih dopusti ponavljanje ili da podnosilac zahtjeva nije postupio po članu 330 stavu 2 ovog zakona.
+(2) Ako sud ne odbaci zahtjev, dostavit će se prepis zahtjeva protivnoj stranci koja ima pravo u roku od osam dana odgovoriti na zahtjev. Kad sudu stigne odgovor na zahtjev ili kad protekne rok za davanje odgovora, predsjednik vijeća odredit će da se izvide činjenice i pribave dokazi na koje se poziva u zahtjevu i u odgovoru na zahtjev.
+(3) Poslije provedenih izviđaja sud će rješenjem odmah odlučiti o zahtjevu za ponavljanje postupka na način iz člana 332 stava 2 ovog člana.

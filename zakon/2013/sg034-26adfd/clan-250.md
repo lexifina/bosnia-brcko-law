@@ -1,0 +1,6 @@
+Odjeljak 4 - Odlaganje i prekidanje glavnog pretresa
+Član 250
+Razlozi za odlaganje glavnog pretresa
+(1) Na zahtjev stranaka ili branioca glavni pretres se može odložiti rješenjem sudije, odnosno predsjednika vijeća ako treba pribaviti nove dokaze ili ako je optuženi nakon izvršenog krivičnog djela nesposoban da prisustvuje glavnom pretresu ili ako postoje druge smetnje da se glavni pretres uspješno sprovede.
+(2) Rješenje kojim se odlaže glavni pretres unijet će se u zapisnik i, po mogućnosti, odredit će se dan i sat nastavka glavnog pretresa. Sudija, odnosno predsjednik vijeća će također narediti obezbjeđenje dokaza koji se mogu izgubiti ili uništiti zbog odlaganja glavnog pretresa.
+(3) Protiv rješenja iz stava 2 ovog člana nije dopuštena žalba.

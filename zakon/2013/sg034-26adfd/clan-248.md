@@ -1,0 +1,5 @@
+Član 248
+Nedolazak branioca na glavni pretres
+(1) Ako branilac koji je uredno pozvan ne dođe na glavni pretres, glavni pretres će se odložiti. Sudija, odnosno predsjednik vijeća pozvat će branioca da objasni razloge svog nedolaska. Na osnovu izjave branioca, sudija, odnosno predsjednik vijeća će utvrditi da li branilac treba biti kažnjen. Kada se branilac u ovakvim slučajevima kažnjava, obavještava se advokatska komora čiji je on član.
+(2) Sudija, odnosno predsjednik vijeća može kazniti novčanom kaznom do 5.000 KM branioca koji se nije odazvao na uredan poziv suda za glavni pretres i nije opravdao svoj izostanak.
+(3) Ako je optuženom određen novi branilac ili je izabrao novog branioca, glavni pretres će biti odložen. Sudija, odnosno predsjednik vijeća će dati novom braniocu dovoljno vremena za pripremu odbrane, a taj vremenski period ne može biti kraći od 15 dana ako se radi o krivičnom djelu s propisanom kaznom zatvora deset godina ili težom kaznom, osim ako se optuženi ne odrekne ovog prava a sudija, odnosno predsjednik vijeća se uvjeri da kraće vrijeme za pripremu odbrane neće uticati na pravo optuženog na pravedno suđenje.

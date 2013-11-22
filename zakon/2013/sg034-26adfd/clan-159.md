@@ -1,0 +1,6 @@
+Član 159
+Računanje rokova
+(1) Rokovi se određuju na časove, dane, mjesece i godine.
+(2) Čas ili dan kad je dostavljanje ili saopštenje izvršeno, odnosno u koji pada događaj od kada treba računati trajanje roka, ne uračunava se u rok već se za početak roka uzima prvi naredni čas, odnosno dan. U jedan dan računaju se 24 časa, a mjesec se računa po kalendarskom vremenu.
+(3) Rokovi određeni po mjesecima, odnosno godinama završavaju se protekom onog dana posljednjeg mjeseca, odnosno godine koji po svom broju odgovara danu kad je rok otpočeo. Ako nema toga dana u posljednjem mjesecu, rok se završava posljednjeg dana tog mjeseca.
+(4) Ako posljednji dan roka pada na državni praznik ili u subotu ili u nedjelju ili u neki drugi dan kada državni organ ne radi, rok ističe protekom prvog narednog radnog dana.

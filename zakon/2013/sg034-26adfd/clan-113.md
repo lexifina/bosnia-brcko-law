@@ -1,0 +1,2 @@
+Član 113
+Kada se vrši analiza DNK Analiza DNK može se vršiti ukoliko je to neophodno potrebno za određivanje identiteta ili činjenice da li otkriveni tragovi materija potiču od osumnjičenog, odnosno optuženog ili oštećenog.

@@ -1,0 +1,5 @@
+Član 268
+Kažnjavanje za odbijanje svjedočenja
+(1) Ako svjedok odbije da svjedoči bez opravdanog razloga i nakon upozorenja na posljedice, može biti kažnjen novčanom kaznom u iznosu do 30.000 KM.
+(2) Ako i poslije toga odbije da svjedoči, može biti zatvoren. Zatvor traje dok svjedok ne pristane da svjedoči, ili dok njegovo svjedočenje ne postane nepotrebno, ili dok se krivični postupak ne završi, ali najduže 30 dana.
+(3) O žalbi protiv rješenja kojim je izrečena novčana kazna ili naređen zatvor uvijek odlučuje Apelacioni sud. Žalba protiv rješenja o novčanoj kazni i zatvoru ne zadržava izvršenje rješenja.

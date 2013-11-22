@@ -1,0 +1,5 @@
+Član 76
+Odlučivanje o sumnjivim stvarima
+(1) Ako se u toku od jedne godine niko ne javi za stvari ili za novac dobijen od prodaje stvari, donijet
+će se rješenje da stvar postaje vlasništvo Brčko distrikta Bosne i Hercegovine, odnosno da je novac prihod budžeta Brčko distrikta Bosne i Hercegovine.
+(2) Vlasnik stvari ima pravo da u parnici traži povrat stvari ili novca dobijenog od prodaje stvari. Zastarijevanje ovog prava počinje teći od dana objavljivanja oglasa.

@@ -1,0 +1,4 @@
+Član 259
+Pouke optuženom
+(1) Sudija, odnosno predsjednik vijeća će upozoriti optuženog na potrebu pažljivog praćenja toka pretresa i poučit će ga da može iznositi činjenice i predlagati dokaze u svoju korist, da može postavljati pitanja saoptuženim, svjedocima i vještacima i da može davati obrazloženja u vezi sa njihovim iskazima.
+(2) Sudija, odnosno predsjednik vijeća poučit će optuženog da može dati iskaz u toku dokaznog postupka u svojstvu svjedoka i ako odluči da dâ takav iskaz, da će biti podvrgnut direktnom i unakrsnom ispitivanju u smislu člana 262 ovog zakona, odnosno opomenut i upozoren u smislu člana 86 ovog zakona. U tom slučaju optuženi kao svjedok ne polaže zakletvu, odnosno ne daje izjavu. Sud će omogućiti da se o tom svom pravu optuženi prethodno konsultira s braniocem, a ukoliko nema branioca, sud će pažljivo ispitati da li mu je branilac neophodan.

@@ -1,0 +1,6 @@
+Član 72a
+Naredba operateru telekomunikacija
+(1) Ako postoje osnovi sumnje da je neko lice počinilo krivično djelo, sud može, na osnovu prijedloga tužioca ili na prijedlog ovlaštenih službenih lica koja su dobila odobrenje od tužioca, narediti da operater telekomunikacija ili drugo pravno lice koje vrši pružanje telekomunikacionih usluga dostavi podatke o korištenju telekomunikacionih usluga tog lica, ako bi takvi podaci mogli biti dokaz u krivičnom postupku ili poslužiti prikupljanju informacija koje mogu biti od koristi u krivičnom postupku.
+(2) U hitnim slučajevima tužilac može da naredi radnje iz stava 1 ovog člana i dobijeni podaci bit će zapečaćeni dok ne bude izdata sudska naredba. O preduzetim mjerama tužilac odmah obavještava sud koji može u roku od 72 sata izdati naredbu. U slučaju da sud ne izda naredbu, tužilac će podatke vratiti bez prethodnog otvaranja.
+(3) Radnje iz stava 1 ovog člana mogu se odrediti i prema licu za koje postoje osnovi sumnje da počiniocu, odnosno od počinioca prenosi informacije u vezi s krivičnim djelom, odnosno da počinilac koristi njegovo sredstvo telekomunikacije.
+(4) Operateri telekomunikacija ili drugo pravno lice koji pružaju telekomunikacione usluge dužni su tužiocu i ovlaštenim službenim licima omogućiti sprovođenje mjera iz stava 1 ovog člana.

@@ -1,0 +1,5 @@
+Član 241
+Dužnost sudije, odnosno predsjednika vijeća
+(1) Dužnost sudije, odnosno predsjednika vijeća je da se stara o održavanju reda u sudnici i dostojanstvu suda. Sudija, odnosno predsjednik vijeća može odmah poslije otvaranja zasjedanja da upozori lica koja su prisutna na glavnom pretresu da se pristojno ponašaju i da ne ometaju rad suda. Sudija, odnosno predsjednik vijeća može da odredi pretresanje lica koja su prisutna na glavnom pretresu.
+(2) Sudija, odnosno predsjednik vijeća može da naredi da se sa zasjedanja udalje sva lica koja kao slušaoci prisustvuju glavnom pretresu, ako su se mjere za održavanje reda predviđene u ovom zakonu pokazale neefikasnim za obezbjeđenje neometanog održavanja glavnog pretresa.
+(3) U sudnici je zabranjeno filmsko ili televizijsko snimanje. Izuzetno, predsjednik suda može da odobri takvo snimanje na glavnom pretresu. Ako je snimanje odobreno, sudija, odnosno predsjednik vijeća može na glavnom pretresu, iz opravdanih razloga, odlučiti da se pojedini dijelovi glavnog pretresa ne snimaju.

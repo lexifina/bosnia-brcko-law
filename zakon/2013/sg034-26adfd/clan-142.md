@@ -1,0 +1,2 @@
+Član 142
+Smještaj pritvorenika Pritvorenici se smještaju u prostorije odgovarajuće veličine koje udovoljavaju potrebnim zdravstvenim uslovima. U istu prostoriju ne smiju biti smještena lica različitog spola. U pravilu, pritvorenici se neće smjestiti u istu prostoriju s licima koja izdržavaju kaznu zatvora. Pritvorenik se neće smjestiti zajedno s licima koja bi na njega mogla štetno djelovati ili s licima s kojima bi druženje moglo štetno uticati na vođenje postupka.

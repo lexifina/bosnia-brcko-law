@@ -1,0 +1,2 @@
+Član 308
+Prošireno dejstvo žalbe Žalba zbog pogrešno ili nepotpuno utvrđenog činjeničnog stanja ili zbog povrede krivičnog zakona podnesena u korist optuženog sadrži u sebi i žalbu zbog odluke o krivičnopravnoj sankciji i o oduzimanju imovinske koristi (član 300).

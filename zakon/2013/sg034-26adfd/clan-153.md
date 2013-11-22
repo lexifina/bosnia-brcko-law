@@ -1,0 +1,4 @@
+Član 153
+Vođenje zapisnika
+(1) Zapisnik se mora voditi uredno, u njemu se ne smije ništa izbrisati, dodati ili mijenjati. Precrtana mjesta moraju ostati čitka.
+(2) Sva preinačenja, ispravke i dodaci unose se na kraju zapisnika i moraju ih ovjeriti lica koja potpisuju zapisnik.

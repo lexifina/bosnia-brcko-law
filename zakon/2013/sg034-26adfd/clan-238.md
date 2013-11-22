@@ -1,0 +1,5 @@
+Odjeljak 2 - Rukovođenje glavnim pretresom
+Član 238
+Obavezno prisustvo na glavnom pretresu
+(1) Sudija, odnosno članovi vijeća i zapisničar moraju biti neprekidno prisutni na glavnom pretresu.
+(2) Ako je u izgledu da će glavni pretres trajati duže, predsjednik vijeća može da zatraži od predsjednika suda da odredi jednog ili dvojicu sudija da prisustvuju glavnom pretresu, kako bi zamijenili članove vijeća u slučaju njihove spriječenosti.

@@ -1,0 +1,2 @@
+Član 101
+Dostavljanje nalaza i mišljenja Vještak dostavlja nalaz i mišljenje, kao i radni materijal, skice i zabilješke organu koji ga je odredio.

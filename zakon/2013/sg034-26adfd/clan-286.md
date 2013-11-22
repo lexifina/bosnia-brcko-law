@@ -1,0 +1,8 @@
+Odjeljak 3 - Objavljivanje presude
+Član 286
+Vrijeme i mjesto objavljivanja presude
+(1) Pošto je presuda izrečena, sud će je odmah objaviti. Ako sud nije u mogućnosti da istog dana po završetku glavnog pretresa izrekne presudu, odložit će objavljivanje presude najviše za tri dana i odredit će vrijeme i mjesto objavljivanja presude.
+(2) Sud će u prisutnosti stranaka, branilaca, zakonskih zastupnika i opunomoćenika javno pročitati izreku i saopštiti ukratko razloge presude.
+(3) Objavljivanje presude će se izvršiti i kad stranka, branilac, zakonski zastupnik ili opunomoćenik nije prisutan. Sud može odlučiti da optuženom koji je odsutan, presudu usmeno saopšti sudija, odnosno predsjednik vijeća ili da mu se presuda samo dostavi.
+(4) Ako je javnost na glavnom pretresu bila isključena, izreka presude će se uvijek pročitati u javnom zasjedanju. Vijeće će odlučiti hoće li i koliko isključiti javnost prilikom objavljivanja razloga presude.
+(5) Svi prisutni saslušat će čitanje izreke presude stojeći.

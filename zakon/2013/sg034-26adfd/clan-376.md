@@ -1,0 +1,2 @@
+Član 376
+Cjelishodnost pokretanja krivičnog postupka Tužilac može odlučiti da protiv pravnog lica ne zahtijeva pokretanje krivičnog postupka kada okolnosti slučaja ukazuju da to ne bi bilo cjelishodno, jer je doprinos pravnog lica učinjenju krivičnog djela bio neznatan ili pravno lice nema imovine ili ima tako malo imovine da ne bi bila dovoljna ni za pokriće troškova postupka ili ako je protiv pravnog lica započet stečajni postupak ili kada je učinilac krivičnog djela jedini vlasnik pravnog lica protiv kojega bi se krivični postupak inače pokrenuo.

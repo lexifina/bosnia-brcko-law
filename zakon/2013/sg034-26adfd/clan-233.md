@@ -1,0 +1,11 @@
+Član 233
+Razlozi za prigovor i odluka o prigovoru
+(1) Prethodnim prigovorima se:
+a) osporava nadležnost;
+b) ističu okolnosti iz člana 224 stava 1 tačke d) ovog zakona,
+c) ukazuje na formalne nedostatke u optužnici,
+d) osporava zakonitost dokaza;
+e) zahtijeva spajanje ili razdvajanje postupka;
+f) osporava odluka o odbijanju zahtjeva za postavljanje branioca na osnovu člana 46 stava 1 ovog zakona.
+(2) Ukoliko sudija za prethodno saslušanje usvoji prigovor iz stava 1 tačke d) ovog člana, odlučit će da se takav dokaz izdvoji iz spisa i vrati tužiocu.
+(3) O prethodnim prigovorima odlučuje sudija za prethodno saslušanje koji ne može učestvovati u suđenju u roku od osam dana. Protiv rješenja kojim se odlučuje o prethodnim prigovorima žalba nije dozvoljena.

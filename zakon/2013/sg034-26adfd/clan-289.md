@@ -1,0 +1,8 @@
+Odjeljak 4 - Pismena izrada i dostavljanje presude
+Član 289
+Pismena izrada presude
+(1) Presuda koja je objavljena mora se pismeno izraditi u roku od 15 dana po objavljivanju, a u složenim stvarima, izuzetno u roku od 30 dana. Ako presuda nije izrađena u tim rokovima, sudija, odnosno predsjednik vijeća je dužan da obavijesti predsjednika suda zbog čega to nije učinjeno. Predsjednik suda će, po potrebi, preduzeti mjere da se presuda što prije izradi.
+(2) Presudu potpisuju sudija, odnosno predsjednik vijeća i zapisničar.
+(3) Ovjereni prepis presude dostavit će se tužiocu i oštećenom, a optuženom i braniocu saglasno članu 171 ovog zakona. Ako se optuženi nalazi u pritvoru, ovjereni prepisi presude moraju biti dostavljeni u rokovima iz stava 1 ovog člana.
+(4) Optuženom i oštećenom dostavit će se i pouka o pravu na žalbu.
+(5) Ovjereni prepis presude sud će s poukom o pravu na žalbu dostaviti licu čiji je predmet oduzet tom presudom, kao i pravnom licu kojemu je izrečeno oduzimanje imovinske koristi. Pravosnažna presuda će se dostaviti oštećenom.

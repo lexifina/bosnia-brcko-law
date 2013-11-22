@@ -1,0 +1,2 @@
+Član 97
+Dužnosti vještaka kojeg je odredio tužilac, odnosno sud Lice koje tužilac, odnosno sud odredi za vještaka dužno je tužiocu, odnosno sudu da dostavi svoj izvještaj koji sadrži sljedeće: dokaze koje je pregledao, obavljene testove, nalaz i mišljenje do kojeg je došao i sve druge relevantne podatke koje vještak smatra potrebnim za pravednu i objektivnu analizu. Vještak će detaljno obrazložiti kako je došao do određenog mišljenja.
