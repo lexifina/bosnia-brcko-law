@@ -1,0 +1,2 @@
+Član 8
+(Saradnja sa Centrom za informisanje i priznavanje dokumenata iz oblasti visokog obrazovanja) U postupku vrednovanja i priznavanja inostranih visokoškolskih kvalifikacija nadležni organi, u skladu s članom 45 Okvirnog zakona o visokom obrazovanju u Bosni i Hercegovini, pribavljaju mišljenja, preporuke i informacije od Centra za informisanje i priznavanje dokumenata iz oblasti visokog obrazovanja (u daljnjem tekstu: CIP).

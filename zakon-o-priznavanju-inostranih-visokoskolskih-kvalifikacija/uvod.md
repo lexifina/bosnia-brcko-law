@@ -1,0 +1,1 @@
+Na osnovu člana 22 Statuta Brčko distrikta Bosne i Hercegovine – prečišćeni tekst (Službeni glasnik Brčko distrikta Bosne i Hercegovine broj 2/10), Skupština Brčko distrikta BiH na 48. redovnoj sjednici održanoj 28. januara 2015. godine, usvaja ZAKON O PRIZNAVANJU INOSTRANIH VISOKOŠKOLSKIH KVALIFIKACIJA U BRČKO DISTRIKTU BOSNE I HERCEGOVINE
