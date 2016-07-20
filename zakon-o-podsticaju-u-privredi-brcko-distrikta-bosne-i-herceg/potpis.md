@@ -1,0 +1,4 @@
+Broj: 01-02- 662/16
+Brčko, 22. 6. 2016. godine
+PREDSJEDNIK
+SKUPŠTINE BRČKO DISTRIKTA BiH Đorđa Kojić
