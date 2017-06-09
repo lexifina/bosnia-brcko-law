@@ -1,0 +1,4 @@
+Broj: 01-02-138/17
+Brčko, 24. 5. 2017. godine
+PREDSJEDNIK
+SKUPŠTINE BRČKO DISTRIKTA BiH Esed Kadrić

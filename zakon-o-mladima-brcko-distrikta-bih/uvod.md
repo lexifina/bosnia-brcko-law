@@ -1,0 +1,1 @@
+Na osnovu člana 22 Statuta Brčko distrikta BiH – prečišćeni tekst (Službeni glasnik Brčko distrikta BiH, broj 2/10), Skupština Brčko distrikta BiH, na 12. redovnoj sjednici održanoj 24. maja 2017. godine, usvaja ZAKON O MLADIMA BRČKO DISTRIKTA BOSNE I HERCEGOVINE
