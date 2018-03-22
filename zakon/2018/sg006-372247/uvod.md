@@ -1,0 +1,4 @@
+Na osnovu člana 8 Zakona o Službenom glasniku Brčko distrikta BiH („Službeni glasnik Brčko distrikta BiH“ brojevi 1/00 i 17/04 ) i Odluke o davanju ovlaštenja Zakonadavnoj komisiji Skupštine Brčko distrikta BiH broj 01-02-218/17 od 13. 9. 2017. godine, Zakonodavna komisija Skupštine Brčko distrikta BiH na 35. sjednici održanoj 21. 2. 2018. godine utvrdila je prečišćeni tekst Zakona o poslanicima u Skupštini Brčko distriktu BiH („Službeni glasnik Brčko distrikta BiH“ broj 29/04) sa izmjenama i dopunama Zakona o poslanicima u Skupštini Brčko distriktu BiH („Službeni glasnik Brčko distrikta BiH“ brojevi: 19/07, 2/08, 17/08, 1/09, 27/14 i 52/17 ).
+Broj: 01.3.-05-229/18
+Brčko, 21. 2. 2018. godine
+PREDSJEDAVAJUĆI ZAKONODAVNE KOMISIJE Ljubiša Lukić, s. r. ZAKON O POSLANICIMA SKUPŠTINE BRČKO DISTRIKTA BOSNE I HERCEGOVINE (PREČIŠĆENI TEKST)
