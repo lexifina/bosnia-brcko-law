@@ -1,0 +1,2 @@
+Član 30
+Na kraju svake fiskalne godine cjelokupno poslovanje Javnog preduzeća je predmet eksterne revizije, koju sprovodi ovlašteno revizorsko preduzeće. Eksterni revizor je posebno dužan da pruži detaljno mišljenje o internom finansijskom izvještaju i da utvrdi usklađenost tog izvještaja sa svojim izveštajem. Troškove godišnje revizije snosi osnivač Javnog preduzeća. Godišnji revizorski izvještaj je dostupan javnosti putem štampe i interneta.

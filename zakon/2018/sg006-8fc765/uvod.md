@@ -1,0 +1,4 @@
+Na osnovu člana 8 Zakona o Službenom glasniku Brčko distrikta BiH («Službeni glasnik Brčko distrikta BiH», brojevi: 1/00 i 17/04) i Odluke o davanju ovlaštenja Zakonodavnoj komisiji Skupštine Brčko distrikta BiH broj: 01-02-218/17 od 13. 9. 2017. godine, Zakonodavna komisija Skupštine Brčko distrikta BiH na 35. sjednici održanoj 21. 2. 2018. godine utvrdila je prečišćeni tekst Zakona o javnom preduzeći „Luka Brčko“ Brčko distrikt BiH („Službeni glasnik Brčko distrikta BiH“ broj 16/04) sa izmjenama i dopunama zakona o javnom preduzeću „ Luka Brčko“ Brčko distrikt BiH („Službeni Brčko distrikta BiH“ brojevi: 17/08, 39/08, 5/15, i 9/17).
+Broj: 01.3.-05-231/18
+Brčko, 21. 2. 2018. godine
+PREDSJEDAVAJUĆI ZAKONODAVNE KOMISIJE Ljubiša Lukić, s. r. ZAKON O JAVNOM PREDUZEĆU “LUKA BRČKO” BRČKO DISTRIKT BOSNE I HERCEGOVINE (PREČIŠĆENI TEKST)
