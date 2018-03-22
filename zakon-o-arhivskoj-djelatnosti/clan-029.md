@@ -1,0 +1,2 @@
+Član 29
+Arhiv vodi registar vlasnika arhivske građe u privatnoj svojini sa osnovnim podacima o imaocu građe. Imaoci i stvaraoci arhivske građe u privatnoj svojini, obavezni su: - čuvati je, srediti i popisati, - omogućiti nesmetan nadzor nad njom od Arhiva Distrikta, - obavijestiti Arhiv Distrikta o svim promjenama u vezi sa arhivskom građom, - omogućiti nesmetano snimanje arhivske građe po zahtjevu Arhiva Distrikta.

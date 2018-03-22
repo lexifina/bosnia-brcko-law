@@ -1,0 +1,2 @@
+Član 3
+Arhivska građa obuhvata izvorni i reprodukovani (pisani, crtani, štampani, fotografisani, filmovani, fonografisani ili na drugi način zabilježen) dokumentarni materijal od trajne vrijednosti i značaja za historiju i druge naučne oblasti, za kulturu uopće i za druge društvene potrebe koji je nastao u radu organa distrikta, ustanova, preduzeća, društvenih i političkih organizacija, udruženja građana, građansko-pravnih i fizičkih lica (u daljnjem tekstu: imaoci i stvaraoci arhivske građe).

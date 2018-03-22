@@ -1,0 +1,2 @@
+Član 28
+Imaoci arhivske građe iz člana 27 ovog zakona dužni su arhivsku građu prijaviti Arhivu distrikta i dostaviti mu potrebne podatke za evidenciju. Na stvaraoca i imaoca arhivske građe u privatnoj svojini primjenjuju se odredbe ovog zakona. Korištenje arhivske građe u privatnoj svojini koja je odlaganjem, darovanjem ili kupovinom došla u posjed Arhiva Distrikta regulisano je ovim zakonom, ako drugačije nije uređeno ugovorom o predaji arhivske građe Arhivu Distrikta.

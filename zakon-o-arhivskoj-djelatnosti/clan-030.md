@@ -1,0 +1,2 @@
+Član 30
+Imalac arhivske građe u privatnoj svojini može je prodati pod uslovom da prvo ponudi Arhiv Distrikta i obavijesti ga o uslovima prodaje. Arhiv je dužan da u roku od 30 dana obavijesti imaoca građe da li prihvata ponudu. Ako u ovom roku imalac arhivske građe ne bude obaviješten, smatrat će se da ponuda nije prihvaćena, te da imalac može arhivsku građu prodati drugom licu po cijeni koja ne smije biti niža od cijene ponuđene arhivu.

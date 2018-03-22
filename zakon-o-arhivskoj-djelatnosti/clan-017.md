@@ -1,0 +1,2 @@
+Član 17
+Registraturski materijal i arhivska građa nastala u radu pravosudnih institucija, Policije distrikta, kao i političkih organizacija čuvaju se kod tih organa do roka koji oni odrede. Općim aktom tih organa određuju se uslovi i način korištenja registraturskog materijala i arhivske građe. Arhiv Distrikta vrši kontrolu zaštićenosti i evidentiranja registraturskog materijala i arhivske građe iz stava 1 ovog člana.

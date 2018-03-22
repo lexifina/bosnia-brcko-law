@@ -1,0 +1,2 @@
+Član 2
+Registraturski materijal obuhvata izvorni i reprodukovani (pisani, crtani, štampani, fotografisani, filmovani, fonografski ili na drugi način zabilježen) dokumentarni materijal koji je nastao u radu organa distrikta, ustanova, preduzeća, društvenih i političkih organizacija, udruženja građana, građansko-pravnih i fizičkih lica (u daljnjem tekstu: imaoci i stvaraoci registraturskog materijala) sve dok se iz njega ne odabere arhivska građa.
