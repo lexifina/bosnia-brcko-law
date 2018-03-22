@@ -1,0 +1,4 @@
+Na osnovu člana 8 Zakona o Službenom glasniku Brčko distrikta BiH („Službeni glasnik Brčko distrikta BiH“ brojevi 1/00 i 17/04 ) i Odluke o davanju ovlaštenja Zakonadavnoj komisiji Skupštine Brčko distrikta BiH broj 01-02-218/17 od 13. 9. 2017. godine, Zakonodavna komisija Skupštine Brčko distrikta BiH na 35. sjednici održanoj 21. 2. 2018. godine utvrdila je prečišćeni tekst Zakona o izmirenju obaveza po osnovu računa stare devizne štednje emisijom obveznica u Brčko distrikta BiH („Službeni glasnik Brčko distrikta BiH“ broj 16/09) sa izmjenama i dopunama Zakona o izmirenju obaveza po osnovu računa stare devizne štednje emisijom obveznica Brčko distrikta BiH („Službeni Brčko distrikta BiH“ brojevi: 19/10, 31/11 i 20/13).
+Broj: 01.3.-05-232/18
+Brčko, 21. 2. 2018. godine
+PREDSJEDAVAJUĆI ZAKONODAVNE KOMISIJE Ljubiša Lukić, s. r. ZAKON O IZMIRENJU OBAVEZA PO OSNOVU RAČUNA STARE DEVIZNE ŠTEDNJE EMISIJOM OBVEZNICA U BRČKO DISTRIKTU BOSNE I HERCEGOVINE (PREČIŠĆENI TEKST)
