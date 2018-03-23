@@ -1,0 +1,29 @@
+Član 2
+(Definicije)
+U smislu ovog zakona definišu se pojedini izrazi koji imaju slijedeće značenje:
+a) ''autobus'' je motorno vozilo namijenjeno za prijevoz putnika, koje pored sjedišta za vozača ima više od osam sjedišta;
+b) ''autobuska stanica'' je objekat namijenjen prijemu i otpremi autobusa, prihvat, zadržavanje i otpremu putnika i prtljaga, prodaju voznih karata, davanje informacija i pružanju drugih usluga koje su u vezi s prijevozom;
+c) ''autobusko stajalište'' je dio površine puta namijenjen za zaustavljanje autobusa radi ulaska i izlaska putnika, koje je obilježeno saobraćajnim znakom;
+d) ''cjenovnik'' je dokument koji je izdao prijevoznik, kojim se utvrđuju cijene usluga prijevoza i ostale usluge prijevoznika;
+e) ''daljinar'' je dokument koji sadrži udaljenosti (u kilometrima) između pojedinih stanica na linijama;
+f) ''domaći prijevoznik'' je pravno lice ili samostalni preduzetnik (u daljnjem tekstu: preduzetnik) sa sjedištem na teritoriji BiH;
+g) ''gradski prijevoz'' je linijski prijevoz lica na području grada, odnosno naselja;
+h) ''javni prijevoz'' je linijski i vanlinijski prijevoz lica i tereta uz odgovarajuću naknadu, koji je pod jednakim uslovima dostupan svim korisnicima usluga prijevoza;
+i) ''iskaznica vozača’’ je isprava kojom se utvrđuje identitet i zaposlenje vozača;
+j) ''karta za prijevoz'' je dokument koji je izdao prijevoznik korisniku prijevoza kojim se potvrđuje da je korisnik prijevoza platio prijevozniku odgovarajući iznos za uslugu prijevoza i time stekao pravo na korištenje prijevoza;
+k) ''kombi'' je putničko motorno vozilo, oblika karoserije kombi, do 9 sjedišta (1+8);
+l) ''kooperacija'' je prijevoz na liniji, prema redu vožnje, koji prema pismenom sporazumu održavaju dva ili više prijevoznika;
+m) ''itinerer'' je trasa prijevoza od polazišta do krajnjeg odredišta;
+n) ''licenca prijevoznika’’ je odobrenje prijevozniku za obavljanje međunarodnog ili unutrašnjeg prijevoza putnika, tereta ili opasnih materija;
+o) ''licenca za taksi prijevoz'' je odobrenje prijevozniku za obavljanje taksi djelatnosti;
+p) ''licenca za vozilo’’ je odobrenje koje mora posjedovati svako vozilo uključeno u javni drumski prijevoz lica, tereta ili opasnih materija;
+q) ''linija'' je relacija ili skup relacija na kojima se obavlja prijevoz od početne do završne stanice, odnosno stajališta na kojoj se prevoze putnici ili roba po utvrđenom i objavljenom redu vožnje s jednim ili više polazaka odnosno povrataka;
+r) ''linijski prijevoz'' je javni prijevoz lica i tereta na određenim linijama koji se vrši po utvrđenom i registrovanom redu vožnje, unaprijed utvrđenoj skici puta i utvrđenoj i objavljenoj cijeni i drugim uslovima prijevoza;
+s) ''međunarodni prijevoz'' je svaki drumski prijevoz koji obuhvata prelazak najmanje jedne državne granice;
+t) ''međuentitetski prijevoz'' je svaki drumski prijevoz s teritorije Distrikta u jedan od entiteta i obratno, kao i prijevoz između entiteta BiH u tranzitu kroz Distrikt;
+u) ''motorno vozilo'' je vozilo na motorni pogon kome je osnovna namjena prijevoz lica ili tereta na putevima ili vuča priključnih vozila namijenjenih za prijevoz lica ili tereta, osim mopeda, traktora, te motokultivatora i radnih mašina;
+v) ''prijevoz u drumskom saobraćaju'' je svaki prijevoz putnika, tereta ili opasnih materija uključujući vožnju praznog ili nenatovarenog vozila;
+w) ''prijevoznik'' je pravno lice ili preduzetnik koje obavlja djelatnost prijevoza kao registrovanu djelatnost;
+x) ''prijevoz za posebne namjene'' je vangabaritni prijevoz i prijevoz opasnih materija;
+y) ''prijevoz za vlastite potrebe'' je prijevoz lica i tereta koje preduzeće, drugo pravno lice, preduzetnik ili fizičko lice obavlja radi zadovoljavanja potreba u obavljanju svoje djelatnosti za koju je registrovan, odnosno za koju ima odobrenje;
+z) ''prigradski prijevoz'' je linijski prijevoz lica između naselja na području Distrikta; aa) ''putnik'' je lice koje se prevozi uz naknadu, osim vozača i članova posade vozila; bb) ''red vožnje'' je akt kojim se utvrđuje naziv prijevoznika, vrsta prijevoza, relacija na kojoj se obavlja linijski prijevoz, redoslijed stanica i njihova udaljenost od početne stanice, vrijeme polaska i dolaska za svaku stanicu, period održavanja linije, učestalost održavanja linije i rok važenja reda vožnje; cc) ''relacija'' je dio linije kojom saobraćaju vozila u prijevoz putnika i stvari, između dva mjesta na kojima se vrši ulazak i izlazak putnika, odnosno utovar ili istovar tereta; dd) ''rent-a-car djelatnost'' je registrovana djelatnost iznajmljivanja putničkih vozila; ee) ''rent-a-car vozilo'' je iznajmljeno motorno vozilo; ff) ''strani prijevoznik'' je prijevoznik sa sjedištem, odnosno prebivalištem u inostranstvu, a koji obavlja međunarodni prijevoz; gg) ''strano vozilo'' je motorno ili priključno vozilo registrovano u inostranstvu; hh) ''teret'' je zajednički naziv za robe koje se prevoze teretnim motornim vozilom ili skupom vozila; ii) ''taksi prijevoz'' jeste vanlinijski javni prijevoz putnika koji se obavlja putničkim automobilom do 5 sjedišta (1+4), koji ispunjava uslove propisane ovim zakonom i podzakonskim aktima; jj) ''tarifa'' je akt koji sadrži i pokazuje način formiranja cijene i druge uslove u drumskom prijevozu; kk) ''tranzit'' je međunarodni i međuentitetski prijevoz putnika ili tereta preko teritorije Distrikta, bez ulazaka ili izlazaka putnika odnosno ukrcavanja ili iskrcavanja tereta na teritoriji Distrikta; ll) ''vanlinijski prijevoz'' jeste javni prijevoz za koji se relacija, cijena prijevoza, visina naknade za sporedne usluge izvršene za potrebe lica i tereta koji se prevoze, utvrđuju ugovorom između prijevoznika i korisnika prijevoza; mm) ''vangabaritni prijevoz'' je prijevoz tereta vozilima koja sama ili s teretom premašuju propisane dimenzije ili ukupnu masu, odnosno propisana osovinska opterećenja; nn) ''vozač'' je lice kvalifikovano za upravljanje motornim vozilom.
