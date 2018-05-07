@@ -1,0 +1,2 @@
+Član 1
+(Predmet) Ovim zakonom propisuju se revizija javne uprave, institucija koje se finansiraju iz budžeta, vanbudžetskih korisnika, javnih ustanova, javnih preduzeća, zavoda i fondova (u daljnjem tekstu: institucija), ciljevi, dužnost, organizacija, rukovođenje, nadležnost, zapošljavanje i druga pitanja od značaja za rad Ureda za reviziju javne uprave i institucija u Brčko distriktu Bosne i Hercegovine (u daljnjem tekstu: Ured).

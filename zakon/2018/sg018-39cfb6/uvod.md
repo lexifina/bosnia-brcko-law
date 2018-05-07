@@ -1,0 +1,4 @@
+Na osnovu člana 8 Zakona o Službenom glasniku Brčko distrikta BiH («Službeni glasnik Brčko distrikta BiH», brojevi: 1/00 i 17/04) i Odluke o davanju ovlaštenja Zakonodavnoj komisiji Skupštine Brčko distrikta BiH broj: 01-02-218/17 od 13. 9. 2017. godine Zakonodavna komisija Skupštine Brčko distrikta BiH na 40 sjednici održanoj 25. 4. 2018. godine utvrdila je prečišćeni tekst Zakona o reviziji javne uprave i institucija u Brčko distriktu Bosne i Hercegovine («Službeni glasnik Brčko distrikta BiH», broj 40/08) s izmjenama i dopunama Zakona o reviziji javne uprave i institucija u Brčko distriktu Bosne i Hercegovine («Službeni glasnik Brčko distrikta BiH», brojevi: 29/14, 4/15, 23/16).
+Broj: 01.3-05-465/18
+Brčko, 25.04.2018. godine
+PREDSJEDAVAJUĆI ZAKONODAVNOG POVJERENSTVA Ljubiša Lukić, s. r. ZAKON O REVIZIJI JAVNE UPRAVE I INSTITUCIJA U BRČKO DISTRIKTU BOSNE I HERCEGOVINE (PREČIŠĆENI TEKST) PRVI DIO – OPĆE ODREDBE
