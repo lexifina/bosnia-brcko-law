@@ -1,0 +1,2 @@
+Član 38
+Sporazumom o naknadi za eksproprisanu nepokretnost mora biti određen naročito: oblik i visina naknade, rok u kome je korisnik eksproprijacije dužan ispuniti te svoje obaveze, kao i obaveze ranijeg vlasnika ili nosioca prava građenja, ukoliko su sporazumom ugovorene. Sporazum o naknadi unosi se u zapisnik koji mora da sadrži sve podatke neophodne za ispunjenje obaveza stranaka. Sporazum o naknadi ima snagu izvršne isprave

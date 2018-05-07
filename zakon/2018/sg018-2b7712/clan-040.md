@@ -1,0 +1,2 @@
+Član 40
+Ako se sporazum o naknadi u cjelini ne postigne u roku od dva mjeseca od dana pravomoćnosti rješenja o eksproprijaciji, Odjeljenje će dostaviti pravomoćno rješenje o eksproprijaciji, sa svim spisima nadležnom sudu, radi određivanja naknade. Ako Odjeljenje ne postupi po odredbi stava 1 ovog člana, raniji vlasnik ili nosilac prava građenja i korisnik eksproprijacije mogu se neposredno obratiti sudu radi određivanja naknade.

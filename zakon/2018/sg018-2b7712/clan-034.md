@@ -1,0 +1,2 @@
+Član 34
+Prijašnji vlasnik eksproprisane nekretnine nema pravo na naknadu za eksproprisanu građevinu izgrađenu bez odobrenja za građenje. Prijašnji vlasnik bespravno izgrađene građevine iz stava 1 ovog člana, ima pravo da poruši građevinu i odnese materijal u roku koji odredi Odjeljenje. Izuzetno od odredbe stava 1 ovog člana, prijašnji vlasnik eksproprisane nekretnine ima pravo na naknadu za izgrađeni individualni stambeni objekat ili stambeni dio stambeno-poslovnog objekta.

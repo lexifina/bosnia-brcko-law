@@ -1,0 +1,2 @@
+Član 45
+Ako je riječ o nekretnini čijom bi se eksproprijacijom znatan broj stanovnika morao iseliti iz područja u kojem se eksproprisane nekretnine nalaze, posebnim će se zakonom urediti posebni oblici i uslovi naknade, kao i uređenje svih odnosa vezanih uz preseljenje prijašnjih vlasnika ili nosioca prava građenja i njihovih porodica. Korisniku eksproprijacije ne može se eksproprisana nekretnina predati u posjed dok prema prijašnjim vlasnicima ne ispuni obaveze određene na osnovu posebnog zakona iz stava 1 ovoga člana.

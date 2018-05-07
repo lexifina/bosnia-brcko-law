@@ -1,0 +1,3 @@
+Član 21
+Odjeljenje usvaja prijedlog za eksproprijaciju rješenjem. Prije donošenja rješenja o eksproprijaciji, Odjeljenje će saslušati vlasnika nekretnine ili održati usmenu javnu raspravu na licu mjesta da se tačno utvrdi šta se ekspropriše. Ako postoji neslaganje zemljišnoknjižnog, katastarskog i stvarnog stanja na nekretnini, prije donošenja rješenja o eksproprijaciji, kao prethodno pitanje, Odjeljenje može raspraviti imovinskopravne odnose na nekretnini predloženoj za eksproprijaciju.
+Odjeljenje je dužno poučiti vlasnika ili nosioca prava građenja nekretnine da može podnijeti zahtjev za eksproprijaciju preostalog dijela nekretnine u smislu člana 7 ovog zakona i ovu pouku unosi u zapisnik.

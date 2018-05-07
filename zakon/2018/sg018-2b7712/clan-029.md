@@ -1,0 +1,2 @@
+Član 29
+U slučajevima eksproprijacije na područjima zahvaćenim elementarnim nepogodama većeg obima (zemljotres, poplave, požar), a radi izgradnje objekata ili izvođenja radova kojima se otklanjaju posljedice prouzrokovane tim nepogodama, korisnik eksproprijacije stiče pravo na posjed eksproprisane nekretnine kada rješenje o eksproprijaciji postane konačno, bez obzira da li je naknada isplaćena. Protiv rješenja donesenog iz prethodnog stava, ne može se voditi upravni spor.

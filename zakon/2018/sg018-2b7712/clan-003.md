@@ -1,0 +1,2 @@
+Član 3
+Potpunom eksproprijacijom nekretnina postaje vlasništvo korisnika eksproprijacije, a prestaje pravo vlasništva prijašnjeg vlasnika, kao i druga prava na eksproprisanoj nekretnini, osim stvarnih služnosti u smislu člana 46 stava 1 ovog propisa. Zakonom o izmjenama Zakona o eksproprijaciji nekretnina u Brčko distriktu Bosne i Hercegovine („Službeni glasnik Brčko distrikta BiH“, broj 19/10), stavovi 2, 3 i 4 brišu se.

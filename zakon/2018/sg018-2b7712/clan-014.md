@@ -1,0 +1,3 @@
+Član 14
+Ako podnosilac prijedloga za odobrenje obavljanja pripremnih radnji učini vjerovatnim da su mu takve radnje potrebne u svrhu određenu ovim zakonom, Odjeljenje će odobriti takve pripremne radnje. Prilikom donošenja rješenja o odobrenju obavljanja pripremnih radnji, Odjeljenje će voditi računa o tome da se te radnje ne vrše u vrijeme nepogodno, u slučaju da može nastupiti znatnija šteta za vlasnika nekretnine, posjednika ili nosioca prava građenja, s obzirom na kulturu zemljišta i na svrhu za koju on nekretninu koristi.
+U rješenju o odobrenju obavljanja pripremnih radnji moraju se uz ostalo navesti pripremne radnje koje predlagač može obavljati, kao i rok do kojeg ih ima obaviti. Tim rješenjem ne može se odobriti izvođenje građevinskih ili njima sličnih radova.

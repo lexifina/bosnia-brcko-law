@@ -1,0 +1,3 @@
+Član 41
+Prijašnji vlasnik, posjednik ili nosilac prava građenja eksproprisanog zemljišta ima pravo sabrati usjeve i skupiti plodove koji su sazreli u vrijeme stupanja u posjed korisnika eksproprisanog zemljišta. Ako stupanjem u posjed korisnika eksproprijacije prijašnji vlasnik, posjednik ili nosilac prava građenja neće biti u mogućnosti sabrati usjeve i skupiti plodove, pripada mu pravo na naknadu za usjeve po odbitku potrebnih troškova koje bi imao do žetve ili berbe. Zakonom o izmjenama Zakona o eksproprijaciji nekretnina u Brčko distriktu Bosne i Hercegovine („Službeni glasnik Brčko distrikta BiH“, broj 19/10), u članu 41 stavak 3 briše se.
+.

@@ -1,0 +1,3 @@
+Član 37
+Poslije pravomoćnosti rješenja o eksproprijaciji, ukoliko nije postignut sporazum o naknadi za eksproprisanu nekretninu, Odjeljenje je dužno da, bez odlaganja, zakaže i održi raspravu za sporazumno određivanje naknade za eksproprisanu nekretninu. Korisnik eksproprijacije dužan je da Odjeljenju iz stava 1 ovog člana podnese pismenu ponudu o visini naknade u roku koji ne može biti duži od 15 dana od dana pravomoćnosti rješenja o eksproprijaciji.
+Odjeljenje iz stava 1 ovog člana, bez odlaganja, dostavlja primjerak ponude ranijem vlasniku ili nosiocu prava građenja eksproprisane nekretnine.

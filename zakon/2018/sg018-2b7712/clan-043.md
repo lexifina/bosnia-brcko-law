@@ -1,0 +1,2 @@
+Član 43
+U slučaju ustanovljenja zakupa, naknada se određuje u visini zakupnine koja se postiže na tržištu. Naknada se može odrediti u obliku jednokratnog iznosa za cijelo vrijeme trajanja zakupa ili u povremenim davanjima koja se plaćaju u jednakim vremenskim razmacima. Naknada se računa od dana kada je korisnik eksproprijacije stupio u posjed zemljišta. Za eventualnu štetu nastalu ustanovljenjem zakupa, zakupoprimac odgovara vlasniku zemljišta po općim propisima o odgovornosti za štetu.

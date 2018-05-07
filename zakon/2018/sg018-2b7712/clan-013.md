@@ -1,0 +1,2 @@
+Član 13
+U prijedlogu za odobrenje obavljanja pripremnih radnji mora se naznačiti svrha radi koje se namjerava predložiti eksproprijacija, nekretnina na kojoj korisnik eksproprijacija namjerava obavljati pripremne radnje, vlasnik te nekretnine, posjednik ili nosilac prava građenja, priroda, obim i svrha radnji, kao i vrijeme njihova trajanja. O prijedlogu za odobrenje obavljanja pripremnih radnji rješava Odjeljenje za prostorno planiranje i imovinskopravne poslove (u daljnjem tekstu: Odjeljenje).

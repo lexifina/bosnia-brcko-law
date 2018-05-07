@@ -1,0 +1,2 @@
+Član 30
+Ako je korisnik eksproprijacije stupio u posjed eksproprisane nekretnine prije pravomoćnosti rješenja o eksproprijaciji, a prijedlog za eksproprijaciju bude u daljnjem postupku odbijen, korisnik eksproprijacije dužan je nadoknaditi štetu koju je vlasniku ili nosiocu prava građenja nekretnine nanio stupanjem u posjed nekretnine. Rješenje o odbijanju prijedloga za eksproprijaciju sadrži i obavezu korisnika eksproprijacije za vraćanje nekretnine u posjed vlasniku ili nosiocu prava građenja na nekretnini u roku od 15 dana od dana pravomoćnosti rješenja.

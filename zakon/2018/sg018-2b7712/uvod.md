@@ -1,0 +1,4 @@
+Na osnovu člana 8 Zakona o Službenom glasniku Brčko distrikta BiH („Službeni glasnik Brčko distrikta BiH“ brojevi 1/00 i 17/04 ), Odluke o davanju ovlaštenja Zakonadavnoj komisiji Skupštine Brčko distrikta BiH broj 01-02-218/17 od 13. 9. 2017 godine, Zakonodavna komisija Skupštine Brčko distrikta BiH na 40. sjednici održanoj 25. 5. 2018. godine utvrdila je prečišćeni tekst Zakona o eksproprijaciji nekretnina u Brčko distriktu Bosne i Hercegovine („Službeni glasnik Brčko distrikta BiH“ broj 26/04) s izmjenama i dopunama Zakona o eksproprijaciji nekretnina u Brčko distriktu Bosne i Hercegovine („Službeni glasnik Brčko distrikta BiH“ brojevi 19/07, 2/08, 19/10 i 15/11).
+Broj: 01.3-05-464/18
+Brčko,25. 4. 2018 godine
+PREDSJEDAVAJUĆI ZAKONODAVNE KOMISIJE Ljubiša Lukić ZAKON O EKSPROPRIJACIJI NEKRETNINA U BRČKO DISTRIKTU BOSNE I HERCEGOVINE (PREČIŠĆEN TEKST)

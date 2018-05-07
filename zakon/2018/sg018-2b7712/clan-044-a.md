@@ -1,0 +1,2 @@
+Član 44a
+Iznos naknade za ustanovljavanje služnosti, zakupa ili privremenog uzimanja u posjed, kao i iznos naknade iz člana 41 ovog propisa, utvrđuje Direkcija, na zahtjev Odjeljenja. Podzakonski akt o načinu utvrđivanja tržišne vrijednosti nekretnina iz člana 33 ovog propisa, kao i iznosa naknade iz stava 1 ovog člana, donosi Vlada Distrikta, na prijedlog Direkcije, u roku od 30 dana od dana stupanja na snagu ovog propisa
