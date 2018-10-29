@@ -1,0 +1,3 @@
+I. OPĆE ODREDBE
+Član 1
+Ovim zakonom uređuju se: - sve kategorije otpada, osim otpada navedenog u stavu 3 ovog člana, - sve vrste djelatnosti, operacije i postrojenja u upravljanju otpadom. Odredbe ovog zakona primjenjuju se i na: - otpad nastao istraživanjem, ekstrakcijom, tretmanom i skladištenjem mineralnih resursa i radom kamenoloma, - tečni otpad, - životinjski otpad i drugi neopasni materijal prirodnog porijekla koji se može koristiti u poljoprivredne svrhe, - odloženi eksploziv, osim ako to nije regulisano posebnim propisom. Odredbe ovog zakona ne primjenjuju se na: - radioaktivni otpad - gasove ispuštene u atmosferu, - otpadne vode. Cilj zakona

@@ -1,0 +1,2 @@
+Član 50
+Šef nadležnog odjeljenja će podzakonskim aktom propisati sadržaj i izgled pratećeg dokumenta koji je dužno potpisati svako lice koje vrši prekogranični prevoz otpada nakon isporuke otpada, kao i lice koje vrši prijem otpada. Podzakonskim aktom iz stava 1 ovog člana propisuje se postupak u kojem je odlagač otpada dužan obavijestiti izvoznika i nadležne organe države izvoznice o primanju pošiljke od odlagača otpada u odgovarajućem roku i o završetku aktivnosti upravljanja otpadom.

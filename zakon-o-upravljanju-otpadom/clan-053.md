@@ -1,0 +1,2 @@
+Član 53
+Prekogranično kretanje će se smatrati nezakonitim: - ako sve zemlje koje učestvuju nisu obaviještene, - ako ne postoji odobrenje svih zemalja, - ako je odobrenje falsifikovano ili pribavljeno prevarom, - ako je suprotno datom odobrenju, - ako se vrši namjerno odlaganje otpada (odbacivanjem) kojim se krše odredbe ovog zakona i opći principi međunarodnog zakonodavstva o zaštiti životne sredine.

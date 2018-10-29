@@ -1,0 +1,2 @@
+Član 25
+Proizvođač će primiti nazad i nadoknaditi korišćene proizvode ili otpad od proizvoda od imaoca, u skladu s posebnim propisima, radi ponovnog korišćenja ili odlaganja na ekološki prihvatljiv način. Proizvođać može primiti nazad ili nadoknaditi proizvode ili otpad od proizvoda od imaoca ili sklopiti ugovor s prodavačem za obavljanje tih usluga. Proizvođač će nadokanditi kauciju/depozit koja je prethodno plaćena na proizvod. Posebnim propisom se propisuje obaveza korišćenja sistema naknade kaucije/depozita za određene proizvode.

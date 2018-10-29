@@ -1,0 +1,3 @@
+Član 54
+U slučaju kretanja opasnog otpada radi odlaganja između entiteta BiH i teritorije Brčko distrikta, potrebno je obavještenje ministarstva nadležnog za zaštitu životne sredine entiteta iz kojeg se izvozi otpad, nadležnom odjeljenju Vlade Brčko distrikta u koji se uvozi otpad.
+Obavještenje sadrži: - podatke o izvorima, sastavu i količini opasnog otpada, - dogovoreni putni pravac i dogovoreno osiguranje za treće strane u slučaju štete, - mjere za osiguranje sigurnog transporta, - naziv primaoca otpada, lokacije na kojoj će se tretirati i način na koji će se odlagati otpad, - izuzetno Vlada može zabraniti kretanje izvjesnih vrsta opasnog otpada ili kretanja otpada ili kretanja iz drugog entiteta koji su već najavljeni.

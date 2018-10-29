@@ -1,0 +1,4 @@
+Član 8
+Strategiju upravljanja čvrstim otpadom na period od deset godina donosi Skupština Brčko distrikta, na prijedlog gradonačelnika prethodno odobrenog od Vlade. Nacrt strategije upravljanja otpadom priprema nadležno odjeljenje u saradnji sa drugim odjeljenjima, međuentitetskim tijelom za zaštitu životne sredine i predstavnicima udruženja za zaštitu životne sredine. Strategija iz stava 1 ovog člana objavljuje se u «Službenom glasniku Brčko distrikta BiH».
+Saradnja iz stava 2 ovog člana vrši se saglasno odredbama Zakona o zaštiti životne sredine. Strategija iz stava 1 ovog člana mora biti usklađena sa Strategijom ekonomskog razvoja Distrikta. Vlada je obavezna podnijeti Skupštini izvještaj o sprovođenju strategije upravljanja čvrstim otpadom svake dvije godine.
+Plan upravljanja otpadom u Brčko distriktu BiH

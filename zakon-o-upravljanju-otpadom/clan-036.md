@@ -1,0 +1,3 @@
+Član 36
+Preduzeće za upravljanje otpadom smatra se proizvođačem otpada ukoliko proizvodi otpad u toku tretmana. Preduzeće iz stava 1 ovog člana vodi evidenciju podataka o otpadu koji je preuzeo na tretman ili produkovao i obavještava nadležno odjeljenje u skladu s posebnim propisima najmanje jednom godišnje. Izvještaj sadrži: - vrstu i sastav otpada u skladu s Katalogom otpada i njegovim sadržajem, - količinu otpada, - porijeklo ili izvor otpada.
+Podzakonskim aktom koji donosi Vlada može se propisati da je potrebno odobrenje ili tehnička kvalifikacija za korišćenje i prodaju određenih tehnologija, opreme i materijala za tretman otpada. Sakupljanje otpada

@@ -1,0 +1,3 @@
+Član 31
+Proizvođači i imalac otpada dužni su skupljati, brinuti se o povratu ili odlaganju otpada koji produkuju njihove djelatnosti ili o otpadu koji posjeduju. Proizvođač i imalac otpada je odgovoran za ekološki prihvatljivo skladištenje otpada prije njegovog povrata ili odlaganja. Proizvođač ili imalac otpada može vršiti povrat ili odlaganje sam koristeći adekvatnu opremu, postupak ili postrojenje za povrat ili odlaganje u skladu s propisanim uslovima ili koristiti ovlašćenu službu za tretman otpada uz nadoknadu. Podzakonskim aktom će se propisati postupak selektivnog prikupljanja, pakovanja i označavanja otpada, imajući u vidu akte koje donosi Vlada.
+Posebne odredbe o upravljanju komunalnim otpadom

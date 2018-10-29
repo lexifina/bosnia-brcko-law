@@ -1,0 +1,3 @@
+Član 14
+Dozvola nije potrebna u slijedećim slučajevima: - prikupljanje i kretanje otpada unutar mjesta gdje se otpad proizveo, - kretanje otpada između različitih postrojenja ili lokacija istog proizvođača, sa izuzetkom opasnog otpada, - prevoz otpada koji vrši sam proizvođač sa svojim vlastitim prevoznim sredstvima do lokacije ili postrojenja za tretman, u slučaju malih količina ne većih od 100 kg po jednoj pošiljci sa izuzetkom opasnog otpada, - vraćanje ambalaže ili iskorišćenih proizvoda od trgovca.
+Licu koje prikuplja i prevozi svoj kućni otpad nije potrebna dozvola za ovakve djelatnosti.

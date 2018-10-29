@@ -1,0 +1,3 @@
+Član 49
+Opće obavještenje se može prihvatiti kada se otpad koji ima iste hemijske i fizčke karakteristike prevozi redovno istom odlagaču preko iste carinske ispostave na izlazu iz zemlje izvoza, putem iste carinske
+ispostave na ulazu u zemlju uvoza i u slučaju transporta putem iste carinske ispostave na ulazu ili izlazu iz zemlje ili zemlje tranzita. Na osnovu općeg obavještenja, nadležno odjeljenje izdaje opće odobrenje na period od najviše 12 mjeseci. Nakon ovog perioda opće odobrenje može biti revidirano i produženo za isti vremenski period ako nije došlo do promjena uslova. Izuzetno nadležno odjeljenje može staviti van snage opće odobrenje koje se daje pod uslovima iz stavova 1 i 2 ovog člana.
