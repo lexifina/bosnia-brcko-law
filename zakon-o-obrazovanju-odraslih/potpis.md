@@ -1,0 +1,5 @@
+Broj: 01-02-462/18
+Brčko, 30. 10. 2018. godine
+PREDSJEDNIK
+SKUPŠTINE BRČKO DISTRIKTA BiH
+Esed Kadrić

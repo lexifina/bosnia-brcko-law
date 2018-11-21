@@ -1,0 +1,7 @@
+Član 54
+(Certificiranje)
+(1) Certificiranjem, odnosno izdavanjem odgovarajućih isprava o obrazovanju se potvrđuje da su ishodi učenja, znanje, vještine i sposobnosti koje je pojedinac stekao kroz formalne, neformalne ili informalne vidove obrazovanja i učenja provjereni i potvrđeni od strane nadležne institucije, odnosno tijela, u skladu s utvrđenim kriterijima i standardima.
+(2) Nakon završetka formalnih programa obrazovanja odraslih: osnovnog i srednjeg obrazovanja ili njihovih pojedinih dijelova, te dokvalifikacije i prekvalifikacije, osposobljavanja i usavršavanja, polaznicima se izdaju javne isprave, svjedodžbe i diplome koje imaju istu važnost kao i isprave stečene tokom redovnog obrazovanja, ili javno važeća uvjerenja o završenim programima osposobljavanja i usavršavanja.
+(3) Polaznicima programa neformalnog obrazovanja, nakon završetka programa provjere znanja, vještina i sposobnosti, organizator obrazovanja odraslih o tome izdaje uvjerenje, potvrdu, certifikat ili drugu ispravu, koja nema status javne isprave.
+(4) Ukoliko nakon završetka neformalnog programa nije bilo provjere znanja, vještina i sposobnosti, polaznicima se mogu izdati potvrde ili druge isprave koje nemaju status javnih isprava, ali iz kojih je evidentno da su bili učesnici određenog programa neformalnog obrazovanja, kao i sticanje kojih znanja, vještina i sposobnosti je bilo predviđeno programom.
+(5) Nazivi, forma i sadržaji javnih isprava koje se stiču u sistemu obrazovanja odraslih uređuju se podzakonskim aktom koji donosi šef Odjeljenja za obrazovanje.
