@@ -1,0 +1,5 @@
+Broj: 01-02-522/19
+Brčko, 30. 1. 2019. godine
+PREDSJEDNIK
+SKUPŠTINE BRČKO DISTRIKTA BiH
+Esed Kadrić
