@@ -1,0 +1,15 @@
+Član 2
+(Definicije) Pojedini izrazi koji se koriste u ovom zakonu imaju sljedeća značenja:
+a) „elektronski dokument“ je jednoobrazno povezan cjelovit skup podataka koji su elektronski oblikovani, odnosno izrađeni pomoću računara i drugih elektronskih uređaja, poslani, primljeni ili sačuvani na elektronskom, magnetnom, optičkom ili drugom mediju i koji sadrže osobine kojima se utvrđuje autor elektronskog dokumenta, vjerodostojnost sadržaja, te dokazuje vrijeme kada je dokument sačinjen. Sadržaj elektronskog dokumenta uključuje sve oblike pisanog teksta, podatke, slike, crteže, karte, ton, muziku i govor;
+b) „dokumentaciona osobina“ je obavezan skup podataka, poput elektronskog potpisa, vremena izrade, naziva autora elektronskog dokumenta i drugih podataka koji se ugrađuju u elektronski dokument radi zadržavanja vjerodostojnosti, cjelovitosti i perioda valjanosti utvrđen zakonom i drugim propisima;
+c) „elektronski potpis“ je skup podataka u elektronskom obliku koji su pridruženi ili logički povezani s drugim podacima u elektronskom obliku i služe za identifikaciju potpisnika i autentičnost potpisanog elektronskog dokumenta;
+d) „autor elektronskog dokumenta“ je organ vlasti Distrikta, pravno lice, samostalni preduzetnik i fizičko lice koje primjenom elektronskih sredstava, kao što su uređaji i programi, izrađuje, oblikuje i potpisuje elektronski dokument kvalifikovanim elektronskim potpisom;
+BRČKO DISTRIKTA BiH
+e) „pošiljalac“ je organ vlasti Distrikta, pravno lice, samostalni preduzetnik i fizičko lice koje šalje ili u ime kojeg se primaocu šalje elektronski dokument, ne uključujući informativnog posrednika;
+f) „primalac“ je organ vlasti Distrikta, pravno lice, samostalni preduzetnik i fizičko lice kojem je upućen elektronski dokument, ne uključujući informacionog posrednika;
+g) „dokumentacioni ciklus“ je promet elektronskog dokumenta od izrade do arhiviranja, uključujući radnje izrade, slanja, primanja i čuvanja s postupcima unošenja i ovjere podataka kojima se potvrđuje autor elektronskog dokumenta, pošiljalac, primalac, vrijeme slanja i vrijeme prijema, vjerodostojnost i cjelovitost elektronskog dokumenta;
+h) „informativni sistem“ je informativno-komunikacijski sistem kao skup programa, informatičkih i telekomunikacijskih uređaja, metoda i postupaka primijenjenih u postupcima izrade, slanja, primanja, provjere i čuvanja elektronskih dokumenata;
+i) „radnik, odnosno korisnik informativnog sistema“ je fizičko lice koje direktno radi u informativnom sistemu u postupcima rukovanja elektronskim dokumentom;
+j) „informativni posrednik“ je pravno ili fizičko lice koje u ime drugih vrši slanje, prijem, prenos i čuvanje elektronskog dokumenta;
+k) „elektronska arhiva“ je skup elektronskih dokumenata uređenih u dokumentacione cjeline u skladu sa zakonom i drugim propisima kojima se posebno uređuje ova oblast;
+l) „nadležni organi“ su organi koji koriste elektronske dokumente u poslovnim radnjama i djelatnostima, u postupcima koji se vode pred nadležnim organima u kojima se elektronska oprema i programi mogu primjenjivati u izradi, prenosu, prijemu i čuvanju informacija u elektronskom obliku.

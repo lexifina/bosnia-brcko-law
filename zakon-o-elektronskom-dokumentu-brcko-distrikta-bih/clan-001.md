@@ -1,0 +1,3 @@
+DIO PRVI – OSNOVNE ODREDBE
+Član 1
+(Predmet) Ovim zakonom propisuje se upotreba elektronskog dokumenta u radu organa izvršne, sudske i zakonodavne vlasti Brčko distrikta Bosne i Hercegovine (u daljnjem tekstu: organi vlasti Distrikta), pravnih lica, samostalnih preduzetnika i fizičkih lica i u postupcima koji se vode pred nadležnim organima u upravnom, sudskom ili drugom postupku u kojima se elektronska oprema i programi mogu primjenjivati u izradi, prenosu, prijemu i čuvanju informacija u elektronskom obliku, pravna valjanost elektronskog dokumenta kao i upotreba i promet elektronskog dokumenta.
