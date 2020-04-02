@@ -1,0 +1,4 @@
+Broj: 01-02-820/20
+Brčko, 11. 3. 2020. godine
+PREDSJEDNIK
+SKUPŠTINE BRČKO DISTRIKTA BiH Esed Kadrić
