@@ -1,0 +1,5 @@
+Član 57
+(Ispitivanje isprava)
+(1) Ako nadležni registarski sud posumnja u istinitost akta kojim se dokazuje činjenica koja je predmet upisa ili u zakonitost postupka po kome je akt donesen ili u zakonitost pravne radnje koja je predmet upisa, registarski sud će održati ročište za raspravu na koju će pozvati podnosioca prijave i eventualno osobu kojoj bi mogle biti poznate sporne okolnosti i donijeti odluku.
+(2) Ako nadležni registarski sud posumnja u postojanje neke činjenice od koje ovisi da li je zahtjev za upis u Registar u saglasnosti s ovim i drugim zakonima, a sam nije ovlašten da utvrđuje postojanje te činjenice, naložit će podnosiocu prijave da od nadležnog organa ili druge institucije pribavi odgovarajuću ispravu u određenom roku.
+(3) Ukoliko je za utvrđivanje činjenice iz stava 2 ovog člana nadležan drugi sud, nadležni registarski sud će obavijestiti podnosioca prijave i nadležni organ, odnosno instituciju iz stava 2 ovog člana da pred tim sudom pokrene postupak i da o tome izvijesti registarski sud. Kad registarski sud primi obavještenje da je pokrenut postupak, prekinut će postupak za upis u Registar do pravosnažnog okončanja tog postupka.

@@ -1,0 +1,4 @@
+Član 5
+(Predmet registracije)
+(1) U Registar se upisuje: osnivanje i brisanje subjekta upisa, osnivanje odnosno brisanje dijela subjekta upisa (podružnica ili poslovna jedinica), sve statusne promjene uključujući promjene oblika organiziranja subjekta, podaci o povezanim društvima, podaci o subjektu upisa koji su od značaja za pravni promet i njihova izmjena, podaci u vezi s prestankom, stečajnim odnosno likvidacionim postupkom, podaci o pokretanju postupka brisanja subjekta registracije, kao i drugi podaci utvrđeni ovim kao i posebnim zakonima Brčko distrikta BiH.
+(2) Pored podataka iz stava 1 ovog člana u Registar se upisuje zabrana obavljanja djelatnosti na osnovu pravosnažnog rješenja nadležnog organa, privremene mjere odnosno zabilježbe o odlukama donesenim u skladu s posebnim propisima.

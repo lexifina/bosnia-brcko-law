@@ -1,0 +1,4 @@
+I - OPŠTE ODREDBE
+Član 1
+(Predmet zakona)
+Ovim zakonom, u skladu s Okvirnim zakonom o registraciji poslovnih subjekata u Bosni i Hercegovini (Službeni glasnik BiH broj 42/04 u daljnjem tekstu: Okvirni zakon), uređuje se značenje pojedinih izraza upotrijebljenih u Zakonu; načela, subjekti i predmet registracije; vođenje i sadržaj Registra; troškovi registracije; obavezni podaci o subjektima upisa; registracija dijela subjekta upisa; supsidijarna društva; promjene podataka od značaja za pravni promet i statusne promjene; registarske isprave; podnošenje, obrazac i postupak po prijavi za registraciju; rezervacija firme, postupak elektronske registracije, rješenje o registraciji, jednošalterski sistem i obavezna obavještenja; rok za izdavanje rješenja o registraciji; uspostavljanje Registra te primjena i stupanje na snagu Zakona.
