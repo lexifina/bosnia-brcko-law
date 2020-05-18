@@ -1,0 +1,5 @@
+Član 126
+Kriteriji za izricanje disciplinskih sankcija za teže povrede službenih dužnosti
+(1) Novčana kazna za teže povrede službene dužnosti i prestanak radnog odnosa izriču se prema slijedećoj tabeli:
+Bodovi Minimalna sankcija zasnovana na postotku osnovne jednomjesečne plate ostvarene za mjesec koji je prethodio izvršenju povrede službene dužnosti Maksimalna sankcija zasnovana na postotku osnovne jednomjesečne plate ostvarene za mjesec koji je prethodio izvršenju povrede službene dužnosti od 5 do 9 kazna od 15% za 2 mjeseca kazna od 15% za 3 mjeseca od 10 do 14 kazna od 15% za 3 mjeseca kazna od 20% za 4 mjeseca od 15 do 19 kazna od 20% za 4 mjeseca kazna od 30% za 5 mjeseci od 20 do 24 kazna od 20% za 5 mjeseci kazna od 30% za 6 mjeseci od 25 ili više kazna od 20% za 6 mjeseci prestanak radnog odnosa
+(2) Policijskom službeniku kome je određeno 20 i više bodova, uz novčanu kaznu se izriče i disciplinska sankcija obustavljanja unapređenja u viši čin za vremenski period od 12 mjeseci do tri godine.
