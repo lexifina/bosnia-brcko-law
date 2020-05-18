@@ -1,0 +1,3 @@
+Član 1
+(Predmet)
+Ovim zakonom propisuju se policijski poslovi u nadležnosti Brčko distrikta Bosne i Hercegovine (u daljem tekstu: Distrikt), nadležnost, organizacija i rukovođenje Policijom Distrikta (u daljem tekstu: Policija), imenovanje, sastav, nadležnost i funkcionisanje Nezavisnog odbora za izbor šefa Policije i zamjenika šefa Policije (u daljem tekstu: Nezavisni odbor), disciplinsku odgovornost šefa Policije i zamjenika šefa Policije (u daljem tekstu: zamjenik), međusobne odnose Policije sa drugim policijskim organima i drugim relevantnim organima u Bosni i Hercegovini (u daljem tekstu: BiH) i druga pitanja od značaja za organizaciju, rad i ostvarivanje zadataka Policije i prava zaposlenih.
