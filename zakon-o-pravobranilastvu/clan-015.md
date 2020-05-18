@@ -1,0 +1,6 @@
+Član 15
+(Pribavljanje mišljenja Pravobranilaštva)
+(1) U postupku donošenja zakona i drugih propisa kojima se uređuju imovinskopravni odnosi, kao i prava i obaveze prema sredstvima u vlasništvu Distrikta i drugih subjekata iz člana 7 ovog zakona, kao i javnih preduzeća u kojima Distrikt ima većinsko vlasništvo, obavezno se pribavlja mišljenje Pravobranilaštva (u daljnjem tekstu: «mišljenje»).
+(2) Subjekti iz člana 7 ovog zakona su obavezni zatražiti mišljenje prije donošenje akata i zaključivanja ugovora kojima se regulišu finansijska i imovinskopravna pitanja, a posebno prije zaključivanja ugovora o kupoprodaji, zamjeni, zakupu, prijenosu na privremeno ili trajno korištenje stvari, ili sredstava uz naknadu ili bez naknade, ugovora o koncesiji, ugovora o građenju i udruživanju sredstava za građenje, ugovora o statusnim i ugovornim oblicima povezivanja preduzeća kao i drugih ugovora kojima se pribavljaju stvari ili raspolaže stvarima odnosno pravima.
+(3) Kada je predmet pravnog posla ili ugovora iz stava 2 ovog člana pokretna stvar ili imovinsko pravo čija vrijednost ne prelazi 15.000 KM na dan utvrđivanja vrijednosti, nije obavezno pribavljanje mišljenja.
+(4) Doneseni akti i ugovori zaključeni suprotno odredbama ovog člana su ništavi.
