@@ -1,0 +1,2 @@
+Član 193
+Ko na izborima za institucije u Brčko distriktu Bosne i Hercegovine ili pri glasanju o opozivu predstavnika u institucijama u Brčko distriktu Bosne i Hercegovine ili na referendumu u Brčko distriktu Bosne i Hercegovine, glasa umjesto drugoga pod njegovim imenom ili ponovo glasa ili pokuša da ponovo glasa iako je već glasao, ili glasa iako zna da nema biračko pravo, odnosno pravo glasa, kaznit će se novčanom kaznom ili kaznom zatvora do tri godine. Povreda tajnosti glasanja

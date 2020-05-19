@@ -1,0 +1,5 @@
+Član 45
+(1) Osuđeni koji je izdržao polovinu, te izuzetno osuđenik koji je izdržao jednu trećinu kazne zatvora, može biti oslobođen izdržavanja kazne zatvora pod uslovom da ne počini novo krivično djelo prije isteka trajanja kazne (uslovni otpust).
+(2) Osuđeni koji je izdržao polovinu kazne zatvora može biti oslobođen izdržavanja kazne zatvora ako se za vrijeme izdržavanja kazne zatvora njegovo ponašanje popravi do te mjere da se može opravdano očekivati da će se nakon otpusta s izdržavanja kazne zatvora ponašati primjereno, a naročito da neće počiniti krivična djela. Prilikom odlučivanja o uslovnom otpustu osuđenika, uzet će se u obzir njegovo ponašanje tokom izdržavanja kazne i druge okolnosti koje ukazuju na to da je svrha kažnjavanja postignuta.
+(3) Osuđeni koji je izdržao jednu trećinu kazne zatvora može biti uslovno otpušten ukoliko postoje uslovi iz stava 1 ovog člana i ukoliko posebne okolnosti vezane za osobnost osuđenika jasno ukazuju da je postignuta svrha kažnjavanja.
+(4) Osuđeni na kaznu dugotrajnog zatvora može biti uslovno otpušten nakon izdržane tri petine te kazne. Opoziv uslovnog otpusta

@@ -1,0 +1,4 @@
+Član 68
+(1) Sud može odrediti da se učinilac kome je izrečena uslovna osuda stavi pod zaštitni nadzor, ako s obzirom na okolnosti učinjenja krivičnog djela, lice učinioca, njegov raniji život i ponašanje poslije učinjenog krivičnog djela, smatra da će se uz određivanje zaštitnog nadzora svrha uslovne osude i društveno prilagođavanje osuđenog bolje ostvariti.
+(2) Zaštitni nadzor obuhvata ovim zakonom predviđene mjere pomoći, brige, nadzora i zaštite, s tim da vrijeme trajanja nadzora ne može biti kraće od šest mjeseci niti duže od dvije godine.
+Sadržaj zaštitnog nadzora

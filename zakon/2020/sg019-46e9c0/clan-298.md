@@ -1,0 +1,3 @@
+Član 298
+(1) Ko protivno propisima stavi u djelovanje ili rukuje napravama, ili odstupi od proizvodnih postupaka kojima se oslobađaju štetne tvari koje mogu ugroziti kvalitet zraka, tla, vode, vodotoka na širem području i u mjeri koja može pogoršati uslove života ljudi ili životinja ili ugroziti opstanak šuma, bilja ili drugog rastinja, kaznit će se novčanom kaznom ili kaznom zatvora do jedne godine.
+(2) Odgovorno lice u pravnom licu, koje kršenjem propisa propusti postaviti naprave za prečišćavanje ili dopusti izgradnju, stavljanje u pogon ili upotrebu pogona koji onečišćuje okolinu, kaznit će se novčanom kaznom i kaznom zatvora do tri godine. Ugrožavanje okoliša otpadom

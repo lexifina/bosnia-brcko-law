@@ -1,0 +1,2 @@
+Član 195
+Ko krivotvori rezultate izbora ili glasanja za institucije u Brčko distriktu Bosne i Hercegovine dodavanjem, oduzimanjem ili brisanjem glasova ili potpisa, netačnim prebrojavanjem glasova, neistinitim upisivanjem rezultata u izborne isprave ili na drugi način, ili objavi rezultate izbora ili glasanja koji ne odgovaraju obavljenom glasanju, kaznit će se kaznom zatvora od šest mjeseci do pet godina. Uništenje izbornih isprava

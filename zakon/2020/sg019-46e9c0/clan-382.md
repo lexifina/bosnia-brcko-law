@@ -1,0 +1,7 @@
+Član 382
+(1) Službeno ili odgovorno lice u Brčko distriktu koje neovlašteno drugome priopći, preda ili na drugi način učini pristupačnim podatke koji su službena tajna, ili koje pribavlja takve podatke s ciljem da ih preda neovlaštenom licu, kaznit će se kaznom zatvora od šest mjeseci do pet godina.
+(2) Kaznom iz stava 1 ovoga člana kaznit će se i lice koje s ciljem da neovlašteno upotrijebi takve podatke, nezakonito iskoristi podatke koji se čuvaju kao službena tajna, ili lice koje bez odobrenja te podatke objavi.
+(3) Ako je krivično djelo iz stava 1 ovoga člana počinjeno iz koristoljublja ili glede naročito povjerljivih podataka, ili radi objavljivanja ili korištenja podataka izvan Brčko distrikta, počinilac će se kazniti kaznom zatvora od jedne do deset godina.
+(4) Službeno ili odgovorno lice u Brčko distriktu koje počini krivično djelo iz stava 1 ovoga člana iz nehata, kaznit će se novčanom kaznom ili kaznom zatvora do tri godine.
+(5) Nema krivičnog djela iz stava 2 ovoga člana ako ko objavi ili posreduje u objavljivanju službene tajne institucije u Brčko distriktu čiji je sadržaj suprotan ustavnom ili statutarnom ustrojstvu Brčko distrikta, s ciljem da javnosti otkrije nepravilnosti u ustroju, radu i rukovođenju službom, ako objava nema štetne posljedice za Brčko distrikt.
+(6) Odredbe stavova od 1 do 4 ovog člana primijenit će se i prema licu koje je odalo službenu tajnu nakon što joj je služba ili odgovornost u Brčko distriktu prestala. Krivotvorenje službene isprave

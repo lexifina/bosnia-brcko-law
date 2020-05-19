@@ -1,0 +1,5 @@
+Član 186
+(1) Ko fotografski, filmski ili na drugi način snimi drugo lice bez njegovog pristanka u njegovim prostorijama ili ko takav snimak neposredno prenese trećemu ili ko mu takav snimak pokaže ili mu na neki drugi način omogući da se s njim neposredno upozna, kaznit će se novčanom kaznom ili kaznom zatvora do tri godine.
+(2) Službeno lice koje učini krivično djelo iz stava 1 ovoga člana u obavljanju službe, kaznit će se kaznom zatvora od šest mjeseci do pet godina.
+(3) Ko dijete ili maloljetnika snimi radi izrade fotografija, audio-vizuelnog materijala ili drugih predmeta pornografskog sadržaja, ili posjeduje ili uvozi ili prodaje ili rastura ili prikazuje takav materijal, kaznit će se kaznom zatvora od jedne do pet godina.
+(4) Predmeti koji su bili namijenjeni ili upotrijebljeni za učinjenje krivičnog djela iz stavova 1 i 3 ovoga člana oduzet će se, a predmeti koji su učinjenjem krivičnog djela iz stavova 1 i 3 ovoga člana nastali oduzet će se i uništiti. Sprečavanje ili ometanje javnog okupljanja

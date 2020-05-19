@@ -1,0 +1,7 @@
+Član 74
+(1) Mjera sigurnosti obaveznog psihijatrijskog liječenja izriče se učiniocu krivičnog djela koji je krivično djelo učinio u stanju bitno smanjene ili smanjene uračunljivosti, ako postoji opasnost da bi uzroci takvog stanja mogli i ubuduće djelovati na učinioca da učini novo krivično djelo.
+(2) Mjera sigurnosti obaveznog psihijatrijskog liječenja može se izvršiti, pod uslovima utvrđenim u stavu 1 ovoga člana, uz izdržavanje kazne zatvora ili uz rad za opće dobro na slobodi ili uz uslovnu osudu.
+(3) Mjera sigurnosti obaveznog psihijatrijskog liječenja traje dok ne prestanu razlozi zbog kojih je izrečena, ali najduže do isteka izdržavanja kazne zatvora ili izvršenja rada za opće dobro na slobodi ili isteka vremena provjeravanja uz uslovnu osudu.
+(4) Stav 4 brisan Zakonom o izmjenama i dopunama Krivičnog zakona Brčko distrikta Bosne i Hercegovine (Službeni glasnik Brčko distrikta BiH, broj 21/10).
+(5) Pod uslovima iz stava 2 ovoga člana, obavezno psihijatrijsko liječenje se može nastaviti izvan medicinske ustanove nakon što je osuđeni uslovno otpušten. Ako osuđeni ne nastavi liječenje, uslovni otpust će se opozvati.
+(6) Prema učiniocu krivičnog djela koji se ne podvrgne psihijatrijskom liječenju tokom vremena provjeravanja određenoga u uslovnoj osudi, može se postupiti prema odredbi člana 66 (Opoziv uslovne osude zbog neispunjenja izrečenih obaveza) ovoga zakona. Obavezno liječenje od ovisnosti

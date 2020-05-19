@@ -1,0 +1,8 @@
+Član 201
+(1) Ko izvrši spolni odnos ili s njim izjednačenu spolnu radnju s drugim licem, iskoristivši njegovu duševnu bolest, duševnu poremećenost, nedovoljnu duševnu razvijenost, neku drugu težu duševnu smetnju, ili kakvo drugo stanje tog lica zbog kojeg ono nije sposobno za otpor, kaznit će se kaznom zatvora od dvije do deset godina.
+(2) Ko krivično djelo iz stava 1 ovoga člana učini prema licu čije je stanje nesposobnosti za otpor sam izazvao ili je u tome učestvovao, kaznit će se kaznom zatvora od tri do petnaest godina.
+(3) Ko krivično djelo iz stava 1 ovoga člana počini na naročito svirep ili naročito ponižavajući način, ili ako je istom prilikom prema istoj žrtvi učinjeno više spolnih odnosa, ili s njim izjednačenih spolnih radnji od više počinilaca, kaznit će se kaznom zatvora od tri do petnaest godina.
+(4) Ko krivično djelo iz stava 2 ovoga člana počini na naročito svirep ili naročito ponižavajući način, ili ako je istom prigodom prema istoj žrtvi učinjeno više spolnih odnosa, ili s njim izjednačenih spolnih radnji od više počinilaca, kaznit će se kaznom zatvora od tri do petnaest godina.
+(5) Ako je krivičnim djelom iz stava 1 ovoga člana prouzrokovana smrt lica s kojim je izvršen spolni odnos ili s njim izjednačena spolna radnja, ili je ono teško tjelesno povrijeđeno, ili mu
+je zdravlje teško narušeno, ili ako je žensko lice ostalo trudno, učinilac će se kazniti kaznom zatvora od najmanje pet godina.
+(6) Ako su krivičnim djelom iz stavova 3 i 4 ovoga člana prouzrokovane posljedice iz stava 5 ovoga člana, učinilac će se kazniti kaznom zatvora najmanje deset. Spolni odnos zloupotrebom položaja

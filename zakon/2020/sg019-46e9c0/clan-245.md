@@ -1,0 +1,4 @@
+Član 245
+(1) Ko kao zastupnik ili predstavnik pravnog lica, s ciljem pribavljanja protivpravne imovinske koristi tom ili drugom pravnom licu, upotrebom nenaplativih akceptnih naloga, čekova za koje zna da nemaju pokriće ili na drugi način, dovede nekoga u zabludu ili ga održava u zabludi i time ga navede da na štetu svoje ili tuđe imovine što učini ili ne učini, kaznit će se kaznom zatvora od šest mjeseci do pet godina.
+(2) Ako je krivičnim djelom iz stava 1 ovoga člana pribavljena imovinska korist ili je prouzrokovana šteta koja prelazi 10.000 KM, učinilac će se kazniti kaznom zatvora od jedne do osam godina.
+(3) Ako je krivičnim djelom iz stava 1 ovoga člana pribavljena imovinska korist ili je prouzrokovana šteta koja prelazi 50.000 KM, učinilac će se kazniti kaznom zatvora od jedne do deset godina. Sklapanje štetnog ugovora

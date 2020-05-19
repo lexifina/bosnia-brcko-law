@@ -1,0 +1,6 @@
+Član 242
+(1) Ko u postupku privatizacije, s ciljem da sebi ili drugom licu pribavi kakvu korist, drugome nanese kakvu štetu ili teže povrijedi prava drugoga, smanji kupoprodajnu cijenu ili omogući kupnju znatno ispod cijene pravnog lica u privatizaciji, dajući netačne podatke ili skrivajući podatke o imovini, prihodima, teretima, rashodima i drugim pravima ili činjenicama od uticaja na utvrđivanje stvarne cijene, kaznit će se kaznom zatvora do pet godina.
+(2) Ako je krivičnim djelom iz stava 1 ovoga člana pribavljena imovinska korist ili prouzrokovana šteta koja prelazi 300.000 KM, učinilac će se kazniti kaznom zatvora od jedne do deset godina.
+(3) Ako je krivičnim djelom iz stava 1 ovoga člana pribavljena imovinska korist ili prouzrokovana šteta koja prelazi 800.000 KM, učinilac će se kazniti kaznom zatvora od jedne do dvanaest godina.
+(4) Službeno ili odgovorno lice koje, znajući za radnje iz stava 1 ovoga člana, iskorištavanjem svog službenog položaja ili ovlasti, prekoračenjem granica svoje službene ovlasti ili propuštanjem svoje službene dužnosti, učini ili propusti učiniti službenu radnju u postupku privatizacije, kaznit će se kaznom zatvora od jedne do deset godina.
+Izrada lažne bilanse

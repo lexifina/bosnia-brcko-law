@@ -1,0 +1,3 @@
+Član 28
+(1) Ko s umišljajem započne činjenje krivičnog djela, ali ga ne dovrši, kaznit će se za pokušaj krivičnog djela ako se za to krivično djelo može izreći kazna zatvora tri godine ili teža kazna, a za pokušaj drugog krivičnog djela kad zakon izričito propisuje kažnjavanje i za pokušaj.
+(2) Učinilac će se za pokušaj krivičnog djela kazniti u granicama kazne propisane za to krivično djelo, a može se i blaže kazniti. Nepodoban pokušaj

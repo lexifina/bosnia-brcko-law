@@ -1,0 +1,5 @@
+Član 343
+(1) Ko svjedoka ili vještaka u sudskom, prekršajnom, upravnom ili disciplinskom postupku u Brčko distriktu Bosne i Hercegovine, silom, prijetnjom ili drugim oblikom prisile ili obećanjem poklona ili kakve druge koristi navede na lažan iskaz, kaznit će se kaznom zatvora od šest mjeseci do pet godina.
+(2) Ko s ciljem da spriječi ili znatno oteža dokazivanje u sudskom, prekršajnom, upravnom ili disciplonskom postupku u Brčko distriktu Bosne i Hercegovine sakrije, ošteti, uništi ili učini neupotrebljivim tuđi predmet ili ispravu koja služi dokazivanju, kaznit će se novčanom kaznom ili kaznom zatvora do tri godine.
+(3) Kaznom iz stava 1 ovoga člana kaznit će se ko s ciljem da spriječi ili znatno oteža dokazivanje u sudskom, prekršajnom, upravnom ili disciplinskom postupku u Brčko distriktu Bosne i Hercegovine ukloni, uništi, pomakne ili premjesti kakav granični kamen,
+zemljomjerski znak ili uopće kakav znak o vlasništvu ili nekom drugom stvarnom pravu ili upotrebi vode, ili ko s istim ciljem takav znak lažno postavi. Povreda tajnosti postupka

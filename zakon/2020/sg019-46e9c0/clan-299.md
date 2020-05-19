@@ -1,0 +1,4 @@
+Član 299
+(1) Ko protivno propisima odbacuje, odlaže, skuplja, skladišti, obrađuje i prevozi otpad ili uopće njime postupa na način kojim se ugrožava kvalitet zraka, tla, vode, vodotoka, na širem području i u mjeri koja može pogoršati uslove života ljudi ili životinja ili ugroziti opstanak šuma, bilja ili drugog rastinja, kaznit će se novčanom kaznom ili kaznom zatvora do tri godine.
+(2) Kaznom iz stava 1 ovoga člana kaznit će se ko odbacuje, odlaže, skuplja, obrađuje i prevozi otpad ili uopće s njim postupa na način kojim se ugrožava kvalitet zraka, tla, vode, vodotoka i time izazove opasnost za život ili zdravlje ljudi ili životinja ili prouzrokuje uništenje ili znatno oštećenje šuma, bilja ili drugog rastinja na širem području.
+(3) Ko krivično djelo iz stavova 1 i 2 ovoga člana počini iz nehata, kaznit će se novčanom kaznom ili kaznom zatvora do jedne godine. Ugrožavanje okoliša bukom

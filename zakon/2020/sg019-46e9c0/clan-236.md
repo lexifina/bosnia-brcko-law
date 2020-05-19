@@ -1,0 +1,7 @@
+Član 236
+(1) Odgovorno lice u pravnom licu koje kršenjem zakona ili drugog propisa u Brčko distriktu očito nesavjesno posluje, pa time prouzrokuje znatnu imovinsku štetu tom pravnom licu, kaznit će se novčanom kaznom ili kaznom zatvora do tri godine.
+(2) Ako je krivičnim djelom iz stava 1 ovoga člana prouzrokovana prisilna likvidacija ili stečaj pravnog lica, učinilac će se kazniti kaznom zatvora od šest mjeseci do pet godina.
+Zloupotreba u postupku javne nabavke 236a
+(1) Odgovorno lice u privrednom društvu ili drugom subjektu privrednog poslovanja koje ima svojstvo pravnog lica ili preduzetnik koji u postupku javne nabavke podnese ponudu zasnovanu na lažnim podacima, ili se na nedozvoljen način dogovara s ostalim ponuđačima, ili preduzme druge protivpravne radnje u namjeri da time utiče na donošenje odluka naručioca u bilo kojoj fazi postupka javne nabavke, kaznit će se zatvorom od šest mjeseci do pet godina.
+(2) Ukoliko je djelo iz stava 1 ovog člana učinjeno u postupku javne nabavke čija je vrijednost veća od tri miliona konvertibilnih maraka, učinilac će se kazniti zatvorom od jedne do deset godina.
+(3) Učinilac koji dobrovoljno otkrije da se ponuda zasniva na lažnim podacima ili na nedozvoljenom dogovoru s ostalim ponuđačima, ili da je preduzeo druge protivpravne radnje u namjeri da utiče na donošenje odluka naručioca prije nego što on donese odluku o izboru ponude, može se blaže kazniti ili osloboditi od kazne. Prouzrokovanje stečaja

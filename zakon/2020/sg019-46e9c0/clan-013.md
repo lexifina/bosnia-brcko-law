@@ -1,0 +1,8 @@
+Član 13
+(1) Krivično zakonodavstvo Brčko distrikta primjenjuje se na stanovnika Brčko distrikta kad u inozemstvu učini krivično djelo, ako se zatekne na teritoriji Brčko distrikta ili bude ekstradiran.
+(2) Krivično zakonodavstvo Brčko distrikta primjenjuje se i na stranca koji van teritorije Brčko distrikta učini prema njemu ili njegovom stanovniku krivično djelo, ako se zatekne na teritoriji Brčko distrikta ili bude ekstradiran.
+(3) Krivično zakonodavstvo Brčko distrikta primjenjuje se i na stranca koji prema stranoj državi ili prema strancu učini u inozemstvu krivično djelo za koje se po zakonu te države može izreći zatvor od pet godina ili teža kazna, kad se zatekne na teritoriji Brčko distrikta. Ako ovim zakonom nije drukčije propisano, sud u takvom slučaju ne može izreći kaznu težu od kazne propisane zakonom zemlje u kojoj je krivično djelo učinjeno.
+(4) Ako je u slučajevima iz člana 12 ovog zakona pokrenut, a nije pravosnažno dovršen krivični postupak u drugoj državi, tužilac Brčko distrikta odlučit će da li će preduzeti gonjenje.
+(5) U slučajevima iz čl. 13 ovog zakona, gonjenje će se preduzeti samo kad se za krivično djelo kažnjava i po zakonu zemlje u kojoj je djelo učinjeno. Ni u tom slučaju gonjenje se neće preduzeti, ako se po zakonu te zemlje gonjenje preduzima po zahtjevu oštećenog, a takav zahtjev nije podnesen.
+(6) Tužilac može preduzeti gonjenje iz člana 13 stava 3 ovog zakona, bez obzira na zakon zemlje u kojoj je krivično djelo učinjeno, ako je u pitanju djelo koje je u vrijeme kad je izvršeno smatrano krivičnim djelom prema pravilima međunarodnog prava.
+(7) U slučajevima iz člana 12 ovog zakona, gonjenje stranaca može se pod uslovima uzajamnosti ustupiti stranoj državi. Primjena općeg dijela ovoga zakona

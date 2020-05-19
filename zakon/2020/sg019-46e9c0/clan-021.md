@@ -1,0 +1,2 @@
+Član 21
+Krivično djelo je protivpravno djelo koje je zakonom propisano kao krivično djelo, čija su obilježja propisana zakonom i za koje je zakonom propisana krivičnopravna sankcija. Način učinjenja krivičnog djela

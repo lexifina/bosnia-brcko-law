@@ -1,0 +1,2 @@
+Član 302
+Veterinar ili ovlašteni veterinarski pomoćnik koji pri pružanju veterinarske pomoći propiše ili primijeni očito neprikladno sredstvo ili očito nepravilan način liječenja ili uopće nesavjesno postupa pri liječenju i time prouzrokuje uginuće većeg broja životinja, kaznit će se kaznom zatvora do tri godine. Ko krivično djelo iz stava 1 ovoga člana učini iz nehata, kaznit će se novčanom kaznom ili kaznom zatvora do šest mjeseci. Neovlašteno obavljanje veterinarskih usluga

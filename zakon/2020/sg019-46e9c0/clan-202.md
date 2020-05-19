@@ -1,0 +1,3 @@
+Član 202
+(1) Ko zloupotrebom svoga položaja navede na spolni odnos ili s njim izjednačenu spolnu radnju drugo lice koje se zbog imovinskog, porodičnog, društvenog, zdravstvenog ili drugog stanja ili teških prilika nalazi prema njemu u odnosu ovisnosti, kaznit će se kaznom zatvora od tri mjeseca do tri godine.
+(2) Nastavnik, odgojitelj, roditelj, usvojilac, staralac, očuh, maćeha ili drugo lice koje iskorištavajući svoj položaj ili odnos prema maloljetniku koji joj je povjeren radi učenja, odgoja, čuvanja ili njege izvrši s njim spolni odnos ili s njim izjednačenu spolnu radnju, kaznit će se kaznom zatvora od šest mjeseci do pet godina. Prinuda na spolni odnos

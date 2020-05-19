@@ -1,0 +1,4 @@
+Član 314
+(1) Ko lovi ribu, druge slatkovodne ili morske životinje ili organizme u vrijeme kad je to zabranjeno ili na području na kojem je to zabranjeno, ili ko lovi ribu, druge slatkovodne ili morske životinje ili organizme eksplozivom, električnom strujom, otrovom, sredstvima za omamljivanje ili drugim načinom ili sredstvom koji su štetni za njihovo rasplođivanje ili koji su propisima zabranjeni, kaznit će se novčanom kaznom ili kaznom zatvora do jedne godine.
+(2) Ako je krivičnim djelom iz stava 1 ovoga člana prouzrokovano uginuće ribe ili drugih slatkovodnih ili morskih životinja ili organizama u širim razmjerima, počinilac će se kazniti novčanom kaznom ili kaznom zatvora do dvije godine.
+(3) Ulov i sredstva za lov oduzet će se. Oštećenje, uništenje i nedozvoljeni izvoz spomenika kulture i zaštićenih objekata prirode

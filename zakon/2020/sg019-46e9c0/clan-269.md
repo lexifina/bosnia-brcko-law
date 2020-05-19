@@ -1,0 +1,2 @@
+Član 269
+Odgovorno lice u pravnom licu koje je po poreznom zakonodavstvu u Brčko distriktu lično odgovorno za porezne obaveze pravnog lica, a koje je odobrilo izdvajanje sredstava pravnog lica u druge svrhe, a ne za plaćanje porezne obaveze pravnog lica, pa je time prouzrokovana nesposobnost pravnog lica za pravovremeno podmirenje porezne obaveze, kaznit će se novčanom kaznom ili kaznom zatvora do tri godine. Podnošenje lažne porezne prijave

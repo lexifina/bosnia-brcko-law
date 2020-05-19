@@ -1,0 +1,3 @@
+Član 224
+(1) Ko u bolnici, porodilištu, javnom domu, školi, privrednom društvu ili drugom pravnom licu, obrtu ili kod samostalnog privrednika, u djelatnosti u kojoj se rukuje prehrambenim proizvodima ili koja obavlja higijenske usluge ili u sličnoj djelatnosti, protivno zdravstvenim propisima, zaposli ili drži zaposlenom lice koje boluje od zarazne bolesti, pa zbog toga dođe do opasnosti od širenja zarazne bolesti, kaznit će se kaznom zatvora do jedne godine.
+(2) Ko krivično djelo iz stava 1 ovoga člana počini iz nehata, kaznit će se novčanom kaznom ili kaznom zatvora do šest mjeseci. Nesavjesno liječenje

@@ -1,0 +1,5 @@
+Član 36
+(1) Nije uračunljivo lice koje u vrijeme učinjenja krivičnog djela nije moglo shvatiti značaj svog djela ili nije moglo upravljati svojim postupcima, zbog trajne ili privremene duševne bolesti, privremene duševne poremećenosti ili zaostalog duševnog razvoja (neuračunljivost).
+(2) Učinilac krivičnog djela čija je sposobnost da shvati značaj svog djela ili sposobnost da upravlja svojim postupcima bila bitno smanjena zbog nekog stanja iz stava 1 ovog člana, može se blaže kazniti (bitno smanjena uračunljivost).
+(3) Kriv je učinilac krivičnog djela koji se upotrebom alkohola, droga ili na drugi način doveo u stanje u kojem nije mogao shvatiti značenje svog djela ili upravljati svojim postupcima, ako je u vrijeme dovođenja u to stanje krivično djelo bilo obuhvaćeno njegovim umišljajem ili je u odnosu prema krivičnom djelu kod njega postojao nehat a zakon za takvo krivično djelo propisuje krivicu i za nehat.
+(4) Bitno smanjena uračunljivost u koju se učinilac doveo na način iz stava 3 ovog člana ne može biti osnov za ublažavanje kazne. Umišljaj

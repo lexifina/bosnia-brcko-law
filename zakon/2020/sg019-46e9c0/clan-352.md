@@ -1,0 +1,5 @@
+Član 352
+(1) Ko silom ili prijetnjom da će neposredno upotrijebiti silu spriječi službeno lice u obavljanju službene radnje koju je poduzelo u okviru svojih ovlasti ili ga na isti način prisili na obavljanje službene radnje, kaznit će se kaznom zatvora od tri mjeseca do tri godine.
+(2) Ako je krivičnim djelom iz stava 1 ovoga člana službeno lice zlostavljano ili je lako tjelesno ozlijeđeno ili je krivično djelo iz stava 1 ovoga člana počinjeno prijetnjom upotrebe oružja, kaznit će se kaznom zatvora od šest mjeseci do pet godina.
+(3) Ko krivično djelo iz stavova 1 i 2 ovoga člana počini prema službenom licu pri obavljanju poslova javne sigurnosti ili sigurnosti Brčko distrikta Bosne i Hercegovine ili dužnosti čuvanja javnog reda, uhićenja počinilaca krivičnog djela ili čuvanja lica kome je oduzeta sloboda, kaznit će se kaznom zatvora od tri mjeseca do pet godina.
+(4) Ako je počinilac krivičnog djela iz stavova od 1 do 3 ovoga člana bio izazvan protivzakonitim ili grubim postupanjem službenog lica, može se osloboditi kazne. Napad na službeno lice u obavljanju poslova sigurnosti

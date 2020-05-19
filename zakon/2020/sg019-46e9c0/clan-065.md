@@ -1,0 +1,5 @@
+Član 65
+(1) Sud će opozvati uslovnu osudu ako poslije njezinog izricanja utvrdi da je osuđeni učinio krivično djelo prije nego što je uslovno osuđen i ako ocijeni da ne bi bilo osnova za izricanje uslovne osude da se znalo za to krivično djelo. U tom će slučaju primijeniti odredbu člana 64 (Opoziv uslovne osude zbog novog krivičnog djela) stava 3 ovoga zakona.
+(2) Ako sud ne opozove uslovnu osudu, primijenit će odredbu člana 64 stava 4 ovoga zakona. Opoziv uslovne osude zbog neispunjenja izrečenih obaveza Člana 66
+(1) Sud će opozvati uslovnu osudu i izreći izvršenje izrečene kazne ako osuđeni u određenom vremenu provjeravanja ne ispuni izrečenu obavezu u slučajevima kada je mogao ispuniti tu obvezu.
+(2) U slučaju nemogućnosti ispunjenja izrečene obaveze, sud može produžiti rok za ispunjenje te obaveze ili je zamijeniti drugom odgovarajućom obavezom predviđenom krivičnim zakonodavstvom Brčko distrikta, ili može osuđenog osloboditi ispunjenja izrečene obaveze. Rokovi za opoziv uslovne osude

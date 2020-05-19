@@ -1,0 +1,4 @@
+Član 267
+(1) Ko za sebe ili drugoga izbjegne plaćanje davanja propisanih poreznim zakonodavstvom u Brčko distriktu ili doprinosa socijalnog osiguranja propisanih u Brčko distriktu, ne dajući zahtijevane podatke ili dajući lažne podatke o svom stečenom oporezivom prihodu ili o drugim činjenicama koje su od uticaja na utvrđivanje iznosa takvih obaveza, a iznos obaveze čije se plaćanje izbjegava prelazi 10.000 KM, kaznit će se novčanom kaznom ili kaznom zatvora do tri godine.
+(2) Ko učini krivično djelo iz stava 1 ovoga člana, a iznos obaveze čije se plaćanje izbjegava prelazi 50.000 KM, kaznit će se kaznom zatvora od jedne do deset godina.
+(3) Ko učini krivično djelo iz stava 1 ovoga člana, a iznos obaveze čije se plaćanje izbjegava prelazi 200.000 KM, kaznit će se kaznom zatvora najmanje tri godine. Neplaćanje poreza

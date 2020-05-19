@@ -1,0 +1,4 @@
+Član 180
+(1) Ko ugrozi sigurnost nekog lica ozbiljnom prijetnjom da će njega ili njemu blisko lice lišiti života, teško tjelesno povrijediti, lišiti slobode, ili oteti, ili nanijeti zlo podmetanjem požara, eksplozijom ili nekom drugom općeopasnom radnjom ili sredstvom, kaznit će se kaznom zatvora do šest mjeseci.
+(2) Ako je djelo iz stava 1 ovog člana učinjeno prema službenom licu u vezi sa vršenjem njegove funkcije, ili prema više lica, ili je u značajnoj mjeri izazvano uznemirenje građana, ili je učinjeno u sastavu grupe ili zločinačke organizacije, kaznit će se kaznom zatvora od tri mjeseca do pet godina.
+(3) Ko prikradanjem, učestalim praćenjem ili uznemiravanjem na drugi način ugrožava sigurnost bračnog partnera, lice s kojom živi u vanbračnoj zajednici, roditelja svog djeteta ili drugo lice s kojim održava ili je održavao bliske veze, kaznit će se novčanom kaznom ili kaznom zatvora do jedne godine. Narušavanje nepovredivosti doma

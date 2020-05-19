@@ -1,0 +1,4 @@
+Član 183
+(1) Ko bez odobrenja otvori tuđe pismo ili telegram ili kakvo drugo zatvoreno pismeno ili pošiljku ili na drugi način povrijedi njihovu tajnost ili neovlašteno zadrži, prikrije, uništi ili drugome preda tuđe pismo, telegram, zatvoreno pismeno ili pošiljku, kaznit će se kaznom zatvora do šest mjeseci.
+(2) Ko neovlašteno prodre u kompjutersku bazu ličnih podataka ili te podatke neovlašteno koristi ili ih učini dostupnim drugom licu, kaznit će se kaznom zatvora do šest mjeseci. ( 3) Ko krivično djelo iz stavova 1 i 2 ovoga člana učini s ciljem da sebi ili drugom pribavi kakvu korist ili da drugom nanese kakvu štetu, kaznit će se kaznom zatvora do tri godine.
+(4) Službeno lice koje učini krivično djelo iz stavova 1, 2 i 3 ovog člana u obavljanju službe, kaznit će se za djelo iz stavova 1 i 2 ovog člana zatvorom od tri mjeseca do tri godine, a za djelo iz stava 3 ovog člana zatvorom od šest mjeseci do pet godina. Neovlašteno otkrivanje profesionalne tajne

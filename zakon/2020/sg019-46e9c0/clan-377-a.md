@@ -1,0 +1,3 @@
+Član 377a
+(1) Službeno ili odgovorno lice u institucijama Brčko distrikta BiH koje na osnovu sporazuma pogoduje jednom od privrednih subjekata prilagođavanjem uslova javne nabavke ili sklopi ugovor s ponuđačem čija je ponuda u suprotnosti s uslovima iz dokumentacije za nadmetanje, kaznit će se kaznom zatvora od šest mjeseci do pet godina.
+(2) Kaznom iz stava 1 ovoga člana kaznit će se službeno ili odgovorno lice u institucijama Brčko distrikta BiH koje iskoristi položaj ili ovlaštenje pogodovanjem u davanju, preuzimanju ili ugovaranju poslova za svoju djelatnost ili djelatnost lica s kojim je interesno povezana. Pronevjera

@@ -1,0 +1,5 @@
+Član 334
+(1) Ko organizira grupu ljudi ili na drugi način udružuje tri ili više lica u cilju počinjenja krivičnih djela propisanih zakonom u Brčko distriktu Bosne i Hercegovine za koja se može izreći kazna zatvora tri godine ili teža kazna, ako za takvo organiziranje ili udruživanje radi počinjenja pojedinog krivičnog djela nije propisana posebna kazna, kaznit će se kaznom zatvora od šest mjeseci do pet godina.
+(2) Ko postane pripadnikom grupe ljudi ili udruženja iz stava 1 ovoga člana, kaznit će se novčanom kaznom ili kaznom zatvora do jedne godine.
+(3) Pripadnik grupe ljudi koji otkrije grupu ili pripadnik udruženja koji otkrije udruženje prije nego što je u njihovu sastavu ili za njih počinio krivično djelo, može se osloboditi kazne.
+(4) Organizator koji otkrivanjem grupe ljudi ili udruženja ili na drugi način spriječi počinjenje krivičnog djela iz stava 1 ovoga člana, kaznit će se novčanom kaznom ili kaznom zatvora do jedne godine, a može se i osloboditi kazne. Sudjelovanje u grupi ljudi koja počini krivično djelo

@@ -1,0 +1,5 @@
+Član 119
+(1) Pravne posljedice osude nastupaju danom pravosnažnosti presude.
+(2) Pravne posljedice osude koje se sastoje u zabrani sticanja određenih prava traju najduže deset godina od dana izdržane, oproštene ili zastarjele kazne, ako za pojedine pravne posljedice nije zakonom propisano kraće trajanje.
+(3) Pravne posljedice osude prestaju brisanjem osude.
+Prestanak mjera sigurnosti i pravnih posljedica osude na osnovu sudske odluke

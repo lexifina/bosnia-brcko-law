@@ -1,0 +1,3 @@
+Član 312
+(1) Ko životinju teško zlostavlja ili izlaže nepotrebnim ili dugotrajnim mukama, ili joj nanosi nepotrebne boli, ili protivpravno razara životinjska staništa u većoj mjeri ili na širem prostoru, ili protivno propisima ubija životinje, kaznit će se novčanom kaznom ili kaznom zatvora do šest mjeseci.
+(2) Ko krivično djelo iz stava 1 ovoga člana počini radi opklade ili drugog pribavljanja imovinske koristi, ili ako je krivičnim djelom iz stava 1 ovoga člana prouzrokovano uginuće većeg broja životinja ili životinje čija je vrsta posebno zaštićena, kaznit će se novčanom kaznom ili kaznom zatvora do jedne godine. Protivzakoniti lov

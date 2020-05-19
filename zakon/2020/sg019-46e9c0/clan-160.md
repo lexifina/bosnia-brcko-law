@@ -1,0 +1,5 @@
+Član 160
+(1) Ko izaziva ili raspiruje nacionalnu, rasnu ili vjersku mržnju, razdor ili netrpeljivost među konstitutivnim narodima i ostalima koji žive u Brčko distriktu, kaznit će se kaznom zatvora od jedne do pet godina.
+(2) Ko krivično djelo iz stava 1 ovoga člana učini prinudom, zlostavljanjem, ugrožavanjem sigurnosti, izlaganjem poruzi nacionalnih, etničkih ili vjerskih simbola, oštećenjem tuđih stvari, skrnavljenjem spomenika, spomen-obilježja ili grobova, kaznit će se kaznom zatvora od jedne do osam godina.
+(3) Kaznom iz stava 2 ovoga člana kaznit će se ko krivično djelo iz stava 1 ovoga člana učini zloupotrebom položaja ili ovlaštenja, ili ako je zbog tog djela došlo do nereda, nasilja ili drugih teških posljedica za zajednički život konstitutivnih naroda i ostalih koji žive u Brčko distriktu, kaznit će kaznom zatvora od jedne do deset godina.
+(4) Materijali i predmeti koji nose poruke iz stava 1 ovog člana kao i sredstva za njihovu izradu, umnožavanje ili rasturanje oduzet će se. Kažnjavanje za najteže oblike krivičnih djela protiv države

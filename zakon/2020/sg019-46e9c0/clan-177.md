@@ -1,0 +1,4 @@
+Član 177
+(1) Ko drugog protivpravno zatvori, drži zatvorena ili mu na drugi način oduzme ili ograniči slobodu kretanja s ciljem da njega ili koga drugog prisili da što učini, ne učini ili trpi, kaznit će se kaznom zatvora od šest mjeseci do pet godina.
+(2) Ko krivično djelo iz stava 1 ovoga člana učini prema djetetu ili maloljetniku, ili ko radi ostvarivanja cilja otmice iz stava 1 ovoga člana prijeti da će oteto lice lišiti života ili da će ga teško tjelesno povrijediti, ili ako je krivično djelo učinjeno u sastavu grupe ljudi ili organizovane grupe ljudi, učinilac će se kazniti kaznom zatvora od jedne do deset godina.
+(3) Učinilac krivičnog djela iz stavova 1 i 2 ovoga člana koji dobrovoljno pusti na slobodu oteto lice prije nego što je ostvaren njegov zahtjev radi kojega je učinilo otmicu, može se osloboditi kazne. Iznuđivanje iskaza

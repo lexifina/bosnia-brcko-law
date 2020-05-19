@@ -1,0 +1,3 @@
+Član 110
+(1) Kazna zatvora izvršava se u zatvorenim, poluotvorenim ili otvorenim ustanovama za izdržavanje kazne.
+(2) Kazna dugotrajnog zatvora izvršava se u zatvorenim ustanovama za izdržavanje kazne. Granice izvršenja kazni

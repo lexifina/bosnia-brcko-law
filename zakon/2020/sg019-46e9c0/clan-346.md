@@ -1,0 +1,2 @@
+Član 346
+Sudija suda u Brčko distriktu Bosne i Hercegovine ili drugo službeno lice koje je sudjelovalo u ispitivanju svjedoka pod zaštitom u krivičnom postupku koji se vodi po zakonu Brčko distrikta Bosne i Hercegovine, koje neovlaštenom licu učini pristupačnim podatke o istovjetnosti svjedoka pod zaštitom, kaznit će se kaznom zatvora od šest mjeseci do pet godina. Povreda sudske odluke o zabrani obavljanja zvanja, djelatnosti ili dužnosti

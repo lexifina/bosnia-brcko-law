@@ -1,0 +1,6 @@
+Član 75
+(1) Mjera sigurnosti obaveznog liječenja od ovisnosti može se izreći učiniocu koji je krivično djelo učinio pod odlučujućim djelovanjem ovisnosti od alkohola ili opojnih droga, ako postoji opasnost da će zbog te ovisnosti i ubuduće činiti krivična djela.
+(2) Mjera sigurnosti obaveznog liječenja od ovisnosti se, pod uslovima iz stava 1 ovoga člana, može izreći uz istu krivičnopravnu sankciju, u istom trajanju i na isti način kako je ovim zakonom propisano za mjeru sigurnosti obaveznog psihijatrijskog liječenja.
+(3) Stav 3 brisan Zakonom o izmjenama i dopunama Krivičnog zakona Brčko distrikta Bosne i Hercegovine (Službeni glasnik Brčko distrikta BiH, broj 21/10).
+(4) Pod uslovima iz člana 74 (Obavezno psihijatrijsko liječenje) stava 2 ovoga zakona, obavezno liječenje od ovisnosti se može nastaviti izvan medicinske ustanove nakon što je osuđeni uslovno otpušten. Ako osuđeni ne nastavi liječenje, uslovni otpust će se opozvati.
+(5) Prema učiniocu krivičnog djela koji se ne podvrgne liječenju od ovisnosti tokom vremena provjeravanja određenog u uslovnoj osudi, može se postupiti prema odredbi člana 66 (Opoziv uslovne osude zbog neispunjenja izrečenih obaveza) ovoga zakona. Zabrana vršenja poziva, djelatnosti ili dužnosti

@@ -1,0 +1,4 @@
+Član 240
+(1) Ko, znajući da je postao nesposoban za plaćanje, isplatom duga ili na drugi način stavi kojeg povjerioca u povoljniji položaj i time ošteti najmanje jednog od svojih povjerilaca, kaznit će se novčanom kaznom ili kaznom zatvora do jedne godine.
+(2) Odgovorno lice u pravnom licu koje, znajući da je pravno lice postalo nesposobno za plaćanje, u cilju izigravanja ili oštećivanja povjerilaca prizna neistinito potraživanje, sastavi lažni ugovor ili drugom prevarnom radnjom ošteti povjerioca pravnog lica, kaznit će se kaznom zatvora od šest mjeseci do pet godina.
+(3) Ako je krivičnim djelom iz stavova 1 i 2 ovoga člana prouzrokovana šteta koja prelazi 500.000 KM, ili postupak sanacije ili stečaja prema oštećeniku, učinilac će se kazniti kaznom zatvora od jedne do deset godina. Zloupotreba ovlasti u privrednom poslovanju

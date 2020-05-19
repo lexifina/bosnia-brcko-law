@@ -1,0 +1,4 @@
+Član 338
+(1) Ko zna da se priprema počinjenje krivičnog djela za koje se po zakonu u Brčko distriktu Bosne i Hercegovine može izreći tri godine zatvora ili teža kazna, pa u vremenu kad je još bilo moguće spriječiti njegovo počinjenje to ne prijavi, a djelo bude pokušano ili počinjeno, kaznit će se kaznom zatvora do jedne godine.
+(2) Ko krivično djelo iz stava 1 ovoga člana počini u odnosu na krivično djelo za koje se po zakonu u Brčko distriktu Bosne i Hercegovine može izreći kazna dugotrajnog zatvora, kaznit će se kaznom zatvora od šest mjeseci do pet godina.
+(3) Za krivično djelo iz stavova 1 i 2 ovoga člana neće se kazniti lice kome je počinilac bračni drug, lice koje sa njim živi u vanbračnoj zajednici, krvni rođak u ravnoj liniji, brat ili sestra, posvojilac ili posvojče i njihov bračni drug ili lice s kojim žive u vanbračnoj zajednici, ili koji je branilac, ljekar ili vjerski službenik počinioca. Neprijavljivanje krivičnog djela ili počinioca

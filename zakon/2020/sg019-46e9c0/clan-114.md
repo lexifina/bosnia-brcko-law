@@ -1,0 +1,4 @@
+Član 114
+(1) Niko ne može zadržati imovinsku korist, prihod, profit ili drugu korist iz imovinske koristi pribavljenu krivičnim djelom.
+(2) Imovinska korist, prihod, profit ili druga korist iz imovinske koristi iz stava 1 ovoga člana oduzet će se sudskom odlukom kojom je utvrđeno da je krivično djelo učinjeno, pod uslovima propisanima ovim zakonom.
+Prošireno oduzimanje imovinske koristi pribavljene krivičnim djelom

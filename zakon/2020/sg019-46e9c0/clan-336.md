@@ -1,0 +1,6 @@
+Član 336
+(1) Ko počini krivično djelo propisano zakonom u Brčko distriktu kao pripadnik grupe za organizirani kriminal, ako za pojedino krivično djelo nije propisana posebna kazna, kaznit će se kaznom zatvora najmanje tri godine.
+(2) Ko kao pripadnik grupe za organizirani kriminal počini krivično djelo propisano zakonom u Brčko distriktu za koje se može izreći kazna zatvora tri godine ili teža kazna, ako za pojedino krivično djelo nije propisana posebna kazna, kaznit će se kaznom zatvora najmanje pet godina.
+(3) Ko organizira ili bilo kako rukovodi grupom za organizirani kriminal koja zajedničkim djelovanjem počini ili pokuša krivično djelo propisano zakonom u Brčko distriktu Bosne i Hercegovine, ako za pojedino krivično djelo nije propisana posebna kazna, kaznit će se kaznom zatvora najmanje deset godina ili dugotrajnim zatvorom.
+(4) Ko postane pripadnikom grupe za organizirani kriminal koja zajedničkim djelovanjem počini ili pokuša krivično djelo propisano zakonom u Brčko distriktu Bosne i Hercegovine, ako za pojedino krivično djelo nije propisana posebna kazna, kaznit će se kaznom zatvora najmanje jednu godinu.
+(5) Pripadnik grupe za organizirani kriminal iz stavova od 1 do 4 ovoga člana, koji zločinačku organizaciju otkrije, može se osloboditi kazne. Izrada i nabavka oružja i sredstava namijenjenih počinjenju krivičnih djela

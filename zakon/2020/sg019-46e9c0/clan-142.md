@@ -1,0 +1,3 @@
+Član 142
+(1) Mjera sigurnosti objave presude izriče se kada bi bilo korisno da javnost sazna za osudu, naročito ako bi objava presude bila od koristi za otklanjanje opasnosti za život ili zdravlje ljudi ili za sigurnost saobraćaja ili da se zaštite ili podstiču društvene vrijednosti.
+(2) S obzirom na značaj krivičnog djela i potrebu da javnost sazna za osudu, sud će ocijeniti hoće li se presuda objaviti u štampi, na radiju ili televiziji ili u više navedenih sredstava javnog informisanja, i ujedno hoće li se objaviti obrazloženje presude u cijelosti ili u izvodu, uzimajući pritom u obzir da se načinom objave omogući obaviještenost svih u čijem interesu je objava presude. Zabrana obavljanja određene djelatnosti

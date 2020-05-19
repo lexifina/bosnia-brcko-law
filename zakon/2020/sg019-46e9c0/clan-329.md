@@ -1,0 +1,4 @@
+Član 329
+(1) Odgovorno lice kome je povjeren nadzor nad stanjem i održavanjem saobraćajnica i objekata na njima, prijevoznim sredstvima ili javnim saobraćajem ili nad ispunjavanjem propisanih uslova rada vozača, ili odgovorno lice kome je povjereno rukovođenje vožnjom, koje nesavjesnim obavljanjem dužnosti izazove opasnost za život ili tijelo ljudi ili za imovinu većeg obima, kaznit će se kaznom zatvora do pet godina.
+(2) Kaznom iz stava 1 ovoga člana kaznit će se odgovorno lice koje izda nalog za vožnju ili dozvoli vožnju, iako zna da vozač zbog umora, bolesti, uticaja alkohola ili drugih razloga nije u stanju sigurno upravljati vozilom ili da vozilo nije ispravno i time izazove opasnost za život ili tijelo ljudi ili za imovnu većeg obima.
+(3) Ko krivično djelo iz stavova 1 i 2 ovoga člana počini iz nehata, kaznit će se novčanom kaznom ili kaznom zatvora do tri godine. Teška krivična djela protiv sigurnosti javnog saobraćaja

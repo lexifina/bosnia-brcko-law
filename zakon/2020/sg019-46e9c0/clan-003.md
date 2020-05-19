@@ -1,0 +1,3 @@
+Član 3
+(1) Krivična djela i krivičnopravne sankcije propisuju se samo za ona ponašanja kojima se tako ugrožavaju ili povređuju lične slobode i prava čovjeka te druga prava i društvene vrijednosti zajamčene i zaštićene Ustavom Bosne i Hercegovine, Statutom Brčko distrikta i međunarodnim pravom, da se njihova zaštita ne bi mogla ostvariti bez krivičnopravne prinude.
+(2) Propisivanje krivičnih djela i vrste i mjere krivičnopravnih sankcija zasniva se na nužnosti primjene krivičnopravne prinude i njenoj razmjernosti jačini opasnosti za lične slobode i prava čovjeka, te druge osnovne vrijednosti. Načelo zakonitosti

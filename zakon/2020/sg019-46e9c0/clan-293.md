@@ -1,0 +1,3 @@
+Član 293
+(1) Ko s ciljem da osujeti ostvarenje prava na stvari, otuđi, uništi ili oduzme svoju stvar na kojoj drugi ima založno pravo ili pravo uživanja i time ga ošteti, kaznit će se novčanom kaznom ili kaznom zatvora do jedne godine.
+(2) Kaznom iz stava 1 ovoga člana kaznit će se ko uništi, prividno proda ili učini neupotrebljivom svoju cjelokupnu imovinu ili neki njen sastavni dio ili prizna neistinito potraživanje, sklopi lažni ugovor ili nekom drugom prevarnom radnjom prividno ili stvarno pogorša svoje imovinsko stanje i time umanji mogućnost ili spriječi namirenje najmanje jednog od svojih povjerilaca. Prikrivanje

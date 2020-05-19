@@ -1,0 +1,4 @@
+Član 216
+(1) Roditelj, usvojilac, staralac ili drugo lice koje grubo zanemaruje svoje dužnosti zbrinjavanja ili odgoja djeteta ili maloljetnika, kaznit će se kaznom zatvora od tri mjeseca do tri godine.
+(2) Kaznom iz stava 1 ovoga člana kaznit će se roditelj, usvojilac, staralac ili drugo lice koje zlostavi dijete ili maloljetnika, prisili ga na rad koji ne odgovara njegovoj životnoj dobi, ili na pretjerani rad, ili na prosjačenje, ili ga iz koristoljublja navodi na ponašanje koje je štetno za njegov razvoj.
+(3) Ako je krivičnim djelom iz stavova 1 i 2 ovoga člana dijete ili maloljetnik teško tjelesno ozlijeđen, ili mu je teško narušeno zdravlje, ili se zbog krivičnog djela iz stavova 1 ili 2 ovoga člana dijete ili maloljetnik odao prosjačenju, prostituciji ili drugim oblicima asocijalnog ponašanja ili delinkvenciji, učinilac će se kazniti kaznom zatvora od tri mjeseca do pet godina. Povreda porodičnih obaveza

@@ -1,0 +1,2 @@
+Član 333
+Ko nabavi ili pripremi sredstva ili ukloni prepreke ili preduzme kakvu drugu radnju koja stvara uslove za neposredno počinjenje, ali nije dio počinjenja krivičnog djela propisanog zakonom u Brčko distriktu Bosne i Hercegovine za koje se može izreći kazna zatvora tri godine ili teža kazna, ukoliko za pripremanje pojedinog kaznenog djela nije propisana posebna kazna, kaznit će se novčanom kaznom ili kaznom zatvora do tri godine. Udruživanje radi počinjenja krivičnih djela

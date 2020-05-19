@@ -1,0 +1,2 @@
+Član 274
+Ko kršenjem propisa ili općeg akta ili kolektivnog ugovora o zasnivanju ili prestanku radnog odnosa, o plati ili drugim primanjima, o radnom vremenu, o odmoru ili odsustvu, zaštiti žena, omladine i invalida ili o zabrani prekovremenog ili noćnog rada, uskrati ili ograniči zaposleniku pravo koje mu pripada, kaznit će se novčanom kaznom ili kaznom zatvora do jedne godine. Povreda prava za vrijeme privremene nezaposlenosti

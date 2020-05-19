@@ -1,0 +1,8 @@
+Član 44
+(1) Kad sud odmjeri i izrekne kaznu zatvora do jedne godine, može na prijedlog optuženog ili njegovog branioca, odrediti da se tako izrečena kazna zamjeni radom za opće dobro na slobodi.
+(2) Odluka da se kazna zatvora zamijeni radom za opće dobro na slobodi zasniva se na ocjeni da, uzimajući u obzir sve okolnosti koje određuju vrstu i mjeru kazne, izvršenje kazne zatvora ne bi bilo prijeko potrebno za ostvarenje svrhe kažnjavanja, ali istovremeno uslovna kazna ne bi bila dovoljna za postizanje opće svrhe krivičnopravnih sankcija.
+(3) Rad za opće dobro na slobodi određuje se u trajanju srazmjernom izrečenoj kazni zatvora, od najmanje deset do najviše 90 radnih dana. Rok za izvršenje rada za opće dobro na slobodi ne može biti kraći od jednog mjeseca niti duži od jedne godine.
+(4) Pri ocjenjivanju trajanja rada za opće dobro na slobodi kao i vremena obavljanja toga rada, sud će uzeti u obzir izrečenu kaznu zatvora koja se zamjenjuje i mogućnosti učinioca s obzirom na njegovu ličnu situaciju i zaposlenje.
+(5) U slučaju kada osuđeni po isteku određenog roka nije izvršio ili je samo djelimično izvršio rad za opće dobro na slobodi, sud će donijeti odluku o izvršenju kazne zatvora u trajanju srazmjernom vremenu preostalog rada za opće dobro na slobodi.
+(6) Zamjena kazne zatvora radom za opće dobro na slobodi može se primijeniti i u slučajevima kad se novčana kazna zamjenjuje kaznom zatvora prema odredbama člana 47 (Zamjena novčane kazne) ovog zakona.
+(7) Raspoređivanje na rad za opće dobro na slobodi u smislu vrste i radnog mjesta obavlja Pravosudna komisija prema mjestu prebivališta odnosno boravišta osuđenika, vodeći računa o njegovim sposobnostima i znanjima. Uslovni otpust

@@ -1,0 +1,5 @@
+Član 246a
+(1) Ko pri obavljanju privredne ili druge djelatnosti za sebe ili drugog, neposredno ili posredno, zahtijeva ili primi poklon ili drugu korist ili ko primi obećanje poklona ili druge koristi da zaključi ugovor ili postigne poslovni dogovor ili pruži uslugu ili da se uzdrži od takvog djelovanja ili kršenjem drugih dužnosti u obavljanju privredne ili druge djelatnosti na štetu ili u korist subjekta privrednog poslovanja ili drugog pravnog lica za koje ili u kojem radi ili drugog lica, kaznit će se kaznom zatvora od jedne do osam godina.
+(2) Učinilac djela iz stava 1 ovog člana koji posle zaključenja ugovora ili postizanja poslovnog dogovora ili posle pružene usluge ili uzdržavanja od takvog djelovanja, za sebe ili drugog zahtijeva ili primi poklon ili drugu korist ili prihvati obećanje poklona ili druge koristi, kaznit će se kaznom zatvora od šest mjeseci do tri godine.
+(3) Primljeni poklon i imovinska korist oduzet će se.
+Davanje dara ili druge koristi u obavljanju privredne ili druge djelatnosti

@@ -1,0 +1,4 @@
+Član 348
+(1) Lice kome je na osnovu zakona oduzeta sloboda, koje se udruži s drugim licima kojima je na osnovu zakona oduzeta sloboda s ciljem da se nasilno oslobodi ili da ta lica zajednički napadnu lica čijem su nadzoru povjerena, ili da ih silom ili prijetnjom da će neposredno upotrijebiti silu prisile da učine ili propuste nešto što je protivno njihovoj dužnosti, kaznit će se kaznom zatvora do tri godine.
+(2) Ako je krivičnim djelom iz stava 1 ovoga člana neko lice teško tjelesno ozlijeđeno ili je prouzrokovana imovinska šteta većih razmjera, počinilac će se kazniti kaznom zatvora od jedne do deset godina.
+(3) Ako je krivičnim djelom iz stava 1 ovoga člana prouzrokovana smrt jednog ili više lica, počinilac će se kazniti kaznom zatvora od jedne do dvanaest godina. Bijeg lica kome je oduzeta sloboda

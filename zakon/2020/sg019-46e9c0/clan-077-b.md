@@ -1,0 +1,6 @@
+Član 77b
+(1) Učiniocu krivičnog djela s elementima nasilja sud može za određeno vrijeme zabraniti približavanje oštećenom na određenoj udaljenosti, zabraniti pristup u prostor oko mjesta stanovanja ili mjesta rada, i zabraniti dalje uznemiravanje oštećenog odnosno dalju komunikaciju s oštećenim, ako se opravdano može očekivati da bi dalje vršenje takvih radnji od učinioca krivičnog djela bilo opasno po oštećenog.
+(2) Mjerom sigurnosti iz stava 1 ovog člana može se učiniocu krivičnog djela zabraniti približavanje i komunikacija s drugim licem ukoliko bi takvo ponašanje učinioca predstavljalo psihičko uznemiravanje oštećenog.
+(3) Sud određuje trajanje ove mjere sigurnosti koje ne može biti kraće od šest mjeseci, niti duže od dvije godine, računajući od dana pravosnažnosti presude, s tim da se vrijeme provedeno na izdržavanju kazne zatvora, odnosno u zdravstvenoj ustanovi za čuvanje i liječenje ne uračunava u vrijeme trajanja ove mjere.
+(4) Ako učinilac tokom vremena provjeravanja određenog uslovnom osudom prekrši zabranu približavanja ili komunikacije iz st. 1 ili 2 ovog člana, sud će opozvati uslovnu osudu i izreći utvrđenu kaznu.
+(5) Ako učinilac za vrijeme uslovnog otpusta prekrši zabranu približavanja ili komunikacije iz st. 1 ili 2 ovog člana, uslovni otpust će se opozvati. Obavezan psihosocijalni tretman

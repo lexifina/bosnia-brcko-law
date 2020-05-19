@@ -1,0 +1,3 @@
+Član 205
+(1) Ko u slučajevima iz člana 200 (Silovanje), 201 (Spolni odnos s nemoćnim lice,), 202 (Spolni odnos zloupotrebom položaja) i 203 (Prinuda na spolni odnos) ovoga zakona, kad nije učinjen ni pokušaj tog krivičnog djela, počini samo bludnu radnju, kaznit će se kaznom zatvora od tri mjeseca do tri godine.
+(2) Ko u slučaju iz člana 204 (Spolni odnos s djetetom) ovoga zakona, kad nije počinjen ni pokušaj toga krivičnog djela, počini samo bludnu radnju, ili ko krivično djelo iz stava 1 ovoga člana počini prema djetetu ili maloljetniku, kaznit će se kaznom zatvora od šest mjeseci do pet godina. Zadovoljenje pohote pred djetetom ili maloljetnikom

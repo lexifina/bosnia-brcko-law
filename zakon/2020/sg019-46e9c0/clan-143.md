@@ -1,0 +1,4 @@
+Član 143
+(1) Mjerom sigurnosti zabrane obavljanja određene djelatnosti sud može pravnom licu zabraniti proizvodnju određenih proizvoda ili obavljanje određenih poslova, ili mu zabraniti da se bavi određenim poslovima prometa robe ili drugim poslom odnosno djelatnostima.
+(2) Mjera sigurnosti iz stava 1 ovoga člana izriče se pravnom licu ako bi njezino dalje bavljenje određenom djelatnošću bilo opasno za život ili zdravlje ljudi ili štetno za privredno ili finansijsko poslovanje drugih lica ili za privredu, ili ako je pravno lice u posljednje dvije godine prije učinjenog krivičnog djela već bilo kažnjena za isto ili slično krivično djelo.
+(3) Mjera sigurnosti iz stava 1 ovoga člana može se izreći u trajanju od šest mjeseci do pet godina, računajući od pravosnažnosti presude. Oduzimanje imovinske koristi pravnom licu

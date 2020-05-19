@@ -1,0 +1,8 @@
+Član 297
+(1) Ko kršenjem propisa onečisti zrak, tlo, tekuću, stajaću ili podzemnu vodu, vodotok, ili na drugi način ugrozi čistoću kvaliteta zraka, tla, vode, vodotoka ili prirodnog genetskog sklada biološke raznolikosti na širem području i u mjeri koja može pogoršati uslove života ljudi ili životinja ili ugroziti opstanak šuma, bilja ili drugog rastinja, kaznit će se kaznom zatvora od tri mjeseca do pet godina.
+(2) Kaznom iz stava 1 ovoga člana kaznit će se ko onečisti zrak, tlo, tekuću, stajaću ili podzemnu vodu, vodotok, ili na drugi način ugrozi čistoću kvaliteta zraka, tla, vode, vodotoka, ili prirodnog genetskog sklada biološke raznolikosti i time izazove opasnost za život ili zdravlje ljudi ili životinja ili prouzrokuje uništenje ili znatno oštećenje šuma, bilja ili drugog rastinja u širem području.
+(3) Ko krivično djelo iz stavova 1 i 2 ovoga člana učini iz nehata, kaznit će se novčanom kaznom ili kaznom zatvora do jedne godine.
+(4) Ako je krivičnim djelom iz stavova 1 i 2 ovoga člana neko lice teško tjelesno ozlijeđeno ili je prouzrokovana imovinska šteta velikih razmjera, učinilac će se kazniti kaznom zatvora od jedne do deset godina.
+(5) Ako je krivičnim djelom iz stavova 1 i 2 ovoga člana prouzrokovana smrt jednog ili više lica, učinilac će se kazniti kaznom zatvora od jedne do dvanaest godina.
+(6) Ako je krivičnim djelom iz stava 3 ovoga člana neko lice teško tjelesno ozlijeđeno ili je prouzrokovana imovinska šteta velikih razmjera, učinilac će se kazniti kaznom zatvora od šest mjeseci do pet godina.
+(7) Ako je krivičnim djelom iz stava 3 ovoga člana prouzrokovana smrt jednog ili više lica, učinilac će se kazniti kaznom zatvora od jedne do osam godina. Ugrožavanje okoliša napravama

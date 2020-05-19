@@ -1,0 +1,5 @@
+Član 246b
+(1) Ko neposredno ili posredno učini, ponudi ili obeća poklon ili drugu korist licu da ono pri obavljanju privredne ili druge djelatnosti, zaključi ugovor ili postigne poslovni dogovor ili pruži uslugu ili se uzdrži od takvog djelovanja ili krši druge dužnosti u obavljanju privredne ili druge djelatnosti na štetu ili u korist subjekta privrednog ili drugog poslovanja za koje ili u kojem radi ili na štetu ili u korist drugog pravnog ili fizičkog lica ili ko posreduje pri ovakvom davanju poklona ili druge koristi, kaznit će se kaznom zatvora šest mjeseci do pet godina.
+(2) Učinilac djela iz stava 1 ovog člana koji je dao poklon ili drugu korist na zahtjev lica da ono pri obavljanju privredne ili druge djelatnosti zaključi ugovor, postigne poslovni dogovor, pruži uslugu ili krši dužnost, a djelo je prijavio prije nego što je saznao da je ono otkriveno, može se osloboditi od kazne.
+(3) Dati poklon i imovinska korist iz stavova 1 i 2 ovog člana oduzet će se.
+Stvaranje monopolitističkog položaja na tržištu

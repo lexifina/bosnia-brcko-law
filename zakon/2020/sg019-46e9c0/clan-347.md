@@ -1,0 +1,2 @@
+Član 347
+Ko drugome omogući obavljanje zanimanja, djelatnosti ili dužnosti iako zna da mu je pravosnažnom sudskom odlukom izrečena sigurnosna mjera zabrane obavljanja zvanja, djelatnosti ili dužnosti, ili zaštitna mjera zabrane obavljanja određenih dužnosti, ili je takva zabrana pravna posljedica osude, kaznit će se novčanom kaznom ili kaznom zatvora do jedne godine. Pobuna lica kojima je oduzeta sloboda

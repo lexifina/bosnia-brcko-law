@@ -1,0 +1,7 @@
+Član 234
+(1) Ako je krivičnim djelom iz člana 221 (Prenošenje zarazne bolesti) stavova 1 i 2, člana 224 (Zapošljavanje lica oboljelih od zarazne bolesti) stava 1, člana 225 (Nesavjesno liječenje) stavova 1 i 2, člana 227 (Nadriliječništvo), 228 (Proizvodnja i stavljanje u promet škodljivih živežnih namirnica) stava 1, člana 229 (Nesavjesni pregled mesa za prehranu) stava 1 i člana 230 (Zagađivanje vode za piće i živežnih namirnica) stava 1 ovoga zakona prouzrokovana teška tjelesna ozljeda nekog lica, ili mu je zdravlje teško narušeno, ili postojeća bolest znatno pogoršana, učinilac će se kazniti kaznom zatvora od jedne do osam godina.
+(2) Ako je krivičnim djelom navedenim u stavu 1 ovoga člana prouzrokovana smrt jednog ili više lica, učinilac će se kazniti kaznom zatvora od jedne do dvanaest godina.
+(3) Ako je krivičnim djelom iz člana 221 stava 3, člana 224 stava 2, člana 225 stava 3, člana 228 stava 2, člana 229 stava 2 i člana 230 stava 2 ovoga zakona prouzrokovana teška tjelesna ozljeda nekog lica, ili mu je zdravlje teško narušeno, ili postojeća bolest znatno pogoršana, učinilac će se kazniti kaznom zatvora od šest mjeseci do pet godina
+(4) Ako je krivičnim djelom navedenim u stavu 3 ovoga člana prouzrokovana smrt jednog ili više lica, učinilac će se kazniti kaznom zatvora od jedne do osam godina.
+XXII. GLAVA DVADESET I DRUGA
+KRIVIČNA DJELA PROTIV PRIVREDE, POSLOVANJA I SIGURNOSTI PLATNOG PROMETA Povreda ravnopravnosti u obavljanju privredne djelatnosti

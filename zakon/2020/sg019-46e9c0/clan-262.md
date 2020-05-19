@@ -1,0 +1,5 @@
+Član 262
+(1) Ko s ciljem da za sebe ili drugoga pribavi kredit, ulagačka sredstva, subvencije ili kakvu drugu pogodnost, davaocu kredita ili licu nadležnom za odobravanje pogodnosti da neistinite ili nepotpune podatke o imovinskom stanju ili druge podatke značajne za dobijanje kredita ili druge pogodnosti, kaznit će se kaznom zatvora od šest mjeseci do tri godine.
+(2) Ako je krivičnim djelom iz stava 1 ovoga člana pribavljen kredit ili druge pogodnosti iz stava 1 ovoga člana u vrijednosti koja prelazi 10.000 KM, učinilac će se kazniti kaznom zatvora od jedne do pet godina.
+(3) Ako je krivičnim djelom iz stava 1 ovoga člana pribavljen kredit ili druge pogodnosti iz stava 1 ovoga člana u vrijednosti koja prelazi 50.000 KM, učinilac će se kazniti kaznom zatvora od dvije do deset godina.
+(4) Ko dobijeni kredit, ulagačka sredstva, subvenciju ili kakvu drugu pogodnost iskoristi u drugu svrhu od one za koju su mu ta sredstva odobrena, kaznit će se novčanom kaznom i kaznom zatvora do dvije godine. Nedozvoljeno bavljenje bankarskom djelatnošću

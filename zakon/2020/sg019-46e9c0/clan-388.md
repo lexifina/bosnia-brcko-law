@@ -1,0 +1,5 @@
+Član 388
+(1) Ko neovlašteno izradi, unese, izmijeni, izbriše ili učini neupotrebljivim računarske podatke ili programe koji imaju vrijednost za pravna lica, s ciljem da se upotrijebe kao pravi ili sam upotrijebi takve podatke ili programe, kaznit će se novčanom kaznom ili kaznom zatvora do tri godine.
+(2) Ako je krivično djelo iz stava 1 ovoga člana počinjeno u odnosu na računarske podatke ili programe tijela, javne službe, javne ustanove ili trgovačkog društva od posebnog javnog interesa, ili je prouzrokovana znatna šteta, kaznit će se kaznom zatvora od tri mjeseca do pet godina.
+(3) Ko neovlašteno izrađuje, nabavlja, prodaje, posjeduje ili čini drugome pristupačnim posebne sprave, sredstva, računarske programe ili računarske podatke stvorene ili prilagođene radi počinjenja krivičnog djela iz stavova 1 i 2 ovoga člana, kaznit će se novčanom kaznom ili kaznom zatvora do tri godine.
+(4) Posebne sprave, sredstva, računarski programi ili podaci stvoreni, korišteni ili prilagođeni radi počinjenja krivičnih djela, kojima je počinjeno krivično djelo iz stavova 1 ili 2 ovoga člana, oduzet će se. Računarska prevara

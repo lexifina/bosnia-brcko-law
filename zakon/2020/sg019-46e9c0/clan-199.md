@@ -1,0 +1,10 @@
+Član 199
+Finansiranje terorističkih djelatnosti
+(1) Ko na bilo koji način neposredno ili posredno, daje ili prikuplja sredstva s ciljem da se upotrijebe ili znajući da će se upotrijebiti u cjelini ili djelimično, za učinjenje krivičnog djela iz člana 197 (Uzimanje talaca) i 198 (Terorizam) i drugog krivičnog djela iz ovog zakona koje može prouzrokovati smrt ili tjelesnu ozljedu civilnog lica ili lica koje aktivno ne sudjeluje u neprijateljstvima u oružanom sukobu, kad je svrha takvog djela, po njegovoj prirodi ili kontekstu, zastrašivanje stanovništva ili prisiljavanje organa vlasti u Brčko distriktu Bosne i Hercegovine da nešto učini ili ne učini, bez obzira na to da li su terorističke djelatnosti izvršene i da li su sredstva korištena za izvršavanje terorističkih djelatnosti, kaznit će se kaznom zatvora od jedne do deset godina.
+(2) Kaznom iz stava 1 ovog člana kaznit će se ko na bilo koji način, neposredno ili posredno, dâ ili prikupi ili na drugi način osigura sredstva:
+a) s ciljem da se ona, u potpunosti ili djelimično, upotrijebe u bilo koju svrhu od strane terorističkih organizacija ili pojedinačnih terorista, ili
+b) znajući da će, u potpunosti ili djelimično, biti upotrijebljena za izvršenje krivičnih djela iz stava 1 ovog člana od strane terorističkih organizacija ili pojedinačnih terorista.
+(3) Prikupljena sredstva namijenjena za izvršenje ili nastala izvršenjem krivičnog djela iz stava 1 ovog člana bit će oduzeta.
+(4) Sredstvima iz stavova 1 i 2 ovog člana smatraju se sredstva svake vrste, bilo da se sastoje u stvarima ili pravima, bilo materijalna ili nematerijalna, pokretna ili nepokretna, bez obzira na to kako su stečena te pravni dokumenti ili instrumenti u svakom obliku, uključujući i elektroničke ili digitalne, koji dokazuju vlasništvo ili pravo vlasništva nad imovinom, uključujući, ali ne ograničavajući se na bankarske kredite, putničke čekove, bankarske čekove, novčane naloge, udjele, vrijednosne papire, obveznice, mjenice i kreditna pisma.
+XIX. GLAVA DEVETNAESTA
+KRIVIČNA DJELA PROTIV SPOLNE SLOBODE I MORALA Silovanje

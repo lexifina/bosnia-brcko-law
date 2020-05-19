@@ -1,0 +1,5 @@
+Član 77
+(1) Mjera sigurnosti zabrane upravljanja motornim vozilom može se izreći učiniocu krivičnog djela protiv sigurnosti saobraćaja kad postoji opasnost da će upravljajući motornim vozilom ponovo učiniti takvo krivično djelo.
+(2) Pod uslovima iz stava 1 ovoga člana zabrana upravljanja motornim vozilom može se odnositi samo na određenu vrstu ili na sve vrste motornih vozila.
+(3) Mjera sigurnosti zabrane upravljanja motornim vozilom može se izreći u trajanju koje ne može biti kraće od tri mjeseca ni duže od pet godina računajući od pravosnažnosti sudske odluke, s tim da se vrijeme izvršenja kazne zatvora ne uračunava u vrijeme trajanja ove mjere.
+(4) Prema učiniocu krivičnog djela kojem je zabranjeno upravljanje motornim vozilom uz zamjenu za kaznu zatvora ili uslovnu osudu, ako ne postupi po toj zabrani, primijenit će se odredbe člana 44 (Rad za opće dobro na slobodi) stava 5 i člana 66 (Opoziv uslovne osude zbog neispunjenja određenih obaveza) ovoga zakona. Zabrana prisustvovanja određenim sportskim priredbama
