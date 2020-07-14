@@ -1,0 +1,2 @@
+Član 57
+Otpadne vode koje se odvode skupnom javnom kanalizacijom upuštaju se u recipijent putem zaušćenja koja se zaušćuju ispod najnižih vodostaja rijeke Save, pod uslovom da je stepen zagađenosti otpadnih voda u granicama propisanog. U protivnom, ako je opterećenje otpadnim vodama iznad dozvoljenog, one se moraju do potrebnog stepena prečistiti prije upuštanja u rijeku Savu. Postojeće kanalizacione ispuste u rijeku Savu koji nisu zaušćeni, davalac komulane usluge zauštiće na najniži vodostaj.

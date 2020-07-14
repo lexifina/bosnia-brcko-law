@@ -1,0 +1,2 @@
+Član 13
+Komunalnu naknadu plaćaju vlasnici ili korisnici stambenog prostora, poslovnog prostora, garažnog prostora i građevinskog zemljišta koje služi za obavljanje djelatnosti. Komunalna naknada se plaća u naselju u kojem se najmanje obavljaju komunalne djelatnosti održavanja javnih površina, održavanja puteva, pod uslovom da je do zemljišne čestice javna pristupna površina uređena (asfaltirana, betonirana ili popločana).

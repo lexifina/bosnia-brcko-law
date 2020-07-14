@@ -1,0 +1,2 @@
+Član 15
+Odluku o komunalnoj naknadi donosi Vlada Brčko distrikta BiH, a njom se obavezno utvrđuju:  naselja u kojima se plaća komunalna naknada;  područje zona u Brčko distriktu;  cijena komunalne naknade po zonama;  cijena komunalne naknade po vrstama nekretnine. Odluku o komunalnoj naknadi Vlada Brčko distrikta BiH će donijeti najkasnije 60 dana od dana stupanja na snagu ovog zakona, a primjenjivaće se od sljedeće kalendarske godine.

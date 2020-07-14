@@ -1,0 +1,2 @@
+Član 74
+Montažne radove na kanalizacionom priključku s javnom kanalizacijom na zahtjev investitora vrši davalac komulane usluge ili drugi izvođač radova pod nadzorom davaoca komulane usluge. Investitor je dužan uz zahtjev da priloži i odgovarajuću tehničku dokumentaciju. Davalac komunalne usluge je dužan montažne radove na kanalizacionom priključku da izvrši u roku od 8 dana od dana prijema zahtjeva, pod uslovom da su ispunjeni svi uslovi. Troškove postavljanja kanalizacionog priključka snosi investitor.

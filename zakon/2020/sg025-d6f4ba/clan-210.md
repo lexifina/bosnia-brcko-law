@@ -1,0 +1,2 @@
+Član 210
+Kućno smeće, po pravilu, razvrstava se na smeće koje se sastoji od otpadaka koji se mogu korisno upotrijebiti (papir, staklo, željezo, aluminijum i slično) i ostalo kućno smeće. Otpaci koji se mogu korisno upotrijebiti odlažu se po pravilu u posebne posude. Mjesta za postavljanje posuda iz prethodnog stava određuje davalac komunalne usluge nadležan za čistoću, a u slučaju spora konačno mjesto određuje komunalni inspektor. Posude za posebne vrste korisnog otpada posebno se označavaju s jasno vidljivom oznakom za koju vrstu korisnog otpada su namijenjene.

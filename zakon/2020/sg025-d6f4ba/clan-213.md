@@ -1,0 +1,2 @@
+Član 213
+Mjesto za smještaj, kao i tip posuda za smeće na javnim površinama određuje davalac komunalne usluge uz saglasnost nadležnog odjeljenja, a u slučaju spora konačno mjesto određuje komunalni inspektor. Davalac komunalne usluge nadležan za čistoću ujedno vodi i katastar mjesta za postavljanje posuda za smeće. Mjesto za posude za smeće ne može se određivati na zajedničkom stepeništu, na ulazima u zgrade ili na kolovozu. Zabranjeno je samovoljno premještanje posuda za smeće sa ranije određenih lokacija.

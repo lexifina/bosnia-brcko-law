@@ -1,0 +1,2 @@
+Član 23
+Svaki građevinski objekat na području Brčko distrikta, izgrađen pored vodovodne mreže, mora se prije puštanja u upotrebu spojiti s vodovodnom mrežom. Pod spajanjem se podrazumijeva izgradnja vodovodnog šahta, postavljanje vodomjera i priključka na glavni vod. Postojeći objekti koji nisu priključeni na vodovodnu mrežu, na zahtjev korisnika, moraju se priključiti na vodovodnu mrežu, ako to tehnički uslovi dozvoljavaju.

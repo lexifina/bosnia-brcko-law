@@ -1,0 +1,2 @@
+Član 28
+Vodovodni priključak se postavlja tako što se unutrašnja vodovodna instalacija neposredno priključuje na uličnu vodovodnu mrežu. Izuzetno, ako ne postoji mogućnost da se unutrašnje vodovodne instalacije neposredno priključuju na uličnu vodovodnu mrežu, vodovodni priključak može se postaviti preko susjednog zemljišta. Prečnik vodovodnog priključka, vodomjer kao i uslove za projektovanje spremišta za vodomjer, u skladu s tehničkim normativima, određuje nadležno odjeljenje, odnosno davalc komunalne usluge.

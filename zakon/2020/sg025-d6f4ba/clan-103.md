@@ -1,0 +1,2 @@
+Član 103
+Ograđivanje javnih površina po pravilu se vrši ukrasnim stubićima ili ukrasnom živicom na mjestima gdje neće ometati normalno kretanje pješaka ili odvijanje saobraćaja. Postavljanje ograda na površinama namijenjenim za individualno stanovanje odobrava se pod uslovima utvrđenim u urbanističkoj saglasnosti, odnosno odobrenjem za građenje. Ograde uz javne površine postavlja i održava odjeljenje nadležno za parkove.

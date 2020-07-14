@@ -1,0 +1,2 @@
+Član 221
+Krupni otpad se odvozi prema posebnom planu. Vršilac usluge odvoza smeća dužan je da dva puta godišnje (u mjesecu aprilu i oktobru) prikuplja i odvozi dijelove i komade starog namještaja i pokućstva iz stambenih objekata. O vremenu i načinu prikupljanja i odvoza dužni su da obavijeste građane putem lokalnih sredstava javnog informisanja. Korisnici odvoza kućnog smeća dužni su krupni otpad odložiti na mjestima i u vrijeme označeno u obavještenju o odvozu krupnog otpada.

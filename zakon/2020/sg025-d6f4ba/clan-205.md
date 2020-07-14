@@ -1,0 +1,2 @@
+Član 205
+Smećem na javnim površinama smatraju se svi otpaci koji nastaju na tim površinama. Sakupljanje i odvoz smeća s javnih površina vrši se redovno u skladu s programom čišćenja i održavanja javnih površina. Vanredno sakupljanje i odvoz smeća sa javnih površina vrši davalac komunalne usluge nadležan za čistoću. Izuzetno od stava 3 ovog člana vanredno sakupljanje i odvoz smeća vrši se i po nalogu inspekcije.

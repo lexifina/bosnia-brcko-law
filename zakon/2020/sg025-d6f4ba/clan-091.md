@@ -1,0 +1,2 @@
+Član 91
+Čišćenje dimnjaka i dimovodnih uređaja vrši se obavezno radnim danom a izuzetno i van radnog dana, za šta je potrebna saglasnost protivpožarnog inspektora. U dane čišćenja, odnosno spaljivanja dimnjaka u zgradama s više stanova zabranjeno je loženje vatre, a korisnici dimnjaka dužni su da zatvore rozete i omoguće dimnjačaru slobodan pristup do mjesta čišćenja. Dimnjačar je dužan da obavijesti sve stanare zgrade, najkasnije dva dana prije čišćenja, o tačnom terminu čišćenja dimovodnih objekata.

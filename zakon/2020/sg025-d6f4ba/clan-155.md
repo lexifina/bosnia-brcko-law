@@ -1,0 +1,2 @@
+Član 155
+Na području Brčko distrikta, na javnim površinama mogu se postavljati fontane i drugi slični objekti, a na osnovu odobrenja Odjeljenja za prostorno planiranje i imovinsko-pravne poslove. Javne fontane po pravilu moraju raditi od 1. aprila do 31. oktobra, a o njihovom održavanju brine se odjeljenje nadležno za parkove, odnosno pravno lice kome Vlada povjeri te poslove. U fontanama je zabranjeno kupanje ljudi i životinja kao i bacanje otpadaka.

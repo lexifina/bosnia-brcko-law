@@ -1,0 +1,2 @@
+Član 53
+Pod javnom kanalizacijom, u smislu ovog zakona podrazumijevaju se: kanalizaciona mreža s pripadajućim objektima (reviziona okna, ulični slivnici, taložnici, kanalizacioni priključci, crpne stanice i postrojenja za prečišćavanje otpadnih voda). Pod priključnom kanalizacijom, u smislu ovog zakona, podrazumijevaju se: instalacije i objekti - uređaji za odvođenje otpadnih voda i atmosferskih voda iz zgrada i drugih objekata u kanalizaciju do mjesta gdje se može izvršiti priključenje.

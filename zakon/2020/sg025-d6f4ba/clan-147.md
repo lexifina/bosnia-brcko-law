@@ -1,0 +1,2 @@
+Član 147
+Izuzetno, od postupka propisanog za zauzimanje javnih površina, zauzimanje se može odobriti samo na osnovu zahtjeva ako se radi o javnom okupljanju (predizborni skupovi, organizovani protestni skupovi i slično), ako se zauzimanje javne površine ne vrši za period duži od 24 časa, kao i prodaja cvijeća, čestitki i slično u dane praznika kada je to uobičajeno, a najduže 15 dana i površine do 5 m2.

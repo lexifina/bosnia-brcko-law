@@ -1,0 +1,2 @@
+Član 68
+Reviziono okno je dio priključne kanalizacije preko njenog spoja s javnom kanalizacijom na kojem se uzimaju i uzorci otpadne vode. Reviziono okno smješta se na mjestu do kojeg je obezbijeđen nesmetan pristup. U ulicama u kojima su zgrade neposredno uz javnu saobraćajnu površinu, reviziono okno smješta se u podrum uz građevinsku liniju. U ulicama u kojima postoje uslovi, reviziono okno smješta se između javnih saobraćajnih površina i zgrade uz regulacionu liniju. Reviziono okno izrađuje se prema tipskom projektu koji određuje davalac komulane usluge.

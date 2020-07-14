@@ -1,0 +1,2 @@
+Član 206
+Kućnim smećem u smislu ovog zakona smatraju se čvrsti otpaci koji nastaju u stanovima, zajedničkim prostorijama stambenih objekata, poslovnim prostorijama i dvorištima, a koji se po svojoj veličini mogu odlagati u posude za smeće. Kućnim smećem ne smatraju se: zemlja, otpaci i ostaci građevinskog materijala, kao i drugi krupni otpaci koji nastaju u procesu industrijske, zanatske, građevinske, poljoprivredne ili druge proizvodnje i slično.

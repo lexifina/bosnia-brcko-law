@@ -1,0 +1,2 @@
+Član 71
+Spajanje priključne kanalizacije stambenih i drugih objekata s javnom kanalizacionom mrežom mora se izvršiti u roku od jedne godine, računajući od dana kada su se stekli uslovi. U toku izgradnje kanalizacije za pojedina naselja ili ulice, komunalna inspekcija je ovlašćena i dužna da naloži priključenje objekata čije bi kasnije priključenje moralo dovesti do raskopavanja ulice, odnosno javne površine. Nakon priključenja objekta na javnu kanalizaciju vlasnik, odnosno korisnik objekta dužan je u roku od 15 dana da isprazni i zatrpa septičku jamu.

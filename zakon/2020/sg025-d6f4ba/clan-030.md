@@ -1,0 +1,2 @@
+Član 30
+Na zahtjev investitora vodovodni priključak isključivo postavlja i vodomjer ugrađuje davalac komunalne usluge. Uz zahtjev investitor je dužan da priloži odgovarajuću tehničku dokumentaciju i odobrenje za građenje. Davalac komunalne usluge je dužan da odmah a najkasnije u roku od 15 dana od dana donošenja rješenja za priključak i obezbjeđenja sredstava plaćanja postavi vodovodni priključak s vodomjerom. Troškove postavljanja vodovodnog priključka i ugrađivanja vodomjera sa armaturom snosi investitor.

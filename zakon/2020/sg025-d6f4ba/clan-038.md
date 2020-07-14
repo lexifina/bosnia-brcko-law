@@ -1,0 +1,2 @@
+Član 38
+Korisnik je dužan da omogući ovlašćenom licu očitavanje vodomjera. Zabranjeno je fizičkim i pravnim licima preduzimanje bilo kakvih radnji kojima se onemogućava pristup do šahta za smještaj vodomjera da bi se izvršilo očitavanje vodomjera (zatrpavanje šahta za smještaj vodomjera smećem, otpadom, građevinskim materijalom i sl.). Ako se krivicom korisnika nije moglo izvršiti očitavanje vodomjera, potrošnja vode za taj period određuje se procjenom a definitivno prilikom sljedećeg očitavanja.

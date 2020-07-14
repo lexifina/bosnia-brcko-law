@@ -1,0 +1,2 @@
+Član 14
+Izuzetno, komunalna naknada se ne plaća za nekretnine:  koje se koriste za djelatnost javnog školskog i visokog obrazovanja, muzeja, arhiva;  koje se koriste za zdravstvenu i socijalnu zaštitu;  koje se koriste za djelatnost vatrogasnih službi;  koje služe vjerskim zajednicama;  za građevinska zemljišta na kojima su spomen-obilježja;  za objekte čije održavanje se finansira iz budžeta, pod uslovom da nisu izdati u zakup ili privremeno korišćenje.

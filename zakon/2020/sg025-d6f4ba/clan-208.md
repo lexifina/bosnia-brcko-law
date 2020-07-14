@@ -1,0 +1,3 @@
+Član 208
+Na području Brčko distrikta organizuje se odvoz kućnog smeća i krupnog otpada.
+Za odvoz kućnog smeća i krupnog otpada odgovoran je davalac komunalne usluge nadležan za čistoću. Područja na kojima se obavezno prikuplja i odvozi kućno smeće i krupni otpad određuje davalac komunalne usluge, uz saglasnost odjeljenja nadležnog za zaštitu okoline. Svi vlasnici, odnosno korisnici stambenih i poslovnih prostora, kao i privremeno zauzetih javnih površina, dužni su da se uključe u prikupljanje i odvoz smeća i da plaćaju mjesečnu naknadu davaocu usluga odvoza smeća, kao i da zaključe ugovor o uslovima prikupljanja i odvoza smeća.

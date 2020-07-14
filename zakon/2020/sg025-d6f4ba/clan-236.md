@@ -1,0 +1,3 @@
+Član 236
+U granicama užeg urbanog područja Brčkog, a prema urbanističkom planu grada od 1996. do 2006. godine, zabranjeno je držanje životinja. Ove granice obuhvataju gradsko područje računajući od istoka ka zapadu zaključno sa: potokom Blizina; naseljem Grčica, ulicom Zaima Mušanovića, naseljem Rlijeke, naseljem Brod i zapadno naseljem Gluhakovac do oznake naseljenog mjesta Brčko. Vlada može donijeti odluku o promjeni zone urbanog područja u kome je zabranjeno držanje životinja.
+Izuzetno iz prethodnog stava dozvoljeno je držanje pasa, mačaka, ptica i drugih životinja koje se smatraju kućnim ljubumcima, ukoliko se njihovim držanjem ne ugrožavaju susjedni korisnici objekata.

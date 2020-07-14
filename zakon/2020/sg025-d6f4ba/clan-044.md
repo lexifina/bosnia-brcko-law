@@ -1,0 +1,2 @@
+Član 44
+Davalac komunalne usluge ima isključivo pravo otvaranja i zatvaranja ventila na uličnom vodu i ispred vodomjera. Korisnik može zatvoriti ventil iza vodomjera u slučaju kvara ili popravke na kućnoj vodovodnoj instalaciji. Zatvaranje ventila ispred vodomjera korisnik može izvršiti samo u slučaju kvara vodomjera, ali je o tome dužan odmah, a najkasnije u roku od 24 časa, da obavijesti davaoca komunalne usluge.

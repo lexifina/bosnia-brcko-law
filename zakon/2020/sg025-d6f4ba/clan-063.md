@@ -1,0 +1,2 @@
+Član 63
+Industrijske otpadne vode mogu se ispuštati u javnu kanalizaciju samo ako su prethodno prečišćene do propisanog stepena zagađenosti. Uređaji priključne kanalizacije za prečišćavanje otpadne vode moraju biti izvedeni tako da je obezbijeđeno neprekidno prečišćavanje vode i kada se uređaji popravljaju. Iz priključne industrijske kanalizacije mora postojati mogućnost uzimanja uzoraka vode radi analize njenog sastava.

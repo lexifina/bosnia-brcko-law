@@ -1,0 +1,3 @@
+XII. UKLANJANJE SNIJEGA I LEDA
+Član 230
+Snijeg i led uklanjaju se s javnih površina, kao i krovova zgrada uz javne saobraćajne površine. Snijeg s javnih površina počinje se uklanjati kad dostigne visinu od 5 centimetara, a ako pada neprekidno mora se uklanjati više puta. Led s javnih površina uklanja se čim nastane. Snijeg i led s krovova zgrada uklanjaju se kad postoji opasnost da se odrone i ugroze bezbjednost prolaznika i zgrada. Padavine snijega preko 50 centimetara smatraju se elementarnom nepogodom i njihovo uklanjanje vrši se u skladu s posebnom odlukom koju donosi Vlada na predlog organa nadležnog za poslove civilne zaštite.

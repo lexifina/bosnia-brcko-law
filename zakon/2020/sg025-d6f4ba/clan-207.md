@@ -1,0 +1,2 @@
+Član 207
+Krupnim otpadom u smislu ovog zakona smatraju se čvrsti otpaci koji nastaju u stanovima, poslovnim prostorijama i slično, a koji se po svojoj veličini, količini ili postanku ne smatraju kućnim smećem u smislu prethodnog člana, a naročito: kućanski aparati, namještaj, sanitarni uređaji, olupine vozila i njihovi dijelovi i slično. Krupni otpad se odvozi u dane koje odredi davalac usluge odvoza smeća, ili se lično odvozi na deponiju, uz plaćanje posebne naknade.

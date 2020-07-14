@@ -1,0 +1,2 @@
+Član 176
+Za istovar, smještaj i utovar građevinskog materijala, podizanje skela, polaganje pruge za kran i druge građevinske mašine, te popravke spoljnih dijelova zgrade i druge građevinske radove, može se, u skladu s propisima o bezbjednosti saobraćaja, privremeno koristiti javna površina ili neizgrađeno građevinsko zemljište. Odobrenje za upotrebu javne površine za radove iz stava 1 ovog člana, na zahtjev investitora ili izvođača radova, izdaje Kancelarija za upravljanje javnom imovinom Brčko distrikta BiH, uz prethodno pribavljenu saglasnost JP “Putevi Brčko“.

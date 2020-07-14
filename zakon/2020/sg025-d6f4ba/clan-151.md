@@ -1,0 +1,2 @@
+Član 151
+Na području Brčko distrikta, na mjestima koja odredi Odjeljenje za prostorno planiranje i imovinsko-pravne poslove, postavljaju se ili izgrađuju orijentacioni planovi grada, javni satovi, fontane, skulpture, žardinjere i saksije za cvijeće, klupe za sjedenje, kontejneri korpe za smeće, javni nužnici, poštanski sandučići, telefonske govornice i drugi komunalni objekti i uređaji koji služe opštoj upotrebi.

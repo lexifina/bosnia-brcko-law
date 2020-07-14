@@ -1,0 +1,6 @@
+Član 162a
+(1) Korisnikom javnog parkirališta u smislu odredabaovog zakona, smatra se vozač ili vlasnik vozila, ako vozač nije identifikovan.
+(2) Korisnik javnog parkirališta može se opredijeliti da uslugu korišćenja javnog parkirališta koristi po započetom satu, višesatnom trajanju ili u dnevnom trajanju, kupovinom i isticanjem važeće satne, višesatne ili dnevne karte, odnosno plaćanjem usluge elektronskim putem.
+(3) Korisnik koji je parkirao vozilo a nije se opredijelio za korišćenje usluge parkiranja na način iz stava 2ovog člana, koristi mjesto za parkiranje pod uslovima koji važe za parkiranje u dnevnom trajanju i istom se izdaje nalog za plaćanje dnevne karte, čiji iznos naknade je utvrđen cjenovnikom usluge parkiranja iz člana 162 stava 6 ovog zakona.
+(4) Dnevna karta za parkiranje važi od trenutka izdavanja do istog vremena u prvom sljedećem danu u kome se vrši naplata korišćenja javnog parkirališta.
+(5) Korisnik parkirališta je dužan da plati dnevnu kartu u roku od osam (8) dana od dana izdavanja i to putem priložene uplatnice, u protivnom JP "Putevi Brčko" će pokrenuti postupak naplate potraživanja kod nadležnog suda, a troškovi prinudne naplate, zakonska zatezna kamata i drugi troškovi padaju na njegov teret.

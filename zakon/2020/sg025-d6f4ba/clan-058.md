@@ -1,0 +1,2 @@
+Član 58
+Javna kanalizacija mora biti izgrađena i održavana u skladu s važećim propisima i standardima tako da obezbjeđuje odvođenje predviđenih količina vode, da se isključi mogućnost zagađivanja razlivanjem otpadnih voda po površini, prodiranje otpadnih voda u podzemne slojeve i na drugi način, te da se spriječi prenošenje zaraznih bolesti. Kanali javne kanalizacije, po pravilu se postavljaju ispod javnih površina.

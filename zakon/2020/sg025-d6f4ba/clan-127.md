@@ -1,0 +1,2 @@
+Član 127
+Javna rasvjeta po pravilu mora svijetliti cijele noći. Vrijeme uključivanja i isključivanja javne rasvjete mora se uskladiti s godišnjim dobom i atmosferskim prilikama. Podešavanje vremena rada javne rasvjete vrši se najmanje jedanput mjesečno. Posebnom odlukom gradonačelnika Brčko distrikta, u slučaju potrebe štednje električne energije, ili u drugim vanrednim okolnostima, utvrdiće se minimum potrebe obezbjeđivanja javne rasvjete na području Brčko distrikta.

@@ -1,0 +1,3 @@
+Član 152
+Na mjestima koja odredi nadležno odjeljenje postavljaju se korpice za smeće. Zabranjeno je postavljanje korpica za smeće na: 1. stubove saobraćajne signalizacije; 2. jarbole zastava; 3. drveće i druga rastinja;
+4. mjesta na kojima ometaju bezbjednost saobraćaja; 5. druga mjesta kojima narušavaju estetski izgled naselja. Na korpicama za smeće mogu se postavljati odgovarajući natpisi koji upozoravaju građane na zaštitu okoline i poštovanje komunalnog reda. Korpice postavlja i održava JP „Komunalno Brčko“ d. o. o. Brčko distrikt BiH (u daljem tekstu: davalac komunalne usluge nadležan za čistoću).

@@ -1,0 +1,2 @@
+Član 140
+Pod privremenim zauzimanjem javne površine u smislu ovog zakona smatra se:  postavljanje ljetnih bašta koje nisu dijelovi postojećih poslovnih objekata i prostorija;  postavljanje bašta, tendi, privremenih prodajnih i izložbenih mjesta ispred poslovnih objekata i prostorija;  postavljanje kioska, pokretnih objekata na točkovima, tezgi, rashladnih uređaja, stolova za prodaju lutrije, štampe, knjiga, cvijeća, ukrasnih predmeta i slično;  postavljanje zabavnih parkova, cirkuskih šatora i drugih sportskih i zabavnih sadržaja.

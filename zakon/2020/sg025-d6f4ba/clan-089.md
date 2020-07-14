@@ -1,0 +1,2 @@
+Član 89
+Ako se pregledom dimovodnih objekata utvrdi da su oni ispravni, dimnjačarska radnja je dužna da izda atest o ispravnosti dimovodnih objekata. Ako se pregledom utvrdi da su dimovodni objekti neispravni ili se u blizini dimnjaka nalaze lako zapaljive materije, te ako i nakon upozorenja dimnjačara korisnik ne postupi po upozorenju, dimnjačar je dužan da o tome obavijesti protivpožarnog i komunalnog inspektora.

@@ -1,0 +1,3 @@
+Član 47
+Davalac komunalne usluge je dužan da preduzme mjere za sprečavanje rasipanja i gubitaka vode u vodovodnoj mreži. U tom cilju ovlašćeni su uz saglasnost korisnika dužni da izvrše pregled unutrašnjih instalacija, te predlože mjere za otklanjanje kvarova. Ako korisnik ni nakon predloženih mjera ne želi da izvrši popravku instalacija, te time omogućava gubitak vode, davalac komunalne usluge će o tome obavijestiti komunalnog inspektora. U slučaju veće nestašice vode zbog suše ili bilo kojih drugih razloga, na predlog davaoca komunalne usluge, Vlada može donijeti odluku o štednji i ograničenju potrošnje vode, te način ograničenja potrošnje i mjere za izvršenje odluke.
+6. Zatvaranje vode

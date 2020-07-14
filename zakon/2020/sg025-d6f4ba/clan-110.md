@@ -1,0 +1,2 @@
+Član 110
+Svijetleći natpisi i reklame moraju biti upaljeni cijele noći u skladu s režimom rada javne rasvjete, osim u slučajevima štednje električne energije i drugim vanrednim okolnostima. Svaki kvar na svijetlećem natpisu, ili reklami, korisnik je dužan da ukloni najkasnije u roku od tri dana od dana nastanka kvara. Neispravne svijetleće natpise i reklame koje ne može popraviti korisnik je dužan da ukloni.

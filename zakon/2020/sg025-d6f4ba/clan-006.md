@@ -1,0 +1,2 @@
+Član 6
+Davalac komunalnih usluga dužan je da obezbijedi naročito:  trajno i nesmetano pružanje komunalnih usluga korisnicima pod uslovima, na način i prema normativima koji su propisani zakonom i drugim propisima;  ispravnost i funkcionalnost komunalnih objekata i uređaja;  određeni kvalitet komunalnih usluga koji podrazumijeva naročito: zdravstvenu i higijensku ispravnost prema propisanim standardima i normativima, zaštitu okoline i tačnost u pogledu rokova isporuke.

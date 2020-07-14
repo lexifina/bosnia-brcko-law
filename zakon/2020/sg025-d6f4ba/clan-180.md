@@ -1,0 +1,2 @@
+Član 180
+Izvođač radova je dužan da najkasnije u roku od 24 časa po završetku radova i uklanjanju opreme s javne površine obavijesti komunalnu inspekciju, koja će izvršiti pregled zauzete javne površine i o tome sačiniti zapisnik. Ukoliko se ustanovi da postoji oštećenje ili zaprljanost javne površine, inspektor će donijeti rješenje o dovođenju javne površine u prvobitno stanje. Bez zapisnika o prijemu javne površine, nakon završenih građevinskih radova, ne može se pristupiti tehničkom pregledu objekta za izdavanje upotrebne dozvole.

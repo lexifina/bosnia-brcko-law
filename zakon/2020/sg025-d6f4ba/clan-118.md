@@ -1,0 +1,2 @@
+Član 118
+Na predlog šefa nadležnog odjeljenja, gradonačelnik izuzetno, zbog veličine i posebnih uslova postavljanja može odrediti lokacije za postavljanje pojedinih tipova reklamnih objekata (panoi tipa Jumbo, Citi Ligt i slično), koji će se dodijeliti putem konkursa. Najpovoljnijeg ponuđača na konkursu odabraće stručna komisija koju imenuje gradonačelnik. Odabrani ponuđač dužan je da obezbijedi urbanističku saglasnost za postavljanje reklamne naprave i sklopi ugovor s nadležnim odjeljenjem Vlade Brčko distrikta.

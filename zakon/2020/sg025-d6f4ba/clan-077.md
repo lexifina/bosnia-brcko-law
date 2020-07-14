@@ -1,0 +1,2 @@
+Član 77
+Vlasnik, odnosno korisnik zgrade odgovoran je za održavanje prvog revizionog okna iza regulacione linije i za unutrašnju kanalizaciju i snosi troškove njenog održavanja. U zgradama s više stanova njihovi vlasnici ili korisnici dužni su da spriječe curenje fekalnih voda u druge stanove. Reviziono okno mora da se održava tako da se omogućava pravilno funkcionisanje instalacija, kao i nesmetan rad u njemu.

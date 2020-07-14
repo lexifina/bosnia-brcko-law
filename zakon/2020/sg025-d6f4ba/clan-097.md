@@ -1,0 +1,5 @@
+Član 97
+Javne površine, u smislu ovog zakona, obuhvataju:
+1. javne saobraćajne površine: magistralni, regionalni, lokalni i nekategorisani putevi, ulice, trotoari, pješačke i parkovske staze, javni prolazi, trgovi, skverovi, javna stepeništa, mostovi, nadvožnjaci, podvožnjaci, javne parking-površine, autobuska stajališta i taksi stajališta;
+2. javne zelene površine: parkovi, drvoredi, posude sa ukrasnim biljem, žive ograde, travnjaci, dječja igrališta, zelene površine uz saobraćajnice na području grada, uz stambene, stambeno-poslovne i javne objekte, uređene rekreacione površine, šetališta, zelene površine oko javnih česmi; 3.ostale javne površine: sportska igrališta, sportski objekti i uređaji, izletišta, bazeni, površine uz uređene i neuređene obale rijeka i luke, željeznički peroni, benzinske stanice i prostor oko njih, otvoreni pijačni i tržišni prostori, prostori oko prodajnih objekata, javni nužnici, javne česme, fontane, neuređene javne površine i prostori i neizgrađeno građevinsko zemljište.
+1. Uređenje fasada i drugih spoljnih dijelova zgrada

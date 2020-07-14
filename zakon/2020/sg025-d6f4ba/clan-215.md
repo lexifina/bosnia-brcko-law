@@ -1,0 +1,2 @@
+Član 215
+Korisnici usluga odvoza smeća dužni su sakupljeno smeće pažljivo odlagati u posude za smeće tako da se ono ne rasipa na okolni prostor. Posude za kućno smeće moraju biti zatvorene. Zabranjeno je oštećivati posude za kućno smeće, ulivati u njih tekućine, bacati žeravicu i vrući pepeo, bacati ostatke životinja, građevinski otpad, glomaznu kartonsku ambalažu, dijelove kućnog namještaja i slično. Zabranjeno je paljenje smeća i drugih otpadaka u posudama za sakupljanje smeća.

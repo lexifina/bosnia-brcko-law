@@ -1,0 +1,2 @@
+Član 217
+Vršilac usluga odvoza smeća dužan je na područjima gdje se vrši organizovani odvoz smeća najmanje jadanput sedmično odvoziti kućno smeće sabirnim vozilom. Gradonačelnik može odrediti da se u pojedinim dijelovima Brčko distrikta smeće odvozi dva ili više puta sedmično, a prema programu odvoženja smeća koji donosi davalac komunalne usluge, uz saglasnost odjeljenja nadležnog za zaštitu okoline.
