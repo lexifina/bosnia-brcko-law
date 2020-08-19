@@ -1,0 +1,5 @@
+Broj: 01-02-966/20
+Brčko, 29. 7. 2020. godine
+PREDSJEDNIK
+SKUPŠTINE BRČKO DISTRIKTA BiH
+Esed Kadrić
