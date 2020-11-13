@@ -1,0 +1,5 @@
+Broj: 01-02-1034/20
+Brčko, 14. 10. 2020. godine
+PREDSJEDNIK
+SKUPŠTINE BRČKO DISTRIKTA BiH
+Esed Kadrić

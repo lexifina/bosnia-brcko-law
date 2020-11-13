@@ -1,0 +1,7 @@
+Član 4
+(Dužnosti)
+(1) S ciljem zaštite stanovništva od zaraznih bolesti, organi i institucije Distrikta, pravna lica, preduzetnici i fizička lica dužni su da planiraju i preduzimaju mjere za sprečavanje i suzbijanje, eliminaciju i eradikaciju zaraznih bolesti utvrđenih ovim zakonom.
+(2) Posebnu ulogu u zaštiti stanovništva od zaraznih bolesti imaju zdravstvene ustanove, zdravstveni radnici i zdravstveni saradnici, a u prevenciji zoonoza i veterinarske organizacije i veterinarski radnici.
+(3) Svaki građanin Distrikta dužan je da se liječi od zarazne bolesti koja može ugroziti zdravlje drugih lica, da u skladu s preporukama nadležnih organa, institucija i zdravstvenih ustanova preduzima mjere za zaštitu drugih lica, kao i da omogući i učestvuje u provođenju mjera određenih ovim zakonom i propisima donesenim na osnovu ovog zakona.
+(4) Lice oboljelo od zarazne bolesti, odnosno nosilac uzročnika zarazne bolesti dužno je da daje istinite podatke tokom epidemiološkog ispitivanja i da se pridržava određenih mjera i uputstava zdravstvene ustanove, odnosno naloga doktora medicine, naročito onih koji se odnose na sprečavanje prenošenja zarazne bolesti.
+(5) Organi i institucije Distrikta, kao i ustanove i organizacije iz stava 2 ovog člana dužne su da sve podatke o licima oboljelim od zaraznih bolesti, odnosno licima nosiocima uzročnika zaraznih bolesti i kontakt osoba prikupljaju, obrađuju i evidentiraju razvrstane po spolu i uzrastu.

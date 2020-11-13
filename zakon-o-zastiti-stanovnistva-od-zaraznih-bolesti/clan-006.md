@@ -1,0 +1,68 @@
+Član 6
+(Zarazne bolesti)
+(1) Zarazne bolesti i stanja značajna za epidemiološki nadzor nad zaraznim bolestima u skladu s ovim zakonom su sljedeća:
+a) bolesti koje se mogu spriječiti imunizacijom:
+1) difterija (Diphtheria),
+2) infekcije uzrokovane hemofilusom influence tipa b (Haemophilus influenzae B ut causa morborum),
+3) influenca/gripa (Influenzae),
+4) morbili / male boginje (Morbilli),
+5) parotitis/zauške (Parotitis),
+6) pertusis / veliki kašalj (Pertussis),
+7) poliomijelitis / dječija paraliza (Poliomyelitis anterior acuta),
+8) rubeola/crvenka (Rubella),
+9) velike boginje (Variola vera),
+10) tetanus (Tetanus),
+b) spolno prenosive bolesti:
+1) infekcije hlamidijom (Infectio chlamydiasis),
+2) gonokokne infekcije (Infectio gonococcica),
+3) infekcija uzrokovana virusom humane imunodeficijencije (HIV-om),
+4) sifilis (Syphilis),
+c) virusni hepatitisi:
+1) hepatitis A (Hepatitis A),
+2) hepatitis B (Hepatitis B),
+3) hepatitis C (Hepatitis C),
+4) hepatitis D (Hepatitis D),
+5) hepatitis E (Hepatitis E),
+d) bolesti koje se prenose hranom i vodom, kao i bolesti uzrokovane okruženjem (životnom sredinom):
+1) antraks (Anthrax),
+2) botulizam (Botulismus),
+3) kampilobakterioza (Campylobacteriosis),
+4) kriptosporidioza ( Cryptosporidiosis),
+5) lambliaza/đardioza (Lambliasis),
+6) infekcija uzrokovana enteropatogenom E. koli (Infectio intestinalis per E. Coli enterohaemorrhagicam),
+7) leptospiroza (Leptospirosis),
+8) listerioza (Listeriosis),
+9) salmoneloza (Salmonellosis),
+10) šigeloza (Shigellosis),
+11) toksoplazmoza (Toxoplasmosis),
+12) trihineloza (Trichinellosis),
+13) jersinioza (Yersiniosis),
+e) ostale zarazne bolesti:
+1) zarazne spongiformne encefalopatije, varijanta Krojcfeldt–Jakobove bolesti,
+2) legioneloza (Legionellosis),
+3) meningokokna bolest (invazivna bolest); (Morbus Meningococcica),
+4) pneumokokne infekcije (invazivna bolest); (Infectio Pneumococcal),
+5) tuberkuloza (Tuberculosis),
+6) težak akutni respiratorni sindrom (TARS); (Severe Acute Respiratory Syndrome
+– SARS),
+7) bolest izazvana korona virusom (COVID-19),
+8) vodene ospice (Varicella),
+9) bruceloza (Brucellosis),
+10) ehinokokoza (Echinococcosis),
+11) bjesnilo (Rabies),
+12) Q groznica (Q-febris),
+13) tularemija (Tularaemia),
+14) avijarna influenca kod ljudi (Avian influenzae),
+15) infekcija uzrokovana virusom Zapadnog Nila (Febris West Nile),
+16) hemoragična groznica s bubrežnim sindromom (Febris haemorrhagica cum syndroma renale),
+17) kolera (Cholera),
+18) malarija (Malaria),
+19) kuga (Pestis),
+20) virusne hemoragične groznice (Viral haemorrhagic fevers),
+21) krpeljski encefalitis (Encephalitis viralis ixodibus),
+22) lajmska borelioza (Morbus Lyme),
+23) ostale crijevne infekcije (Infectio intestinales alia),
+24) trovanje hranom (Intoxicatio alimentaris),
+25) virusni meningitis (Meningitis virosa) i
+26) ostale infekcije uzrokovane arbo virusima (Infectio causa arbo virosa alia).
+(2) Šef Odjeljenja za zdravstvo i ostale usluge (u daljnjem tekstu: šef Odjeljenja), na prijedlog Pododjeljenja, donosi odluku kojom utvrđuje obavezno prijavljivanje i drugih zaraznih bolesti i stanja koja nisu navedena u stavu 1 ovog člana, u skladu s članom 5 ovog zakona, ako te bolesti i stanja mogu da ugroze ili ugrožavaju stanovništvo Distrikta.
