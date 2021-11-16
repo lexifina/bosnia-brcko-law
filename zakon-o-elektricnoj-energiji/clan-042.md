@@ -1,0 +1,12 @@
+Član 42
+(Razdvajanje operatora distributivnog sistema)
+(1) Ako je operator distributivnog sistema dio vertikalno integrisanog subjekta, dužan je biti nezavisan u odnosu na druge djelatnosti koje nisu povezane s distribucijom, najmanje u smislu svojeg pravnog oblika, organizacije i odlučivanja.
+(2) Nezavisnost operatora distributivnog sistema iz stava 1 ovog člana ne uključuje obavezu odvajanja vlasništva operatora distributivnog sistema od vertikalno integrisanog subjekta.
+(3) Nezavisnost operatora distributivnog sistema osigurati će se na način da:
+a) lice koje je odgovorno za upravljanje operatorom distributivnog sistema neće učestvovati u nadzornim odnosno rukovodnim strukturama vertikalno integrisanog elektroenergetskog subjekta koji je odgovoran, direktno ili indirektno, za svakodnevni rad proizvodnje, snabdijevanja električnom energijom ili trgovine električnom energijom;
+b) će biti poduzete odgovarajuće mjere da bi se profesionalni interesi lica odgovornih za upravljanje operatorom distributivnog sistema uzeli u obzir na način koji osigurava njihovu sposobnost nezavisnog djelovanja;
+c) operator distributivnog sistema odlučuje potpuno nezavisno od vertikalno integrisanog elektroenergetskog subjekta, u pogledu pitanja sredstava potrebnih za pogon, održavanje i razvoj mreže;
+d) operator distributivnog sistema na raspolaganju ima adekvatne stručne, tehničke, materijalne i finansijske resurse dovoljne za izvršavanje svojih zadataka saglasno ovom zakonu kao i drugim relevantnim propisima.
+(4) Operator distributivnog sistema koji je dio vertikalno integrisanog subjekta svojom registrovanom djelatnošću, komunikacijama, poslovnim imenom odnosno korištenjem naziva dijela koji obavlja poslove operatora distributivnog sistema u poslovnoj korespondenciji neće dovoditi do zabune u pogledu djelatnosti i s istom vezanih obaveza koje su odvojene od djelatnosti dijela vertikalno integrisanog subjekta koji obavlja djelatnost snabdijevanja električnom energijom.
+(5) Vertikalno integrisani subjekt koji obavlja drugu licenciranu elektroenergetsku djelatnost nema pravo davati uputstva vezana za svakodnevno poslovanje operatora distributivnog sistema odnosno u pogledu pojedinačnih odluka operatora distributivnog sistema.
+(6) Odredbe ovog člana ne primjenjuju se na integrisane elektroenergetske subjekte koji električnom energijom snabdijevaju manje od 100.000 potrošača kao i na elektroenergetske subjekte koji snabdijevaju male izolirane sisteme.

@@ -1,0 +1,9 @@
+Član 50
+(Javna usluga snabdijevanja)
+(1) S ciljem osiguranja snabdijevanja električnom energijom domaćinstava i malih kupaca koji se nisu koristili pravom izbora snabdjevača na tržištu, pravno lice koje ima obavezu pružanja javne usluge snabdijevanja električnom energijom određuje se saglasno odredbama člana 11 ovog zakona.
+(2) Usluga snabdijevanja odnosno univerzalna usluga koju obavlja snabdjevač iz stava 1 ovog člana obavlja se kao javna usluga u skladu s utvrđenim uslovima, kupcima koji slobodno izaberu takav način snabdijevanja odnosno kupcima koji se ne koriste pravom izbora odnosno promjene snabdjevača, po lako uporedivim, nediskriminatornim i transparentnim cijenama.
+(3) Snabdjevač iz stava 1 ovog člana određuje se na ograničen period, najduže do pet godina, a na osnovu kriterija koji se odnose na tržišno učešće u snabdijevanju krajnjih kupaca u Distriktu, kao i tehničkih, organizacionih i materijalno-finansijskih mogućnosti za obavljanje javnog snabdijevanja.
+(4) Vlada na osnovu izvještaja o tržištu električne energije, razvoju tržišta električne energije odnosno stvarnom nivou konkurentnosti koji usvaja godišnje na osnovu prijedloga Odjeljenja za komunalne poslove, te na osnovu izvještaja DERK-a iz člana 11 ovog zakona, preispituje opravdanost postojanja obaveze javnog snabdijevanja električnom energijom.
+(5) Javni snabdjevač je dužan da, s ciljem osiguranja potrebnih uslova za redovno i sigurno snabdijevanje kupaca električnom energijom koji imaju pravo na javno snabdijevanje, nabavlja potrebnu električnu energiju u konkurentskom postupku (aukcija, javni oglas, organizovano tržište i slično).
+(6) Javni snabdjevač dužan je da DERK-u dostavlja sve potrebne podatke i dokaze o cijeni električne energije za javno snabdijevanje, nabavljenoj u skladu sa stavom 5 ovog člana.
+(7) Javni snabdjevač dužan je da osigura uredno snabdijevanje krajnjih kupaca električnom energijom.

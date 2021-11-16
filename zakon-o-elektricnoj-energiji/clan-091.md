@@ -1,0 +1,10 @@
+Član 91
+(Mjere zaštite elektroenergetskih objekata)
+(1) Operator distributivnog sistema dužan je da provodi mjere zaštite elektroenergetskih objekata u skladu s ovim zakonom i tehničkim propisima kojima se uređuje oblast elektroenergetike.
+(2) Zabranjena je izgradnja objekata koji nisu u funkciji obavljanja elektroenergetskih djelatnosti, kao i izvođenje drugih radova ispod, iznad ili pored objekata, suprotno propisima kojima se uređuju kriteriji za osiguranje sigurnosti elektroenergetskog objekta.
+(3) Zabranjeno je sađenje drveća i drugog rastinja na zemljištu iznad, ispod ili na nepropisnoj udaljenosti od elektroenergetskog objekta.
+(4) Operater distributivnog sistema odgovoran za održavanje elektroenergetskoj objekta, dužan je da o svom trošku redovno uklanja drveće ili grane i drugo rastinje koje ugrožava ili prijeti da će ugroziti rad elektroenergetskog objekta.
+(5) Vlasnik odnosno posjednik nekretnine koja se nalazi ispod, iznad ili pored elektroenergetskog objekta neće preduzimati radove ili druge radnje koji ugrožavaju ili mogu ugroziti rad elektroenergetskog objekta, bez prethodne pismene saglasnosti elektroenergetskog subjekta koji je vlasnik, odnosno korisnik elektroenergetskog objekta.
+(6) Saglasnost iz stava 5 ovog člana daje elektroenergetski subjekat na zahtjev vlasnika odnosno posjednika nekretnina koje se nalaze ispod, iznad ili pored elektroenergetskog objekta, u roku od petnaest (15) dana od dana podnošenja zahtjeva.
+(7) Ako se s ciljem održavanja elektroenergetskih objekata, mora izvršiti kresanje ili sječa naknadno izraslih stabala i rastinja, koja ugrožavaju ili mogu ugroziti rad elektroenergetskog objekta ili ometaju njegovo normalno korištenje i održavanje, nije potrebno pribavljanje nove dozvole za sječu niti plaćanje naknade vlasnicima.
+(8) Vlasnik elektroenergetskog objekta priključenog na distributivnu mrežu dužan je vršiti redovno održavanje, reviziju, ispitivanje i remont opreme i električnih instalacija na objektima u vlasništvu odnosno koje koriste i redovno obavljati radnje predviđene stavom 7 ovog člana.

@@ -1,0 +1,3 @@
+DIO PRVI – OPĆE ODREDBE
+Član 1
+(Predmet) Zakon o električnoj energiji (u daljnjem tekstu: Zakon) propisuje pravni okvir za planiranje i način ostvarivanja elektroenergetske politike, uslove i način obavljanja elektroenergetskih djelatnosti, način rada i razvoja tržišta električne energije, izgradnju, odobravanje, rekonstrukciju, održavanje, stavljanje van pogona kao i stavljanje van upotrebe elektroenergetskih objekata, prava, obaveze i međusobne odnose učesnika na tržištu, zaštita kupaca električne energije, kao i nadzor na tržištem i provođenjem ovog zakona i druga pitanja od značaja za uređivanje elektroenergetske oblasti u Brčko distriktu Bosne i Hercegovine (u daljnjem tekstu: Distrikt).

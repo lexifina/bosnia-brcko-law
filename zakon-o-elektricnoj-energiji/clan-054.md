@@ -1,0 +1,2 @@
+Član 54
+(Otkup električne energije iz obnovljivih izvora energije i u efikasnoj kogeneraciji) Snabdjevač krajnjih kupaca na teritoriji Distrikta obavezan je da preuzme i otkupi udio električne energije proizvedene korištenjem obnovljivih izvora energije i u efikasnoj kogeneraciji u skladu s propisima kojima se uređuje oblast proizvodnje električne energije iz obnovljivih izvora energije i u efikasnoj kogeneraciji.

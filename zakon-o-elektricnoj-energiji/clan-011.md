@@ -1,0 +1,9 @@
+Član 11
+(Javna usluga)
+(1) Elektroenergetska djelatnost distribucije električne energije i upravljanja distributivnim sistemom obavlja se kao javna usluga saglasno uslovima predviđenim ovim zakonom.
+(2) Elektroenergetskom subjektu koji obavlja djelatnost može se utvrditi obaveza pružanja javne usluge, koja će obezbijediti sigurnost snabdijevanja, a koja može uključivati obaveze vezane za redovnost, kvalitet i cijenu usluge, zaštitu životne sredine, te obaveze u vezi s energetskom efikasnošću i korištenjem energije iz obnovljivih izvora.
+(3) Obaveza pružanja javne usluge iz stava 2 ovog člana utvrđuje se odlukom Vlade, uz prethodno pribavljeno mišljenje nadležne Državne regulatorne komisije za električnu energiju (u daljnjem tekstu: DERK).
+(4) Obaveza pružanja javne usluge iz stava 2 ovog člana mora biti jasno definisana, transparentna, nediskriminatorska, provjerljiva i vremenski ograničena i ne smije uticati na otvaranje tržišta.
+(5) Postupak utvrđivanja obaveze pružanja javne usluge garantuje ravnopravnost elektroenergetskih subjekata zainteresovanih za pružanje javne usluge uključujući subjekte iz drugih Ugovornih strana Energetske zajednice.
+(6) Vlada najmanje jednom godišnje preispituje potrebu utvrđivanja obaveze javne usluge javnog i rezervnog snabdijevanja, na bazi izvještaja DERK-a, o svim mjerama određenim za pružanje javne usluge, uključujući zaštitu krajnjih kupaca i zaštitu životne sredine, te o njihovom mogućem uticaju na tržišnu konkurenciju.
+(7) Vlada je dužna obavijestiti DERK i Sekretarijat Energetske zajednice o svim mjerama koje su usvojene radi ispunjenja obaveza javne usluge, uključujući mjere za zaštitu potrošača i zaštitu okoliša te njihovom mogućem uticaju na državnu i međunarodnu konkurenciju, kao i o svim promjenama koje su u vezi s obavljanjem javne usluge, u roku od 30 dana od dana usvajanja.
