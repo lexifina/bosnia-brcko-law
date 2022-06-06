@@ -1,0 +1,3 @@
+PREISPITIVANJE DOZVOLA
+Član 22
+Dozvole za izvore emisija iz članova 13 i 14 ovog zakona u dijelu koji se odnosi na emisije zagađujućih materija u vazduh i granične vrijednosti emisija, preispituju se redovno, u pravilu svake desete godine, a vanredno prilikom procjene propisa, prijema godišnjeg izvještaja pravnog lica ili nalaza inspektora, ako za to ima osnova. Ako se u slučaju iz stava 1 ovog člana utvrdi da se prema uslovima utvrđenim u dozvoli ne može obezbijediti da se granične vrijednosti emisija ne prekoračuju, nadležno odjeljenje je ovlašteno da po službenoj dužnosti izmijeni ili dopuni dozvolu i preduzme druge mjere propisane ovim zakonom.

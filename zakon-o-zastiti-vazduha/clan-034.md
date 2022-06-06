@@ -1,0 +1,2 @@
+Član 34
+Emisije isparljivih organskih jedinjenja utvrđuju posebnim propisom Vlada u skladu s ovim zakonom. Upotreba organskih jedinjenja iz stava 1 ovog člana u djelatnostima i pogonima mora biti svedena na najmanju moguću mjeru. Supstance i preparati, koji se usljed isparljivih organskih jedinjenja klasifikuju kao kancerogeni, mutogeni ili toksični za reprodukciju, moraju biti zamijenjeni manje štetnim supstancama i preparatima, u najvećoj mogućoj mjeri i najkraćem roku.

@@ -1,0 +1,3 @@
+STANJE IZUZETNOG ZAGAĐIVANJA
+Član 40
+Vlada donosi plan kada postoji rizik prekoračenja praga upozorenja, utvrđujući mjere smanjenja rizika od prekoračenja i ograničenja trajanja pojava izuzetnog zagađivanja (smog). Planovima se može, pored mjera kontrole, predvidjeti obustava aktivnosti izvora emisije uključujući motorni saobraćaj koje doprinose prekoračenju pragova upozorenja. U slučaju da pitanje zagađenja vazduha, koje je prouzrokovano drumskim saobraćajem, ne može biti riješeno na drugi način, može se zabraniti korištenje određenih drumova za određene vrste vozila. U slučaju da su prekoračeni utvrđeni pragovi uzbuna nadležna odjeljenja preduzimaju neophodne mjere kako bi javnost bila obaviještena (npr. putem radija, televizije, štampe ili na drugi uobičajeni način).
