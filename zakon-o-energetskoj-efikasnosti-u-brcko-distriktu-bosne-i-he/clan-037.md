@@ -1,0 +1,5 @@
+Član 37
+(Informacioni sistem)
+(1) Nadležno odjeljenje uspostavlja i upravlja Informacionim sistemom.
+(2) Podatke za Informacioni sistem radi praćenja, mjerenja i verifikacije ušteda energije treba da osiguraju obveznici sistema odnosno odgovorne osobe javnog sektora, pružatelji energetske usluge i davatelji subvencije kao i operator distributivnog sistema.
+(3) Informacioni sistem iz stava 1 ovog člana vodi se u skladu s Pravilnikom o praćenju, mjerenju i verifikaciji ušteda energije, kojim se određuje i metodologija koja obuhvata način praćenja i obračun indikatora potrošnje energije na nivou Distrikta, način obračuna ušteda energije koja je rezultat provedbe mjera za poboljšanje energetske efikasnosti i uštede energije koja je rezultat primjene energetskih usluga te postupak verifikacije ušteda energije, pitanja ovlaštenja odnosno aktivnog pristupa Informacionom sistemu kao i pitanje obaveznog posjedovanja energetskog certifikata, a koji donosi Vlada, na prijedlog nadležnog odjeljenja.

@@ -1,0 +1,9 @@
+Član 46
+(Analiza troškova i prednosti novih postrojenja)
+(1) Analizu troškova i prednosti novih postrojenja za proizvodnju električne i/ili toplinske energije obavlja preduzeće kada:
+a) planira novo postrojenje za proizvodnju električne energije s toplinskim ulaskom većim od 20 MW, kako bi se procijenili troškovi i prednosti osiguranja rada postrojenja kao visokoefikasnog kogeneracijskog postrojenja;
+b) postojeće termalno postrojenje za proizvodnju električne energije toplinske snage preko 20 MW je znatno renovirano, kako bi se procijenili troškovi i koristi od pretvaranja u visokoefikasnu kogeneraciju;
+c) planira ili značajno renovira industrijske instalacije ukupne toplotne snage veće od 20 MW koja proizvodi otpadnu toplotu na korisnom temperaturnom nivou kako bi se procijenili troškovi i prednosti korištenja otpadne toplote da bi se zadovoljila ekonomski opravdana potražnja, uključujući kogeneraciju, te priključenje te instalacije na mrežu daljinskog grijanja i hlađenja;
+d) planira novu mreža daljinskog grijanja i hlađenja ili se u postojećoj daljinskoj toplovodnoj ili rashladnoj mreži planira nova instalacija za proizvodnju energije čija je ukupna toplotna snaga veća od 20 MW ili će se takva postojeća instalacija znatno renovirati, kako bi se procijenili trošak i prednosti korištenja otpadne toplote iz obližnjih industrijskih postrojenja.
+(2) Analiza troškova i prednosti novih postrojenja predstavlja prilog zahtjevu za odgovarajuću građevinsku ili okolišnu dozvolu u skladu s propisima Distrikta koji propisuju pitanja zaštite životne okoline, građenja i energije.
+(3) Sadržaj i postupak provođenja i podnošenja analize troškova i prednosti iz stava 1 ovog člana, minimalni standardi i posebni zahtjevi, kao i moguća izuzeća u vezi s analizom troškova i prednosti se detaljnije regulišu pravilnikom iz člana 57 stava 2.

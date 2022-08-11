@@ -1,0 +1,6 @@
+Član 31
+(Uslovi za polaganje ispita za energetskog menadžera)
+(1) Ispit za energetskog menadžera može polagati lice koje ima:
+a) stečeno visoko obrazovanje osnovnih akademskih ili strukovnih studija u oblasti tehničko-tehnoloških nauka u obimu od najmanje 180 ECTS (European Credit Transfer and Accumulation System ili sistem prenošenja i prikupljanja bodova) ili ekvivalentnog nivoa utvrđenog drugim posebnim propisima i potvrdu o završenoj teorijskoj i praktičnoj obuci za energetskog menadžera;
+b) stečeno visoko obrazovanje master akademskih i strukovnih studija u obimu od najmanje 60 ECTS, ako je na studijima prvog stepena ostvaren obim od 240 ECTS, odnosno najmanje 120 ECTS ako je na studijima prvog stepena ostvaren obim od 180 ECTS u naučnim oblastima mašinstva, elektrotehnike, arhitekture, građevine ili tehnologije i potvrdu o završenoj praktičnoj obuci za energetskog menadžera.
+(2) Ispit za energetskog menadžera iz oblasti energetike javnog sektora pored lica navedenih u stavu 1 ovog člana, može polagati i lice koje ima stečeno visoko obrazovanje na master akademskim, odnosno strukovnim studijima obima od najmanje 300 ECTS ili ekvivalentnog nivoa utvrđenog posebnim propisima u naučnoj oblasti ekonomije ili sigurnosti i potvrdu o završenoj obuci za energetskog menadžera.
