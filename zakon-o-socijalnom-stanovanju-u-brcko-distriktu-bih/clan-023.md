@@ -1,0 +1,6 @@
+Član 23
+(Konačna lista korisnika stana socijalnog stanovanja)
+(1) Po prijemu zapisnika i dokumentacije iz člana 22 stava 2 ovog zakona prvostepena komisija, podnosioca prigovora čiji prigovor je osnovan, boduje prema svakom pojedinom kriteriju, rangira prema redoslijedu i utvrđuje Konačnu listu korisnika stana socijalnog stanovanja (u daljnjem tekstu: Konačna lista), odvojeno prema strukturi stanova socijalnog stanovanja.
+(2) Konačna lista zaključuje se shodno broju slobodnih stanova socijalnog stanovanja prema strukturi stanova socijalnog stanovanja u skladu s članom 19 stavom 1 tačkama b) i c) ovog zakona, a dodatno se sačinjava Rezervna lista korisnika stana socijalnog stanovanja (u daljnjem tekstu: Rezervna lista) prema redoslijedu utvrđenih prioriteta.
+(3) Rezervna lista može se koristiti za popunjavanje stana socijalnog stanovanja, koji nije dodijeljen u zakup nakon raspisivanja javnog poziva ili je naknadno postao dio fonda stanova socijalnog stanovanja iz člana 9 stava 3 ovog zakona, odnosno koji nije obuhvaćen javnim pozivom na osnovu kojeg je Rezervna lista sačinjena.
+(4) Prije dodjele stana socijalnog stanovanja korisniku stana socijalnog stanovanja s Rezervne liste, vrši se provjera ispunjenosti kriterija i ponovno bodovanje za sve korisnike s Rezervne liste u svrhu ažuriranja Rezervne liste.
