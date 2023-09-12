@@ -1,0 +1,2 @@
+Član 39
+Zakon o Vladi Brčko distrikta BiH stupio je na snagu 17. jula 2007. godine, a njegove izmjene i dopune: 28. novembra 2007. godine, 30. novembra 2007. godine, 20. februara 2008. godine, 21. maja 2008. godine, 13. juna 2008. godine, 9. aprila 2010. godine, 3. augusta 2012. godine, 22. jula 2017. godine, 9. novembra 2018. godine, 4. aprila 2019. godine (primjenjuje se od 1. jula 2019.godine), 8. maja 2019. godine (primjenjuje se od 1. jula 2019.godine) i 21. decembra 2019. godine.
