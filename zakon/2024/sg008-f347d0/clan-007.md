@@ -1,0 +1,3 @@
+Član 7
+(Vanredno plaćeno odsustvo)
+(1)Pored godišnjeg odmora i odsustva za vjerske praznike regulisanog članom 6 ovog zakona, pravobranilac i svaki zamjenik pravobranioca imaju pravo na sedam plaćenih dana odmora u kalendarskoj godini kako slijedi: 1. u slučaju ženidbe/udaje: 5 dana; 2. u slučaju smrti bliskog srodnika (supružnika, partnera, majke, oca, očuha, maćehe, djeteta, pastorka/pastorke, brata, sestre, polubrata, polusestre): 3 dana; 3. u slučaju smrti manje bliskog srodnika (djeda, bake ili bliskog srodnika bračnog druga ili partnera): 1 dan; 4. u slučaju rođenja djeteta: 2 dana; 5. u slučaju selidbe iz stalnog prebivališta u drugo prebivalište: 1 dan.
