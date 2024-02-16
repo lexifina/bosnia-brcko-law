@@ -1,0 +1,6 @@
+Član 92
+(1) Etažno vlasništvo može biti uspostavljeno na dijelu zgrade koja čini samostalnu upotrebnu cjelinu, na kojoj suvlasnik može samostalno izvršavati svoja ovlaštenja, kao što je stan ili druga samostalna prostorija (poslovne prostorije, garaža, jasno omeđena mjesta u zgradi koja služe za ostavljanje motornih vozila i sl.)
+(2) Uz stan odnosno drugu samostalnu prostoriju, etažno vlasništvo se može protezati i na sporedne dijelove kao što su otvoreni balkoni, terase, podrumske ili tavanske prostorije, kućni vrtovi, mjesta za ostavljanje najviše do dva motorna vozila po pojedinom stanu i sl.
+(3) Da bi se etažno vlasništvo moglo protegnuti i na dio nekretnine kao sporedan, taj sporedni dio treba biti jasno razgraničen od ostalih dijelova nekretnine, i dostupan sa međe dijela nekretnine na kojem postoji etažno vlasništvo ili iz njenih zajedničkih dijelova ili iz onog stana, odnosno samostalne prostorije čiji bi bio sporedni dio.
+(4) Za sporedne dijelove nekretnine shodno se primjenjuju pravila koja važe za pripatke stvari.
+(5) Etažni vlasnici imaju pravo da koriste zajedničke dijelove nekretnine. U smislu ovog zakona zajenički dijelovi nekretnine su temelji, glavni zidovi, tavan, stepenice, hodnici, liftovi, električna, kanalizaciona, vodovodna i telefonska mreža i sl.

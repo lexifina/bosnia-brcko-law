@@ -1,0 +1,4 @@
+Član 10
+(1) Pripadak (pertinencija) je pokretna stvar koju je vlasnik namijenio da kao sporedna stvar trajno služi namjeni glavne stvari, čiji je on vlasnik, a koja stoji u takvom prostornom odnosu prema glavnoj stvari, koji omogućava ispunjenje te namjene.
+(2) Prolazni prestanak služenja pripatka namjeni glavne stvari, kao i prolazni prestanak prostornog odnosa prema njoj, ne oduzima pripatku to svojstvo.
+(3) Smatra se da su namijenjeni da trajno služe namjeni poslovne zgrade, kao glavnoj stvari, mašine ili slični uređaji namijenjeni djelatnosti kojoj je trajno namijenjena i sama zgrada, pod uslovom da zgrada, mašine i slični uređaji pripadaju istom vlasniku. To isto važi i za mašine, stoku, postojeće gnojivo i poljoprivredne proizvode namijenjene daljoj proizvodnji u odnosu na nekretnine trajno namijenjene poljoprivrednoj proizvodnji.

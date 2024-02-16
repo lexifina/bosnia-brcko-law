@@ -1,0 +1,4 @@
+Član 19
+(1) Ukoliko je jedna stvar u skladu sa važećim propisima proglašena za dobro od opšteg interesa i ako je propisan poseban način upotrebe i iskorištavanja takve stvari od strane njenih vlasnika, vlasnik je dužan izvršavati svoja prava u skladu sa tim ograničenjima.
+(2) Ako je na osnovu zakona vlasnik dužan preduzeti određene radnje na stvari koja je u njegovom vlasništvu radi zaštite interesa i sigurnosti Distrikta, prirode, spomenika
+kulture, ljudske sredine, ili zdravlja ljudi, a vlasnik se ne može prisiliti na preduzimanje takvih radnji, Gradonačelnik će uspostaviti privremeno upravljanje nad tom stvari primjenjujući na odgovarajući način pravila o privremenom starateljstvu nad zaostavštinom kada su nasljednici nepoznati ili nepoznatog boravišta, ako posebnim zakonom nije drugačije određeno.

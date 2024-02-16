@@ -1,0 +1,5 @@
+Član 26
+(1) Ako je građenjem zgrade prekoračena međa i zahvaćen dio susjednog zemljišta uz među, vlasnik susjednog zemljišta ima pravo da zahtijeva uspostavljanje pređašnjeg stanja.
+(2) Do uspostavljanja pređašnjeg stanja smatraće se da je vlasniku zgrade data stvarna služnost da ima dio svoje zgrade na tuđem zemljištu.
+(3) Vlasnik zemljišta na kojem se nalazi dio tuđe zgrade ima pravo na naknadu u obliku novčane rente, a u visini zakupnine za zahvaćeno zemljište, koju je vlasnik zgrade dužan plaćati vlasniku opterećenog zemljišta sve dok postoji dio zgrade na tom zemljištu, time se ne dira u pravo na naknadu za pretrpljenu štetu.
+(4) Vlasnik zemljišta na kojem je izgrađen tuđi dio zgrade ima pravo da zahtijeva da vlasnik zgrade otkupi cijelo njegovo zemljište po tržišnoj cijeni; to može zahtijevati i vlasnik zgrade koji je bio pošteni graditelj, ako je vlasnik zemljišta zahtijevao uspostavljanje pređašnjeg stanja, a uspostavljanje pređašnjeg stanja nije moguće bez znatnije štete za ostali dio zgrade ili nesrazmjerno velikih troškova.

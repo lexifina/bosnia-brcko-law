@@ -1,0 +1,3 @@
+Član 106
+Poslovi redovnog upravljanja cijelom nekretninom su naročito:
+-redovno održavanje zajedničkih dijelova i uređaja nekretnine, ukljućujući i građevinske promjene neophodne za održavanje; - stvaranje odgovarajuće zajedničke rezerve za predvidive buduće troškove; - uzimanje zajmova radi pokrića troškova održavanja koji nisu pokriveni rezervom, a potrebni su za obavljanje poslova urednog održavanja koji se ponavljaju u razmacima dužim od jedne godine,; - osiguranje nekretnine; - imenovanje i opoziv zajedničkog upravnika; - određivanje i promjene kućnog reda; - iznajmljivanje i davanje u zakup, kao i otkazivanje stanova i drugih samostalnih prostorija nekretnine na kojima nije uspostavljeno etažno vlasništvo.

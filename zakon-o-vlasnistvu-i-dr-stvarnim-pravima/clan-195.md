@@ -1,0 +1,5 @@
+Član 195
+(1) Vlasniku nije dopušteno da kopa svoje zemljište ili da čini na svojoj nekretnini druge radnje za koje je razumno očekivati da bi mogle dovesti u opasnost stabilnost tuđe nekretnine.
+(2) Vlasnik nekretnine čija je stabilnost u opasnosti može tražiti prestanak radova iz stava 1 ovog člana, ako nisu preduzete sve mjere, uključujući i postavljanje posebnih konstrukcija kad je to potrebno, od kojih se opravdano može očekivati da će otkloniti opasnost za stabilnost njegove nekretnine.
+(3) Ako mjere iz stava 2 ovog člana nije moguće uspješno provesti a da se pritom posebne konstrukcije ne postavljaju na nekretninu čija je stabilnost u opasnosti, njen vlasnik može zahtijevati zabranu radnji od kojih njegovoj nekretnini prijeti opasnost za stabilnost.
+(4) Vlasnik nekretnine koji je postavio posebne konstrukcije radi osiguranja stabilnosti tuđe nekretnine odgovara za svaku štetu koja bi s njima u vezi nastala, a susjed čijoj nekretnini inače prijeti opasnost ovlašten je da zahtijeva održavanje tih konstrukcija u dobrom stanju u skladu sa njihovom namjenom.

@@ -1,0 +1,5 @@
+Član 127
+(1) Radi obezbjeđenja određenog potraživanja nekretnina može biti opterećena pravom zaloge u korist povjerioca (hipoteka) koji je ovlašten da, na način određen zakonom, zahtijeva namirenje svog potraživanja iz vrijednosti te nekretnine prije povjerilaca koji na njoj nemaju hipoteku, kao i prije povjerilaca koji su hipoteku na njoj stekli poslije njega, bez obzira na promjenu vlasnika opterećene nekretnine.
+(2) Hipoteka se odnosi na cijelu nekretninu, na njene plodove dok su neodvojeni, kao i na druge njene sastavne dijelove i pripatke, uključujući i poboljšanja njenog stanja nastala nakon zasnivanja hipoteke.
+(3) Za obezbjeđenje jednog potraživanja može se zasnovati hipoteka na više nekretnina (zajednička nekretnina).
+(4) Založena nekretnina u cjelini obezbjeđuje potraživanje povjerioca do potpunog namirenja tog potraživanja, bez obzira na kasniju podjelu nekretnine (nedjeljivost hipoteke), ali založni povjerilac i založni dužnik mogu se nakon što je došlo do podjele založene nekretnine sporazumjeti da hipoteka neće opterećivati sve novonastale dijelove.

@@ -1,0 +1,5 @@
+Član 187
+(1) Ograde između susjednih nekretnina (zidovi, plotovi, ograde, živice i druge prepreke) kao i stvari koje služe kao međni znakovi, smatraju se zajedničkim ogradama i u suvlasništvu su susjeda s obje strane međe, osim ako se dokaže (naročito znacima, natpisima, grbovima ili drugim dokazima) da su vlasništvo jednog susjeda.
+(2) Suvlasništvo stvari koje služe kao zajedničke ograde ili međašni znakovi nije djeljivo dok te stvari ne izgube tu namjenu.
+(3) Zajedničku ogradu može svaki od susjeda upotrebljavati sa svoje strane do polovine njene širine, može do te širine izgraditi slijepa vrata ili smjestiti uzidane ormare i sl. Ne smije se činiti ništa što bi ogradu dovelo u opasnost ili što bi susjeda sprečavalo da je upotrebljava sa svoje strane do polovine.
+(4) Troškove održavanja zajedničke ograde snose njeni suvlasnici na jednake dijelove i solidarno odgovaraju za štetu koja bi trećim licima nastala zbog toga što ograda nije održavana u stanju kakvo je uobičajeno s obzirom na namjenu ograde i ograđene nekretnine, i na mjesne prilike.

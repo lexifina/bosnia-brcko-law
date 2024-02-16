@@ -1,0 +1,5 @@
+Član 155
+(1) Ako je zbog dotrajalosti ili više sile neophodno obaviti vanredne popravke ili vanredna obnavljanja poslužne stvari, plodouživalac je dužan bez odgađanja obavijestiti vlasnika, odnosno lice koje za vlasnika upravlja tom stvari, osim ako je te popravke ili obnavljanja dužan učiniti o svom trošku.
+(2) Ako vlasnik poslužne stvari obavi nužne vanredne popravke ili vanredna obnavljanja poslužne stvari, plodouživalac je dužan nadoknaditi kamate na vrijednost onoga što je vlasnik utrošio, u obimu u kojem se time poboljšalo njegovo plodouživanje.
+(3) Ako vlasnik ne može ili neće da obavi nužne popravke ili obnavljanja, plodouživalac je ovlašten da ih sam izvrši, a po prestanku plodouživanja može tražiti da mu vlasnik isplati naknadu kao poštenom posjedniku, ili primjerenu naknadu za plodouživanje koje je izgubio zbog propuštenog građenja.
+(4) Plodouživalac je dužan o svom trošku izvršiti one vanredne popravke i vanredne obnove stvari koje je sam skrivio ili ih je prouzrokovalo lice za koje on odgovara.

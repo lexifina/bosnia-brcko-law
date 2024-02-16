@@ -1,0 +1,3 @@
+Član 107
+(1) Za donošenje odluke o preduzimanju poboljšanja zajedničkih dijelova i uređaja nekretnine potreban je pristanak svih suvlasnika nekretnine, osim za one poslove koji se smatraju vanrednim poslovima.
+(2) Izuzetno, od odredbe stava 1 ovog člana, pristanak svih suvlasnika nije potereban ako suvlasnici koji zajedno imaju većinu suvlasničkih dijelova odluče da se izvrši poboljšanje, i da će oni sami snositi troškove ili se ti troškovi mogu pokriti iz rezerve, ne ugrožavajući time mogućnost da se iz rezerve podmire potrebe redovnog održavanja, pod uslovom da ta poboljšanja neće ići suviše na štetu nadglasanih suvlasnika.

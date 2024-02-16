@@ -1,0 +1,2 @@
+Član 194
+Postavljanje vodova i drugih uređaja (električnih, kanalizacionih, plinovodnih, vodovodnih, toplovodnih, telekomunikacijskih i dr.) na tuđoj nekretnini bez pristanka njenog vlasnika moguće je u interesu Distrikta na osnovu zakonskih odredbi koje uređuju nepotpunu eksproprijaciju, a u privatnom interesu prema odredbama o osnivanju služnosti vodova i drugih uređaja odlukom suda, ako zakonom nije drugačije određeno.

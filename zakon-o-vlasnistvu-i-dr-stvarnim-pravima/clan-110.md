@@ -1,0 +1,7 @@
+Član 110
+(1) Zajednička rezerva iz člana 105 stava 2 ovog zakona je namjenski vezana zajednička imovina svih koji su suvlasnici nekretnine, namijenjena za pokriće troškova održavanja i poboljšanja nekretnine i za otplaćivanje zajma za pokriće tih troškova.
+(2) Zajedničku rezervu čine novčani doprinosi koje su suvlasnici uplatili na osnovu odluke donesene većinom suvlasničkih dijelova, odnosno odluke koju je na zahtjev nekog suvlasnika donio sud s obzirom na predvidive troškove i uzimajući u obzir imovinsko stanje svih suvlasnika.
+(3) Zajedničkom rezervom upravljaju suvlasnici, odnosno upravnik nekretnine, kao imovinom odvojenom od imovine bilo kojeg suvlasnika, uloženom na način da donosi plodove.
+(4) Dopuštena su samo ona plaćanja iz rezerve koja su učinjena radi plaćanja troškova održavanja i poboljšanja nekretnine ili otplatu zajma uzetog za pokriće tih troškova. Postupak izvršenja je dopušteno provoditi na zajedničkoj rezervi samo radi podmirenja tih potraživanja.
+(5) Upravnik kojem je završila uprava dužan je bez odgađanja položiti račun o rezervi i ostatak predati novom upravniku. Ako sud razriješi upravnika, naložiće mu da u roku od petrnaest dana pod prijetnjom izvršenja preda utvrđeni ostatak novom upravniku.
+(6) Suvlasnik koji je otuđio svoj suvlasnički dio nekretnine nema pravo zahtijevati povrat svog doprinosa u zajedničku rezervu. Taj dio doprinosa ostaje u zajedničkoj rezervi kao doprinos suvlasničkoga dijela koji je otuđen.

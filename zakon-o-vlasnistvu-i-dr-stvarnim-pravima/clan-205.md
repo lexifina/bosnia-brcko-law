@@ -1,0 +1,6 @@
+Član 205
+(1) Pravo upravljanja, odnosno korištenja i raspolaganja na stvari u društvenom/državnom vlasništvu postaje stupanjem na snagu ovog zakona pravo vlasništva dotadašnjeg nosioca prava upravljanja, odnosno korištenja i raspolaganja na toj stvari, ako je stvar sposobna da bude predmet vlasništva, osim ako posebnim zakonom nije drugačije određeno. Na poljoprivrednom i šumskom zemljištu u društvenom/državnom vlasništvu ne može se steći pravo vlasništva u skladu sa ovim stavom.
+(2) Za razliku od odredbe iz stava 1 ovog člana, pravo korištenja izgrađenog gradskog građevinskog zemljišta dok na njemu postoji građevina (trajno pravo korišćenja zemljišta) postaje stupanjem na snagu ovog zakona pravo građenja dotadašnjeg nosioca tog prava ili njegovog pravnog sljedbenika.
+(3) Stupanjem na snagu ovog zakona Distrikt postaje vlasnik izgrađenog i neizgrađenog gradskog građevinskog zemljišta, te poljoprivrednog i šumskog zemljišta koje je bilo u društvenom/državnom vlasništvu.
+(4) Odredbe stava 1, 2 i 3 ovog člana na odgovarajući način se primjenjuju na sva stvarna prava.
+(5) Za upise prava upravljanja, odnosno korištenja i raspolaganja u zemljišnim knjigama i drugim javnim registrima koji su provedeni do dana stupanja na snagu ovog zakona, smatraće se da su upisi prava vlasništva, odnosno prava građenja.

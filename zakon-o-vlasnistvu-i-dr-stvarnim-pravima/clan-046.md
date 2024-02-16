@@ -1,0 +1,6 @@
+Član 46
+(1) Lice koje je savjesni posjednik individualno određene stvari, koje nije znalo, niti je moglo znati da nije postalo vlasnik stvari, koje je tu stvar steklo na punovažnom pravnom osnovu podobnom za sticanje prava vlasništva i na istinit način (pretpostavljeni vlasnik) ima pravo da zahtijeva povraćaj stvari i od savjesnog posjednika kod kojeg se ta stvar nalazi bez pravnog osnova ili po slabijem pravom osnovu.
+(2) Kada se dva lica smatraju pretpostavljenim vlasnicima iste stvari, jači pravni osnov ima lice koje može dokazati nesumnjivog prethodnika, a ako oba lica to mogu ili ne može ni jedan jači pravni osnov ima lice koje je stvar steklo teretno u odnosu na lice koje je stvar steklo besteretno. Ako su pravni osnovi ovih lica iste jačine, prvenstvo ima lice kome je stvar prvo predata, a ako su prethodnici različita lica, prvenstvo ima lice kod kojeg se stvar nalazi.
+(3) Pravo na podnošenje tužbe iz stava 1 ovog člana ne zastarijeva.
+(4) Pretpostavljani vlasnik treba da dokaže činjenice iz stava 1 i 2 ovog člana na osnovu kojih se pretpostavlja njegovo vlasništvo, kao i da je stvar koju zahtijeva u posjedu tuženog.
+(5) Na odnose između pretpostavljenog vlasnika i savjesnog i nesavjesnog posjednika primjenjuju se odredbe člana 42 do 45 ovog zakona.
