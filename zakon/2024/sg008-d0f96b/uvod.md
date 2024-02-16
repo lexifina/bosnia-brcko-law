@@ -1,0 +1,5 @@
+Na osnovu člana 8 Zakona o Službenom glasniku Brčko distrikta Bosne i Hercegovine („Službeni glasnik Brčko distrikta BiH“, brojevi: 1/00 i 17/04) i Odluke o davanju ovlaštenja Zakonodavnoj komisiji Skupštine Brčko distrikta BiH, broj: 01-02-218/17 od 13. 9. 2017. godine („Službeni glasnik Brčko distrikta BiH“, broj 35/17), Zakonodavna komisija Skupštine Brčko distrikta BiH na 75. sjednici održanoj 7. 2. 2024. godine utvrdila je prečišćeni tekst Zakona o platama i naknadama zaposlenih u pravosuđu Brčko distrikta Bosne i Hercegovine („Službeni glasnik Brčko distrikta BiH“, broj 8/19) s izmjenama i dopunama Zakona o platama i naknadama zaposlenih u pravosuđu Brčko distrikta Bosne i Hercegovine („Službeni glasnik Brčko distrikta BiH“, brojevi: 10/19, 13/19, 23/20, 26/20, 39/20, 13/21, 26/21, 21/22, 45/22 i 20/23).
+Broj: 01.3-02-522/24
+Brčko, 7.2. 2024. godine
+PREDSJEDAVAJUĆI ZAKONODAVNE KOMISIJE Ljubiša Lukić
+ZAKON O PLATAMA I NAKNADAMA ZAPOSLENIH U PRAVOSUĐU BRČKO DISTRIKTA BOSNE I HERCEGOVINE (prečišćeni tekst)

@@ -1,0 +1,3 @@
+Član 33
+(Stupanje na snagu i primjena)
+Zakon o platama i naknadama zaposlenih u pravosuđu Brčko distrikta Bosne i Hercegovine stupio je na snagu 4.aprila 2019. godine ( primjenjuje se od 1. jula 2019. godine), a njegove izmjene i dopune 8.maja 2019. godine (primjenjuju se od 1. jula 2019. godine), 15.juna 2019. godine (primjenjuju se od 1.jula 2019. godine), 17.juna 2020 godine, 21.jula 2020 godine, 17.oktobra 2020. godine, 3.avgusta 2021. godine (primjenjuju se od 1. oktobra 2021. godine), 13.novembra 2021. godine, 1.jula 2022. godine (primjenjuju se od 1. jula 2022. godine), 21.decembra 2022. godine (primjenjuju se od 1. januara 2023. godine) i 18.jula 2023. godine (primjenjuju se od 1. jula 2023. godine).
