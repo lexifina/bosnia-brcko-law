@@ -1,0 +1,4 @@
+IX4 4,209162 IX5 4,426614 IX6 4,654898 X X1 4,894294 X2 5,145087 X3 5,407561 X4 5,682001 X5 5,968690 X6 6,267915
+Član 7
+(Platni razredi, podrazredi i koeficijenti za radna mjesta zaposlenih u Stručnoj službi i Izbornoj komisiji)
+Platni razred Radno mjesto Podrazred Koeficijent IX Šef Stručne službe IX 4 4,209162 IX Zamjenik šefa Stručne službe IX 1 3,618936 VIII Šef sektora VIII 5 3,274392 VIII Stručni savjetnik VIII 3 2,966347 VIII Administrator informatičkog sistema VIII1 2,692531 VII Viši stručni saradnik VII 5 2,450671 VII Koordinator VII 6 2,567748 VII Parlamentarni asistent VII 5 2,450671 VII Stručni saradnik VII 1 2,053726 V Stručni referent V 5 1,543321 V Namještenik I kategorije V 3 1,461525 IV Namještenik II kategorije IV 5 1,336988 III Namještenik III kategorije III 6 1,231121 II Namještenik IV kategorije II2 1,050471

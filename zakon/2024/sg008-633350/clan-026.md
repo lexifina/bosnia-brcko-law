@@ -1,0 +1,3 @@
+Član 26
+(Stupanje na snagu)
+Zakon o platama i naknadama korisnika budžetskih sredstava u Skupštini Brčko distrikta Bosne i Hercegovine, Izbornoj komisiji Brčko distrikta Bosne i Hercegovine i Kancelariji za reviziju javne uprave i institucija u Brčko distriktu Bosne i Hercegovine stupio je na snagu 4.aprila 2019.godine (primjenjuje se od 1. jula 2019. godine), a njegove izmjene i dopune 8.maja 2019. godine (primjenjuju se od 1. jula 2019. godine), 17.oktobra 2020. godine, 3.avgusta 2021. godine (primjenjuju se od 1. oktobra 2021. godine), 1.jula 2022. godine (primjenjuju se od 1. jula 2022. godine), 21.decembra 2022. godine (primjenjuju se od 1.januara 2023. godine) i 18.jula 2023. godine (primjenjuju se od 1. jula 2023. godine).
