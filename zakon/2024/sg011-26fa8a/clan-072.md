@@ -1,0 +1,5 @@
+Član 72.
+(Ovlaštenje za utvrđivanje tehničke dozvole)
+(1) Ovlaštenje pravnom licu iz člana 70. stava (1) ovog zakona (za donošenje tehničke dozvole daje i stavlja van snage Odjeljenje za javnu sigurnost.
+(2) Pravilnikom koji donosi Vlada na prijedlog šefa Odjeljenja za javnu sigurnost utvrđuju se: uslovi za obavljanje poslova donošenja tehničke dozvole u pogledu lica, tehničke opremljenosti, načina i složenosti obavljanja tih poslova, odgovornosti za rezultate postupka i poslova u vezi s donošenjem tehničkog dopuštenja, nezavisnosti, posebno u odnosu na proizvođača ili uvoznika građevinskog proizvoda, sadržaj i način izrade smjernica za donošenje tehničke dozvole, metode vrednovanja rezultata i druge zahtjeve vezane uz ispitivanje tehničkih svojstava građevinskog proizvoda u postupku donošenja tehničkog dopuštenja, oblik i sadržaj tehničke dozvole, sredstva kojima pravno lice dokazuje ispunjavanje uslova u postupku davanja ovlaštenja iz
+stava (1) ovoga člana, uslove za produženje i stavljanje van snage tog ovlaštenja, te sadržaj i način vođenja evidencije donesenih tehničkih dozvola.

@@ -1,0 +1,2 @@
+Član 63.
+(Odstupanje od bitnih zahtjeva za građevinu) U slučaju rekonstrukcije ili adaptacije građevine za koju je donesena odluka o proglašenju dobra nacionalnim spomenikom Bosne i Hercegovine, odnosno građevine u kojoj se licima smanjene pokretljivosti osigurava nesmetani pristup, kretanje, boravak i rad može se odstupiti od bitnih zahtjeva za građevinu uz pribavljenu saglasnost Komisije za očuvanje nacionalnih spomenika Bosne i Hercegovine.

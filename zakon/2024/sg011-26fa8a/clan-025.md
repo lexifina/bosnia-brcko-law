@@ -1,0 +1,6 @@
+Član 25.
+(Regulacioni plan)
+(1) Regulacioni plan se donosi za pretežno izgrađena urbana područja u kojima se može dozvoliti nova gradnja, pri čemu je nužno detaljno definisati uslove projektovanja i izvođenja novih objekata radi zaštite arhitektonskog stila i slično.
+(2) Regulacioni plan se donosi i za područja od općeg interesa za Distrikt, za podsticaj privrede ili izgradnju objekata javne infrastrukture.
+(3) Regulacioni plan utvrđuje: namjenu površina, namjenu i spratnost objekata, gustinu naseljenosti i koeficijent izgrađenosti, nivelacione podatke, regulacione i građevinske linije, valorizaciju postojećih objekata i prijedlog mjera intervencije, uređenje slobodnih površina, urbanističko-tehničke uslove za projektovanje i
+izvođenje, uslove za izradu urbanističkih projekata, oblik i dimenzije građevinskih parcela, odnosno plan parcelacije, podatke o vlasničkom statusu zemljišta, uslove uređenja građevinskog zemljišta, izgradnju objekata i mreže komunalne, energetske i saobraćajne infrastrukture, mjere zaštite kulturno-historijskog i prirodnog naslijeđa, mjere zaštite stanovnika i materijalnih dobara od prirodnih i drugih nepogoda, mjere zaštite prava invalida, smjernice za zaštitu životne sredine, ekonomsku valorizaciju plana.

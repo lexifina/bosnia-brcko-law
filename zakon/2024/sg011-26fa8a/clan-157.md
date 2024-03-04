@@ -1,0 +1,2 @@
+Član 157.
+(Objekti izgrađeni suprotno važećem zakonu) Za objekte koji su izgrađeni suprotno Zakonu o prostornom uređenju Brčko Distrikta Bosne i Hercegovine prije stupanja na snagu ovog zakona i na koje se ne može primijeniti Zakon o legalizaciji bespravno izgrađenih građevina Brčko Distrikta Bosne i Hercegovine, mogu se pribaviti zakonom propisana odobrenja na način i u postupku propisanom ovim zakonom.
