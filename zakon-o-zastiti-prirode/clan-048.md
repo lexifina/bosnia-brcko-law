@@ -1,0 +1,2 @@
+Član 48
+Propis čl. 16 i 33 stav 6 donosi Skupština u roku od dvije godine od dana stupanja na snagu ovog zakona. Propis iz čl. 16 stav 2, člana 35 stav 2, člana 37 stav 1 i člana 40 stav 3 donosi Vlada u roku od tri godine od dana stupanja na snagu ovog zakona. Propis iz člana 14 stav 3 člana 20 stav 2, člana 22 stav 1, člana 33 stav 8, člana 35 stav 3 donosi nadležno odjeljenje u roku od dvije godine od dana stupanja na snagu ovog zakona.

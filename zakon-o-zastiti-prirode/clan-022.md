@@ -1,0 +1,2 @@
+Član 22
+Šef nadležan za zaštitu životne sredine izrađuje podzakonski akt kojim se utvrđuje Crvena knjiga, njen sadržaj i rok važenja. Očuvanje vrste iz Crvene knjige vrši se proglašavanjem zaštićenih područja i njihovim upravljanjem te njihovim uključivanjem u «Zaštićena područja u Evropi». Šef nadležan za poslove zaštite životne sredine dužan je informisati javnost o razlozima uključenja svake vrste ili staništa u Crvenu knjigu i mjerama koje se primjenjuju i koje će se primjenjivati radi poboljšanja stanja vrsta i staništa iz Crvene knjige. Zaštita staništa

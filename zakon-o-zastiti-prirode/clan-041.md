@@ -1,0 +1,2 @@
+Član 41
+Zabranjeno je namjerno unošenje (introdukcija) novih biljnih i životinjskih vrsta koje ne potiču sa teritorije Brčko distrikta BiH. Izuzetno odjeljenje nadležno za zaštitu životne sredine, posebnim propisom utvrđuje drugačije ukoliko to nije šteta za prirodna staništa unutar njihovog prirodnog obima ili za divlje biljne i životinjske vrste. Ponovo uvođenje (reintrodukcija) nestalih biljaka i životinja u Brčko distriktu BiH može se vršiti samo uz prethodnu saglasnost nadležnog odjeljenja i pribavljeno mišljenje odjeljenja nadležnog za poljoprivredu i šumarstvo.
