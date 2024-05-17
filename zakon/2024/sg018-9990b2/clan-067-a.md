@@ -1,0 +1,5 @@
+Član 67a
+(Preuzimanje zaposlenika)
+(1) U Odjeljenje za evropske integracije i međunarodnu saradnju trajno se premještaju državni službenici i namještenici raspoređeni na radna mjesta u Kancelariji gradonačelnika - Kancelariji za evropske integracije, kao i državni službenici Zakonodavne kancelarije, raspoređeni na radnim mjestima viših stručnih saradnika za harmonizaciju propisa, zbog prenosa nadležnosti, u skladu sa Zakonom o državnoj službi u organima javne uprave Brčko distrikta BiH.
+(2) Radna mjesta u Odjeljenju za evropske integracije i međunarodnu saradnju, koja ostanu upražnjena, nakon trajnog premještaja državnih službenika i namještenika iz stava 1 ovog člana, popunjavaju se u skladu sa Zakonom o državnoj službi u organima javne uprave Brčko distrikta BiH.
+(3) Zaposlenici iz stava 1 ovog člana će do donošenja akata o premještaju na odgovarajuća radna mjesta u Odjeljenju za evropske integracije i međunarodnu saradnju nastaviti obavljati poslove radnih mjesta na kojima se nalaze u vrijeme stupanja na snagu ovog zakona.
