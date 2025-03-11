@@ -1,0 +1,6 @@
+Član 10
+Organi pravnog lica su: upravni odbor i direktor, te nadzorni odbor ako je tako određeno Statutom. Izuzetno od stava 1 ovog člana pravna lica za pružanje usluga i unapređenje u oblasti obrazovanja nemaju upravni odbor kao organ pravnog lica. Nadležnosti i ovlaštenja upravnog odbora za pravna lica iz stava 2 ovog člana vrši školski odbor, čije nadležnosti i ovlaštenja se uređuju zakonom i statutom. Članove upravnog odbora imenuje i razrješava Vlada. Direktora imenuje i razrješava upravni odbor, na način i u postupku propisanim Statutom pravnog lica, osim ukoliko posebnim zakonom nije drugačije određeno. Direktor se imenuje na period od četiri godine, uz mogućnost ponovnog imenovanja, s tim što isto lice ne može biti imenovano više od dva puta uzastopno. „Za direktora može biti imenovano lice koje ima:
+a) državljanstvo Bosne i Hercegovine;
+b) najmanje visoku stručnu spremu (VSS) VII/1, koeficijent obrazovanja minimalno 240 ECTS bodova;
+c) najmanje pet godina radnog iskustva nakon sticanja visoke stručne spreme;
+d) manje od 65 godina života. Za direktora ne može biti imenovano lice koje je pravosnažnom sudskom presudom osuđivano za vršenje krivičnih djela na kaznu zatvora u trajanju dužem od šest (6) mjeseci.“ Način upravljanja i rukovođenja pravnim licem i unutrašnja organizacija pravnog lica, reguliše se osnivačkim aktom i Statutom.“
