@@ -1,0 +1,2 @@
+Član 152
+(Suspenzija) Vlada može, iz opravdanih razloga, na zahtjev poslodavca ili udruženja poslodavaca, da donese odluku da se pojedine odredbe općeg ili granskog kolektivnog ugovora u dijelu koji se odnosi na plate, na naknade na plate, ne primjenjuju na pojedine poslodavce ili pojedinu granu djelatnosti u određenom periodu, a naročito u slučaju ako bi primjena tih odredbi kolektivnog ugovora ugrozila tekuću likvidnost ili ukupne poslovno finansijske rezultate poslodavca.

@@ -1,0 +1,2 @@
+Član 18
+(Oglašavanje općeg akta nevažećim) Sindikat, odnosno vijeće radnika može od poslodavca zatražiti da nezakonit opći akt ili neke njegove odredbe, u roku od osam dana od dana objave na oglasnoj ploči, oglasi nevažećim, a ukoliko poslodavac to ne učini, sindikat ili vijeće radnika može u roku od trideset (30) dana od dana objave na oglasnoj ploči, od nadležnog suda zatražiti da taj opći akt ili neke njegove odredbe oglasi nevažećim.

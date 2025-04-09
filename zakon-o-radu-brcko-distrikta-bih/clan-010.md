@@ -1,0 +1,7 @@
+Član 10
+(Ostali oblici diskriminacije)
+(1) Poslodavcu i drugim licima zaposlenim kod poslodavca zabranjeno je uznemiravanje ili seksualno uznemiravanje, kao i mobing na radu ili u vezi s radom radnika i lica koja traže zaposlenje kod poslodavca.
+(2) Uznemiravanje u smislu stava 1 ovog člana je svako neželjeno ponašanje uzrokovano nekom od osnova iz člana 7 ovog zakona koje ima za cilj ili predstavlja povredu dostojanstva radnika i lica koje traži zaposlenje i stvaranje zastrašujućeg, neprijateljskog, degradirajućeg, ponižavajućeg ili uvredljivog okruženja.
+(3) Seksualno uznemiravanje u smislu stava 1 ovog člana je svako ponašanje koje riječima ili radnjama seksualne prirode ima za cilj ili predstavlja povredu dostojanstva radnika i lica koje traži zaposlenje, a koje izaziva strah ili stvara ponižavajuće ili uvredljivo okruženje.
+(4) Mobing predstavlja specifičnu formu nefizičkog uznemiravanja na radnom mjestu koje podrazumijeva ponavljanje radnji kojima jedno ili više lica psihički zlostavlja i ponižava drugo lice, a čija je svrha ili posljedica ugrožavanje njegovog ugleda, časti, dostojanstva, integriteta, degradacija radnih uslova ili profesionalnog statusa.
+(5) Poslodavac je dužan preduzimati pravovremene i efikasne mjere s ciljem sprečavanja svih oblika diskriminacije na radu i u vezi s radom kao i uzdržavati se od preduzimanja mjera prema radniku koji se žali na diskriminaciju.

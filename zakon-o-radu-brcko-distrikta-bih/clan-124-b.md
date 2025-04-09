@@ -1,0 +1,2 @@
+Član 124b
+(Utvrđivanje plate za privremeni premještaj) Plata radnika koji obavlja poslove koji su mu dodijeljeni premještajem, utvrđuje se odlukom o privremenom premještaju, u skladu s visinom plate i drugim materijalnim davanjima za radno mjesto na koje je premješten, izuzev u slučajevima kada je ta plata niža od plate koju je imao na svom radnom mjestu kada radnik ostvaruje pravo na visinu plate i druga materijalna davanja svog radnog mjesta na koje je primljen.
