@@ -1,0 +1,12 @@
+Član 102
+(Odluka o prijedlogu za otvaranje stečajnog postupka)
+(1) Stečajni sudija će zakazati ročište u vezi s uslovima za otvaranje stečajnog postupka nakon što primi izvještaj privremenog stečajnog upravnika zajedno s mišljenjem vještaka, ako je vještak imenovan da ocijeni solventnost stečajnog dužnika.
+(2) Na ročište se poziva predlagač, stečajni dužnik, privremeni stečajni upravnik i, ako je neophodno, vještak.
+(3) U određenim slučajevima stečajni sudija može rješenjem o pokretanju prethodnog stečajnog postupka zakazati ročište za utvrđivanje uslova za otvaranje stečajnog postupka.
+(4) Stečajni sudija će donijeti odluku o otvaranju stečajnog postupka ili odbiti prijedlog za otvaranje stečajnog postupka u roku od tri dana od zaključenja sudskog ročišta.
+(5) U odluci o odbijanju prijedloga za otvaranje stečajnog postupka stečajni sudija odlučuje o troškovima postupka.
+(6) Stečajni sudija otvara stečajni postupak nad imovinom stečajnog dužnika ako je prijedlog dopušten, ako postoji stečajni razlog i ako će imovina stečajnog dužnika prema predviđanju biti dovoljna da namiri troškove postupka.
+(7) Ako imovina stečajnog dužnika ne pokriva troškove postupka, a prijedlog je dopušten i osnovan, stečajni sudija će javnim pozivom, objavljenim na oglasnoj tabli suda, „Službenom glasniku Brčko distrikta BiH“ i „Službenom glasniku BiH“ pozvati povjerioce i zainteresovana lica da u roku od 30 dana od dana objavljivanja poziva predlože otvaranje stečajnog postupka i uplate predujam za obezbjeđenje troškova stečajnog postupka, u iznosu koji odredi stečajni sudija.
+(8) Ako u roku iz stava 7 ovog člana povjerioci i zainteresovana lica ne predlože otvaranje stečajnog postupka i ne uplate predujam, stečajni sudija će otvoriti stečajni postupak i odmah zaključiti postupak. Rješenje o otvaranju i zaključenju stečajnog postupka dostavlja se Tužilaštvu, Poreznoj upravi i Upravi za indirektno oporezivanje Bosne i Hercegovine (u daljnjem tekstu: Upravi za indirektno oporezivanje).
+(9) Ako zainteresovano lice predloži otvaranje stečajnog postupka i uplati predujam u roku iz stava 7 ovog člana, stečajni sudija će otvoriti stečajni postupak i voditi ga u skladu s odredbama ovog zakona.
+(10) Ako je imovina stečajne mase nedovoljna za vraćanje predujma uplaćenog za troškove postupka, lice koje je uplatilo predujam može zahtijevati povrat od svakog lica koje je bilo obavezno da podnese prijedlog za pokretanje stečajnog postupka, a svojom krivicom je propustilo da to učini.

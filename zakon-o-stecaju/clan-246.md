@@ -1,0 +1,6 @@
+Član 246
+(Osporena potraživanja i odvojeno namirenje)
+(1) Ako je potraživanje osporeno na ispitnom ročištu ili ako visina potraživanja razlučnog povjerioca koje će se odvojeno namiriti nije utvrđena, smatra se da stečajni dužnik ne kasni sa ispunjenjem stečajnog plana, u skladu s članom 191 ovog zakona, ako stečajni dužnik potraživanje do konačnog utvrđivanja njegove visine uzima u obzir u onom obimu koji odgovara odluci suda o pravu glasa povjerioca prilikom glasanja o stečajnom planu.
+(2) Ako nije donio odluku o pravu glasa, sud na prijedlog stečajnog dužnika ili povjerioca naknadno utvrđuje obim u kojem stečajni dužnik privremeno mora uzeti u obzir navedeno potraživanje.
+(3) Ako prema konačnom utvrđenju potraživanja proizađe da je stečajni dužnik platio premalo, dužan je da doplati manjak i smatra se da stečajni dužnik znatno kasni sa ispunjenjem stečajnog plana kada ne doplati manjak, ako ga je povjerilac pismeno opomenuo i odredio naknadni rok u trajanju od najmanje 15 dana.
+(4) Ako se utvrdi da je stečajni dužnik platio previše, stečajni dužnik može zahtijevati povrat viška samo ako višak prelazi i nedospjeli dio potraživanja na koje povjerilac ima pravo na osnovu stečajnoga plana.

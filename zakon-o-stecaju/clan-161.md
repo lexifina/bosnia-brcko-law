@@ -1,0 +1,9 @@
+Član 161
+(Unovčavanje nepokretnosti bez tereta)
+(1) Nepokretnosti koje nisu opterećene teretima (slobodne nepokretnosti) unovčavaju se pod uslovima i na način koji odredi skupština odnosno odbor povjerilaca.
+(2) Skupština povjerilaca, kao uslov utvrđuje najnižu prodajnu cijenu ispod koje se ne može imovina unovčiti.
+(3) Prodaja nepokretnosti vrši se javnim nadmetanjem, javnim prikupljanjem ponuda i neposrednom prodajom u skladu s ovim zakonom i u skladu s važećim standardima za upravljanje stečajnom masom.
+(4) Ako stečajni upravnik ne uspije unovčiti nepokretnost na javnoj prodaji, prema uslovima iz stavova 1 i 2 ovog člana, odbor povjerilaca, odnosno skupština povjerilaca ako odbor povjerilaca nije imenovan, ponovo određuje najnižu cijenu ispod koje se nepokretnost ne može prodati na narednoj javnoj prodaji.
+(5) Ako je unovčavanje nepokretnosti pod uslovom iz stava 4 ovog člana ostalo bezuspješno, stečajni upravnik, uz saglasanost odbora povjerilaca, odnosno skupština povjerilaca ako odbor povjerilaca nije imenovan, može nepokretnost unovčiti javnim prikupljanjem ponuda bez određivanja najniže cijene.
+(6) Ako stečajni upravnik ne dobije saglasnost odbora povjerilaca, odnosno skupštine povjerilaca ako odbor povjerilaca nije imenovan, za unovčavanje nepokretnosti na način iz stava 5 ovog člana ili ne uspije unovčiti nepokretnost na način iz stava 5 ovog člana, dužan je nepokretnost izdvojiti iz stečajne mase i predati povjeriocima srazmjerno njihovim potraživanjima, ako oni prihvate, a ako ne prihvate, onda je dužan postupiti u skladu s članom 188 stavovima 11 i 12 ovog zakona.
+(7) Ako skupština odnosno odbor povjerilaca odbije da odredi uslove i način unovčenja nepokretnosti (bez tereta) stečajnog dužnika, nepokretnosti se unovčavaju u skladu s pravilima izvršnog postupka.

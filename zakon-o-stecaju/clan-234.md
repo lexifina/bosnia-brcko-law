@@ -1,0 +1,5 @@
+Član 234
+(Potrebne većine)
+(1) Smatra se da su povjerioci prihvatili stečajni plan, ako je u svakoj grupi glasala za plan većina prisutnih povjerilaca, uzimajući u obzir i povjerioce koji su glasali pismenim putem i ako zbir potraživanja povjerilaca koji su glasali za plan, premašuje zbir potraživanja povjerilaca koji su glasali protiv da se plan prihvati.
+(2) Povjerioci koji imaju neko zajedničko pravo ili čija su prava do nastanka stečajnog razloga činila jedinstveno pravo računaju se pri glasanju kao jedan povjerilac, a na odgovarajući način se postupa i s nosiocima razlučnih prava ili prava plodouživanja.
+(3) Ako se stečajnim planom ne zadire u prava razlučnih povjerilaca i ako stečajni povjerioci nisu razvrstani u posebne grupe, smatra se da su povjerioci prihvatili stečajni plan ako je glasala većina povjerilaca koji su glasali i ako zbir potraživanja povjerilaca koji su glasali za stečajni plan prelazi zbir potraživanja povjerilaca koji su glasali da se stečajni plan ne prihvati.

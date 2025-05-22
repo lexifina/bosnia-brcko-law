@@ -1,0 +1,2 @@
+Član 92
+(Stečajni povjerioci viših isplatnih redova) Prije ostalih stečajnih povjerilaca namiruju se radnici i prijašnji radnici stečajnog dužnika, osim članova uprave društva, članova nadzornog odbora i odbora za reviziju, s potraživanjima iz radnog odnosa za posljednjih 12 mjeseci do dana otvaranja stečajnog postupka, u ukupnom bruto iznosu, otpremnine do iznosa propisanog zakonom, kao i radnici koji ostvaruju pravo na naknadu štete za povrede na radu ili profesionalne bolesti i članovi porodice poginulog radnika na radu, koja se isplaćuje u punom iznosu.
