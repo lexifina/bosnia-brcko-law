@@ -1,0 +1,1 @@
+Na osnovu člana 22. Statuta Brčko distrikta Bosne i Hercegovine („Službeni glasnik Brčko distrikta Bosne i Hercegovine”, broj 2/10 — prečišćeni tekst), Skupština Brčko distrikta Bosne i Hercegovine, na 16. redovnoj sjednici, održanoj dana 10. septembra 2025. godine, usvaja ZAKON O PROFESIONALNOJ REHABILITACIJI, OSPOSOBLJAVANJU I ZAPOŠLJAVANJU OSOBA S INVALIDITETOM

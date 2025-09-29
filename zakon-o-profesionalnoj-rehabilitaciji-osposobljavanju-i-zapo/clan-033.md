@@ -1,0 +1,2 @@
+Član 33
+(Obaveza ugovaranja poslova s pravnim licima koja zapošljavaju osobe s invaliditetom) Poslodavac iz člana 6 stava l tačke a) Zakona dužan je da 20% (dvadeset posto) svojih potreba za proizvodima i proizvodnim uslugama nabavlja od pravnog lica za zapošljavanje osobe s invaliditetom, zaštitne radionice i samostalne djelatnosti u vlasništvu osobe s invaliditetom, pod tržišnim uslovima i Zakonom o javnim nabavkama.

@@ -1,0 +1,3 @@
+DIO PRVI - OSNOVNE ODREDBE
+Član 1
+(Predmet zakona) Zakon o profesionalnoj rehabilitaciji, osposobljavanju i zapošljavanju osoba s invaliditetom (u daljnjem tekstu: Zakon) propisuje uslove i postupak profesionalne rehabilitacije, osposobljavanja i zapošljavanja osobe s invaliditetom, smanjenom odnosno preostalom radnom sposobnošću (u daljnjem tekstu: osoba s invaliditetom), zapošljavanje pod općim i posebnim uslovima, osnivanje i djelatnost pravnog lica koje se bavi zapošljavanjem osobe s invaliditetom i sva druga pitanja od značaja za profesionalnu rehabilitaciju, osposobljavanje i zapošljavanje osobe s invaliditetom.

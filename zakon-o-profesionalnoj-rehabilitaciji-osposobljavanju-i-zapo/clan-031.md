@@ -1,0 +1,2 @@
+Član 31
+(Pravo na subvenciju plate) Pravno lice za zapošljavanje osoba s invaliditetom koje ostvari status zaštitne radionice u skladu sa Zakonom, osim prava propisanih članom 29 Zakona, ima pravo na subvenciju neto plate zaposlene osobe s invaliditetom u visini od 35% (trideset pet posto) od prosječne neto plate isplaćene u Distriktu za kalendarsku godinu koja dvije fiskalne godine prethodi godini u kojoj se subvencija plate isplaćuje, prema podacima Agencije za statistiku.
