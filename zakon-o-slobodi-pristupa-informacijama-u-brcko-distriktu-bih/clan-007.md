@@ -1,0 +1,2 @@
+Član 7
+(Princip slobode pristupa informaciji) Sve informacije dostupne su svakom domaćem ili stranom fizičkom i pravnom licu, bilo putem proaktivne objave ili putem podnošenja zahtjeva za slobodu pristupa informaciji.

@@ -1,0 +1,2 @@
+Član 4
+(Cilj) Cilj ovog zakona je omogućiti i osigurati ostvarivanje prava na slobodan pristup informaciji fizičkom i pravnom licu, putem otvorenosti i javnosti djelovanja institucija Distrikta, u skladu s međunarodnim ugovorima o ljudskim pravima i slobodama i općeprihvaćenim pravilima međunarodnog prava, ovim i drugim zakonom, radi ostvarivanja i zaštite interesa javnosti i ostvarenja slobodnog i demokratskog poretka i otvorenog društva.
