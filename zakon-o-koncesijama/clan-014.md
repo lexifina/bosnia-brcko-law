@@ -1,0 +1,10 @@
+Član 14
+(Procjena vrijednosti koncesije)
+(1) Komisija obračunava procijenjenu vrijednost koncesije kao ukupnu vrijednost predmeta koncesije izraženu u konvertibilnim markama, bez uračunatog poreza na dodanu vrijednost, uključujući sve moguće izmjene i varijante ugovora o koncesiji i maksimalnu vrijednost izmjena ugovora o koncesiji.
+(2) Procijenjena vrijednost koncesije za privredno korištenje općeg ili drugog dobra računa se kao procijenjeni prihod koji će koncesionar, postupajući s pažnjom dobrog privrednika, ostvariti po osnovu ugovora o koncesiji za vrijeme trajanja koncesije, umanjen za procijenjeni iznos naknade za koncesiju, te umanjen na neto sadašnju vrijednost koju odredi Komisija, a koja odražava trenutne tržišne procjene vrijednosti novca i rizika karakterističnih za ulaganja srodna predmetu koncesije.
+(3) Procijenjena vrijednost koncesije za javne radove i koncesije za javne usluge računa se u skladu s odredbama propisa kojima se uređuju javne nabavke o procjeni vrijednosti nabavki za ugovore o javnim radovima i ugovore o javnim uslugama.
+(4) Procijenjena vrijednost koncesije za javne radove i koncesije za javne usluge uključuje, osim iznosa utvrđenog u skladu sa stavom 3 ovog člana, i procijenjeni prihod koji koncesionar ostvaruje naplatom od krajnjih korisnika usluge koja je predmet ugovora o koncesiji, kao i procijenjeni iznos svih plaćanja od strane davaoca koncesije za vrijeme trajanja ugovora o koncesiji.
+(5) Procijenjena vrijednost koncesije računa se na temelju podataka iz studije opravdanosti davanja koncesije odnosno analize davanja koncesije.
+(6) Ako Komisija predviđa nagrade ili isplate budućem koncesionaru, mora ih uzeti u obzir prilikom izračuna procijenjene vrijednosti koncesije.
+(7) Procijenjena vrijednost koncesije mora biti valjano određena u trenutku u kojem davalac koncesije započinje postupak davanja koncesije.
+(8) Pri obračunu procijenjene vrijednosti koncesije uzima se u obzir tržišna cijena u trenutku obračuna ili eventualna cijena usluge koja je primjenjiva u postupku davanja koncesije ili cijena usluge uređena posebnim zakonom, ako je primjenjivo.

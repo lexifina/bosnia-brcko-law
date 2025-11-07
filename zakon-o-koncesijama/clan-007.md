@@ -1,0 +1,10 @@
+Član 7
+(Imovinskopravni odnosi)
+(1) Ako je Distrikt vlasnik nekretnine na kojoj se obavlja djelatnost za koju se namjerava dati koncesija, koncesionar stiče i pravo korištenja te nekretnine dok traje koncesija i to u onom opsegu koji je nužan za izvršavanje predmeta koncesije i na onom dijelu nekretnine na kojem koncesija najmanje opterećuje nekretninu, odnosno umanjuje njezinu vrijednost, ako Vlada ne odluči drugačije.
+(2) Ako je vlasnik nekretnine Bosna i Hercegovina, koncesija se na takvoj nekretnini može dati samo u skladu s propisima na nivou Bosne i Hercegovine.
+(3) Ako je za izvršavanje koncesije iz stava 1 ovog člana nužan prolaz ili provoz vozilima bez tereta ili s teretima preko nekretnine u vlasništvu Distrikta, koncesionar stiče i pravo služnosti prolaza odnosno provoza svim vozilima na toj nekretnini, ako Vlada ne odluči drugačije.
+(4) Ako je za izvršavanje koncesije iz stava 2 ovog člana nužan prolaz ili provoz vozilima bez tereta ili s teretima preko nekretnine u vlasništvu Bosne i Hercegovine, primjenjuju se relevantni propisi Bosne i Hercegovine.
+(5) Koncesionar za stečeno pravo korištenja nekretnine iz stava 1, odnosno pravo služnosti iz stava 3 ovog člana, uz naknadu za koncesiju, plaća i naknadu za poslužnu nekretninu u skladu s posebnim propisima.
+(6) Pravo korištenja nekretnine u skladu sa stavom 1 ovog člana, odnosno pravo služnosti koncesionara u slučaju iz stava 4 ovog člana, kao i visina naknade, sastavni su dio dokumentacije za prijavu u postupku davanja koncesije.
+(7) Ako se koncesija daje za obavljanje djelatnosti na nekretnini koja nije u vlasništvu Distrikta niti Bosne i Hercegovine, ili ako je za izvršavanje koncesije nužan prolaz ili provoz vozilima preko nekretnine koja nije u vlasništvu Distrikta niti Bosne i Hercegovine, davalac koncesije je dužan razriješiti imovinskopravne odnose s vlasnikom nekretnine prije početka postupka davanja koncesije.
+(8) Iznimno od stava 7 ovog člana može se ugovoriti da je koncesionar dužan razriješiti imovinskopravne odnose s vlasnikom nekretnine nakon postupka davanja koncesije.

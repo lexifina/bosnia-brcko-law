@@ -1,0 +1,8 @@
+Član 39
+(Prenos ugovora o koncesiji)
+(1) Ugovor o koncesiji može se, uz pismenu saglasnost davaoca koncesije, prenijeti na treću osobu, u skladu s odredbama ovog člana, te radi namirenja potraživanja založnog povjerioca, kada je koncesija predmet založnog prava, u skladu s ovim zakonom.
+(2) O prenosu ugovora o koncesiji davalac koncesije dužan je obavijestiti Skupštinu.
+(3) Prenos ugovora o koncesiji ne smije umanjiti kvalitet i narušiti kontinuitet realizacije ugovornih obaveza.
+(4) Kod koncesija za javne radove i usluge, kada je koncesionar preduzeće osnovano radi dobijanja koncesije, promjena vlasništva ili upravljačkih prava tog koncesionara, kao posljedica prenosa dionica i poslovnih udjela, ne može se provesti bez saglasnosti davaoca koncesije, osim ako navedeno nije posljedica redovnog trgovanja dionicama na uređenom tržištu kapitala ili izvršenja radi osiguranja za povrat kredita datih od strane kreditne institucije koja je dala kredit koncesionaru u svrhu provedbe ugovora o koncesiji, zasnovanog na dionicama i poslovnim udjelima za koje osiguranje je prethodno data saglasnost davaoca koncesije.
+(5) Ugovorom o koncesiji može se dozvoliti prenos ugovora o koncesiji, u korist finansijskih institucija koje daju kredit koncesionaru u svrhu provedbe ugovora o koncesiji, a u slučaju kršenja ugovora o koncesiji od strane koncesionara koje mogu dovesti do raskida ugovora.
+(6) U slučaju iz stava 5 ovog člana, finansijske institucije mogu se ovlastiti na prenos ugovora o koncesiji na treće lice, pod uslovom da treće lice ispunjava uslove sposobnosti određene za koncesionara u dokumentaciji za prijavu i obavještenju o namjeri davanja koncesije.

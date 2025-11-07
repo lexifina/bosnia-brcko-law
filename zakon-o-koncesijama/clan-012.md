@@ -1,0 +1,9 @@
+Član 12
+(Izrada studije opravdanosti davanja koncesije)
+(1) Studiju opravdanosti davanja koncesije izrađuje Komisija.
+(2) Za izradu studije opravdanosti davanja koncesije davalac koncesije može angažovati vanjske stručne savjetnike, na prijedlog Komisije.
+(3) Studijom opravdanosti davanja koncesije posebno se uzimaju u obzir javni interes, uticaj na okoliš, zaštitu prirode i kulturnih dobara, finansijski učinci koncesije na budžet Distrikta, te usklađenost s privrednim razvojnim planovima i planovima davanja koncesija.
+(4) Kod koncesije za javne usluge procijenjene vrijednosti manje od 500.000,00 KM, bez uračunatog poreza na dodanu vrijednost i koncesije za privredno korištenje općeg ili drugog dobra Komisija može, umjesto studije opravdanosti davanja koncesije, izraditi analizu davanja koncesije koja na odgovarajući način obuhvata elemente studije opravdanosti davanja koncesije iz stava 3 ovog člana, kako bi se postupak davanja koncesije mogao provesti u skladu s principima i pravilima postupka davanja koncesije saglasno ovom zakonu.
+(5) Kod koncesije za javne usluge i koncesije za privredno korištenje općeg ili drugog dobra, a kada se više koncesija istovremeno daje za isti ili sličan predmet koncesije, Komisija može izraditi jednu studiju opravdanosti davanja koncesije za sve koncesije, pazeći pri tome da studija jasno utvrdi posebnosti i sve elemente bitne za davanje pojedinačnih koncesija.
+(6) Kod koncesije za javne usluge i koncesije za javne radove koja ima elemente javno-privatnog partnerstva te na koju se primjenjuju propisi kojima se uređuje javno-privatno partnerstvo, Komisija izrađuje prijedlog projekta javno-privatnog partnerstva umjesto studije opravdanosti davanja koncesije, na način uređen tim propisom.
+(7) Prijedlog projekta javno-privatnog partnerstva iz stava 6 ovog člana obavezno sadrži podatke i informacije određene članom 13 ovog zakona.

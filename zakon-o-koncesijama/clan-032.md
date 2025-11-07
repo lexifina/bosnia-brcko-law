@@ -1,0 +1,10 @@
+Član 32
+(Naknada za koncesiju)
+(1) Koncesionar je dužan plaćati naknadu za koncesiju, u iznosu i na način kako je to uređeno ugovorom o koncesiji.
+(2) Ako koncesionar ne plati naknadu za koncesiju u roku određenom ugovorom o koncesiji, svakom sljedećom uplatom, neovisno o tome šta je koncesionar označio da se tom uplatom plaća, smatra se da se prioritetno isplaćuje zaostali dug po redoslijedu dospijeća, i to tako da se prvo podmiruju troškovi zakašnjele naknade, zatim iznos obračunate zakonske zatezne kamate na trajanje zakašnjenja, te konačno iznos redovne naknade za koncesiju.
+(3) Izuzetno od stava 1 ovog člana, naknada za koncesiju se ne mora ugovoriti za određeni period trajanja koncesije u slučaju kada je studijom opravdanosti za davanje koncesije ili analizom davanja koncesije utvrđeno da nije ekonomski opravdana, osim ako nije drugačije uređeno posebnim zakonom.
+(4) Naknada za koncesiju plaća se u novcu, a može biti ugovorena kao nominalan iznos ili kao varijabilni iznos, ovisno o specifičnostima predmeta koncesije, principima utvrđenim studijom opravdanosti za davanje koncesije, odnosno analizom davanja koncesije, te posebnim zakonom.
+(5) Visina i način plaćanja naknade za koncesiju određuje se ovisno o predmetu koncesije, procijenjenoj vrijednosti koncesije, roku trajanja koncesije, rizicima i troškovima koje koncesionar preuzima i očekivanoj dobiti, obuhvatu koncesije, opremljenosti i vrijednosti imovine, odnosno opremljenosti i površini općeg, javnog ili drugog dobra koje se daje u koncesiju.
+(6) Ugovorom o koncesiji može se odrediti promjena visine i načina obračuna i plaćanja naknade za koncesiju u određenom vremenskom periodu, za vrijeme trajanja ugovora o koncesiji, u skladu s dokumentacijom za prijavu i odlukom o davanju koncesije.
+(7) Naknada za koncesiju prihod je budžeta Distrikta.
+(8) U dokumentaciji za prijavu i ugovoru o koncesiji davalac može odrediti da je naknada za koncesiju podložna promjenama temeljem indeksa potrošačkih cijena, slijedom promjena tržišne cijene javnog ili drugog dobra od interesa za Distrikt koje je predmet koncesije.
