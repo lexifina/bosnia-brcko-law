@@ -1,0 +1,3 @@
+INSTITUCIJA REVIZIJE
+Član 24
+Centar za socijalni rad koji pruža usluge socijalnog rada u postupku rješavanja prava iz oblasti dječije zaštite, može bilo kada da izvrši reviziju nad priznatim pravom korisnika, ukoliko dođe do promjene okolnosti koje utiču na ostvareno pravo. Službenik Centra za socijalni rad može izlaskom u terensku posjetu i uvidom na licu mjesta da izvrši službeno dokazivanje stvarnog odsustvovanja ili prisustva podnosioca zahtjeva na prava iz dječije zaštite, kao i korisnika nad priznatim pravom iz dječije zaštite, najviše dva puta u toku jednog mjeseca u različitom vremenskom periodu. Terenska posjeta pored zvaničnog izvještaja službenog lica mora biti usklađena i sa izjavama najmanje 2 (dva) mještanina. III. DJEČIJA NEDJELJA
