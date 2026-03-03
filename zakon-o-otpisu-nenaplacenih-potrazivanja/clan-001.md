@@ -1,0 +1,2 @@
+Član 1
+(Predmet) Zakonom o otpisu nenaplaćenih novčanih potraživanja Brčko distrikta Bosne i Hercegovine propisuje se otpis nenaplaćenih novčanih potraživanja na ime sporednih potraživanja za komunalne usluge koje su predmet regulisanja međusobnih odnosa između Javnog preduzeća za komunalne djelatnosti „Komunalno Brčko" d.o.o. Brčko distrikt BiH i Vlade Brčko distrikta BiH definisanih Odlukom o potraživanjima i dugovanjima za komunalne usluge zaključno sa danom 31. 12. 2007. godine broj predmeta: 01.1-13-060987/08 od 13. 11. 2008. godine.

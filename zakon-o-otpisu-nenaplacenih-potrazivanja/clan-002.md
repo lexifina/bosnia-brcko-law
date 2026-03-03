@@ -1,0 +1,2 @@
+Član 2
+(Definicija nenaplaćenog novčanog potraživanja) Nenaplaćeno novčano potraživanje je iznos nenaplaćenih zakonskih zateznih kamata za glavni dug koji je nastao po osnovu pruženih usluga za utrošenu električnu energiju, isporučenu vodu i odvoz smeća Odjeljenja za komunalne poslove, Pododjeljenja elektrodistribucija i Pododjeljenja vodovod i kanalizacija i Odjeljenja za javne poslove, Pododjeljenja čistoća, do 31. 12. 2007. godine, a čija visina prelazi iznos glavnog duga.
