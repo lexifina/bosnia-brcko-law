@@ -1,0 +1,3 @@
+Član 22
+(1) Ako se jednom tužbom obuhvati više zahtjeva protiv tuženog, bez obzira da li se svi zahtjevi zasnivaju na istom činjeničnom i pravnom osnovu ili ne, vrijednost predmeta spora radi naplate takse određuje se prema zbiru vrijednosti svih zahtjeva.
+(2) U slučaju formalnog suparničarstva - ako više lica podnese jednu tužbu ili ako je više lica tuženo jednom tužbom, a predmet spora su zahtjevi, odnosno obaveze iste vrste koje se zasnivaju na bitno istovjetnom činjeničnom i pravnom osnovu, vrijednost predmeta spora radi naplate takse određuje se prema vrijednosti svakog pojedinog zahtjeva.

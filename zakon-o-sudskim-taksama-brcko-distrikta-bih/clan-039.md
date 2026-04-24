@@ -1,0 +1,2 @@
+Član 39
+Kada je taksu dužno da plati lice koje ima prebivalište ili boravište u inostranstvu, kao i kada je taksu dužno da plati pravno lice koje ima sjedište u inostranstvu, a taksu nije platilo do trenutka nastanka taksene obaveze, sud će voditi popis neplaćenih taksa i po završetku postupka izdat će nalog za plaćanje takse u smislu člana 37 stava 3 ovog zakona, s tim da rok za plaćanje takse ne može biti kraći od 15 ni duži od 30 dana.
