@@ -1,0 +1,4 @@
+Član 30
+(Vodni objekti za zaštitu od poplava)
+(1) Vodni objekti za zaštitu od poplava (u daljnjem tekstu: zaštitni vodni objekti) su: glavni, sekundarni i ljetni nasipi s pripadajućim objektima kao što su ustave, crpne stanice, kejski i odbrambeni zidovi, rasteretni i lateralni kanali, kao i brane sa akumulacijama i retenzijama s pripadajućim objektima za odbranu od poplava i drugi objekti za zaštitu od poplava.
+(2) Sastavnim dijelom nasipa za odbranu od poplava iz stava 1 ovog člana smatra se i zaštitni pojas sa šumom i zaštitnim zelenilom u inundacionom području, u širini od 50 m pored nasipa, odvodni kanali paralelni nasipu u branjenom području, na udaljenosti od 10 m do 50 m od nožice nasipa zavisno od karakteristika vodotoka i objekta, kao i servisni putevi u branjenom području za provođenje odbrane od poplava.
