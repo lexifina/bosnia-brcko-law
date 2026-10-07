@@ -1,0 +1,14 @@
+Član 275
+Vrste privremenih mjera radi obezbjeđenja novčanog potraživanja
+(1) Radi obezbjeđenja novčanog potraživanja može se odrediti svaka mjera kojom se postiže svrha takvog obezbjeđenja, a naročito:
+1) zabrana protivniku obezbjeđenja da otuđi ili optereti pokretne stvari, oduzimanje tih stvari i njihovo povjeravanje na čuvanje predlagaču obezbjeđenja ili trećem licu,
+2) oduzimanje i polaganje gotovog novca, vrijednosnih papira i sl. u sud,
+3) zabrana protivniku obezbjeđenja otuđenja ili opterećenja svoje nepokretnosti ili stvarnih prava koja su na nepokretnosti uknjižena u njegovu korist, uz zabilježbu te zabrane u zemljišnu knjigu,
+4) zabrana dužniku protivnika obezbjeđenja da dobrovoljno ispuni svoju obavezu protivniku obezbjeđenja te zabrana protivniku obezbjeđenja da primi ispunjenje te obaveze odnosno da raspolaže svojim potraživanjima,
+5) nalog pravnom licu koje obavlja poslove platnog prometa da protivniku obezbjeđenja ili trećem licu, na osnovu naloga protivnika obezbjeđenja, uskrati s dužnikova računa isplatu novčanog iznosa za koji je određena privremena mjera.
+(2) Privremenom mjerom ne stiče se založno pravo.
+(3) Zabrane iz stava 1 ovog člana smatraju se provedenima dostavom licu kojem su izrečene, odnosno zemljišnoknjižnom odjeljenju suda.
+(4) Otuđenje i opterećenje pokretnina iz stava 1 tačke 1 ovog člana, koje protivnik obezbjeđenja obavi protivno zabrani bez pravnog su dejstva, osim ako ima mjesta primjeni pravila o zaštiti poštenog sticaoca.
+(5) Dejstvo zabilježbe zabrane iz stava 1 tačke 3 ovog člana je u tome što predlagač obezbjeđenja može predložiti izvršenje radi naplate svog potraživanja kad ono postane izvršno na nepokretnosti uknjiženoj u zemljišnoj knjizi ili na pravu uknjiženom na nepokretnosti, na koje se zabrana odnosi, bez obzira na to što je nakon te zabrane treće lice, na osnovu dobrovoljnog raspolaganja protivnika obezbjeđenja, steklo i uknjižilo u zemljišnu knjigu neko svoje pravo. Izvršenje na nepokretnosti, odnosno pravu uknjiženom na nepokretnosti, predlagač obezbjeđenja može predložiti neposredno protiv lica koje je uknjiženo kao vlasnik nepokretnosti odnosno nosilac stvarnog prava uknjiženog na nepokretnosti, na osnovu izvršne isprave kojom je protiv protivnika obezbjeđenja utvrđeno njegovo potraživanje radi obezbjeđenja kojeg je zabrana zabilježena, te dokaza da je lice protiv kog se izvršenje predlaže steklo vlasništvo nepokretnosti, odnosno pravo na nepokretnosti, nakon zabilježbe zabrane.
+(6) Dejstvo zabrana iz stava 1 tački 4 i 5 ovog člana je u tome što predlagač obezbjeđenja može od dužnika protivnika obezbjeđenja, odnosno pravnog lica koje obavlja poslove platnog prometa, tražiti u parnici nadoknadu štete koju su mu nanijeli postupivši protivno zabrani. Predlagaču obezbjeđenja pripadaju i druga prava protiv tih lica po općim pravilima obligacionog prava o zabranjenim odnosno protivpravnim radnjama.
+3. Privremene mjere radi obezbjeđenja nenovčanog potraživanja

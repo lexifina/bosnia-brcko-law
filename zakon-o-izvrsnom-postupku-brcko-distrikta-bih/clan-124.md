@@ -1,0 +1,11 @@
+Član 124
+Upućivanje na parnicu
+(1) Sud će lice koje je osporilo potraživanje uputiti da u određenom roku, koji ne može biti duži od petnaest (15) dana, pokrene parnicu ako odluka zavisi od spornih činjenica, osim ako svoje osporavanje ne dokazuje pravosnažnom presudom, javnom ili prema zakonu ovjerenom privatnom ispravom. Ako lice koje osporava potraživanje, to osporavanje potkrepljuje pravosnažnom presudom, sud će o osporavanju odlučiti u izvršnom postupku. Sud će o osporavanju odlučiti u izvršnom postupku i ako nisu sporne činjenice od kojih zavisi donošenje odluke.
+(2) Ako lice koje je osporilo potraživanje učini vjerovatnim postojanje razloga za osporavanje, sud će zaključkom na parnicu uputiti lice čije je potraživanje osporeno, a donošenje rješenja o namirenju lica čije je potraživanje osporeno odgoditi do završetka parnice. Izuzetno, sud može donošenje rješenja o namirenju i namirenje tog lica uslovljavati davanjem osiguranja.
+(3) Iznos koji se odnosi na osporeno potraživanje položit će se u sudski depozit.
+(4) Ako lice koje je upućeno na parnicu u roku koji mu je za to određen, ne dokaže da je parnicu pokrenulo, smatrat će se da potraživanje nije osporeno, odnosno da je odustalo od zahtjeva da njegovo potraživanje bude namireno u izvršnom postupku.
+(5) Presuda donesena u parnici o osporenom potraživanju djeluje protiv izvršenika i svih tražilaca izvršenja.
+(6) Odredbom stava 4 ovog člana ne dira se u pravo lica koje je upućeno na parnicu da, i nakon završetka izvršnog postupka, pokrene parnicu protiv lica čije je potraživanje osporilo, odnosno protiv lica koje mu je potraživanje osporilo.
+(7) Na prijedlog lica čije je potraživanje osporeno, sud može odgodu donošenja rješenja o namirenju i namirenje potraživanja tog lica uslovljavati davanjem primjerenog osiguranja za štetu koju bi to lice moglo pretrpjeti zbog odgode namirenja. Ako lice koje je osporilo potraživanje ne da primjereno osiguranje u roku koji mu je određen, smatrat će se da potraživanje nije osporeno.
+(8) Lice čije je potraživanje bilo osporeno ima pravo na naknadu štete koju je pretrpjelo zbog neosnovanog osporavanja potraživanja, ako je ono bilo učinjeno jedino radi toga da mu se šteti ili mu smeta u izvršavanju i ostvarenju njegovih prava.
+6. Posebne odredbe o načinu namirenja nekih potraživanja

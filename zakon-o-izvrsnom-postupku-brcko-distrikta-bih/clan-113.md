@@ -1,0 +1,10 @@
+Član 113
+Polaganje cijene
+(1) Ponuđač s najvišom ponudom na ročištu plaća ukupnu prodajnu cijenu umanjenu za položeno jemstvo polaganjem cijene sudu u roku koji je sud odredio, a koji ne može biti duži od trideset (30) dana od dana objavljivanja zaključka, iz člana 111 stava 6 ovog zakona na oglasnoj ploči Osnovnog suda.
+(2) Ukoliko ponuđač s najvećom ponudom ne uplati prodajnu cijenu u predviđenom roku, sud će, zaključkom, proglasiti prodaju tom ponuđaču nevažećom i novim zaključkom odrediti da je nepokretnost prodata drugom po redu ponuđaču koji treba da, u roku koji odredi sud, a koji ne može biti duži od trideset (30) dana od dana prijema tog zaključka, sudu uplati prodajnu cijenu. Ukoliko drugi ponuđač ne uplati cijenu u predviđenom roku, sud primjenjuje ova pravila i na trećeg ponuđača.
+(3) U slučaju da sva tri ponuđača s najvišom ponudom ne ispune svoje obaveze plaćanja prodajne cijene u određenim rokovima, sud može oglasiti da prvo ročište nije uspjelo i zakazati novo ročište koje treba da se održi u skladu s odredbama članova od 105 do 111 ovog zakona.
+(4) Iz položenog jemstva prvog ponuđača kojem je prodata imovina i koji u predviđenom roku ne uplati prodajnu cijenu pokrivaju se troškovi neuspjelog ročišta. Ako se ovi troškovi ne mogu namiriti u cijelosti iz iznosa jemstva koje je položio prvi ponuđač, razlika se namiruje iz jemstva drugog ponuđača ako i ovaj odustane od kupovine nepokretnosti. Ova pravila se shodno primjenjuju i u slučaju odustanka trećeg ponuđača.
+(5) Troškovi održavanja narednog ročišta pokrivaju se srazmjerno iz jemstva ponuđača kojima je nepokretnost prodata, a koji prodajnu cijenu nisu uplatili u određenom roku.
+(6) Preostali iznos jemstva neće se vratiti ponuđačima koji su odustali od kupovine, već postaje imovina budžeta iz kojeg se vrši finansiranje suda.
+(7) Kada je sudu uplaćena ukupna cijena imovine, položeno jemstvo preostalih ponuđača vraća se u roku od tri (3) dana nakon uplate cijene sudu.
+(8) Ako je tražilac izvršenja kupac, a ne postoje druga lica čija se potraživanja namiruju iz prodajne cijene prije njega, nije obavezan položiti cijenu sudu do visine svog potraživanja.

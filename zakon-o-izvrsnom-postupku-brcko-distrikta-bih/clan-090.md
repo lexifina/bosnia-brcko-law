@@ -1,0 +1,3 @@
+Član 90
+Promjena lica upisanog u zemljišnim knjigama
+Ako se promijeni lice koje je u zemljišnim knjigama upisan kao vlasnik nepokretnosti nakon što je tražilac izvršenja na nepokretnosti, upisom u zemljišnu knjigu stekao založno pravo ili koje drugo pravo koje ga ovlašćuje da namiri određeno potraživanje njezinom prodajom, tražilac izvršenja ima pravo, na osnovu izvršne isprave protiv lica koje je bilo vlasnik nepokretnosti u vrijeme kad je stekao to pravo i izvatka iz zemljišne knjige, kojim se dokazuje prenos vlasništva s ranijeg vlasnika na novog vlasnika, zatražiti izvršenje neposredno protiv novog vlasnika radi naplate obezbijeđenog potraživanja.

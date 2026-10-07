@@ -1,0 +1,4 @@
+Član 28
+Izvršnost sudske odluke koja nije postala pravosnažna
+(1) Prvostepena sudska odluka, kojom se fizičkom licu, koje ne obavlja registrovanu djelatnost, nalaže isplata potraživanja čija glavnica ne prelazi iznos od 1.000,00 KM, odnosno kojom se fizičkom licu koje obavlja registrovanu djelatnost, ili pravnim licima u pravnoj stvari u vezi s tom djelatnošću nalaže isplata potraživanja čija glavnica ne prelazi iznos od 5.000,00 KM, postaje izvršna u roku od tri (3) dana računajući od dana dostavljanja te odluke licu kojem je naložena isplata. Žalba protiv takve odluke ne odgađa izvršenje.
+(2) Ako se u sudskoj odluci nekom od lica iz stava 1 ovog člana nalaže samo da nadoknadi troškove postupka u iznosu koji ne prelazi iznose navedene u stavu 1 ovog člana, žalba protiv takve odluke o nadoknadi troškova postupka ne odgađa izvršenje.

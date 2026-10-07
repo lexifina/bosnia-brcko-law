@@ -1,0 +1,5 @@
+Član 279
+Obezbjeđenje kao uslov za određivanje privremene mjere
+(1) Sud može na prijedlog predlagača obezbjeđenja odrediti privremenu mjeru i kad nije učinio vjerovatnim postojanje potraživanja i opasnost ako prethodno, u roku koji mu je sud odredio, da obezbjeđenje za štetu koja bi protivniku obezbjeđenja mogla nastati određivanjem i provođenjem privremene mjere. Ako predlagač obezbjeđenja ne da obezbjeđenje u određenom roku, sud će odbiti prijedlog za obezbjeđenje.
+(2) Sud može, na prijedlog protivnika obezbjeđenja, prema okolnostima slučaja, postupiti po odredbi stava 1 ovog člana i kad je predlagač obezbjeđenja učinio vjerovatnim postojanje potraživanja i opasnosti. Ako predlagač obezbjeđenja ne da obezbjeđenje u određenom roku, sud će obustaviti postupak i ukinuti sprovedene radnje. Okolnost da je protivnik obezbjeđenja zatražio davanje obezbjeđenja ne odgađa sprovođenje postupka obezbjeđenja dok se ne odluči o njegovom prijedlogu.
+(3) Obezbjeđenje se određuje do isteka roka do kojeg protivnik obezbjeđenja može u postupku obezbjeđenja zatražiti nadoknadu štete.

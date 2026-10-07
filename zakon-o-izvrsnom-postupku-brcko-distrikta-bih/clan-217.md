@@ -1,0 +1,10 @@
+Član 217
+Izvršenje radi predaje određenih stvari koje se nisu mogle
+naći kod izvršenika niti kod trećeg lica
+(1) Ako stvari nisu nađene niti kod izvršenika niti kod trećeg lica, sud će u istom postupku, na prijedlog tražioca izvršenja, procijeniti vrijednost tih stvari i rješenjem naložiti izvršeniku da tražiocu izvršenja u određenom roku isplati iznos te vrijednosti.
+(2) Tražilac izvršenja može prijedlog iz stava 1 ovog člana podnijeti u roku od tri (3) dana od dana obavijesti da stvari nisu nađene. Ako tražilac izvršenja ne podnese taj prijedlog u određenom roku, sud će obustaviti izvršenje.
+(3) Na osnovu rješenja iz stava 1 ovog člana tražilac izvršenja može i prije njegove pravosnažnosti predložiti u istom postupku izvršenje radi naplate dosuđenog iznosa. Taj se prijedlog mora podnijeti najkasnije u roku od osam (8) dana od pravosnažnosti rješenja iz stava 1 ovog člana.
+(4) Ako prijedlog iz stava 3 ovog člana ne bude podnesen u određenom roku, sud će obustaviti izvršenje, te ukinuti rješenje iz stava 1 ovog člana i druge provedene radnje.
+(5) Tražilac izvršenja može, zajedno s prijedlogom za izvršenje iz člana 216 stava 1 i stava 2 ovog zakona, spojiti i prijedlog za donošenje rješenja iz stava 1 ovog člana. U tom se slučaju izvršenje prema članu 216 ovog zakona i postupak iz ovog člana provode istovremeno. Sud može odrediti izvršenje u smislu odredbe stava 3 ovog člana i započeti s njezinim provođenjem, ali se radnje unovčenja zaplijenjenih dijelova imovine izvršenika ili prijenos sredstava s njegovog
+računa ne mogu provesti prije nego što se utvrdi da se izvršenje iz člana 216 stava 1 i stava 2 ovog zakona nije moglo provesti.
+(6) Ako se izvršenje iz člana 216 stava 1 i stava 2 ovog zakona provede, sud će, po službenoj dužnosti, obustaviti izvršenje, te ukinuti rješenje iz stava 1 ovog člana i druge provedene radnje u smislu odredbe stava 5 ovog člana. U tom slučaju tražilac izvršenja snosi u cijelosti troškove izazvane podnošenjem prijedloga iz stava 5 ovog člana.

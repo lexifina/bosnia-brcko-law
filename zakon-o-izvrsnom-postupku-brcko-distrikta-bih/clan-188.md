@@ -1,0 +1,10 @@
+Član 188
+Prinudno izvršenje
+(1) Izvršenje radi ostvarenja novčanog potraživanja prema izvršeniku može se sprovesti na svim sredstvima na njegovim računima kod banke, osim ako zakonom nije drugačije određeno.
+(2) Rješenjem o izvršenju na novčanim sredstvima koja se vode na transakcijskom računu izvršenika nalaže se banci da novčani iznos za koji je izvršenje određeno prenese s transakcijskog računa izvršenika na transakcijski račun tražioca izvršenja, a za potraživanja za koja nije propisana naplata preko računa kod banke, da isplati taj iznos tražiocu izvršenja u gotovom novcu.
+(3) Izvršenje na novčanom potraživanju, koje po štednom ulogu, tekućem ili žiroračunu, deviznom i drugim računima kod banke izuzev transakcijskog računa, pripada izvršeniku, određuje se tako što se rješenjem o izvršenju nalaže banci da novčani iznos za koji je određeno izvršenje isplati tražiocu izvršenja nakon izvršnosti rješenja o izvršenju. To rješenje ima dejstvo rješenja o izvršenju kojim su određeni zapljena novčanog potraživanja i prenos radi naplate.
+(4) U rješenju o izvršenju iz stava 2 i stava 3 ovog člana odredit će se broj računa izvršenika s kojeg treba obaviti isplatu, te broj računa tražioca izvršenja na koji isplatu treba obaviti ili drugi način obavljanja isplate.
+(5) Sud će rješenjem o izvršenju obavezati banku da dostavi izvještaj o svim promjenama na računu izvršenika ako sredstava na računu nema ili su ona nedovoljna za namirenje potraživanja određenog rješenjem o izvršenju. Izvještaj obuhvata promjene na računu za razdoblje od trideset
+(30) dana do donošenja rješenja o izvršenju i mora da sadrži svaku transakciju na računu, uključujući podizanje gotovine, uplate na račun i isplate sa računa, unutar bankarske i
+međubankarske prenose. Podaci koji se dostavljaju, a koji se odnose na međubankarske prenose moraju sadržavati, između ostalog, ime primaoca i broj računa u odredišnoj banci.
+(6) Ugovor o štednom ulogu i svakom drugom depozitu se raskida po sili zakona danom izvršnosti rješenja o izvršenju bez obzira da li je oročen ili ne. Po namirenju potraživanja primijenit će se ugovorne odredbe o raskidu ovih ugovora.

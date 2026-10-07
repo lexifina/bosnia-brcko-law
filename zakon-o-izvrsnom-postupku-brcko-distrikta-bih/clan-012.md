@@ -1,0 +1,15 @@
+Član 12
+Dostavljanje
+(1) Po pravilima o dostavljanju tužbe iz Zakona o parničnom postupku Brčko distrikta BiH, dostavljaju se: rješenje po prijedlogu za izvršenje, rješenje po prigovoru na rješenje o izvršenju i rješenje o izricanju novčane kazne, osim ako ovim zakonom nije drugačije određeno.
+(2) Kod izvršenja na osnovu izvršne isprave, ukoliko se stranka, kojoj pismeno treba dostaviti, ne nalazi na adresi naznačenoj u prijedlogu, niti na adresi, odnosno sjedištu, prijavljenoj kod nadležnog organa, dostava odluka navedenih u stavu 1 ovog člana vrši se posredstvom oglasne ploče Osnovnog suda.
+(3) Pravnom licu koji je upisan u sudski ili drugi upisnik i odgovornom fizičkom licu u tom pravnom licu, dostava se obavlja na adresu navedenu u prijedlogu. Ako dostava na adresu navedenu u prijedlogu ne uspije, dostava će se obaviti na adresu sjedišta upisanog u upisniku. Ako se pravno lice ne nalazi ni na jednoj od tih adresa, dostava pismena vrši se posredstvom oglasne ploče Osnovnog suda.
+(4) Odredbe stava 3 ovog člana primjenjuju se i na odgovorna lica u pravnom licu kada se u vezi sa njihovim svojstvom odgovornog lica, izvršenje odobrava i prema njima.
+(5) Odredbe stava 3 ovog člana primjenjuju se i na fizička lica koja obavljaju određenu upisanu djelatnost (samostalni preduzetnici, advokati, notari itd.) kada se tim licima dostava obavlja u vezi s tom djelatnošću.
+(6) Ako se određenim licima, na osnovu njihovog zahtjeva i odobrenja predsjednika Osnovnog suda, dostava obavlja u sudu, pismena koja im upućuje sud polažu se za njih u potrebne pretince i za to određena područja u Osnovnom sudu. Dostave obavlja službeno lice Osnovnog suda.
+Pismeno, koje se dostavlja posredstvom pretinca, ne smije biti dostupno licima kojima se dostavlja prije nego što potpišu dostavnicu. Pismena se dostavljaju u zatvorenim omotnicama u kojima se dostavljaju preko pošte. Kod preuzimanja pismena moraju se preuzeti sva pismena priložena u pretinac.
+(7) Na svakom pismenu koje se dostavlja na način predviđen u stavu 6 ovog člana, naznačit će se dan kada je uložen u pretinac lica kojem se dostava tako obavlja. Ako pismeno ne bude podignuto u roku od osam (8) dana, dostava će se obaviti poštom ili na drugi način propisan zakonom.
+(8) Predsjednik Osnovnog suda će povući odobrenje iz stava 6 ovog člana, ako utvrdi da lice, kojem se dostava izvršava posredstvom pretinca, neredovno preuzima pismena ili pokušava zloupotrijebiti takav način dostave.
+(9) Kada je ovim zakonom predviđeno da se dostava ili neka druga radnja obavlja posredstvom notara, dostava, odnosno druga radnja, obavlja se tako da notar, na zahtjev ovlaštenog lica ili organa posredstvom pošte ili neposredno, dostavlja pismeno ili obavi drugu radnju i o tome sastavlja zapisnik i njegov ovjereni prepis dostavlja Osnovnom sudu.
+(10) Sudski izvršilac, odnosno izvršilac po ugovoru, pismena dostavlja strankama i ovlaštenim licima posredstvom pošte ili neposredno.
+(11) Troškovi dostavljanja iz stava 10 ovog člana ulaze u troškove izvršenja.
+(12) Sudski izvršilac, odnosno izvršilac po ugovoru, prilikom dostavljanja iz ovog zakona, ima prava i dužnosti sudskog dostavljača.

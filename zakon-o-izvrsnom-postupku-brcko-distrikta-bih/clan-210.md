@@ -1,0 +1,9 @@
+Član 210
+Procjena i prodaja dionica, te namirenje tražioca izvršenja
+(1) Dionice koje se prema zakonu i propisima Komisije za vrijednosne papire obavezno uvrštavaju u promet na berzi i drugim uređenim javnim tržištima, prodaju se u skladu sa Zakonom o tržištu vrijednosnih papira, uz posredovanje brokera kojeg sud odabere nakon izvršnosti rješenja o izvršenju. Namirenje lica u postupku izvršenja obavlja se uz odgovarajuću primjenu odredbi glave XI ovog zakona o izvršenju na pokretnim stvarima.
+(2) Dionice koje se prema zakonu i propisima Komisije za vrijednosne papire obavezno ne uvrštavaju u promet na berzi i drugim uređenim javnim tržištima, prodaju se na javnom nadmetanju
+ili neposrednom pogodbom. Neposrednom pogodbom dionice prodaje sudski izvršilac ili lice ovlašteno za prodaju dionica kojem je sud povjerio prodaju. Sudski izvršilac ili lice ovlašteno za prodaju dionica sklapaju ugovor o prodaji dionica u ime izvršenika na osnovu zaključka suda koji ih na to ovlašćuje.
+(3) Ako se dionice prodaju na javnom nadmetanju ili neposrednom pogodbom, procjena, utvrđivanje prodajne cijene i prodaja dionica, te namirenje tražioca izvršenja obavljaju se uz odgovarajuću primjenu odredbi glave XI ovog zakona o izvršenju nad pokretnim stvarima.
+(4) Ako se dionice iz stava 1 ovog člana ne prodaju u roku od dva 2 mjeseca od dana prve ponude za prodaju na berzi ili u slučaju neuspjele prodaje iz stava 2, tražilac izvršenja može zahtijevati izvršenje putem prenosa dionice u vlasništvo umjesto isplate. Rješenje o prenosu dionice se dostavlja Registru vrijednosnih papira.
+(5) Sud će o pravu iz stava 4 ovog člana obavijesti tražioca izvršenja kada se ispune uslovi iz stava 4 ovog člana i pozvati ga da u određenom roku podnese prijavu za prenos dionica.
+(6) Ako tražilac izvršenja ne podnese prijavu iz stava 5 ovog člana, postupak će se obustaviti.

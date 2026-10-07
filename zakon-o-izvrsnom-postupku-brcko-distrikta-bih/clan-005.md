@@ -1,0 +1,21 @@
+Član 5
+Mjesna nadležnost
+(1) Osnovni sud je mjesno nadležan:
+1) za odlučivanje o prijedlogu za izvršenje na nepokretnim i pokretnim stvarima i za sprovođenje tog izvršenja, ako se na području Distrikta te stvari nalaze,
+2) za odlučivanje o prijedlogu za izvršenje na novčanom potraživanju i za sprovođenje tog izvršenja, ako se na području Distrikta nalazi prebivalište, odnosno boravište izvršenika, a ako izvršenik nema prebivalište ili boravište na području Distrikta onda ako se na području Distrikta nalazi prebivalište ili boravište izvršenikovog dužnika. Ove odredbe na odgovarajući se način primjenjuju i na sjedište pravnog lica,
+3) za odlučivanje o izvršnom prijedlogu na izvršenikovom potraživanju da mu se preda određena pokretna ili nepokretna stvar ili da mu se isporuči određena količina pokretnih stvari i za sprovođenje tog izvršenja, ako se na području Distrikta te stvari nalaze,
+4) za odlučivanje o prijedlogu za izvršenje na dionici za koju nije izdata isprava o dionici te osnivačkom ili drugom udjelu u pravnom licu i za sprovođenje tog izvršenja, ako se na području Distrikta nalazi sjedište dioničkog društva, odnosno drugog pravnog lica,
+5) za odlučivanje o prijedlogu za izvršenje na drugim imovinskim pravima (patentu, tehničkom unapređenju, plodouživanju ili nekom sličnom izvršenikovom pravu) i za sprovođenje tog izvršenja, ako se na području Distrikta nalazi prebivalište ili boravište izvršenika,
+6) za odlučivanje o prijedlogu za izvršenje i za sprovođenje izvršenja na novčanim sredstvima koja se vode na računu izvršenika kod pravnog lica koje obavlja poslove platnog prometa, ako se na području Distrikta nalazi sjedište pravnog lica ili njegova jedinica kod koje se vodi račun izvršenika,
+7) za odlučivanje o prijedlogu za izvršenje radi predaje jedne ili više određenih stvari ili radi isporuke određene količine zamjenljivih stvari te za sprovođenje izvršenja, ako se na području Distrikta nalaze stvari,
+8) za odlučivanje o prijedlogu za izvršenje radi ispražnjenja i predaje nepokretne stvari i za sprovođenje tog izvršenja, ako se na području Distrikta nepokretnost nalazi,
+9) za izvršenje radi ostvarivanja potraživanja na radnju, trpljenje ili nečinjenje ako na području Distrikta dužnik treba ispuniti obavezu po izvršnoj ispravi,
+10) za odlučivanje o prijedlogu za izvršenje odluke suda kojom se naređuje predaja djeteta roditelju ili drugom licu, odnosno organizaciji kojoj je dijete povjereno na čuvanje i vaspitanje, ako se na području Distrikta zatekne dijete,
+11) za odlučivanje o prijedlogu za izvršenje radi vraćanja zaposlenog na rad, odnosno službu i za sprovodenje izvršenja, ako se na području Distrikta nalazi sjedište poslodavca,
+12) za odlučivanje o prijedlogu za izvršenje radi zasnivanja prava na nekretnini uknjižbom u zemljišnu knjigu, a i radi prijenosa, ograničenja ili ukidanja prava upisanog u zemljišnu knjigu, ako se na području Distrikta vodi zemljišna knjiga u koju treba obaviti upis,
+13) za odlučivanje o prijedlogu za izvršenje diobom zajedničke stvari i za sprovodenje tog izvršenja, ako se na području Distrikta stvar nalazi,
+14) za odlučivanje o prijedlogu za obezbjeđenje novčanog potraživanja prinudnim zasnivanjem založnog prava na nepokretnosti, ako se na području Distrikta vodi zemljišna knjiga u kojoj treba provesti upis,
+15) za odlučivanje o prijedlogu za obezbjeđenje novčanog potraživanja predlagača obezbjeđenja zasnivanjem založnog prava na osnovu sporazuma stranaka na stvarima i pravima protivnika obezbjeđenja te za sprovođenje obezbjeđenja, određuje se odgovarajućom primjenom odredaba tačaka od 1 do 6 ovog člana o mjesnoj nadležnosti suda u izvršnim postupcima radi naplate novčanog potraživanja na pojedinim vrstama predmeta izvršenja,
+16) za odlučivanje o prijedlogu za prethodno izvršenje i za sprovođenje tog izvršenja, ako bi bio nadležan za izvršenje na osnovu izvršne isprave,
+17) za odlučivanje o prijedlogu za obezbjeđenje prethodnom mjerom i za sprovođenje takve mjere, ako bi bio nadležan za izvršenje na osnovu izvršne isprave na osnovu koje je obezbjeđenje predloženo,
+18) za odlučivanje o prijedlogu za obezbjeđenje privremenom mjerom, ako bi bio nadležan za odlučivanje o prijedlogu za izvršenje, a za sprovođenje privremene mjere, ako bi bio mjesno nadležan za sprovođenje izvršenja.

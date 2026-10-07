@@ -1,0 +1,4 @@
+Član 270
+Prijedlog za određivanje privremene mjere
+(1) Privremena mjera može se predložiti prije pokretanja i tokom sudskog ili upravnog postupka te nakon završetka tih postupaka, sve dok izvršenje ne bude sprovedeno.
+(2) U prijedlogu za određivanje privremene mjere predlagač obezbjeđenja mora istaći zahtjev u kojem će tačno označiti potraživanje čije obezbjeđenje traži, odrediti kakvu mjeru traži i vrijeme njenog trajanja te, kada je to potrebno, sredstva obezbjeđenja kojima će se privremena mjera prinudno ostvariti te predmet obezbjeđenja, uz odgovarajuću primjenu pravila ovog zakona o sredstvima i predmetu izvršenja. U prijedlogu se moraju navesti činjenice na kojima se zasniva zahtjev za određivanje privremene mjere te predložiti dokazi kojima se ti navodi potkrepljuju. Predlagač obezbjeđenja dužan je te dokaze, po mogućnosti, priložiti uz prijedlog.

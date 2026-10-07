@@ -1,0 +1,9 @@
+Član 65
+Upućivanje na parnicu
+(1) Upućivanje na parnicu, propisano članom 64 stavom 1 ovog zakona, ne sprečava provedbu izvršenja, niti ostvarenje potraživanja tražioca izvršenja.
+(2) U parnici iz člana 64 stava 1 ovog zakona, podnosilac prigovora iz člana 63 ovog zakona može tražiti odlaganje izvršenja, pri čemu parnični sud, na odgovarajući način, primjenjuje odredbe parničnog postupka o određivanju sudskih mjera osiguranja.
+(3) Ukoliko donese rješenje o odlaganju izvršenja, parnični sud će odrediti i vrijeme na koje se ono odlaže, te ga, po službenoj dužnosti, dostaviti izvršnom sudu na provođenje.
+(4) Izvršni sud će, nakon prijema rješenja iz stava 3 ovog člana, zaključkom odgoditi daljnje izvršenje i nastavit će ga, na prijedlog tražioca izvršenja, nakon pravosnažnosti odluke kojom parnični sud stavlja van snage rješenje o odgodi izvršenja ili odbacuje tužbu podnosioca prigovora, odnosno odbija njegov tužbeni zahtjev. Izvršne radnje, preduzete do nastavka izvršnog postupka, ostaju na snazi.
+(5) Ako prvostepeni parnični sud usvoji tužbeni zahtjev trećeg lica da se izvršenje proglasi nedopuštenim i ukine rješenje o izvršenju, naložit će i obustavu izvršnog postupka. Nakon pravosnažnosti ove odluke parničnog suda, izvršni sud će, rješenjem, utvrditi da je izvršni postupak obustavljen i ukinuti sve provedene radnje.
+(6) Odlukom o prigovoru trećeg lica, koju izvršni sud donese na osnovu člana 64 stava 2 ovog zakona, ne dira se u prava tog lica da i nakon te odluke ostvaruje svoja prava protiv tražioca izvršenja, odnosno izvršenika u posebnoj parnici.
+(7) Treće lice može se koristiti pravima predviđenim stavom 2 ovog člana samo ako je parnica radi ostvarenja njegovih prava protiv tražioca izvršenja, odnosno izvršenika, pokrenuta na osnovu zaključka u upućivanju na parnicu iz člana 64 stava 1 ovog zakona.

@@ -1,0 +1,6 @@
+Član 266
+Prodaja zaplijenjenih pokretnih stvari i prenos potraživanja protivnika obezbjeđenja
+(1) Sud će odrediti prodaju zaplijenjenih pokretnih stvari koje su podložne brzom kvarenju ili ako postoji opasnost od znatnog pada cijene tih stvari.
+(2) Prodaja popisanih stvari obavit će se po odredbama ovog zakona o izvršenju na pokretnim stvarima.
+(3) Ako je prethodna mjera određena pljenidbom potraživanja, sud može, na prijedlog predlagača obezbjeđenja ili protivnika obezbjeđenja, odrediti da se na predlagača obezbjeđenja prenese zaplijenjeno potraživanje radi naplate ili drukčijeg ostvarenja, u slučaju u kojem postoji opasnost da se to potraživanje, zbog zakašnjenja u njegovu ostvarenju, neće moći naplatiti ili drukčije ostvariti ili da će se izgubiti pravo na regres prema trećim licima.
+(4) Iznos koji se dobije prodajom pokretnih stvari ili naplatom potraživanja čuvat će se u sudskom depozitu dok se ne obustavi prethodna mjera ili dok predlagač obezbjeđenja ne predloži izvršenje, a najduže trideset (30) dana pošto potraživanje postane izvršno. Druge koristi dobivene ostvarenjem potraživanja položit će se u sudski depozit ako je to moguće, ili će se na koji drugi način odrediti njihovo čuvanje do obustave prethodne mjere, odnosno dok predlagač obezbjeđenja ne predloži izvršenje, ali najduže trideset dana pošto potraživanje postane izvršno.

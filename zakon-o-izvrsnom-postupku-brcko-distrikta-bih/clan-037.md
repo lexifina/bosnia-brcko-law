@@ -1,0 +1,4 @@
+Član 37
+Prelaz potraživanja ili obaveze
+(1) Izvršenje se određuje i na prijedlog i u korist lica koje u izvršnoj ispravi nije označeno kao tražilac izvršenja ako ono javnom ili ovjerenom privatnom ispravom dokaže da je potraživanje na njega preneseno ili da je na njega na drugi način prešlo. Ako se prenos ne može dokazati na taj način, prijenos potraživanja dokazuje se pravosnažnom odlukom donesenom u parničnom postupku.
+(2) Izvršenje se određuje i protiv trećeg lica koje u izvršnoj ispravi nije označeno kao izvršenik ako tražilac izvršenja javnom, ili, po zakonu ovjerenom privatnom ispravom, dokaže da je to lice na zakonit način preuzelo dug iz izvršne isprave, ili je taj dug prema zakonu obavezno da izmiri. Ako se obaveza trećeg lica na ispunjenje duga ospori, stranke prije izvršenja to pitanje moraju razriješiti u parničnom postupku.

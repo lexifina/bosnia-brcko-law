@@ -1,0 +1,6 @@
+Član 87
+Dokaz o vlasništvu izvršenika
+(1) Uz prijedlog za izvršenje tražilac izvršenja je dužan podnijeti izvod iz zemljišne knjige, u originalu ili ovjerenoj kopiji, i ne stariji od šest mjeseci, kao dokaz o tome da je nepokretnost upisana kao vlasništvo izvršenika.
+(2) Ako je pravo na nepokretnosti iz stava 1 ovog člana upisano u zemljišnoj knjizi na drugo lice, a ne na izvršenika prijedlogu se može udovoljiti samo ako su ispunjeni uslovi za promjenu zemljišnoknjižnog stanja, odnosno tražilac izvršenja podnese ispravu koja je podobna za upis izvršenikovih prava.
+(3) Nakon što je rješenje o izvršenju doneseno postupak izvršenja na nepokretnost iz stava 2 ovog člana nastavit će se nakon što se nepokretnost koja je predmet izvršenja upiše u zemljišne knjige u skladu s odredbama Zakona o registru zemljišta.
+(4) Tražilac izvršenja obavezan je zahtijevati upis u zemljišne knjige u skladu sa stavom 3 ovog člana u roku od petnaest (15) dana od dana donošenja rješenja o izvršenju te o tome, u roku koji mu bude određen, obavijestiti sud. Ako tražilac izvršenja ne podnese zahtjev za upis u zemljišne knjige u predviđenom roku ili u datom roku o tome ne obavijesti sud, postupak izvršenja će se obustaviti.

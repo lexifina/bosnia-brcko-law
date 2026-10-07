@@ -1,0 +1,7 @@
+Član 81
+Zaštita izvršenika fizičkog lica
+(1) Izvršenje radi ostvarenja novčanog potraživanja ne može se provesti na stvarima i pravima fizičkog lica koje ne obavlja registrovanu djelatnost ili slobodno zanimanje, koja su nužna za zadovoljenje osnovnih životnih potreba izvršenika i lica koje je po zakonu dužan izdržavati.
+(2) Izvršenje radi ostvarenja novčanog potraživanja protiv fizičkog lica koje obavlja registrovanu djelatnost ili slobodno zanimanje može se provesti na njegovoj cjelokupnoj imovini, osim na onim stvarima i pravima na kojima se protiv njega ne bi mogla provesti kad ne bi obavljalo registrovanu djelatnost te na onim stvarima i pravima koja su nužna za obavljanje njegove registrovane djelatnosti ako mu je ona glavni izvor sredstva za život.
+(3) U izvršenju radi ostvarenja novčanog potraživanja protiv fizičkog lica koje obavlja registrovanu djelatnost na odgovarajući se način primjenjuje odredbe člana 82 ovog zakona.
+(4) Odredbe stava 1 ovog člana neće se primjenjivati u slučajevima u kojima su, ovim zakonom, za izvršenje na određenim stvarima ili pravima utvrđena posebna pravila o izuzimanju izvršenja ili o ograničenju izvršenja.
+(5) Nekretnine za stanovanje ili obavljanje poslovne djelatnosti ne smatraju se stvarima koje su nužne za zadovoljavanje osnovnih životnih potreba izvršenika i lica koja je, po zakonu, dužan izdržavati ili za obavljanje samostalne djelatnosti koja je njegov glavni izvor sredstava za život, osim ako zakonom nije drukčije određeno.

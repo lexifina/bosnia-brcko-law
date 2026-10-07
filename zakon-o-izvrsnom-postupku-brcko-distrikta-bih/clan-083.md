@@ -1,0 +1,4 @@
+Član 83
+Zaštita tražioca izvršenja
+(1) Ako je tražilac izvršenja na osnovu pravnog posla s izvršenikom stekao na nekoj stvari ili pravu založno ili slično pravo radi obezbjeđenja potraživanja, čije prinudno ostvarenje na tom predmetu traži, izvršenik se ne može protiviti takvom izvršenju pozivajući se na razloge iz člana 81 stava 1 i člana 82 stava 1 ovog zakona, te na druge odredbe ovog zakona o izuzimanju od izvršenja ili o ograničenju izvršenja, osim na odredbe člana 8 ovog zakona.
+(2) Izvršenik se ne može protiviti izvršenju na nekoj stvari ili nekom pravu pozivajući se na odredbe člana 81 stava 1 i člana 82 stava 1 ovog zakona, te na druge odredbe ovog zakona o izuzimanju od izvršenja i o ograničenju izvršenja, osim na odredbe člana 8 ovog zakona, ako je tu stvar ili to pravo stekao od tražioca izvršenja koji pokretanjem postupka traži ostvarenje svog potraživanja nastalog u vezi s tim sticanjem.

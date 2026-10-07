@@ -1,0 +1,10 @@
+Član 48
+Dostavljanje rješenja o izvršenju
+(1) Rješenje o izvršenju dostavlja se tražiocu izvršenja i izvršeniku. O donošenju rješenja o izvršenju sud će istovremeno obavijestiti i poznatog založnog povjerioca.
+(2) Rješenje kojim se odbacuje ili odbija prijedlog za izvršenje doneseno prije nego što je izvršeniku bilo omogućeno da se o njemu izjasni, dostavlja se samo tražiocu izvršenja, a sud nije obavezan dostaviti ga izvršeniku.
+(3) Ukoliko za namirenje svog potraživanja tražilac izvršenja predloži izvršenje na imovini u kojoj izvršenik ima pravo suvlasništva ili zajedničkog vlasništva, sud će o donošenju rješenja o izvršenju obavijestiti sve suvlasnike odnosno nosioce prava zajedničkog vlasništva.
+(4) Rješenje o izvršenju na novčanom potraživanju dostavlja se i izvršenikovom dužniku, a rješenje o izvršenju na sredstvima na računu izvršenika dostavlja se i banci, odmah po donošenju radi pljenidbe sredstava izvršenika, a namirenje se odlaže do donošenja odluke prvostepenog suda po prigovoru, osim kada je izvršnom ispravom određena obaveza izdržavanja ili kada se izvršenje sprovodi naplatom sa transkcijskog računa pravnog lica u korist imaoca istog takvog računa kao tražioca izvršenja u skladu s članom 15 stavom 5 ovog zakona.
+(5) Rješenje o izvršenju, doneseno na osnovu vjerodostojne isprave, dostavlja se banci tek pošto postane pravosnažno, osim ako je izvršenje određeno na osnovu mjenice i čeka s protestom i povratnim računom ako su potrebni za zasnivanje zahtjeva.
+(6) Rješenje o izvršenju doneseno na osnovu mjenice i čeka dostavlja se odmah po donošenju radi pljenidbe sredstava na računu izvršenika.
+(7) Rješenje o izvršenju na pokretnim stvarima dostavlja se izvršeniku prilikom preduzimanja prve izvršne radnje. Ukoliko se pokretna stvar ne nalazi u posjedu izvršenika, rješenje o izvršenju se dostavlja i licu kod kojeg se stvar nalazi.
+(8) Ako Osnovni sud nije nadležan za sprovođenje izvršenja, svoje rješenje o dozvoli izvršenja dostavit će nadležnom sudu radi sprovođenja izvršenja.
