@@ -1,0 +1,5 @@
+Na osnovu člana 8 Zakona o Službenom glasniku Brčko distrikta Bosne i Hercegovine („Službeni glasnik Brčko distrikta BiH“, brojevi: 1/00 i 17/04) i Odluke o davanju ovlaštenja Zakonodavnoj komisiji Skupštine Brčko distrikta BiH, broj: 01-02-218/17 od 13. 9. 2017. godine („Službeni glasnik Brčko distrikta BiH“, broj 35/17), Zakonodavna komisija Skupštine Brčko distrikta BiH na 45. sjednici održanoj 8. 9. 2026. godine utvrdila je prečišćeni tekst Zakona o Pravosudnoj komisiji Brčko distrikta Bosne i Hercegovine („Službeni glasnik Brčko distrikta BiH“, broj 19/07) sa izmjenama Zakona o Pravosudnoj komisiji Brčko distrikta Bosne i Hercegovine („Službeni glasnik Brčko distrikta BiH“, brojevi: 2/08, 4/21 i 6/21) i ispravkom Zakona o Pravosudnoj komisiji Brčko distrikta Bosne i Hercegovine („Službeni glasnik Brčko distrikta BiH“, broj 20/07).
+Broj: 01.3-02-1058/26
+Brčko, 8. 9. 2026. godine
+PREDSJEDAVAJUĆI ZAKONODAVNE KOMISIJE Ljubiša Lukić
+ZAKON O PRAVOSUDNOJ KOMISIJI BRČKO DISTRIKTA BOSNE I HERCEGOVINE (prečišćeni tekst)
