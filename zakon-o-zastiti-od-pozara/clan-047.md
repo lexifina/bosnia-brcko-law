@@ -1,0 +1,5 @@
+Član 47
+(Stručni ispit)
+(1) Stručni ispit za profesionalnog vatrogasca i za rukovodioca akcije gašenja požara u profesionalnom vatrogastvu polaže se pred ispitnom komisijom koju imenuje Vlada Brčko distrikta BiH, na zahtjev nadležnog odjeljenja za poslove zaštite od požara.
+(2) Troškove polaganja stručnog ispita snosi vatrogasna jedinica koja je uputila kandidata na polaganje. (3 Visinu troškova za polaganje stručnog ispita i visinu naknade članova ispitne komisije određuje Vlada Brčko distrikta BiH na prijedlog nadležnog odjeljenja za poslove zaštite od požara.
+(4) Način pripremanja, uslovi polaganja stručnog ispita, nastavni plan i program stručnog osposobljavanja za polaganje ispita za profesionalnog vatrogasca i rukovodioca akcije gašenja požara u profesionalnom vatrogastvu i ostalo vezano za obrazovanje kadrova u profesionalnom vatrogastvu definisat će se pravilnikom o stručnom osposobljavanju i polaganju stručnog ispita za profesionalnog vatrogasca i rukovodioca akcije gašenja požara u profesionalnom i industrijskom vatrogastvu, a koji donosi šef odjeljenja nadležnog za poslove zaštite od požara.

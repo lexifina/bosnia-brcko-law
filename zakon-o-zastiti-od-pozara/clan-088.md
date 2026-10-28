@@ -1,0 +1,4 @@
+Član 88
+(Ostalo finansiranje)
+(1) Sredstva za rad teritorijalnih vatrogasnih društava i teritorijalnih dobrovoljnih vatrogasnih jedinica koje su formirane u vatrogasnim društvima obezbjeđuju se iz dopunskih sredstava Budžeta Brčko distrikta BiH, odnosno članarina i poklona, namjenskih sredstava koja se daju na korištenje kao oprema i inventar za ostvarivanje zadataka ovih jedinica u funkcionisanju civilne zaštite u skladu sa zakonom kojim se propisuje zaštita i spašavanje ljudi i materijalnih dobara od prirodnih i drugih nesreća, i drugih izvora.
+(2) Sredstva za rad dobrovoljnih vatrogasnih društava i zajedničkih dobrovoljnih industrijskih vatrogasnih jedinica osnovanih po preduzetnom principu obezbjeđuju se iz sredstava preduzeća koja su ih osnovala, a mogu se obezbjeđivati i dodatna sredstva uz shodnu primjenu stava 1 ovog člana.

@@ -1,0 +1,6 @@
+Član 76
+(Obaveze građana i pravnih lica)
+(1) U slučaju izbijanja požara širih razmjera ili kada prijeti opasnost od naglog širenja požara ili postoji opasnost da požar ugrozi živote ljudi ili materijalna dobra u većem obimu, a raspoložive vatrogasne jedinice ne mogu lokalizovati i likvidirati požar, gradonačelnik Brčko distrikta BiH može narediti svim sposobnim građanima na području Brčko distrikta BiH starijim od 18 godina da učestvuju u gašenju požara i spašavanju ljudi i materijalnih dobara ugroženih požarom i da za potrebe gašenja i spašavanja stave na raspolaganja alat, prijevozna, tehnička i druga sredstva.
+(2) Gašenjem požara i spašavanjem ljudi i materijalnih dobara u slučaju iz prethodnog stava rukovodi gradonačelnik, koji na osnovu lične procjene može formirati i štab koji će rukovoditi akcijom gašenja i spašavanja.
+(3) Gradonačelnik pod uslovima iz stava 1 ovog člana može narediti preduzećima i drugim pravnim licima preduzetnicima, da za potrebe gašenja stave na raspolaganje potreban broj ljudi, alat, prijevozna, tehnička i druga sredstva potrebna za gašenje požara i spašavanje ljudi i materijalnih dobara.
+(4) Sva lica koja učestvuju u gašenju požara u slučaju povreda i nezgoda imaju pravo na zdravstveno osiguranje isto kao i članovi profesionalne i industrijske vatrogasne jedinice ako to pravo ne mogu ostvariti po drugom osnovu.

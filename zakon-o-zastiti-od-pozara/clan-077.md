@@ -1,0 +1,2 @@
+Član 77
+(Zdravstveno osiguranje) Članovi vatrogasnih društava i pripadnici dobrovoljnih vatrogasnih jedinica, za vrijeme stručnog osposobljavanja i usavršavanja kao i za vrijeme učestvovanja u gašenju požara i spašavanju ljudi i materijalnih dobara ugroženih požarom i elementarnim nepogodama i u drugom angažovanju u okviru društva i jedinice u slučaju povreda i nezgoda imaju pravo na zdravstveno osiguranje kao i članovi profesionalnih i industrijskih vatrogasnih jedinica ako to pravo ne mogu ostvariti po drugom osnovu.

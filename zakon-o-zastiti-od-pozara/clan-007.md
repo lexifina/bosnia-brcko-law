@@ -1,0 +1,4 @@
+Član 7
+(Planovi zaštite od požara)
+(1) U planovima zaštite od požara utvrđuju se naročito: procjena ugroženosti od požara, organizacija zaštite od požara, način upotrebe vatrogasnih jedinica, sistem obavještavanja, postupak u slučaju požara, tehnička oprema i sredstva za gašenje požara i spašavanje ljudi i materijalnih dobara, načini snabdijevanja vodom za gašenje požara, putevi, prilazi i prolazi, sadejstvo s drugim vatrogasnim jedinicama, kao i druge mjere potrebne za uspješno funkcionisanje i unapređivanje zaštite od požara i sprovođenja nadzora nad izvršavanjem mjera zaštite od požara.
+(2) Metodologija za izradu plana zaštite od požara u skladu sa stavom 1 ovog člana utvrđuje se pravilnikom koji donosi šef odjeljenja nadležnog za poslove zaštite od požara uz prethodno dobijeno mišljenje inspektora za zaštitu od požara u Brčko distriktu BiH.

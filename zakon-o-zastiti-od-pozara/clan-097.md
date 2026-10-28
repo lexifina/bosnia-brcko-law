@@ -1,0 +1,2 @@
+Član 97
+(Obaveza donošenja pravilnika i drugih podzakonskih propisa) Šef odjeljenja nadležnog za poslove zaštite od požara će u roku od 12 mjeseci donijeti propise o programu i načinu pripremanja i polaganja stručnog ispita za profesionalnog i industrijskog vatrogasca i rukovodioca akcije gašenja požara u profesionalnom i industrijskom vatrogastvu, kao i propise o uniformama i funkcionalnim oznakama u profesionalnom vatrogastvu i pravila službe u vatrogasnim jedinicama.

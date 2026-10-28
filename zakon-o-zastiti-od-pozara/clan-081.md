@@ -1,0 +1,7 @@
+Član 81
+(Ovlaštenja vatrogasne jedinice)
+(1) Gradonačelnik Brčko distrikta BiH može ovlastiti profesionalnu vatrogasnu jedinicu Brčko da vrši pojedine stručne poslove nadzora koji se odnose na blagovremenost i smanjenje efikasnosti vatrogasne intervencije, funkcionalnost i efikasnost vodozahvata, hidranata, vatrogasnih aparata za početno gašenje požara, odlaganja zapaljivih tečnosti i gasova i drugih zapaljivih materijala u podrumima, tavanima i drugim mjestima gdje predstavljaju opasnost, prohodnost požarnih puteva i prilaza električnim razvodnim tablama, hidrantima, aparatima, blokadnim ventilima gasnih instalacija i instalacija sa zapaljivim tečnostima, zabrani korištenja otvorenog plamena i pušenja na požarno ugroženim prostorima i obuke zaposlenih radnika iz oblasti zaštite od požara.
+(2) Poslove iz prethodnog stava mogu vršiti samo pripadnici vatrogasne jedinice koji imaju školsku spremu najmanje VII1 stepena složenosti koeficijent obrazovanja minimalno 180 ECTS bodova i položen ispit za rukovodioca akcije gašenja požara.
+(3) O izvršenoj kontroli sačinjava se zapisnik s prijedlogom mjera za otklanjanje uzroka koji mogu dovesti do nastajanja i širenja požara, koji se dostavlja vlasniku odnosno korisniku objekta.
+(4) Ako vlasnik, odnosno korisnik objekta ne izvrši predložene mjere iz dostavljenog zapisnika, profesionalna vatrogasna jedinica iz stava 1 ovog člana o tome odmah obavještava inspektora zaštite od požara.
+(5) Nadzor nad vršenjem poslova iz stava 1 ovog člana vrši inspektor zaštite od požara.
