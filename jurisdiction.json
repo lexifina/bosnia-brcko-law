@@ -1,0 +1,11 @@
+{
+  "path": "ba-brc",
+  "code": "BA-BRC",
+  "name": "Brčko District",
+  "level": "district",
+  "parent": "ba",
+  "repo": "https://github.com/lexifina/bosnia-brcko-law",
+  "build": "built: the Statute and the current text of laws in the Assembly's register, from the Assembly of Brčko District",
+  "language": "bs",
+  "sources": 1
+}
