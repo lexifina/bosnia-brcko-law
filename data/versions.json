@@ -2,16 +2,122 @@
  "country": "BA-BRC",
  "acts": [
   {
-   "slug": "statut",
-   "short": "Statut BD",
-   "title": "Statut Brčko distrikta Bosne i Hercegovine",
-   "url": "https://skupstinabd.ba/images/dokumenti/ba/statut-brcko-distrikta.pdf",
+   "slug": "zakon-2002-sg012-ca2bff",
+   "path": "zakon/2002/sg012-ca2bff",
+   "short": "Zakon o izmjenama i dopunama Zakona o sudskim taksama Brčko distrikta",
+   "title": "Zakon o izmjenama i dopunama Zakona o sudskim taksama Brčko distrikta",
+   "url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20sudskim%20taksama%20Brc--ko%20Distrikta%20BiH/000%2012-02%20Zakon%20o%20izmjenama%20i%20dopunama%20Zakona%20o%20sudskim%20taksama.pdf",
    "versions": [
     {
-     "from": "2010-02-05",
-     "units": 82,
-     "source_url": "https://skupstinabd.ba/images/dokumenti/ba/statut-brcko-distrikta.pdf",
-     "sha256": "93412b9417caa1015c634907811470f91258a5fa5bbee1afefca2984856dec97"
+     "from": "2002-09-06",
+     "units": 3,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20sudskim%20taksama%20Brc--ko%20Distrikta%20BiH/000%2012-02%20Zakon%20o%20izmjenama%20i%20dopunama%20Zakona%20o%20sudskim%20taksama.pdf",
+     "sha256": "eaa70f06fc20ddd1d0c03e6d8559a8c9e82279fc6a7a7e8e4d7931c98e8e388c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sg001-587fe4",
+   "path": "zakon/2005/sg001-587fe4",
+   "short": "Zakon o izmjenama i dopunama Zakona o zaštiti prirode",
+   "title": "Zakon o izmjenama i dopunama Zakona o zaštiti prirode",
+   "url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20zas--titi%20prirode/02B01-05%20Zakon%20o%20izmjenama%20i%20dopunama%20Zakona%20o%20zas--titi%20prirode.pdf",
+   "versions": [
+    {
+     "from": "2004-12-30",
+     "units": 3,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20zas--titi%20prirode/02B01-05%20Zakon%20o%20izmjenama%20i%20dopunama%20Zakona%20o%20zas--titi%20prirode.pdf",
+     "sha256": "c5fb6bc5f6252e5e5a76f283789efcddcbc0514b605e132845e7e4fcc2ea3af7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sg001-9857d3",
+   "path": "zakon/2005/sg001-9857d3",
+   "short": "Zakon o izmjenama i dopunama Zakona o zaštiti vazduha",
+   "title": "Zakon o izmjenama i dopunama Zakona o zaštiti vazduha",
+   "url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20zas--titi%20vazduha/000%2001-05%20Zakon%20o%20izmjenama%20i%20dopunama%20Zakona%20o%20zas--titi%20vazduha.pdf",
+   "versions": [
+    {
+     "from": "2004-12-30",
+     "units": 3,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20zas--titi%20vazduha/000%2001-05%20Zakon%20o%20izmjenama%20i%20dopunama%20Zakona%20o%20zas--titi%20vazduha.pdf",
+     "sha256": "83e787e4b97a30f3af360e665591fb7678121724cac987e8d3e839843152340f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-sg014-cde6ca",
+   "path": "zakon/2007/sg014-cde6ca",
+   "short": "Zakon o izmjenama i dopunama Zakona o finansiranju političkih stranaka iz budžeta Brčko distrikta Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o finansiranju političkih stranaka iz budžeta Brčko distrikta Bosne i Hercegovine",
+   "url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20finansiranju%20politic--kih%20stranaka/000%2014-07%20Zakon%20o%20izmjenama%20i%20dopunama%20Zakona%20o%20finansiranju%20politic--kih%20stranaka.pdf",
+   "versions": [
+    {
+     "from": "2007-05-05",
+     "units": 5,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20finansiranju%20politic--kih%20stranaka/000%2014-07%20Zakon%20o%20izmjenama%20i%20dopunama%20Zakona%20o%20finansiranju%20politic--kih%20stranaka.pdf",
+     "sha256": "4f50fbe5ab1729a5eb7c332aa853a8c4d835543832df45371d8f9b3a9523daec"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg020-38d460",
+   "path": "zakon/2010/sg020-38d460",
+   "short": "Zakon o izmjenama Zakona o zapošljavanju stranaca u Brčko distriktu Bosne i Hercegovine",
+   "title": "Zakon o izmjenama Zakona o zapošljavanju stranaca u Brčko distriktu Bosne i Hercegovine",
+   "url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20zapos--ljavanju%20stranaca/000%2020-10%20Zakon%20o%20izmjenama%20Zakona%20o%20zapos--ljavanju%20stranaca.pdf",
+   "versions": [
+    {
+     "from": "2010-06-02",
+     "units": 4,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20zapos--ljavanju%20stranaca/000%2020-10%20Zakon%20o%20izmjenama%20Zakona%20o%20zapos--ljavanju%20stranaca.pdf",
+     "sha256": "8d9120c815ef2aecfc02fa8f08ab5264eb27192115287d4fdb6211ed604cb350"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg060-eb9f97",
+   "path": "zakon/2010/sg060-eb9f97",
+   "short": "Zakon o izmjeni Zakona o policijskim službenicima Brčko distrikta Bosne i Hercegovine",
+   "title": "Zakon o izmjeni Zakona o policijskim službenicima Brčko distrikta Bosne i Hercegovine",
+   "url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20policijskim%20sluz--benicima%20Brcko%20Distrikta/000%2060-10%20Zakon%20o%20izmjeni%20Zakona%20o%20policijskim%20sluz--benicima.pdf",
+   "versions": [
+    {
+     "from": "2010-12-15",
+     "units": 3,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20policijskim%20sluz--benicima%20Brcko%20Distrikta/000%2060-10%20Zakon%20o%20izmjeni%20Zakona%20o%20policijskim%20sluz--benicima.pdf",
+     "sha256": "8eed49c1aff8bf6afa94ceaef74eaed8a51e63aa0ff1dfd7fa5d48d8e8d63467"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sg057-b41d2d",
+   "path": "zakon/2011/sg057-b41d2d",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na dobit",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na dobit",
+   "url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20porezu%20na%20dobit/02B57-11%20Zakon%20o%20izmjenama%20i%20dopunama%20Zakona%20o%20porezu%20na%20dobit.pdf",
+   "versions": [
+    {
+     "from": "2011-12-31",
+     "units": 9,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20porezu%20na%20dobit/02B57-11%20Zakon%20o%20izmjenama%20i%20dopunama%20Zakona%20o%20porezu%20na%20dobit.pdf",
+     "sha256": "0ff72c79deecf2d4b28138a82eede388c9e8ade2ecc7be6f14d84eed26eecce4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sg027-1963fa",
+   "path": "zakon/2026/sg027-1963fa",
+   "short": "Zakon o izmjenama i dopunama Zakona o obrazovanju u osnovnim i srednjim školama Brčko distrikta Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o obrazovanju u osnovnim i srednjim školama Brčko distrikta Bosne i Hercegovine",
+   "url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20obrazovanju%20u%20osnovnim%20i%20srednjim%20s--kolama/11B27-26%20%20Zakon%20o%20izmjenama%20i%20dopunam%20Zakona%20o%20obrazovanju%20u%20osnovnim%20i%20srednjim%20s--kolama.pdf",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 5,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20obrazovanju%20u%20osnovnim%20i%20srednjim%20s--kolama/11B27-26%20%20Zakon%20o%20izmjenama%20i%20dopunam%20Zakona%20o%20obrazovanju%20u%20osnovnim%20i%20srednjim%20s--kolama.pdf",
+     "sha256": "67a77bd43594305d942d9135856abf537aeec7d50c9372c642327460b001bdde"
     }
    ]
   },
@@ -27,35 +133,23 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Porodic--ni%20zakon%20Brc--ko%20Distrikta%20BiH/000%2023-07%20Porodic--ni%20zakon%20Brc--ko%20Distrikta%20BiH.pdf",
      "sha256": "13d8bc4e4101e560091454aa02a834f6e6bfcb142d155d6ab16567341c80b170"
     }
-   ]
+   ],
+   "path": "porodicni-zakon-brcko-distrikta-bih"
   },
   {
-   "slug": "zakon-o-priznavanju-inostranih-visokoskolskih-kvalifikacija",
-   "short": "ZAKON O PRIZNAVANJU INOSTRANIH VISOKOŠKOLSKIH KVALIFIKACIJA",
-   "title": "ZAKON O PRIZNAVANJU INOSTRANIH VISOKOŠKOLSKIH KVALIFIKACIJA U BRČKO DISTRIKTU BOSNE I HERCEGOVINE",
-   "url": "https://skupstinabd.ba/index.php/ba/zakon.html?lang=ba&id=/ZAKON%20O%20PRIZNAVANJU%20INOSTRANIH%20VISOKOS--KOLSKIH%20KVALIFIKACIJA%20U%20BRC--KO%20DISTRIKTU%20BOSNE%20I%20HERCEGOVINE",
+   "slug": "statut",
+   "short": "Statut BD",
+   "title": "Statut Brčko distrikta Bosne i Hercegovine",
+   "url": "https://skupstinabd.ba/images/dokumenti/ba/statut-brcko-distrikta.pdf",
    "versions": [
     {
-     "from": "2015-02-23",
-     "units": 22,
-     "source_url": "https://skupstinabd.ba/3-zakon/ba/ZAKON%20O%20PRIZNAVANJU%20INOSTRANIH%20VISOKOS--KOLSKIH%20KVALIFIKACIJA%20U%20BRC--KO%20DISTRIKTU%20BOSNE%20I%20HERCEGOVINE/000%2002-15%20ZAKON%20O%20PRIZNAVANJU%20INOSTRANIH%20VISOKOS--KOLSKIH%20KVALIFIKACIJA%20U%20BRC--KO%20DISTRIKTU%20BIH.pdf",
-     "sha256": "10af05ddab4c564cfef8caebcc4c43eeeb66b3b48942b08d0f40de21ee23f538"
+     "from": "2010-02-05",
+     "units": 82,
+     "source_url": "https://skupstinabd.ba/images/dokumenti/ba/statut-brcko-distrikta.pdf",
+     "sha256": "93412b9417caa1015c634907811470f91258a5fa5bbee1afefca2984856dec97"
     }
-   ]
-  },
-  {
-   "slug": "zakon-o-energetskoj-efikasnosti-u-brcko-distriktu-bosne-i-he",
-   "short": "Zakon o energetskoj efikasnosti u Brčko distriktu Bosne i He",
-   "title": "Zakon o energetskoj efikasnosti u Brčko distriktu Bosne i Hercegovine",
-   "url": "https://skupstinabd.ba/index.php/ba/zakon.html?lang=ba&id=/Zakon%20%20o%20energetskoj%20efikasnosti%20u%20Brc--ko%20distriktu%20Bosne%20i%20Hercegovine",
-   "versions": [
-    {
-     "from": "2022-08-11",
-     "units": 84,
-     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20%20o%20energetskoj%20efikasnosti%20u%20Brc--ko%20distriktu%20Bosne%20i%20Hercegovine/01B25-22%20Zakon%20%20o%20energetskoj%20efikasnosti%20u%20Brc--ko%20distriktu%20Bosne%20i%20Hercegovine.pdf",
-     "sha256": "8631ed5e20a0dac8600b9ceea88a39b043d91831a6de7362057497b07d6e9eec"
-    }
-   ]
+   ],
+   "path": "statut"
   },
   {
    "slug": "zakon-brcko-distrikta-bih-o-izboru-i-promjeni-entitetskog-dr",
@@ -69,91 +163,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20Brc--ko%20distrikta%20BiH%20o%20izboru%20i%20promjeni%20entitetskog%20drz--avljanstva/000%2032-09%20Zakon%20Brc--ko%20distrikta%20BiH%20o%20izboru%20i%20promjeni%20entitetskog%20drz--avljanstva.pdf",
      "sha256": "40e7faa199be1130670422fc486a123e155d32005ca2fc5f26e9b4fdeff4228b"
     }
-   ]
-  },
-  {
-   "slug": "zakon-o-direkciji-za-finansije",
-   "short": "Zakon o Direkciji za finansije",
-   "title": "Zakon o Direkciji za finansije",
-   "url": "https://skupstinabd.ba/index.php/ba/zakon.html?lang=ba&id=/Zakon%20o%20Direkciji%20za%20finansije",
-   "versions": [
-    {
-     "from": "2024-04-19",
-     "units": 22,
-     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20Direkciji%20za%20finansije/006B16-24%20Zakon%20o%20Direkciji%20za%20finansije%20Brc--ko%20distrikta%20Bosne%20i%20Hercegovine%20-%20prec--is--c-eni%20tekst.pdf",
-     "sha256": "6c0ae1945867c954987970452f6d408f374574f4924059d13f105c079776ed5f"
-    }
-   ]
-  },
-  {
-   "slug": "zakon-o-poreznoj-upravi-brcko-distrikta-bih",
-   "short": "Zakon o Poreznoj upravi Brčko Distrikta BiH",
-   "title": "Zakon o Poreznoj upravi Brčko Distrikta BiH",
-   "url": "https://skupstinabd.ba/index.php/ba/zakon.html?lang=ba&id=/Zakon%20o%20Poreznoj%20upravi%20Brc--ko%20Distrikta%20BiH",
-   "versions": [
-    {
-     "from": "2020-04-02",
-     "units": 89,
-     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20Poreznoj%20upravi%20Brc--ko%20Distrikta%20BiH/011B11-20%20Zakon%20%20o%20poreznoj%20upravi%20Brcko%20distrikta%20BiH.pdf",
-     "sha256": "7bf72b32b8b177828d235c3b5ddb9a0c9e39624237b549b15ef79590b10646cf"
-    }
-   ]
-  },
-  {
-   "slug": "zakon-o-pravobranilastvu",
-   "short": "Zakon o Pravobranilaštvu",
-   "title": "Zakon o Pravobranilaštvu",
-   "url": "https://skupstinabd.ba/index.php/ba/zakon.html?lang=ba&id=/Zakon%20o%20Pravobranilas--tvu",
-   "versions": [
-    {
-     "from": "2020-05-18",
-     "units": 82,
-     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20Pravobranilas--tvu/007B18-20%20Zakon%20o%20Pravobranilastvu%20-%20precisceni%20tekst.pdf",
-     "sha256": "97d936467a6754ad23d92e5fb0559901d5e2037bf9176ee9227417f314b50b88"
-    }
-   ]
-  },
-  {
-   "slug": "zakon-o-pravosudnoj-komisiji-brcko-distrikta-bih",
-   "short": "Zakon o Pravosudnoj komisiji Brčko Distrikta BiH",
-   "title": "Zakon o Pravosudnoj komisiji Brčko Distrikta BiH",
-   "url": "https://skupstinabd.ba/index.php/ba/zakon.html?lang=ba&id=/Zakon%20o%20Pravosudnoj%20komisiji%20Brc--ko%20Distrikta%20BiH",
-   "versions": [
-    {
-     "from": "2026-10-07",
-     "units": 31,
-     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20Pravosudnoj%20komisiji%20Brc--ko%20Distrikta%20BiH/03B29-26%20Zakon%20o%20pravosudnoj%20komisiji%20Brc--ko%20distrikta%20BiH%20-%20prec--is--c-eni%20tekst.pdf",
-     "sha256": "a422030ed3e4023d8461de0e1a64b14de8a44c916db044031b0506a97e576984"
-    }
-   ]
-  },
-  {
-   "slug": "zakon-o-statistickom-birou-brcko-distrikta-bih",
-   "short": "Zakon o Statističkom birou Brčko Distrikta BiH",
-   "title": "Zakon o Statističkom birou Brčko Distrikta BiH",
-   "url": "https://skupstinabd.ba/index.php/ba/zakon.html?lang=ba&id=/Zakon%20o%20Statistic--kom%20birou%20Brc--ko%20Distrikta%20BiH",
-   "versions": [
-    {
-     "from": "2006-06-03",
-     "units": 35,
-     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20Statistic--kom%20birou%20Brc--ko%20Distrikta%20BiH/000%2004-01%20Zakon%20o%20statistic--kom%20birou.pdf",
-     "sha256": "34a5377993670311ae91bdc766f5940f7a01ed2f98c160e69a4e37c0198dbf2f"
-    }
-   ]
-  },
-  {
-   "slug": "zakon-o-tuzilastvu-brcko-distrikta-bih",
-   "short": "Zakon o Tužilaštvu Brčko Distrikta BiH",
-   "title": "Zakon o Tužilaštvu Brčko Distrikta BiH",
-   "url": "https://skupstinabd.ba/index.php/ba/zakon.html?lang=ba&id=/Zakon%20o%20Tuz--ilas--tvu%20Brc--ko%20Distrikta%20BiH",
-   "versions": [
-    {
-     "from": "2008-04-09",
-     "units": 47,
-     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20Tuz--ilas--tvu%20Brc--ko%20Distrikta%20BiH/000%2019-07%20Zakon%20o%20Tuz--ilas--tvu%20Brc--ko%20Distrikta%20BiH.pdf",
-     "sha256": "605f9e1cdb3fcb91a8e2daadb909f202895fe5da6b475bb65e547b1fa15788b9"
-    }
-   ]
+   ],
+   "path": "zakon-brcko-distrikta-bih-o-izboru-i-promjeni-entitetskog-dr"
   },
   {
    "slug": "zakon-o-advokatskoj-djelatnosti",
@@ -167,7 +178,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20advokatskoj%20djelatnosti/001%2004-19%20Zakon%20o%20advokatskoj%20djelatnosti%20B.pdf",
      "sha256": "b53239d2f3f0b08ddce692ec21789f71639d362703012763d870a27f1cecdf66"
     }
-   ]
+   ],
+   "path": "zakon-o-advokatskoj-djelatnosti"
   },
   {
    "slug": "zakon-o-arhivskoj-djelatnosti",
@@ -181,7 +193,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20arhivskoj%20djelatnosti/006%2006-18%20Zakon%20o%20arhivskoj%20djelatnosti%2C%20prec%2Bis%2Bc-eni%20tekst.pdf",
      "sha256": "687db7883043ba4f30b46f032ee1343d7e5aa31fb949f5f408bb48cfe6e011b0"
     }
-   ]
+   ],
+   "path": "zakon-o-arhivskoj-djelatnosti"
   },
   {
    "slug": "zakon-o-civilnim-zrtvama-rata-brcko-distrikta-bih",
@@ -195,7 +208,23 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20civilnim%20z--rtvama%20rata%20Brc--ko%20distrikta%20BiH/01B24-22%20Zakon%20o%20civilnim%20z--rtvama%20rata%20Brc--ko%20distrikta%20BiH.pdf",
      "sha256": "33525e048c0c594ddbb022dfe6f645ae35661de17b0264a4b9f844678524311e"
     }
-   ]
+   ],
+   "path": "zakon-o-civilnim-zrtvama-rata-brcko-distrikta-bih"
+  },
+  {
+   "slug": "zakon-o-direkciji-za-finansije",
+   "short": "Zakon o Direkciji za finansije",
+   "title": "Zakon o Direkciji za finansije",
+   "url": "https://skupstinabd.ba/index.php/ba/zakon.html?lang=ba&id=/Zakon%20o%20Direkciji%20za%20finansije",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 22,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20Direkciji%20za%20finansije/006B16-24%20Zakon%20o%20Direkciji%20za%20finansije%20Brc--ko%20distrikta%20Bosne%20i%20Hercegovine%20-%20prec--is--c-eni%20tekst.pdf",
+     "sha256": "6c0ae1945867c954987970452f6d408f374574f4924059d13f105c079776ed5f"
+    }
+   ],
+   "path": "zakon-o-direkciji-za-finansije"
   },
   {
    "slug": "zakon-o-djecijoj-zastiti",
@@ -209,7 +238,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20djec--ijoj%20zas--titi/18B7-26%20Zakon%20o%20djec--ijoj%20zas--titi%20-%20prec--is--c-eni%20tekst.pdf",
      "sha256": "85f5a7c66e73343f9785a254012890718c5a301587bf0a05571e0f4cbfc2e0db"
     }
-   ]
+   ],
+   "path": "zakon-o-djecijoj-zastiti"
   },
   {
    "slug": "zakon-o-djelatnosti-osiguranja-u-brcko-distriktu-bosne-i-her",
@@ -223,7 +253,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20djelatnosti%20osiguranja%20u%20Brc--ko%20distriktu%20Bosne%20i%20Hercegovine/01B2-23%20Zakon%20o%20djelatnosti%20osiguranja%20u%20Brc--ko%20distriktu%20Bosne%20i%20Hercegovine.pdf",
      "sha256": "58408db9d618ef6660b03c3dfc1fe7eaa5c72c19d8082d943ac4a4bb3054c711"
     }
-   ]
+   ],
+   "path": "zakon-o-djelatnosti-osiguranja-u-brcko-distriktu-bosne-i-her"
   },
   {
    "slug": "zakon-o-elektricnoj-energiji",
@@ -237,7 +268,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20elektric--noj%20energiji/01B27-21%20Zakon%20o%20elektric--noj%20energiji.pdf",
      "sha256": "0341158352cedf35c593c59e53317318cc71896cb826a3625401bbb21aa121df"
     }
-   ]
+   ],
+   "path": "zakon-o-elektricnoj-energiji"
   },
   {
    "slug": "zakon-o-elektronickom-potpisu",
@@ -251,7 +283,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20elektronic--kom%20potpisu/002B11-20%20Zakon%20o%20elektronskom%20potpisu%20Brcko%20distrikta%20BiH.pdf",
      "sha256": "96abf60e43cc34523591b350d31f955a69a828891b6041c38cecde6cdde96b9d"
     }
-   ]
+   ],
+   "path": "zakon-o-elektronickom-potpisu"
   },
   {
    "slug": "zakon-o-elektronskom-dokumentu-brcko-distrikta-bih",
@@ -265,7 +298,23 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20elektronskom%20dokumentu%20Brcko%20distrikta%20BiH/001B11-20%20Zakon%20o%20elektronskom%20dokumentu%20Brcko%20distrikta%20BiH.pdf",
      "sha256": "48e1b4eb0a1ddd8918abd19b71671a12611bda1c46a97cdfcb13ae35d552d0bc"
     }
-   ]
+   ],
+   "path": "zakon-o-elektronskom-dokumentu-brcko-distrikta-bih"
+  },
+  {
+   "slug": "zakon-o-energetskoj-efikasnosti-u-brcko-distriktu-bosne-i-he",
+   "short": "Zakon o energetskoj efikasnosti u Brčko distriktu Bosne i He",
+   "title": "Zakon o energetskoj efikasnosti u Brčko distriktu Bosne i Hercegovine",
+   "url": "https://skupstinabd.ba/index.php/ba/zakon.html?lang=ba&id=/Zakon%20%20o%20energetskoj%20efikasnosti%20u%20Brc--ko%20distriktu%20Bosne%20i%20Hercegovine",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 84,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20%20o%20energetskoj%20efikasnosti%20u%20Brc--ko%20distriktu%20Bosne%20i%20Hercegovine/01B25-22%20Zakon%20%20o%20energetskoj%20efikasnosti%20u%20Brc--ko%20distriktu%20Bosne%20i%20Hercegovine.pdf",
+     "sha256": "8631ed5e20a0dac8600b9ceea88a39b043d91831a6de7362057497b07d6e9eec"
+    }
+   ],
+   "path": "zakon-o-energetskoj-efikasnosti-u-brcko-distriktu-bosne-i-he"
   },
   {
    "slug": "zakon-o-fiskalnom-registru",
@@ -279,7 +328,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20fiskalnom%20registru/001%2003-19%20Zakon%20o%20fiskalnom%20registru%20BD%20BiH%20B.pdf",
      "sha256": "48b3b7debfeff96e70bc2e1a79c13481712c0e1a3ce2fe1eb9208e053bd143b5"
     }
-   ]
+   ],
+   "path": "zakon-o-fiskalnom-registru"
   },
   {
    "slug": "zakon-o-izmirivanju-obaveza-po-osnovu-stare-devizne-stednje",
@@ -293,7 +343,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20izmirivanju%20obaveza%20po%20osnovu%20stare%20devizne%20s--tednje/005%2006-18%20Zakon%20o%20izmirenju%20obaveza%20po%20osnovu%20rac%2Buna%20stare%20devizne%20s%2Btednje%20emisijom%20obveznica%20u%20Brc%2Bko%20distriktu%20BiH%2C%20%20prec%2Bis%2Bc-eni%20tekst.pdf",
      "sha256": "59178492701300862ad7f5919d0093ea4f0e88656050afa034e739a3c7611f8c"
     }
-   ]
+   ],
+   "path": "zakon-o-izmirivanju-obaveza-po-osnovu-stare-devizne-stednje"
   },
   {
    "slug": "zakon-o-izvrsenju-krivicnih-sankcija-pritvora-i-drugih-mjera",
@@ -307,7 +358,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20izvrs--enju%20krivic--nih%20sankcija%2C%20pritvora%20i%20drugih%20mjera%20u%20Brc--ko%20distriktu%20BiH/000%2031-11%20Zakon%20o%20izvrs--enju%20krivic--nih%20sankcija%2C%20pritvora%20i%20drugih%20mjera%20u%20Brc--ko%20distriktu%20Bosne%20i%20Hercegovine.pdf",
      "sha256": "95d407238bf6d3c9a2c55adc73461979dfa54217d997b8c2fa93291378566640"
     }
-   ]
+   ],
+   "path": "zakon-o-izvrsenju-krivicnih-sankcija-pritvora-i-drugih-mjera"
   },
   {
    "slug": "zakon-o-izvrsnom-postupku-brcko-distrikta-bih",
@@ -321,7 +373,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20izvrs--nom%20postupku%20Brc--ko%20Distrikta%20BiH/004B29-26%20Zakon%20o%20izvrs--nom%20postupku%20Brc--ko%20distrikta%20BiH%20-%20prec--is--c-eni%20tekst.pdf",
      "sha256": "a508b70f47bee946c421f3d538b53f0f59b27fcb091b4a6d9dd3a7c1c64defe6"
     }
-   ]
+   ],
+   "path": "zakon-o-izvrsnom-postupku-brcko-distrikta-bih"
   },
   {
    "slug": "zakon-o-javnim-priredbama",
@@ -335,7 +388,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20javnim%20priredbama/01B29-20%20Zakon%20o%20javnim%20priredbama.pdf",
      "sha256": "cbeca2efa21f069d0b83891dc4fa37250695745fd7bc684731812f37c8997576"
     }
-   ]
+   ],
+   "path": "zakon-o-javnim-priredbama"
   },
   {
    "slug": "zakon-o-koncesijama",
@@ -349,7 +403,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20koncesijama/01B39-25%20%20Zakon%20o%20koncesijama%20u%20Brc--ko%20distriktu%20Bosne%20i%20Hercegovine.pdf",
      "sha256": "f6c855959c774348a84cd4115e40d74ec45376f0a22d73ae273fb86e52adb654"
     }
-   ]
+   ],
+   "path": "zakon-o-koncesijama"
   },
   {
    "slug": "zakon-o-legalizaciji-bespravno-izgradjenih-gradjevina",
@@ -363,7 +418,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20legalizaciji%20bespravno%20izgradjenih%20gradjevina/005%2054-18%20Zakon%20o%20legalizaciji%20bespravno%20izgradjenih%20gradjevina%20-%20precisceni%20tekst%20B.pdf",
      "sha256": "ab2e3a237297a1f7b649ed93d596928763bcfeef6d1e238389d11dfc2abbd919"
     }
-   ]
+   ],
+   "path": "zakon-o-legalizaciji-bespravno-izgradjenih-gradjevina"
   },
   {
    "slug": "zakon-o-likvidacionom-postupku",
@@ -377,7 +433,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20likvidacionom%20postupku/001%2016-19%20Zakon%20o%20likvidacionom%20postupku%20B.pdf",
      "sha256": "37b93b17985dab79703270eca009d7c984d53696d4fa33b8e44ca3f85c770350"
     }
-   ]
+   ],
+   "path": "zakon-o-likvidacionom-postupku"
   },
   {
    "slug": "zakon-o-mirnom-okupljanju",
@@ -391,7 +448,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20mirnom%20okupljanju/01B29-20%20Zakon%20o%20mirnom%20okupljanju.pdf",
      "sha256": "b2be2e7cfd309049c3337bc77540113057a80ce18166c03e490fb7c82d4c0e54"
     }
-   ]
+   ],
+   "path": "zakon-o-mirnom-okupljanju"
   },
   {
    "slug": "zakon-o-mladima-brcko-distrikta-bih",
@@ -405,7 +463,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20mladima%20Brc--ko%20distrikta%20BiH/001%2018-17%20Zakon%20o%20mladima%20Brc--ko%20distrikta%20BiH%20B.pdf",
      "sha256": "9a2960fb10dd09606ed8e77a903e7f3b5775985d9f7bdb2578a2ab539a075576"
     }
-   ]
+   ],
+   "path": "zakon-o-mladima-brcko-distrikta-bih"
   },
   {
    "slug": "zakon-o-obrazovanju-odraslih",
@@ -419,7 +478,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20obrazovanju%20odraslih/001%2050-18%20Zakon%20o%20obrazovanju%20odraslih%20B.pdf",
      "sha256": "6060585554dcd2d203ebb39d68fa585d61177f2e407937e3bc9d1b18c38ae536"
     }
-   ]
+   ],
+   "path": "zakon-o-obrazovanju-odraslih"
   },
   {
    "slug": "zakon-o-otkupu-stan-na-kojima-postoji-stan-pravo",
@@ -433,7 +493,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20otkupu%20stan.%20na%20kojima%20postoji%20stan.%20pravo/006%2018-18%20Zakon%20o%20otkupu%20stanova%20na%20kojima%20postoji%20stanarsko%20pravo%20u%20Brc%2Bko%20distriktu%20Bosne%20i%20Hercegovine%2C%20prec%2Bis%2Bc-en%20tekst.pdf",
      "sha256": "970f378ef3eae468a0ec1efb2661bfe7d8f1cbad6e552bffdb42e2db178f96c9"
     }
-   ]
+   ],
+   "path": "zakon-o-otkupu-stan-na-kojima-postoji-stan-pravo"
   },
   {
    "slug": "zakon-o-otpisu-nenaplacenih-potrazivanja",
@@ -447,7 +508,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20otpisu%20nenaplac-enih%20potraz--ivanja/01B07-26%20Zakon%20o%20otpisu%20nenaplac-enih%20novc--anih%20potraz--ivanja.pdf",
      "sha256": "8685295fc1b2cf9cac2df3c77449ef45405f40a16d9bc0bb45ede9191c998860"
     }
-   ]
+   ],
+   "path": "zakon-o-otpisu-nenaplacenih-potrazivanja"
   },
   {
    "slug": "zakon-o-podsticaju-u-privredi-brcko-distrikta-bosne-i-herceg",
@@ -461,7 +523,23 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20podsticaju%20u%20privredi%20Brc--ko%20distrikta%20Bosne%20i%20Hercegovine/01%2023-16%20Zakon%20o%20podsticaju%20u%20privredi%20Brc%2Bko%20distrikta%20Bosne%20i%20Hercegovine%20B.pdf",
      "sha256": "617ffe4adb88978456544ebd2b0dbed1fb1807306fa2dac4d3ad3af441da1d83"
     }
-   ]
+   ],
+   "path": "zakon-o-podsticaju-u-privredi-brcko-distrikta-bosne-i-herceg"
+  },
+  {
+   "slug": "zakon-o-poreznoj-upravi-brcko-distrikta-bih",
+   "short": "Zakon o Poreznoj upravi Brčko Distrikta BiH",
+   "title": "Zakon o Poreznoj upravi Brčko Distrikta BiH",
+   "url": "https://skupstinabd.ba/index.php/ba/zakon.html?lang=ba&id=/Zakon%20o%20Poreznoj%20upravi%20Brc--ko%20Distrikta%20BiH",
+   "versions": [
+    {
+     "from": "2020-04-02",
+     "units": 89,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20Poreznoj%20upravi%20Brc--ko%20Distrikta%20BiH/011B11-20%20Zakon%20%20o%20poreznoj%20upravi%20Brcko%20distrikta%20BiH.pdf",
+     "sha256": "7bf72b32b8b177828d235c3b5ddb9a0c9e39624237b549b15ef79590b10646cf"
+    }
+   ],
+   "path": "zakon-o-poreznoj-upravi-brcko-distrikta-bih"
   },
   {
    "slug": "zakon-o-posebnom-registru-lica-pravosanzno-osudjenih-za-kriv",
@@ -475,7 +553,38 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20posebnom%20registru%20lica%20pravosanz--no%20osudjenih%20za%20krivic--na%20djela%20spolnog%20zlostavljanja%20i%20iskoris--tavanja%20djeteta/01B39-25%20%20Zakon%20o%20posebnom%20registru%20lica%20pravosanz--no%20osudjenih%20za%20krivic--na%20djela%20spolnog%20zlostavljanja%20i%20iskoris--tavanja%20djeteta.pdf",
      "sha256": "bdd4f5598ad21f4462a9eddba4df3c3e8f733ed691b65e3a4aa7368b07c4a976"
     }
-   ]
+   ],
+   "path": "zakon-o-posebnom-registru-lica-pravosanzno-osudjenih-za-kriv"
+  },
+  {
+   "slug": "zakon-o-pravobranilastvu",
+   "short": "Zakon o Pravobranilaštvu",
+   "title": "Zakon o Pravobranilaštvu",
+   "url": "https://skupstinabd.ba/index.php/ba/zakon.html?lang=ba&id=/Zakon%20o%20Pravobranilas--tvu",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 82,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20Pravobranilas--tvu/007B18-20%20Zakon%20o%20Pravobranilastvu%20-%20precisceni%20tekst.pdf",
+     "sha256": "97d936467a6754ad23d92e5fb0559901d5e2037bf9176ee9227417f314b50b88"
+    }
+   ],
+   "path": "zakon-o-pravobranilastvu"
+  },
+  {
+   "slug": "zakon-o-pravosudnoj-komisiji-brcko-distrikta-bih",
+   "short": "Zakon o Pravosudnoj komisiji Brčko Distrikta BiH",
+   "title": "Zakon o Pravosudnoj komisiji Brčko Distrikta BiH",
+   "url": "https://skupstinabd.ba/index.php/ba/zakon.html?lang=ba&id=/Zakon%20o%20Pravosudnoj%20komisiji%20Brc--ko%20Distrikta%20BiH",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 31,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20Pravosudnoj%20komisiji%20Brc--ko%20Distrikta%20BiH/03B29-26%20Zakon%20o%20pravosudnoj%20komisiji%20Brc--ko%20distrikta%20BiH%20-%20prec--is--c-eni%20tekst.pdf",
+     "sha256": "a422030ed3e4023d8461de0e1a64b14de8a44c916db044031b0506a97e576984"
+    }
+   ],
+   "path": "zakon-o-pravosudnoj-komisiji-brcko-distrikta-bih"
   },
   {
    "slug": "zakon-o-prestanku-vazenja-zakona-o-pruzanju-pravne-pomoci",
@@ -489,7 +598,23 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20prestanku%20vaz--enja%20Zakona%20o%20pruz--anju%20pravne%20pomoc-i/000%2002-02%20Zakon%20o%20prestanku%20vaz--enja%20Zakona%20o%20pruz--anju%20pravne%20pomoc-i.pdf",
      "sha256": "b5e22376f843ced78526300b65d9972684c9fa867118559ef4e07da8213735c5"
     }
-   ]
+   ],
+   "path": "zakon-o-prestanku-vazenja-zakona-o-pruzanju-pravne-pomoci"
+  },
+  {
+   "slug": "zakon-o-priznavanju-inostranih-visokoskolskih-kvalifikacija",
+   "short": "ZAKON O PRIZNAVANJU INOSTRANIH VISOKOŠKOLSKIH KVALIFIKACIJA",
+   "title": "ZAKON O PRIZNAVANJU INOSTRANIH VISOKOŠKOLSKIH KVALIFIKACIJA U BRČKO DISTRIKTU BOSNE I HERCEGOVINE",
+   "url": "https://skupstinabd.ba/index.php/ba/zakon.html?lang=ba&id=/ZAKON%20O%20PRIZNAVANJU%20INOSTRANIH%20VISOKOS--KOLSKIH%20KVALIFIKACIJA%20U%20BRC--KO%20DISTRIKTU%20BOSNE%20I%20HERCEGOVINE",
+   "versions": [
+    {
+     "from": "2015-02-23",
+     "units": 22,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/ZAKON%20O%20PRIZNAVANJU%20INOSTRANIH%20VISOKOS--KOLSKIH%20KVALIFIKACIJA%20U%20BRC--KO%20DISTRIKTU%20BOSNE%20I%20HERCEGOVINE/000%2002-15%20ZAKON%20O%20PRIZNAVANJU%20INOSTRANIH%20VISOKOS--KOLSKIH%20KVALIFIKACIJA%20U%20BRC--KO%20DISTRIKTU%20BIH.pdf",
+     "sha256": "10af05ddab4c564cfef8caebcc4c43eeeb66b3b48942b08d0f40de21ee23f538"
+    }
+   ],
+   "path": "zakon-o-priznavanju-inostranih-visokoskolskih-kvalifikacija"
   },
   {
    "slug": "zakon-o-profesionalnoj-rehabilitaciji-osposobljavanju-i-zapo",
@@ -503,7 +628,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20profesionalnoj%20rehabilitaciji%2C%20osposobljavanju%20i%20zapos--ljavanju%20osoba%20s%20invaliditetom/01B32-25%20%20Zakona%20o%20profesionalnoj%20rehabilitaciji%2C%20osposobljavanju%20i%20zapos--ljavanju%20osoba%20s%20invaliditetom.pdf",
      "sha256": "dd1046899dada1199879de82dd6700c6435acb5502b43d1bcce31661379a2a1f"
     }
-   ]
+   ],
+   "path": "zakon-o-profesionalnoj-rehabilitaciji-osposobljavanju-i-zapo"
   },
   {
    "slug": "zakon-o-radu-brcko-distrikta-bih",
@@ -517,7 +643,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20radu%20Brc--ko%20Distrikta%20BiH/03B12-25%20Zakon%20o%20radu%20Brc--ko%20distrikta%20Bosne%20i%20Hercegovine%20-%20prec--is--c-eni%20tekst.pdf",
      "sha256": "06954c05d0f445eda5f74d597216efd02966b2b5e2a5677af309cf3009928ce6"
     }
-   ]
+   ],
+   "path": "zakon-o-radu-brcko-distrikta-bih"
   },
   {
    "slug": "zakon-o-registraciji-poslovnih-subjekata",
@@ -531,7 +658,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20registraciji%20poslovnih%20subjekata/02B11-20%20Zakon%20o%20registraciji%20poslovnih%20subjekata%20Brcko%20distrikta%20BiH.pdf",
      "sha256": "212859ee7a4116cce2e09ab009ba830419ab2f31ee7748390b3fd32c6d1a89e3"
     }
-   ]
+   ],
+   "path": "zakon-o-registraciji-poslovnih-subjekata"
   },
   {
    "slug": "zakon-o-regulisanju-cijena-u-brcko-distriktu-bih",
@@ -545,7 +673,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20regulisanju%20cijena%20u%20Brc--ko%20distriktu%20BiH/01B13-22%20Zakon%20o%20regulisanju%20cijena%20u%20Brc--ko%20distriktu%20BiH.pdf",
      "sha256": "f992782e2b02359bda6d456e8f3d5ac89277c53d2ddf19fd03c1304774b8b8f0"
     }
-   ]
+   ],
+   "path": "zakon-o-regulisanju-cijena-u-brcko-distriktu-bih"
   },
   {
    "slug": "zakon-o-roditeljima-njegovateljima-u-brcko-distriktu-bosne-i",
@@ -559,21 +688,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20roditeljima%20njegovateljima%20u%20Brc--ko%20distriktu%20Bosne%20i%20Hercegovine/01B37-25%20Zakon%20o%20roditeljima%20njegovateljima%20u%20Brc--ko%20distriktu%20Bosne%20i%20Hercegovine.pdf",
      "sha256": "1e045c9adf1056555edc4f1d43c21c7bd7adeee5e530890a1282a8bb22379e15"
     }
-   ]
-  },
-  {
-   "slug": "zakon-o-strajku",
-   "short": "Zakon o štrajku",
-   "title": "Zakon o štrajku",
-   "url": "https://skupstinabd.ba/index.php/ba/zakon.html?lang=ba&id=/Zakon%20o%20s--trajku",
-   "versions": [
-    {
-     "from": "2006-02-06",
-     "units": 18,
-     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20s--trajku/000%2003-06%20Zakon%20o%20s--trajku.pdf",
-     "sha256": "8f5e3f2495a71ab0bbe36451d560c62ea2d2ef5d7b4a26729207abe6197a1a9c"
-    }
-   ]
+   ],
+   "path": "zakon-o-roditeljima-njegovateljima-u-brcko-distriktu-bosne-i"
   },
   {
    "slug": "zakon-o-slobodi-pristupa-informacijama-u-brcko-distriktu-bih",
@@ -587,7 +703,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20slobodi%20pristupa%20informacijama%20u%20Brc--ko%20distriktu%20BiH/01B38-25%20%20Zakon%20o%20slobodi%20pristupa%20informacijama%20u%20Brc--ko%20distriktu%20BiH.pdf",
      "sha256": "f13d7bbfe7c08db78609aa9e0aa5e987c8de1ea2f09ac238da111eb8eeaa5b36"
     }
-   ]
+   ],
+   "path": "zakon-o-slobodi-pristupa-informacijama-u-brcko-distriktu-bih"
   },
   {
    "slug": "zakon-o-sluzbenicima-i-namjestenicima-pravosudja",
@@ -601,7 +718,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20sluz--benicima%20i%20namjes--tenicima%20pravosudja/008%20%2013-23%20%20Zakona%20o%20sluz--benicima%20i%20namjes--tenicima%20u%20pravosudju%20Brc--ko%20distrikta%20Bosne%20i%20Hercegovine%20-%20prec--is--c-eni%20tekst%20B.pdf",
      "sha256": "a70d38a84f69e644bbc2862f5d77c5db51e68ff3b485ce6fd1c3b6a0739b54f0"
     }
-   ]
+   ],
+   "path": "zakon-o-sluzbenicima-i-namjestenicima-pravosudja"
   },
   {
    "slug": "zakon-o-socijalnom-poduzetnistvu-brcko-distrikta-bosne-i-her",
@@ -615,7 +733,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20socijalnom%20poduzetnis--tvu%20Brc--ko%20distrikta%20Bosne%20i%20Hercegovine/01B03-22%20Zakon%20o%20socijalnom%20preduzetnis--tvu%20Brc--ko%20distrikta%20Bosne%20i%20Hercegovine.pdf",
      "sha256": "c59e43fe8d64822b9774429fc999c64b7b15ea2c9b2a5877bc32718017a4f616"
     }
-   ]
+   ],
+   "path": "zakon-o-socijalnom-poduzetnistvu-brcko-distrikta-bosne-i-her"
   },
   {
    "slug": "zakon-o-socijalnom-stanovanju-u-brcko-distriktu-bih",
@@ -629,7 +748,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20socijalnom%20stanovanju%20u%20Brc--ko%20distriktu%20BiH/01B9-23%20Zakon%20o%20socijalnom%20stanovanju%20u%20Brc--ko%20distriktu%20BiH.pdf",
      "sha256": "16bb819e4da111fee83287399dfaab07f15e5ebcd8f4d0cb50265a261e4c0658"
     }
-   ]
+   ],
+   "path": "zakon-o-socijalnom-stanovanju-u-brcko-distriktu-bih"
   },
   {
    "slug": "zakon-o-spomenicima-i-simbolima-brcko-distrikta-bih",
@@ -643,7 +763,23 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20spomenicima%20i%20simbolima%20Brc--ko%20Distrikta%20BiH/000%2022-03%20Zakon%20o%20spomenicima%20i%20simbolima%20Brc--ko%20Ditrikta.pdf",
      "sha256": "a955232929e7e124b13cb3c5020f0c5dcb9a9253439f606a33dda958ca0303d2"
     }
-   ]
+   ],
+   "path": "zakon-o-spomenicima-i-simbolima-brcko-distrikta-bih"
+  },
+  {
+   "slug": "zakon-o-statistickom-birou-brcko-distrikta-bih",
+   "short": "Zakon o Statističkom birou Brčko Distrikta BiH",
+   "title": "Zakon o Statističkom birou Brčko Distrikta BiH",
+   "url": "https://skupstinabd.ba/index.php/ba/zakon.html?lang=ba&id=/Zakon%20o%20Statistic--kom%20birou%20Brc--ko%20Distrikta%20BiH",
+   "versions": [
+    {
+     "from": "2006-06-03",
+     "units": 35,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20Statistic--kom%20birou%20Brc--ko%20Distrikta%20BiH/000%2004-01%20Zakon%20o%20statistic--kom%20birou.pdf",
+     "sha256": "34a5377993670311ae91bdc766f5940f7a01ed2f98c160e69a4e37c0198dbf2f"
+    }
+   ],
+   "path": "zakon-o-statistickom-birou-brcko-distrikta-bih"
   },
   {
    "slug": "zakon-o-stecaju",
@@ -657,7 +793,23 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20stec--aju/05B18-25%20Zakon%20o%20stec--aju%20%20-%20prec--is--c-eni%20tekst.pdf",
      "sha256": "1eb7e8b7ba1010a83cc859bf262d882a4f396b479ae74e940d885aba45c6c60f"
     }
-   ]
+   ],
+   "path": "zakon-o-stecaju"
+  },
+  {
+   "slug": "zakon-o-strajku",
+   "short": "Zakon o štrajku",
+   "title": "Zakon o štrajku",
+   "url": "https://skupstinabd.ba/index.php/ba/zakon.html?lang=ba&id=/Zakon%20o%20s--trajku",
+   "versions": [
+    {
+     "from": "2006-02-06",
+     "units": 18,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20s--trajku/000%2003-06%20Zakon%20o%20s--trajku.pdf",
+     "sha256": "8f5e3f2495a71ab0bbe36451d560c62ea2d2ef5d7b4a26729207abe6197a1a9c"
+    }
+   ],
+   "path": "zakon-o-strajku"
   },
   {
    "slug": "zakon-o-sudskim-taksama-brcko-distrikta-bih",
@@ -671,7 +823,23 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20sudskim%20taksama%20Brc--ko%20Distrikta%20BiH/005B12-26%20Zakon%20o%20sudskim%20taksama%20-prec--is--c-ni%20tekst.pdf",
      "sha256": "33527cf7a24e9f9783eb9410acb120356eccd46af669b563b9388964b4aa07a6"
     }
-   ]
+   ],
+   "path": "zakon-o-sudskim-taksama-brcko-distrikta-bih"
+  },
+  {
+   "slug": "zakon-o-tuzilastvu-brcko-distrikta-bih",
+   "short": "Zakon o Tužilaštvu Brčko Distrikta BiH",
+   "title": "Zakon o Tužilaštvu Brčko Distrikta BiH",
+   "url": "https://skupstinabd.ba/index.php/ba/zakon.html?lang=ba&id=/Zakon%20o%20Tuz--ilas--tvu%20Brc--ko%20Distrikta%20BiH",
+   "versions": [
+    {
+     "from": "2008-04-09",
+     "units": 47,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20Tuz--ilas--tvu%20Brc--ko%20Distrikta%20BiH/000%2019-07%20Zakon%20o%20Tuz--ilas--tvu%20Brc--ko%20Distrikta%20BiH.pdf",
+     "sha256": "605f9e1cdb3fcb91a8e2daadb909f202895fe5da6b475bb65e547b1fa15788b9"
+    }
+   ],
+   "path": "zakon-o-tuzilastvu-brcko-distrikta-bih"
   },
   {
    "slug": "zakon-o-upisu-stvarnih-prava",
@@ -685,7 +853,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20upisu%20stvarnih%20prava/000%2026-04%20Zakon%20o%20upisu%20stvarnih%20prava%20na%20nekretninama%20u%20vlasnis--tvu%20Brc--ko%20distrikta%20BiH.pdf",
      "sha256": "aa2ed8e4e23b6d18bc7838fcefc10b59ae4f2b6720e0c909d6a0c1976f34566d"
     }
-   ]
+   ],
+   "path": "zakon-o-upisu-stvarnih-prava"
   },
   {
    "slug": "zakon-o-upravljanju-otpadom",
@@ -699,7 +868,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20upravljanju%20otpadom/06B22-18%20Zakon%20o%20upravljanju%20otpadom%2C%20procisceni%20tekst%20B.pdf",
      "sha256": "5dca0642c2299ff9cc86ab6dd8de3fe40bc61463f286402590f3d75829596410"
     }
-   ]
+   ],
+   "path": "zakon-o-upravljanju-otpadom"
   },
   {
    "slug": "zakon-o-vlasnistvu-i-dr-stvarnim-pravima",
@@ -713,7 +883,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20vlasnis--tvu%20i%20dr.stvarnim%20pravima/003%208-24%20Zakon%20o%20vlasnis--tvu%20i%20drugim%20stvarnim%20pravima%20-%20prec--is--c-eni%20tekst%20B.pdf",
      "sha256": "9a23b3e491a36e00ff61c21be5ec7dc609e75681efad57f260543bb4152b9fd0"
     }
-   ]
+   ],
+   "path": "zakon-o-vlasnistvu-i-dr-stvarnim-pravima"
   },
   {
    "slug": "zakon-o-vodama-brcko-distrikta-bosne-i-hercegovine",
@@ -727,7 +898,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20vodama%20Brc--ko%20distrikta%20Bosne%20i%20Hercegovine/01B19-26%20Zakona%20o%20vodama%20Brc--ko%20distrikta%20Bosne%20i%20Hercegovine.pdf",
      "sha256": "728b3d2a3eae9c095df0dcb6c7a561a1e3cb1531f19e3080f8c315ce2214646e"
     }
-   ]
+   ],
+   "path": "zakon-o-vodama-brcko-distrikta-bosne-i-hercegovine"
   },
   {
    "slug": "zakon-o-volontiranju",
@@ -741,7 +913,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20volontiranju/001%2034-18%20Zakon%20o%20volontiranju.pdf",
      "sha256": "c127c44bc641f04c4e5d57d4da119acf62ccde5ed040d5a38657bb712f7605fd"
     }
-   ]
+   ],
+   "path": "zakon-o-volontiranju"
   },
   {
    "slug": "zakon-o-zastiti-i-postupanju-sa-djecom-i-maloljetnicima-u-kr",
@@ -755,7 +928,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20zas--titi%20i%20postupanju%20sa%20djecom%20i%20maloljetnicima%20u%20krivic--nom%20postupku/000%2044-11%20Zakon%20o%20zas--titi%20i%20postupanju%20sa%20djecom%20i%20maloljetnicima%20u%20krivic--nom%20postupku.pdf",
      "sha256": "ae1e2b2d4748067bc90124d6ef66790d198225fec3e1c450377575dda3b855f2"
     }
-   ]
+   ],
+   "path": "zakon-o-zastiti-i-postupanju-sa-djecom-i-maloljetnicima-u-kr"
   },
   {
    "slug": "zakon-o-zastiti-od-pozara",
@@ -769,7 +943,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20zas--titi%20od%20poz--ara/002%2033-26%20Zakon%20o%20zas--titi%20od%20poz--ara%20Brc--ko%20distrikta%20BiH%20-%20%20prec--is--c-eni%20tekst%20%20B.pdf",
      "sha256": "c5a249765fa41ae8429b46b785ad7b77d294e1682193c9e073c1ede3fb6e590c"
     }
-   ]
+   ],
+   "path": "zakon-o-zastiti-od-pozara"
   },
   {
    "slug": "zakon-o-zastiti-prirode",
@@ -783,7 +958,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20zas--titi%20prirode/05B16-24%20Zakon%20o%20zas--titi%20prirode%20-%20%20prec--is--c-eni%20tekst.pdf",
      "sha256": "db26a3806bee6c8be72a3b14864e9d41dca47d52bf4847dea7d8651851d7653b"
     }
-   ]
+   ],
+   "path": "zakon-o-zastiti-prirode"
   },
   {
    "slug": "zakon-o-zastiti-stanovnistva-od-zaraznih-bolesti",
@@ -797,7 +973,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20zas--titi%20stanovnistva%20od%20zaraznih%20bolesti/01B41-20%20Zakon%20o%20zas--titi%20stanovnistva%20od%20zaraznih%20bolesti.pdf",
      "sha256": "ee0134c6b2c24cc4cb8f22c6467f8c00733c509b7994f57e0854b946b7cbe5cc"
     }
-   ]
+   ],
+   "path": "zakon-o-zastiti-stanovnistva-od-zaraznih-bolesti"
   },
   {
    "slug": "zakon-o-zastiti-vazduha",
@@ -811,7 +988,8 @@
      "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20zas--titi%20vazduha/001B17-22%20Zakon%20o%20zas--titi%20vazduha%20-%20prec--is--eni%20tekst.pdf",
      "sha256": "d30da3d6afe4d269ad1de1fd9f9754ad230863b990f044624fa79679a43fe34f"
     }
-   ]
+   ],
+   "path": "zakon-o-zastiti-vazduha"
   }
  ]
 }
