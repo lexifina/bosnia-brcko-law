@@ -1,0 +1,125 @@
+{
+ "country": "BA-BRC",
+ "acts": [
+  {
+   "slug": "zakon-2002-sg012-ca2bff",
+   "path": "zakon/2002/sg012-ca2bff",
+   "short": "Zakon o izmjenama i dopunama Zakona o sudskim taksama Brčko distrikta",
+   "title": "Zakon o izmjenama i dopunama Zakona o sudskim taksama Brčko distrikta",
+   "url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20sudskim%20taksama%20Brc--ko%20Distrikta%20BiH/000%2012-02%20Zakon%20o%20izmjenama%20i%20dopunama%20Zakona%20o%20sudskim%20taksama.pdf",
+   "versions": [
+    {
+     "from": "2002-09-06",
+     "units": 3,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20sudskim%20taksama%20Brc--ko%20Distrikta%20BiH/000%2012-02%20Zakon%20o%20izmjenama%20i%20dopunama%20Zakona%20o%20sudskim%20taksama.pdf",
+     "sha256": "eaa70f06fc20ddd1d0c03e6d8559a8c9e82279fc6a7a7e8e4d7931c98e8e388c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sg001-587fe4",
+   "path": "zakon/2005/sg001-587fe4",
+   "short": "Zakon o izmjenama i dopunama Zakona o zaštiti prirode",
+   "title": "Zakon o izmjenama i dopunama Zakona o zaštiti prirode",
+   "url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20zas--titi%20prirode/02B01-05%20Zakon%20o%20izmjenama%20i%20dopunama%20Zakona%20o%20zas--titi%20prirode.pdf",
+   "versions": [
+    {
+     "from": "2004-12-30",
+     "units": 3,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20zas--titi%20prirode/02B01-05%20Zakon%20o%20izmjenama%20i%20dopunama%20Zakona%20o%20zas--titi%20prirode.pdf",
+     "sha256": "c5fb6bc5f6252e5e5a76f283789efcddcbc0514b605e132845e7e4fcc2ea3af7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sg001-9857d3",
+   "path": "zakon/2005/sg001-9857d3",
+   "short": "Zakon o izmjenama i dopunama Zakona o zaštiti vazduha",
+   "title": "Zakon o izmjenama i dopunama Zakona o zaštiti vazduha",
+   "url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20zas--titi%20vazduha/000%2001-05%20Zakon%20o%20izmjenama%20i%20dopunama%20Zakona%20o%20zas--titi%20vazduha.pdf",
+   "versions": [
+    {
+     "from": "2004-12-30",
+     "units": 3,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20zas--titi%20vazduha/000%2001-05%20Zakon%20o%20izmjenama%20i%20dopunama%20Zakona%20o%20zas--titi%20vazduha.pdf",
+     "sha256": "83e787e4b97a30f3af360e665591fb7678121724cac987e8d3e839843152340f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-sg014-cde6ca",
+   "path": "zakon/2007/sg014-cde6ca",
+   "short": "Zakon o izmjenama i dopunama Zakona o finansiranju političkih stranaka iz budžeta Brčko distrikta Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o finansiranju političkih stranaka iz budžeta Brčko distrikta Bosne i Hercegovine",
+   "url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20finansiranju%20politic--kih%20stranaka/000%2014-07%20Zakon%20o%20izmjenama%20i%20dopunama%20Zakona%20o%20finansiranju%20politic--kih%20stranaka.pdf",
+   "versions": [
+    {
+     "from": "2007-05-05",
+     "units": 5,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20finansiranju%20politic--kih%20stranaka/000%2014-07%20Zakon%20o%20izmjenama%20i%20dopunama%20Zakona%20o%20finansiranju%20politic--kih%20stranaka.pdf",
+     "sha256": "4f50fbe5ab1729a5eb7c332aa853a8c4d835543832df45371d8f9b3a9523daec"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg020-38d460",
+   "path": "zakon/2010/sg020-38d460",
+   "short": "Zakon o izmjenama Zakona o zapošljavanju stranaca u Brčko distriktu Bosne i Hercegovine",
+   "title": "Zakon o izmjenama Zakona o zapošljavanju stranaca u Brčko distriktu Bosne i Hercegovine",
+   "url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20zapos--ljavanju%20stranaca/000%2020-10%20Zakon%20o%20izmjenama%20Zakona%20o%20zapos--ljavanju%20stranaca.pdf",
+   "versions": [
+    {
+     "from": "2010-06-02",
+     "units": 4,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20zapos--ljavanju%20stranaca/000%2020-10%20Zakon%20o%20izmjenama%20Zakona%20o%20zapos--ljavanju%20stranaca.pdf",
+     "sha256": "8d9120c815ef2aecfc02fa8f08ab5264eb27192115287d4fdb6211ed604cb350"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg060-eb9f97",
+   "path": "zakon/2010/sg060-eb9f97",
+   "short": "Zakon o izmjeni Zakona o policijskim službenicima Brčko distrikta Bosne i Hercegovine",
+   "title": "Zakon o izmjeni Zakona o policijskim službenicima Brčko distrikta Bosne i Hercegovine",
+   "url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20policijskim%20sluz--benicima%20Brcko%20Distrikta/000%2060-10%20Zakon%20o%20izmjeni%20Zakona%20o%20policijskim%20sluz--benicima.pdf",
+   "versions": [
+    {
+     "from": "2010-12-15",
+     "units": 3,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20policijskim%20sluz--benicima%20Brcko%20Distrikta/000%2060-10%20Zakon%20o%20izmjeni%20Zakona%20o%20policijskim%20sluz--benicima.pdf",
+     "sha256": "8eed49c1aff8bf6afa94ceaef74eaed8a51e63aa0ff1dfd7fa5d48d8e8d63467"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sg057-b41d2d",
+   "path": "zakon/2011/sg057-b41d2d",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na dobit",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na dobit",
+   "url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20porezu%20na%20dobit/02B57-11%20Zakon%20o%20izmjenama%20i%20dopunama%20Zakona%20o%20porezu%20na%20dobit.pdf",
+   "versions": [
+    {
+     "from": "2011-12-31",
+     "units": 9,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20porezu%20na%20dobit/02B57-11%20Zakon%20o%20izmjenama%20i%20dopunama%20Zakona%20o%20porezu%20na%20dobit.pdf",
+     "sha256": "0ff72c79deecf2d4b28138a82eede388c9e8ade2ecc7be6f14d84eed26eecce4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sg027-1963fa",
+   "path": "zakon/2026/sg027-1963fa",
+   "short": "Zakon o izmjenama i dopunama Zakona o obrazovanju u osnovnim i srednjim školama Brčko distrikta Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o obrazovanju u osnovnim i srednjim školama Brčko distrikta Bosne i Hercegovine",
+   "url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20obrazovanju%20u%20osnovnim%20i%20srednjim%20s--kolama/11B27-26%20%20Zakon%20o%20izmjenama%20i%20dopunam%20Zakona%20o%20obrazovanju%20u%20osnovnim%20i%20srednjim%20s--kolama.pdf",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 5,
+     "source_url": "https://skupstinabd.ba/3-zakon/ba/Zakon%20o%20obrazovanju%20u%20osnovnim%20i%20srednjim%20s--kolama/11B27-26%20%20Zakon%20o%20izmjenama%20i%20dopunam%20Zakona%20o%20obrazovanju%20u%20osnovnim%20i%20srednjim%20s--kolama.pdf",
+     "sha256": "67a77bd43594305d942d9135856abf537aeec7d50c9372c642327460b001bdde"
+    }
+   ]
+  }
+ ]
+}
