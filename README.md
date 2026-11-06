@@ -1,5 +1,7 @@
 # Brčko District: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Brčko District, Bosnia and Herzegovina, which global-law reads at `bosnia-and-herzegovina/brcko/acts/`.
+
 The law of Brčko District of Bosnia and Herzegovina (Brčko distrikt Bosne i Hercegovine) as a git history: one file per article, one commit per change, dated the day it took effect. `git log` lists every change to an article; checking out a date gives the text in force that day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ba-brc/`. The state's own law is in [lexifina/bosnia-and-herzegovina-law](https://github.com/lexifina/bosnia-and-herzegovina-law).
