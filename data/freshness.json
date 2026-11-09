@@ -1,0 +1,101 @@
+{
+ "note": "Freshness of every act in this repository: when it was last checked against its official source, how, and whether a known change is missing. One row per act in data/freshness/<kind>/<year>.csv (listed in data/freshness/index.json); `python tools/freshness.py <act id or folder>` reads them. A status is as of `as_of`; an act verified longer ago than its threshold has since become stale.",
+ "schema": "ba-brc-freshness/1",
+ "as_of": "2026-11-09",
+ "checked_against_official_source": "2026-11-09",
+ "statuses": {
+  "current": "checked against the official source within its threshold, and no known change is missing",
+  "pending-change": "the official source reports a change (amendment, repeal) this repository does not have as a consolidated text: the act is held as enacted (or as last consolidated) and labelled",
+  "stale": "not checked within its threshold",
+  "unverified": "never checked against the official source for later changes",
+  "source-unavailable": "due for a check, but the official source has not answered the latest checks"
+ },
+ "methods": {
+  "register-index": "register-index: the Assembly's register of laws (skupstinabd.ba), read in full that day: every law's page and the files it lists (the adopted text, amending laws, consolidated texts, court rulings, with their Službeni glasnik Brčko distrikta BiH numbers), compared with the files this repository holds"
+ },
+ "thresholds": {
+  "laws": {
+   "days": 7,
+   "kinds": [
+    "statut",
+    "ustav",
+    "zakon",
+    "law"
+   ],
+   "label": "the Statute or Constitution and the laws"
+  }
+ },
+ "final": "A repealed act no longer changes: it stays current once checked, with no threshold (its check_due is empty).",
+ "columns": {
+  "act": "the act id (data/paths.json maps it to its folder)",
+  "status": "as of `as_of`",
+  "last_verified": "the day of the last check that confirmed the latest version held here is the newest (UTC)",
+  "check_due": "last_verified plus the threshold: after this day the act is stale unless checked again",
+  "method": "how that check was made (`methods`)",
+  "newest_change": "the newest change the official sources report (an act, by its official title)",
+  "newest_change_date": "its day (its Gazette issue day where known)",
+  "change_in_repo": "yes if this repository has that change applied to the act's text, no if not",
+  "official_url": "the act's page at its official source, to check by hand"
+ },
+ "totals": {
+  "acts": 94,
+  "by_status": {
+   "current": 66,
+   "pending-change": 28,
+   "stale": 0,
+   "unverified": 0,
+   "source-unavailable": 0
+  },
+  "pct_verified_7d": 100.0,
+  "pct_verified_30d": 100.0
+ },
+ "by_group": {
+  "laws": {
+   "acts": 94,
+   "by_status": {
+    "current": 66,
+    "pending-change": 28,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  }
+ },
+ "by_kind": {
+  "statut": {
+   "acts": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "zakon": {
+   "acts": 93,
+   "by_status": {
+    "current": 65,
+    "pending-change": 28,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  }
+ },
+ "sources": [
+  {
+   "source": "Skupština Brčko distrikta BiH: register of laws",
+   "url": "https://skupstinabd.ba/index.php/ba/zakon.html",
+   "last_successful_check": "2026-11-09"
+  }
+ ],
+ "index": "data/freshness/index.json",
+ "shards": 17
+}

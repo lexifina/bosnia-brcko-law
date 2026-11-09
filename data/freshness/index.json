@@ -1,0 +1,106 @@
+{
+"shards": [
+{
+"shard": "statut/undated",
+"kind": "statut",
+"file": "data/freshness/statut/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon/2000",
+"kind": "zakon",
+"file": "data/freshness/zakon/2000.csv",
+"acts": 1
+},
+{
+"shard": "zakon/2002",
+"kind": "zakon",
+"file": "data/freshness/zakon/2002.csv",
+"acts": 1
+},
+{
+"shard": "zakon/2005",
+"kind": "zakon",
+"file": "data/freshness/zakon/2005.csv",
+"acts": 2
+},
+{
+"shard": "zakon/2007",
+"kind": "zakon",
+"file": "data/freshness/zakon/2007.csv",
+"acts": 1
+},
+{
+"shard": "zakon/2010",
+"kind": "zakon",
+"file": "data/freshness/zakon/2010.csv",
+"acts": 2
+},
+{
+"shard": "zakon/2011",
+"kind": "zakon",
+"file": "data/freshness/zakon/2011.csv",
+"acts": 4
+},
+{
+"shard": "zakon/2013",
+"kind": "zakon",
+"file": "data/freshness/zakon/2013.csv",
+"acts": 1
+},
+{
+"shard": "zakon/2017",
+"kind": "zakon",
+"file": "data/freshness/zakon/2017.csv",
+"acts": 1
+},
+{
+"shard": "zakon/2018",
+"kind": "zakon",
+"file": "data/freshness/zakon/2018.csv",
+"acts": 5
+},
+{
+"shard": "zakon/2020",
+"kind": "zakon",
+"file": "data/freshness/zakon/2020.csv",
+"acts": 4
+},
+{
+"shard": "zakon/2022",
+"kind": "zakon",
+"file": "data/freshness/zakon/2022.csv",
+"acts": 2
+},
+{
+"shard": "zakon/2023",
+"kind": "zakon",
+"file": "data/freshness/zakon/2023.csv",
+"acts": 2
+},
+{
+"shard": "zakon/2024",
+"kind": "zakon",
+"file": "data/freshness/zakon/2024.csv",
+"acts": 8
+},
+{
+"shard": "zakon/2025",
+"kind": "zakon",
+"file": "data/freshness/zakon/2025.csv",
+"acts": 1
+},
+{
+"shard": "zakon/2026",
+"kind": "zakon",
+"file": "data/freshness/zakon/2026.csv",
+"acts": 1
+},
+{
+"shard": "zakon/undated",
+"kind": "zakon",
+"file": "data/freshness/zakon/undated.csv",
+"acts": 57
+}
+]
+}
