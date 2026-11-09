@@ -29,3 +29,5 @@ Zakon o socijalnom poduzetništvu Brčko distrikta Bosne i Her · 1 versions, fr
 | Član 23 | [clan-023.md](clan-023.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-socijalnom-poduzetnistvu-brcko-distrikta-bosne-i-her` (tags `zakon-o-socijalnom-poduzetnistvu-brcko-distrikta-bosne-i-her/<day>`; `python tools/on.py <day> zakon-o-socijalnom-poduzetnistvu-brcko-distrikta-bosne-i-her`).

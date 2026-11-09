@@ -73,3 +73,5 @@ Zakon o obrazovanju odraslih · 1 versions, from 2018-11-21 (latest in force: 20
 | Član 67 | [clan-067.md](clan-067.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-obrazovanju-odraslih` (tags `zakon-o-obrazovanju-odraslih/<day>`; `python tools/on.py <day> zakon-o-obrazovanju-odraslih`).

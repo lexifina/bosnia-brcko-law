@@ -8,3 +8,5 @@ Zakon o prestanku važenja Zakona o pružanju pravne pomoći · 1 versions, from
 | Član 2 | [clan-002.md](clan-002.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-prestanku-vazenja-zakona-o-pruzanju-pravne-pomoci` (tags `zakon-o-prestanku-vazenja-zakona-o-pruzanju-pravne-pomoci/<day>`; `python tools/on.py <day> zakon-o-prestanku-vazenja-zakona-o-pruzanju-pravne-pomoci`).

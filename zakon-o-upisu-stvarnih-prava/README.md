@@ -11,3 +11,5 @@ Zakon o upisu stvarnih prava · 1 versions, from 2005-04-11 (latest in force: 20
 | Član 5 | [clan-005.md](clan-005.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-upisu-stvarnih-prava` (tags `zakon-o-upisu-stvarnih-prava/<day>`; `python tools/on.py <day> zakon-o-upisu-stvarnih-prava`).

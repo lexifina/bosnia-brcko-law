@@ -26,3 +26,5 @@ Zakon o Direkciji za finansije · 1 versions, from 2024-04-19 (latest in force: 
 | Član 19a | [clan-019-a.md](clan-019-a.md) | 0 |  |
 | Član 20 | [clan-020.md](clan-020.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-direkciji-za-finansije` (tags `zakon-o-direkciji-za-finansije/<day>`; `python tools/on.py <day> zakon-o-direkciji-za-finansije`).

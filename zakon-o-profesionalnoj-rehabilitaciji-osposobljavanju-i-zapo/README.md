@@ -48,3 +48,5 @@ Zakon o profesionalnoj rehabilitaciji, osposobljavanju i zap · 1 versions, from
 | Član 42 | [clan-042.md](clan-042.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-profesionalnoj-rehabilitaciji-osposobljavanju-i-zapo` (tags `zakon-o-profesionalnoj-rehabilitaciji-osposobljavanju-i-zapo/<day>`; `python tools/on.py <day> zakon-o-profesionalnoj-rehabilitaciji-osposobljavanju-i-zapo`).

@@ -53,3 +53,5 @@ Zakon o dječijoj zaštiti · 1 versions, from 2026-03-03 (latest in force: 2026
 | Član 41 | [clan-041.md](clan-041.md) | 0 |  |
 | Član 42 | [clan-042.md](clan-042.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-djecijoj-zastiti` (tags `zakon-o-djecijoj-zastiti/<day>`; `python tools/on.py <day> zakon-o-djecijoj-zastiti`).

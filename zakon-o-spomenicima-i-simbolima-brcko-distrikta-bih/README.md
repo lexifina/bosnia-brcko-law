@@ -24,3 +24,5 @@ Zakon o spomenicima i simbolima Brčko Distrikta BiH · 1 versions, from 2005-04
 | Član 18 | [clan-018.md](clan-018.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-spomenicima-i-simbolima-brcko-distrikta-bih` (tags `zakon-o-spomenicima-i-simbolima-brcko-distrikta-bih/<day>`; `python tools/on.py <day> zakon-o-spomenicima-i-simbolima-brcko-distrikta-bih`).

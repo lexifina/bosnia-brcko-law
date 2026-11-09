@@ -219,3 +219,5 @@ Zakon o vlasništvu i dr.stvarnim pravima · 1 versions, from 2024-02-16 (latest
 | Član 210a | [clan-210-a.md](clan-210-a.md) | 0 |  |
 | Član 211 | [clan-211.md](clan-211.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-vlasnistvu-i-dr-stvarnim-pravima` (tags `zakon-o-vlasnistvu-i-dr-stvarnim-pravima/<day>`; `python tools/on.py <day> zakon-o-vlasnistvu-i-dr-stvarnim-pravima`).

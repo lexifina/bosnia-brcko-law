@@ -28,3 +28,5 @@ Zakon o roditeljima njegovateljima u Brčko distriktu Bosne i · 1 versions, fro
 | Član 22 | [clan-022.md](clan-022.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-roditeljima-njegovateljima-u-brcko-distriktu-bosne-i` (tags `zakon-o-roditeljima-njegovateljima-u-brcko-distriktu-bosne-i/<day>`; `python tools/on.py <day> zakon-o-roditeljima-njegovateljima-u-brcko-distriktu-bosne-i`).

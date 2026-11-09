@@ -300,3 +300,5 @@ Porodični zakon Brčko Distrikta BiH · 1 versions, from 2008-04-08 (latest in 
 | Član 294 | [clan-294.md](clan-294.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `porodicni-zakon-brcko-distrikta-bih` (tags `porodicni-zakon-brcko-distrikta-bih/<day>`; `python tools/on.py <day> porodicni-zakon-brcko-distrikta-bih`).

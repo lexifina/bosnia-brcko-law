@@ -86,3 +86,5 @@ Zakon o izvršenju krivičnih sankcija, pritvora i drugih mjer · 1 versions, fr
 | Član 80 | [clan-080.md](clan-080.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-izvrsenju-krivicnih-sankcija-pritvora-i-drugih-mjera` (tags `zakon-o-izvrsenju-krivicnih-sankcija-pritvora-i-drugih-mjera/<day>`; `python tools/on.py <day> zakon-o-izvrsenju-krivicnih-sankcija-pritvora-i-drugih-mjera`).

@@ -67,3 +67,5 @@ Zakon o likvidacionom postupku · 1 versions, from 2019-06-26 (latest in force: 
 | Član 61 | [clan-061.md](clan-061.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-likvidacionom-postupku` (tags `zakon-o-likvidacionom-postupku/<day>`; `python tools/on.py <day> zakon-o-likvidacionom-postupku`).

@@ -26,3 +26,5 @@ ZAKON O PRIZNAVANJU INOSTRANIH VISOKOŠKOLSKIH KVALIFIKACIJA · 1 versions, from
 | Član 20 | [clan-020.md](clan-020.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-priznavanju-inostranih-visokoskolskih-kvalifikacija` (tags `zakon-o-priznavanju-inostranih-visokoskolskih-kvalifikacija/<day>`; `python tools/on.py <day> zakon-o-priznavanju-inostranih-visokoskolskih-kvalifikacija`).

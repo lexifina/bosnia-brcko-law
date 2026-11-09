@@ -57,3 +57,5 @@ Zakon o sudskim taksama Brčko Distrikta BiH · 1 versions, from 2026-04-24 (lat
 | Član 55 | [clan-055.md](clan-055.md) | 0 |  |
 | Član 56 | [clan-056.md](clan-056.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-sudskim-taksama-brcko-distrikta-bih` (tags `zakon-o-sudskim-taksama-brcko-distrikta-bih/<day>`; `python tools/on.py <day> zakon-o-sudskim-taksama-brcko-distrikta-bih`).

@@ -22,3 +22,5 @@ Zakon o fiskalnom registru · 1 versions, from 2019-03-04 (latest in force: 2019
 | Član 16 | [clan-016.md](clan-016.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-fiskalnom-registru` (tags `zakon-o-fiskalnom-registru/<day>`; `python tools/on.py <day> zakon-o-fiskalnom-registru`).

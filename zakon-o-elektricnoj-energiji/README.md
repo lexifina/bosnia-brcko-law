@@ -113,3 +113,5 @@ Zakon o električnoj energiji · 1 versions, from 2021-11-16 (latest in force: 2
 | Član 107 | [clan-107.md](clan-107.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-elektricnoj-energiji` (tags `zakon-o-elektricnoj-energiji/<day>`; `python tools/on.py <day> zakon-o-elektricnoj-energiji`).

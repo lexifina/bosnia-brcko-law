@@ -304,3 +304,5 @@ Zakon o stečaju · 1 versions, from 2025-05-22 (latest in force: 2025-05-22) ·
 | Član 298 | [clan-298.md](clan-298.md) | 0 |  |
 | Član 299 | [clan-299.md](clan-299.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-stecaju` (tags `zakon-o-stecaju/<day>`; `python tools/on.py <day> zakon-o-stecaju`).

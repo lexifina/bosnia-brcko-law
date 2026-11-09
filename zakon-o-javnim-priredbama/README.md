@@ -28,3 +28,5 @@ Zakon o javnim priredbama · 1 versions, from 2020-08-19 (latest in force: 2020-
 | Član 22 | [clan-022.md](clan-022.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-javnim-priredbama` (tags `zakon-o-javnim-priredbama/<day>`; `python tools/on.py <day> zakon-o-javnim-priredbama`).

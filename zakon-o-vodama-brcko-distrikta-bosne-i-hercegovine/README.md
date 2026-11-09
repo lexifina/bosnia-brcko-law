@@ -214,3 +214,5 @@ Zakon o vodama Brčko distrikta Bosne i Hercegovine · 1 versions, from 2026-06-
 | Član 208 | [clan-208.md](clan-208.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-vodama-brcko-distrikta-bosne-i-hercegovine` (tags `zakon-o-vodama-brcko-distrikta-bosne-i-hercegovine/<day>`; `python tools/on.py <day> zakon-o-vodama-brcko-distrikta-bosne-i-hercegovine`).

@@ -53,3 +53,5 @@ Zakon o zaštiti vazduha · 1 versions, from 2022-06-06 (latest in force: 2022-0
 | Član 47 | [clan-047.md](clan-047.md) | 0 |  |
 | Član 48 | [clan-048.md](clan-048.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-zastiti-vazduha` (tags `zakon-o-zastiti-vazduha/<day>`; `python tools/on.py <day> zakon-o-zastiti-vazduha`).

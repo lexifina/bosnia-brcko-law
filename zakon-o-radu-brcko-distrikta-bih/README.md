@@ -189,3 +189,5 @@ Zakon o radu Brčko Distrikta BiH · 1 versions, from 2025-04-09 (latest in forc
 | Član 180 | [clan-180.md](clan-180.md) | 0 |  |
 | Član 181 | [clan-181.md](clan-181.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-radu-brcko-distrikta-bih` (tags `zakon-o-radu-brcko-distrikta-bih/<day>`; `python tools/on.py <day> zakon-o-radu-brcko-distrikta-bih`).

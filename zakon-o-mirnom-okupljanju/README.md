@@ -40,3 +40,5 @@ Zakon o mirnom okupljanju · 1 versions, from 2020-08-19 (latest in force: 2020-
 | Član 34 | [clan-034.md](clan-034.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-mirnom-okupljanju` (tags `zakon-o-mirnom-okupljanju/<day>`; `python tools/on.py <day> zakon-o-mirnom-okupljanju`).

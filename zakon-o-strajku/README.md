@@ -22,3 +22,5 @@ Zakon o štrajku · 1 versions, from 2006-02-06 (latest in force: 2006-02-06) ·
 | Član 16 | [clan-016.md](clan-016.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-strajku` (tags `zakon-o-strajku/<day>`; `python tools/on.py <day> zakon-o-strajku`).

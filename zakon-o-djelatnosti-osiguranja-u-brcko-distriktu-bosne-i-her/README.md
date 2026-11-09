@@ -13,3 +13,5 @@ Zakon o djelatnosti osiguranja u Brčko distriktu Bosne i Her · 1 versions, fro
 | Član 7 | [clan-007.md](clan-007.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-djelatnosti-osiguranja-u-brcko-distriktu-bosne-i-her` (tags `zakon-o-djelatnosti-osiguranja-u-brcko-distriktu-bosne-i-her/<day>`; `python tools/on.py <day> zakon-o-djelatnosti-osiguranja-u-brcko-distriktu-bosne-i-her`).

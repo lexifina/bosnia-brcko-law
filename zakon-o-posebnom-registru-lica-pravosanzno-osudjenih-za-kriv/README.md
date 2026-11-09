@@ -22,3 +22,5 @@ Zakon o posebnom registru lica pravosanžno osudjenih za kriv · 1 versions, fro
 | Član 16 | [clan-016.md](clan-016.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-posebnom-registru-lica-pravosanzno-osudjenih-za-kriv` (tags `zakon-o-posebnom-registru-lica-pravosanzno-osudjenih-za-kriv/<day>`; `python tools/on.py <day> zakon-o-posebnom-registru-lica-pravosanzno-osudjenih-za-kriv`).

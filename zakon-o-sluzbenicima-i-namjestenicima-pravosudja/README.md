@@ -149,3 +149,5 @@ Zakon o službenicima i namještenicima pravosudja · 1 versions, from 2023-05-0
 | Član 142 | [clan-142.md](clan-142.md) | 0 |  |
 | Član 143 | [clan-143.md](clan-143.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-sluzbenicima-i-namjestenicima-pravosudja` (tags `zakon-o-sluzbenicima-i-namjestenicima-pravosudja/<day>`; `python tools/on.py <day> zakon-o-sluzbenicima-i-namjestenicima-pravosudja`).

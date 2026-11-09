@@ -207,3 +207,5 @@ Zakon o zaštiti i postupanju sa djecom i maloljetnicima u kr · 1 versions, fro
 | Član 201 | [clan-201.md](clan-201.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-zastiti-i-postupanju-sa-djecom-i-maloljetnicima-u-kr` (tags `zakon-o-zastiti-i-postupanju-sa-djecom-i-maloljetnicima-u-kr/<day>`; `python tools/on.py <day> zakon-o-zastiti-i-postupanju-sa-djecom-i-maloljetnicima-u-kr`).

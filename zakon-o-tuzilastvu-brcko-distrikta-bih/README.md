@@ -51,3 +51,5 @@ Zakon o Tužilaštvu Brčko Distrikta BiH · 1 versions, from 2008-04-09 (latest
 | Član 45 | [clan-045.md](clan-045.md) | 0 |  |
 | Član 46 | [clan-046.md](clan-046.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-tuzilastvu-brcko-distrikta-bih` (tags `zakon-o-tuzilastvu-brcko-distrikta-bih/<day>`; `python tools/on.py <day> zakon-o-tuzilastvu-brcko-distrikta-bih`).

@@ -88,3 +88,5 @@ Zakon o energetskoj efikasnosti u Brčko distriktu Bosne i He · 1 versions, fro
 | Član 82 | [clan-082.md](clan-082.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-energetskoj-efikasnosti-u-brcko-distriktu-bosne-i-he` (tags `zakon-o-energetskoj-efikasnosti-u-brcko-distriktu-bosne-i-he/<day>`; `python tools/on.py <day> zakon-o-energetskoj-efikasnosti-u-brcko-distriktu-bosne-i-he`).

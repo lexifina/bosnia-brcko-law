@@ -23,3 +23,5 @@ Zakon o izmirivanju obaveza po osnovu stare devizne štednje · 1 versions, from
 | Član 17 | [clan-017.md](clan-017.md) | 0 |  |
 | Član 18 | [clan-018.md](clan-018.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-izmirivanju-obaveza-po-osnovu-stare-devizne-stednje` (tags `zakon-o-izmirivanju-obaveza-po-osnovu-stare-devizne-stednje/<day>`; `python tools/on.py <day> zakon-o-izmirivanju-obaveza-po-osnovu-stare-devizne-stednje`).

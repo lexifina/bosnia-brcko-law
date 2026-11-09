@@ -86,3 +86,5 @@ Zakon o Pravobranilaštvu · 1 versions, from 2020-05-18 (latest in force: 2020-
 | Član 81 | [clan-081.md](clan-081.md) | 0 |  |
 | Član 82 | [clan-082.md](clan-082.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-pravobranilastvu` (tags `zakon-o-pravobranilastvu/<day>`; `python tools/on.py <day> zakon-o-pravobranilastvu`).

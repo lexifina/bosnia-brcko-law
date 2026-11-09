@@ -66,3 +66,5 @@ Zakon o upravljanju otpadom · 1 versions, from 2018-10-29 (latest in force: 201
 | Član 60 | [clan-060.md](clan-060.md) | 0 |  |
 | Član 61 | [clan-061.md](clan-061.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-upravljanju-otpadom` (tags `zakon-o-upravljanju-otpadom/<day>`; `python tools/on.py <day> zakon-o-upravljanju-otpadom`).

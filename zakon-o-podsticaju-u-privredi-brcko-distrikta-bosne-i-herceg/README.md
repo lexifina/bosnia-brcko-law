@@ -34,3 +34,5 @@ Zakon o podsticaju u privredi Brčko distrikta Bosne i Herceg · 1 versions, fro
 | Član 28 | [clan-028.md](clan-028.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-podsticaju-u-privredi-brcko-distrikta-bosne-i-herceg` (tags `zakon-o-podsticaju-u-privredi-brcko-distrikta-bosne-i-herceg/<day>`; `python tools/on.py <day> zakon-o-podsticaju-u-privredi-brcko-distrikta-bosne-i-herceg`).

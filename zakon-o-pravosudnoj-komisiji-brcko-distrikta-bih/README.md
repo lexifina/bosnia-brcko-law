@@ -35,3 +35,5 @@ Zakon o Pravosudnoj komisiji Brčko Distrikta BiH · 1 versions, from 2026-10-07
 | Član 29 | [clan-029.md](clan-029.md) | 0 |  |
 | Član 30 | [clan-030.md](clan-030.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-pravosudnoj-komisiji-brcko-distrikta-bih` (tags `zakon-o-pravosudnoj-komisiji-brcko-distrikta-bih/<day>`; `python tools/on.py <day> zakon-o-pravosudnoj-komisiji-brcko-distrikta-bih`).

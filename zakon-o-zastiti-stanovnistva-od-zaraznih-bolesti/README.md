@@ -74,3 +74,5 @@ Zakon o zaštiti stanovnistva od zaraznih bolesti · 1 versions, from 2020-11-13
 | Član 67 | [clan-067.md](clan-067.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-zastiti-stanovnistva-od-zaraznih-bolesti` (tags `zakon-o-zastiti-stanovnistva-od-zaraznih-bolesti/<day>`; `python tools/on.py <day> zakon-o-zastiti-stanovnistva-od-zaraznih-bolesti`).

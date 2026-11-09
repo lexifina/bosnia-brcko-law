@@ -29,3 +29,5 @@ Zakon o volontiranju · 1 versions, from 2018-08-08 (latest in force: 2018-08-08
 | Član 23 | [clan-023.md](clan-023.md) | 0 |  |
 | Član 24 | [clan-024.md](clan-024.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-volontiranju` (tags `zakon-o-volontiranju/<day>`; `python tools/on.py <day> zakon-o-volontiranju`).

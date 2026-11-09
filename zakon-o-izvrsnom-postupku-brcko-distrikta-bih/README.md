@@ -295,3 +295,5 @@ Zakon o izvršnom postupku Brčko Distrikta BiH · 1 versions, from 2026-10-07 (
 | Član 287 | [clan-287.md](clan-287.md) | 0 |  |
 | Član 288 | [clan-288.md](clan-288.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-izvrsnom-postupku-brcko-distrikta-bih` (tags `zakon-o-izvrsnom-postupku-brcko-distrikta-bih/<day>`; `python tools/on.py <day> zakon-o-izvrsnom-postupku-brcko-distrikta-bih`).

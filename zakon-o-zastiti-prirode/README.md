@@ -54,3 +54,5 @@ Zakon o zaštiti prirode · 1 versions, from 2024-04-19 (latest in force: 2024-0
 | Član 48 | [clan-048.md](clan-048.md) | 0 |  |
 | Član 49 | [clan-049.md](clan-049.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-zastiti-prirode` (tags `zakon-o-zastiti-prirode/<day>`; `python tools/on.py <day> zakon-o-zastiti-prirode`).

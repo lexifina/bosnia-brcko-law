@@ -21,3 +21,5 @@ Zakon o regulisanju cijena u Brčko distriktu BiH · 1 versions, from 2022-05-27
 | Član 14 | [clan-014.md](clan-014.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-regulisanju-cijena-u-brcko-distriktu-bih` (tags `zakon-o-regulisanju-cijena-u-brcko-distriktu-bih/<day>`; `python tools/on.py <day> zakon-o-regulisanju-cijena-u-brcko-distriktu-bih`).

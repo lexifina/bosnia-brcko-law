@@ -72,3 +72,5 @@ Zakon o koncesijama · 1 versions, from 2025-11-07 (latest in force: 2025-11-07)
 | Član 66 | [clan-066.md](clan-066.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-koncesijama` (tags `zakon-o-koncesijama/<day>`; `python tools/on.py <day> zakon-o-koncesijama`).

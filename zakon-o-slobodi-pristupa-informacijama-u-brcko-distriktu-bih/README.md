@@ -61,3 +61,5 @@ Zakon o slobodi pristupa informacijama u Brčko distriktu BiH · 1 versions, fro
 | Član 55 | [clan-055.md](clan-055.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-slobodi-pristupa-informacijama-u-brcko-distriktu-bih` (tags `zakon-o-slobodi-pristupa-informacijama-u-brcko-distriktu-bih/<day>`; `python tools/on.py <day> zakon-o-slobodi-pristupa-informacijama-u-brcko-distriktu-bih`).

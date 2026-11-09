@@ -48,3 +48,5 @@ Zakon o arhivskoj djelatnosti · 1 versions, from 2018-03-22 (latest in force: 2
 | Član 40 | [clan-040.md](clan-040.md) | 0 |  |
 | Član 41 | [clan-041.md](clan-041.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-arhivskoj-djelatnosti` (tags `zakon-o-arhivskoj-djelatnosti/<day>`; `python tools/on.py <day> zakon-o-arhivskoj-djelatnosti`).

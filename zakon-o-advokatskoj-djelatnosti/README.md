@@ -14,3 +14,5 @@ Zakon o advokatskoj djelatnosti · 1 versions, from 2019-03-04 (latest in force:
 | Član 8 | [clan-008.md](clan-008.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-advokatskoj-djelatnosti` (tags `zakon-o-advokatskoj-djelatnosti/<day>`; `python tools/on.py <day> zakon-o-advokatskoj-djelatnosti`).

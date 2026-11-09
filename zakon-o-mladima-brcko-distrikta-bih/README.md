@@ -46,3 +46,5 @@ Zakon o mladima Brčko distrikta BiH · 1 versions, from 2017-06-09 (latest in f
 | Član 40 | [clan-040.md](clan-040.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-mladima-brcko-distrikta-bih` (tags `zakon-o-mladima-brcko-distrikta-bih/<day>`; `python tools/on.py <day> zakon-o-mladima-brcko-distrikta-bih`).

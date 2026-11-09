@@ -107,3 +107,5 @@ Zakon o zaštiti od požara · 1 versions, from 2026-10-28 (latest in force: 202
 | Član 100 | [clan-100.md](clan-100.md) | 0 |  |
 | Član 101 | [clan-101.md](clan-101.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-zastiti-od-pozara` (tags `zakon-o-zastiti-od-pozara/<day>`; `python tools/on.py <day> zakon-o-zastiti-od-pozara`).

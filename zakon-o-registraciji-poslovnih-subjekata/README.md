@@ -96,3 +96,5 @@ Zakon o registraciji poslovnih subjekata · 1 versions, from 2020-04-02 (latest 
 | Član 90 | [clan-090.md](clan-090.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-registraciji-poslovnih-subjekata` (tags `zakon-o-registraciji-poslovnih-subjekata/<day>`; `python tools/on.py <day> zakon-o-registraciji-poslovnih-subjekata`).

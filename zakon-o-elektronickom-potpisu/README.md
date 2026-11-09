@@ -30,3 +30,5 @@ Zakon o elektroničkom potpisu · 1 versions, from 2020-04-02 (latest in force: 
 | Član 24 | [clan-024.md](clan-024.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-elektronickom-potpisu` (tags `zakon-o-elektronickom-potpisu/<day>`; `python tools/on.py <day> zakon-o-elektronickom-potpisu`).

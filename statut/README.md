@@ -86,3 +86,5 @@ Statut BD · 1 versions, from 2010-02-05 (latest in force: 2010-02-05) · <https
 | Član 78 | [clan-078.md](clan-078.md) | 0 |  |
 | Član 79 | [clan-079.md](clan-079.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `statut` (tags `statut/<day>`; `python tools/on.py <day> statut`).

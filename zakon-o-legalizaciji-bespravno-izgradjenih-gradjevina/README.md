@@ -35,3 +35,5 @@ Zakon o legalizaciji bespravno izgradjenih gradjevina · 1 versions, from 2019-0
 | Član 29 | [clan-029.md](clan-029.md) | 0 |  |
 | Član 30 | [clan-030.md](clan-030.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-legalizaciji-bespravno-izgradjenih-gradjevina` (tags `zakon-o-legalizaciji-bespravno-izgradjenih-gradjevina/<day>`; `python tools/on.py <day> zakon-o-legalizaciji-bespravno-izgradjenih-gradjevina`).

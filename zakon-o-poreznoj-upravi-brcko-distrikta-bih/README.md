@@ -93,3 +93,5 @@ Zakon o Poreznoj upravi Brčko Distrikta BiH · 1 versions, from 2020-04-02 (lat
 | Član 87 | [clan-087.md](clan-087.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-poreznoj-upravi-brcko-distrikta-bih` (tags `zakon-o-poreznoj-upravi-brcko-distrikta-bih/<day>`; `python tools/on.py <day> zakon-o-poreznoj-upravi-brcko-distrikta-bih`).

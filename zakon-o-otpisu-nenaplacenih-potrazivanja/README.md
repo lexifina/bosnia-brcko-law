@@ -10,3 +10,5 @@ Zakon o otpisu nenaplaćenih potraživanja · 1 versions, from 2026-03-03 (lates
 | Član 4 | [clan-004.md](clan-004.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-o-otpisu-nenaplacenih-potrazivanja` (tags `zakon-o-otpisu-nenaplacenih-potrazivanja/<day>`; `python tools/on.py <day> zakon-o-otpisu-nenaplacenih-potrazivanja`).

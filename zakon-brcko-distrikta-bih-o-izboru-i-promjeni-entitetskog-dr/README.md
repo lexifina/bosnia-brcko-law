@@ -17,3 +17,5 @@ Zakon Brčko distrikta BiH o izboru i promjeni entitetskog dr · 1 versions, fro
 | Član 11 | [clan-011.md](clan-011.md) | 0 |  |
 | Broj, mjesto i datum, potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod i naslov | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `zakon-brcko-distrikta-bih-o-izboru-i-promjeni-entitetskog-dr` (tags `zakon-brcko-distrikta-bih-o-izboru-i-promjeni-entitetskog-dr/<day>`; `python tools/on.py <day> zakon-brcko-distrikta-bih-o-izboru-i-promjeni-entitetskog-dr`).
