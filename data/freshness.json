@@ -11,7 +11,7 @@
   "source-unavailable": "due for a check, but the official source has not answered the latest checks"
  },
  "methods": {
-  "register-index": "register-index: the Assembly's register of laws (skupstinabd.ba), read in full that day: every law's page and the files it lists (the adopted text, amending laws, consolidated texts, court rulings, with their Službeni glasnik Brčko distrikta BiH numbers), compared with the files this repository holds"
+  "register-index": "The Assembly's register of laws (skupstinabd.ba), read in full that day: every law's page and the files it lists (the adopted text, amending laws, consolidated texts, court rulings, with their Službeni glasnik Brčko distrikta BiH numbers), compared with the files this repository holds"
  },
  "thresholds": {
   "laws": {
