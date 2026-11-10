@@ -45,7 +45,7 @@ In the Statute's PDF the font maps the letters č, Č, ž, Ž and đ to other co
 ## Freshness
 
 <!-- freshness-summary -->
-Checked against the official sources: 2026-11-09; 100% of acts verified in the last 7 days, 100% in the last 30 ([data/freshness.json](data/freshness.json)).
+Checked against the official sources: 2026-11-10; 100% of acts verified in the last 7 days, 100% in the last 30 ([data/freshness.json](data/freshness.json)).
 <!-- /freshness-summary -->
 
 `python tools/freshness.py <act>` gives an act's status, its last check and the official link. A refresh runner re-reads the Assembly's whole register every day (at most two requests a second), appends new laws and writes these files; [data/status.json](data/status.json) says whether updates are running and whether the source is answering. Acts the register shows as amended with no official consolidated text are marked `amended, not consolidated` and name the amending acts ([registry/data/acts.json](registry/data/acts.json)); laws held back are listed with the reason in [data/held.json](data/held.json), and laws passed but not yet in force in [data/pending.json](data/pending.json). Statuses and fields: [data/freshness.json](data/freshness.json).
