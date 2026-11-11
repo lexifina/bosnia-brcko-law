@@ -402,7 +402,16 @@ def start_message(c: dict, x: dict) -> tuple[tuple[str, str], list[str], list[st
     trailers += [f'Act: {act["short"]}', f'Provisions: {len(v["units"])}']
     if v.get('source_url'):
         trailers.append(f'Consolidated: {v["source_url"]}')
+    trailers += text_method_trailers([v])
     return author, msg, trailers
+def text_method_trailers(vs: list[dict]) -> list[str]:
+    """2026-11-11: a version read from a PDF's text layer or by OCR says so (Text-method: pdf-text | ocr <engine>)."""
+    out = set()
+    for v in vs:
+        m = v.get('text_method')
+        if m in ('pdf-text', 'ocr'):
+            out.add(f'Text-method: {m}' + (f' ({v["ocr_engine"]})' if m == 'ocr' and v.get('ocr_engine') else ''))
+    return sorted(out)
 def change_message(c: dict, x: dict) -> tuple[tuple[str, str], list[str], list[str]]:
     day = x['day']
     parts = x['parts']
@@ -489,6 +498,7 @@ def change_message(c: dict, x: dict) -> tuple[tuple[str, str], list[str], list[s
         # Provisions the source credits to this law whose words it left unchanged (e.g. a ruling that also reads one).
         trailers.append(f'Also-concerns: {concerns}')
     trailers += sorted({f'Consolidated: {p["cur"]["source_url"]}' for p in parts if p['cur'].get('source_url')})
+    trailers += text_method_trailers([p['cur'] for p in parts])
     return author, msg, trailers
 def check_trailers(trailers: list[str]):
     for t in trailers:

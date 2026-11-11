@@ -1,17 +1,17 @@
 {
  "note": "Update status of this repository, refreshed by every refresh run.",
- "as_of": "2026-11-10T09:45:46+00:00",
+ "as_of": "2026-11-11T10:25:36+00:00",
  "updates": "idle",
- "last_published": "2026-11-10T09:03:44Z",
+ "last_published": "2026-11-10T09:45:50Z",
  "published_last_24h": {
-  "commits": 3
+  "commits": 0
  },
  "official_sources": [
   {
    "source": "Skupština Brčko distrikta BiH: register of laws",
    "url": "https://skupstinabd.ba/index.php/ba/zakon.html",
    "state": "available",
-   "last_successful_contact": "2026-11-10"
+   "last_successful_contact": "2026-11-11"
   }
  ]
 }
