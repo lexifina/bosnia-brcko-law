@@ -127,3 +127,7 @@ Model use at data-build time:
 - none: the text is read from the PDF text layer by a deterministic parser; no model output is legal text.
 - none: the text is read from the PDF text layer by a deterministic parser; no model output is legal text.
 - none: the text is read from the PDF text layer by a deterministic parser; no model output is legal text.
+
+## Layout change (2026-11-15)
+
+The first build's 58 act folders moved from the top of the repository into zakon/<year>/sg<issue>-<id>/ (the layout the later builds already use; year and issue of the Službeni glasnik Brčko distrikta BiH, the id is the act id) and statut/2010/sg002-statut/, by one commit that changes no law text. `registry/data/paths.json` maps every act id to its folder. `tools/on.py` and `tools/check_repo.py` were updated in that commit to read it and to look in both the old and the new folder, so the builder hashes above are those of the tools as they built the history, before the update.

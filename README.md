@@ -12,11 +12,13 @@ The text is in Bosnian (Latin script), exactly as the Assembly publishes it.
 
 Every law in the Assembly's register is accounted for: published here, or listed with the reason in [data/held.json](data/held.json).
 
-- `statut/`: the Statute of Brčko District (Statut Brčko distrikta Bosne i Hercegovine), in the consolidated text the Assembly publishes (Službeni glasnik Brčko distrikta BiH 2/10).
-- One folder per law at the top level (the first build, 2026-10-30): laws whose current text the register gives, either the law as adopted, where the register lists no amending act, or the newest official consolidated text (prečišćeni tekst), where nothing was published after it.
+- `statut/2010/sg002-statut/`: the Statute of Brčko District (Statut Brčko distrikta Bosne i Hercegovine), in the consolidated text the Assembly publishes (Službeni glasnik Brčko distrikta BiH 2/10).
+- `zakon/<year>/sg<issue>-<id>/` for the first build (2026-10-30), with the act id as `<id>` (`zakon/2025/sg018-zakon-o-stecaju/`; until 2026-11-15 these were folders at the top named by the id): laws whose current text the register gives, either the law as adopted, where the register lists no amending act, or the newest official consolidated text (prečišćeni tekst), where nothing was published after it.
 - `zakon/<year>/sg<issue>-<id>/` (later builds; indexes in [registry/ACTS.md](registry/ACTS.md) and [registry/data/acts.json](registry/data/acts.json)):
   - amending laws whose own day of effect is counted from their adoption;
   - laws amended after their newest official text, with no official consolidated text since: the newest official text the register holds (the law as adopted, or the last consolidated text), marked `amended, not consolidated`; `amended_by` in registry/data/acts.json names every later file (gazette number, title, link).
+
+[registry/data/paths.json](registry/data/paths.json) maps every act id to its folder. The top level holds only the documentation, one folder per kind of act (`statut/`, `zakon/`), `data/`, `registry/`, `tools/`, `visualisations/` and `vulnerabilities/`.
 
 Held back, with the reason, in data/held.json: laws whose day of effect is counted from their publication in the gazette (the gazette's publication days are not freely available, so the day cannot be known), texts that do not split into articles or that a second, independent PDF reader does not confirm, and registers that list only amending files. Annual budget-execution laws are out of scope.
 
@@ -32,7 +34,7 @@ The Assembly of Brčko District (Skupština Brčko distrikta BiH), <https://skup
 
 ## Files
 
-`<act>/clan-001.md` is Član 1, `clan-005-a.md` Član 5a. `uvod.md` holds the enacting formula and the title; `potpis.md` the number, place, date and signature. Chapter headings stay in the file of the first article after them. The Assembly's letterhead, page numbers and a converter's watermark found in one file are left out. One paragraph per line.
+`<folder>/clan-001.md` is Član 1, `clan-005-a.md` Član 5a. `uvod.md` holds the enacting formula and the title; `potpis.md` the number, place, date and signature. Chapter headings stay in the file of the first article after them. The Assembly's letterhead, page numbers and a converter's watermark found in one file are left out. One paragraph per line.
 
 In the Statute's PDF the font maps the letters č, Č, ž, Ž and đ to other code points (ĉ, Ĉ, ţ, Ţ, Ď, Ċ); they are restored one for one.
 
@@ -41,6 +43,7 @@ In the Statute's PDF the font maps the letters č, Č, ž, Ž and đ to other co
 - Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`); appends read every published act back before adding anything.
 - Every paragraph's letters and digits are found in the source PDF as read by a second, independent PDF reader, with a third reader where the second scrambles the reading order.
 - Health checks: no merge commits, commit dates never go backwards, nothing dated in the future, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in Brčko District law, found by global-law's detectors and checked by hand (a placeholder: the detectors have not been run here yet).
 
 ## Freshness
 
@@ -53,3 +56,14 @@ Checked against the official sources: 2026-11-11; 100% of acts verified in the l
 ## Limits
 
 This is not an official publication. The binding text is the one published in the Službeni glasnik Brčko distrikta BiH. The history starts with the oldest version available, and only the acts listed in `data/versions.json` and `registry/data/acts.json` are included.
+
+## Visualisations
+
+[visualisations/](visualisations/): charts of Brčko District law drawn from this repository. A placeholder for now: no charts have been drawn yet.
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published

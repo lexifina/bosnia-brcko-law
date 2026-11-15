@@ -48,10 +48,14 @@ def paths() -> dict[str, str]:
     """{act id: folder} from data/paths.json on main ({} before the layout move)."""
     global _PATHS
     if _PATHS is None:
-        try:
-            _PATHS = json.loads(git('show', 'main:data/paths.json')).get('paths', {})
-        except (subprocess.CalledProcessError, ValueError):
-            _PATHS = {}
+        _PATHS = {}
+        # data/paths.json, or registry/data/paths.json where the act indexes sit under registry/ (2026-11-15 layout move)
+        for where in ('data/paths.json', 'registry/data/paths.json'):
+            try:
+                _PATHS = json.loads(git('show', f'main:{where}')).get('paths', {})
+                break
+            except (subprocess.CalledProcessError, ValueError):
+                continue
     return _PATHS
 
 
